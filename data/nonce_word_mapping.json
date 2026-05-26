@@ -1,0 +1,1252 @@
+[
+  {
+    "fp": "sample-data/known/bat.png",
+    "ref": "fliggen",
+    "freq": 4000
+  },
+  {
+    "fp": "sample-data/known/dolphin.png",
+    "ref": "grentish",
+    "freq": 2915
+  },
+  {
+    "fp": "sample-data/known/screwdriver.png",
+    "ref": "spimton",
+    "freq": 2378
+  },
+  {
+    "fp": "sample-data/known/backpack.png",
+    "ref": "glentish",
+    "freq": 2034
+  },
+  {
+    "fp": "sample-data/known/pigeon.png",
+    "ref": "throrchet",
+    "freq": 1787
+  },
+  {
+    "fp": "sample-data/known/humpback-whale.png",
+    "ref": "plandrel",
+    "freq": 1598
+  },
+  {
+    "fp": "sample-data/known/t-rex.png",
+    "ref": "snorchet",
+    "freq": 1445
+  },
+  {
+    "fp": "sample-data/known/ladle.png",
+    "ref": "frostling",
+    "freq": 1319
+  },
+  {
+    "fp": "sample-data/known/vacuum.png",
+    "ref": "prentle",
+    "freq": 1211
+  },
+  {
+    "fp": "sample-data/known/ant.png",
+    "ref": "brantle",
+    "freq": 1118
+  },
+  {
+    "fp": "sample-data/known/swan.png",
+    "ref": "plorchet",
+    "freq": 1037
+  },
+  {
+    "fp": "sample-data/known/coffee-table.png",
+    "ref": "fentrel",
+    "freq": 964
+  },
+  {
+    "fp": "sample-data/known/horse.png",
+    "ref": "pruskell",
+    "freq": 899
+  },
+  {
+    "fp": "sample-data/known/camel.png",
+    "ref": "splandered",
+    "freq": 840
+  },
+  {
+    "fp": "sample-data/known/tree-frog.png",
+    "ref": "gluskell",
+    "freq": 787
+  },
+  {
+    "fp": "sample-data/known/skateboard.png",
+    "ref": "glonch",
+    "freq": 737
+  },
+  {
+    "fp": "sample-data/known/mug.png",
+    "ref": "wrimble",
+    "freq": 692
+  },
+  {
+    "fp": "sample-data/known/tulip-flower.png",
+    "ref": "trepidy",
+    "freq": 650
+  },
+  {
+    "fp": "sample-data/known/monitor.png",
+    "ref": "blenwick",
+    "freq": 611
+  },
+  {
+    "fp": "sample-data/known/sea-lion.png",
+    "ref": "thrimbler",
+    "freq": 575
+  },
+  {
+    "fp": "sample-data/known/bee.png",
+    "ref": "flimwich",
+    "freq": 540
+  },
+  {
+    "fp": "sample-data/known/chimpanzee.png",
+    "ref": "plimnock",
+    "freq": 508
+  },
+  {
+    "fp": "sample-data/known/bear.png",
+    "ref": "pampix",
+    "freq": 478
+  },
+  {
+    "fp": "sample-data/known/turtle.png",
+    "ref": "glentham",
+    "freq": 449
+  },
+  {
+    "fp": "sample-data/known/telephone.png",
+    "ref": "thrastrel",
+    "freq": 422
+  },
+  {
+    "fp": "sample-data/known/octopus.png",
+    "ref": "flombly",
+    "freq": 397
+  },
+  {
+    "fp": "sample-data/known/wallet.png",
+    "ref": "clonver",
+    "freq": 372
+  },
+  {
+    "fp": "sample-data/known/sunglasses.png",
+    "ref": "splorven",
+    "freq": 349
+  },
+  {
+    "fp": "sample-data/known/komodo-dragon.png",
+    "ref": "plunish",
+    "freq": 327
+  },
+  {
+    "fp": "sample-data/known/clock.png",
+    "ref": "crenshaw",
+    "freq": 305
+  },
+  {
+    "fp": "sample-data/known/golden-retriever.png",
+    "ref": "grastly",
+    "freq": 285
+  },
+  {
+    "fp": "sample-data/known/black-widow.png",
+    "ref": "vraxel",
+    "freq": 265
+  },
+  {
+    "fp": "sample-data/known/axolotl.png",
+    "ref": "wrentish",
+    "freq": 247
+  },
+  {
+    "fp": "sample-data/known/rabbit.png",
+    "ref": "drinnish",
+    "freq": 229
+  },
+  {
+    "fp": "sample-data/known/record-player.png",
+    "ref": "trivane",
+    "freq": 211
+  },
+  {
+    "fp": "sample-data/known/kangaroo.png",
+    "ref": "clonnet",
+    "freq": 195
+  },
+  {
+    "fp": "sample-data/known/orangutan.png",
+    "ref": "flitney",
+    "freq": 178
+  },
+  {
+    "fp": "sample-data/known/key.png",
+    "ref": "clovish",
+    "freq": 163
+  },
+  {
+    "fp": "sample-data/known/chair.png",
+    "ref": "crantle",
+    "freq": 148
+  },
+  {
+    "fp": "sample-data/known/corkscrew.png",
+    "ref": "sprigge",
+    "freq": 133
+  },
+  {
+    "fp": "sample-data/known/lamp.png",
+    "ref": "skindrel",
+    "freq": 119
+  },
+  {
+    "fp": "sample-data/known/leopard-shark.png",
+    "ref": "drandrel",
+    "freq": 105
+  },
+  {
+    "fp": "sample-data/known/bald-eagle.png",
+    "ref": "frastish",
+    "freq": 92
+  },
+  {
+    "fp": "sample-data/known/fire-alarm.png",
+    "ref": "thrimble",
+    "freq": 79
+  },
+  {
+    "fp": "sample-data/known/moose.png",
+    "ref": "dronk",
+    "freq": 67
+  },
+  {
+    "fp": "sample-data/known/fedora.png",
+    "ref": "glavton",
+    "freq": 55
+  },
+  {
+    "fp": "sample-data/known/bow-tie.png",
+    "ref": "glimwick",
+    "freq": 43
+  },
+  {
+    "fp": "sample-data/known/crocodile.png",
+    "ref": "plimber",
+    "freq": 32
+  },
+  {
+    "fp": "sample-data/known/siamese-cat.png",
+    "ref": "glimber",
+    "freq": 20
+  },
+  {
+    "fp": "sample-data/known/pot.png",
+    "ref": "swonky",
+    "freq": 10
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/boar_vacuum.png",
+    "ref": "brastrel",
+    "freq": 4000
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/drone_dagger.png",
+    "ref": "grindleton",
+    "freq": 2915
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/telescope_microscope.png",
+    "ref": "gronwick",
+    "freq": 2378
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/leather_rattlesnake.png",
+    "ref": "prandrel",
+    "freq": 2034
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/leather_game-controller.png",
+    "ref": "frandly",
+    "freq": 1787
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/crochet_soda-can.png",
+    "ref": "shrubly",
+    "freq": 1598
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/rattan_stapler.png",
+    "ref": "glorven",
+    "freq": 1445
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/checkerboard_moose.png",
+    "ref": "brindlew",
+    "freq": 1319
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/rattan_push-pin.png",
+    "ref": "splavish",
+    "freq": 1211
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/checkerboard_bee.png",
+    "ref": "quonch",
+    "freq": 1118
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/rattan_calculator.png",
+    "ref": "wintle",
+    "freq": 1037
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/cactus_helmet.png",
+    "ref": "clentrel",
+    "freq": 964
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/wooden_rooster.png",
+    "ref": "trorven",
+    "freq": 899
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/gecko_flashlight.png",
+    "ref": "strowve",
+    "freq": 840
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/tiger_suitcase.png",
+    "ref": "skimbler",
+    "freq": 787
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/galaxy_guinea-pig.png",
+    "ref": "clonnett",
+    "freq": 737
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/fuzzy_flashlight.png",
+    "ref": "frimnock",
+    "freq": 692
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/galaxy_cow.png",
+    "ref": "wruskell",
+    "freq": 650
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/bird-feathers_ladybug.png",
+    "ref": "swimble",
+    "freq": 611
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/sea-urchin_microphone.png",
+    "ref": "snandor",
+    "freq": 575
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/frog_microphone.png",
+    "ref": "grolm",
+    "freq": 540
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/hippo_motorcycle.png",
+    "ref": "cravish",
+    "freq": 508
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/checkerboard_panda.png",
+    "ref": "jostrel",
+    "freq": 478
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/fish-scales_giraffe.png",
+    "ref": "thimwick",
+    "freq": 449
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/typewriter_globe.png",
+    "ref": "blostern",
+    "freq": 422
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/leather_toaster.png",
+    "ref": "drentish",
+    "freq": 397
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/fish-scale_moose.png",
+    "ref": "quintle",
+    "freq": 372
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/backpack_amplifier.png",
+    "ref": "crentle",
+    "freq": 349
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/skateboard_bonsai.png",
+    "ref": "skavton",
+    "freq": 327
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/chipmunk_toaster.png",
+    "ref": "drandish",
+    "freq": 305
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/rattan_bee.png",
+    "ref": "brivlet",
+    "freq": 285
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/crochet_spray-bottle.png",
+    "ref": "skorven",
+    "freq": 265
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/bird-feathers_horse.png",
+    "ref": "prindor",
+    "freq": 247
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/crochet_hawk.png",
+    "ref": "marnett",
+    "freq": 229
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/fish-scales_microwave.png",
+    "ref": "climble",
+    "freq": 211
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/rattan_moose.png",
+    "ref": "shreer",
+    "freq": 195
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/sea-lion_skateboard.png",
+    "ref": "grimthorn",
+    "freq": 178
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/wooden_sheep.png",
+    "ref": "floundge",
+    "freq": 163
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/bird-feathers_headphones.png",
+    "ref": "wravton",
+    "freq": 148
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/dolphin_radio.png",
+    "ref": "wrivlet",
+    "freq": 133
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/eagle_backpack.png",
+    "ref": "drenshaw",
+    "freq": 119
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/fish-scale_bear.png",
+    "ref": "clandor",
+    "freq": 105
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/fuzzy_alarm-clock.png",
+    "ref": "vrogue",
+    "freq": 92
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/checkerboard_camel.png",
+    "ref": "marvish",
+    "freq": 79
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/spoon_twig.png",
+    "ref": "cluskell",
+    "freq": 67
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/fuzzy_squid.png",
+    "ref": "skrawling",
+    "freq": 55
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/crochet_coyote.png",
+    "ref": "wrandish",
+    "freq": 43
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/turtle_vacuum.png",
+    "ref": "wrindler",
+    "freq": 32
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/leather_flamingo.png",
+    "ref": "crembly",
+    "freq": 20
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/goose_handbag.png",
+    "ref": "glapic",
+    "freq": 10
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/galaxy_horse.png",
+    "ref": "trivlet",
+    "freq": 4000
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/bird-feathers_ant.png",
+    "ref": "vremble",
+    "freq": 2915
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/dolphin_office-chair.png",
+    "ref": "wrentrel",
+    "freq": 2378
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/crystal_telescope.png",
+    "ref": "shrugly",
+    "freq": 2034
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/galaxy_birch-tree.png",
+    "ref": "blenish",
+    "freq": 1787
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/bonsai_amplifier.png",
+    "ref": "stronish",
+    "freq": 1598
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/hourglass_fossil.png",
+    "ref": "frakshaw",
+    "freq": 1445
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/synthesizer_globe.png",
+    "ref": "snaindish",
+    "freq": 1319
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/rattan_piranha.png",
+    "ref": "pintwick",
+    "freq": 1211
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/helmet_camera.png",
+    "ref": "glemture",
+    "freq": 1118
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/lantern_drone.png",
+    "ref": "pranlow",
+    "freq": 1037
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/wolf_apple.png",
+    "ref": "wrivton",
+    "freq": 964
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/dagger_amplifier.png",
+    "ref": "sprell",
+    "freq": 899
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/bonsai_crystal.png",
+    "ref": "skuskell",
+    "freq": 840
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/boar_toaster.png",
+    "ref": "grolish",
+    "freq": 787
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/rattan_raccoon.png",
+    "ref": "frimwick",
+    "freq": 737
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/frog_vacuum.png",
+    "ref": "thruskel",
+    "freq": 692
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/fuzzy_hammer.png",
+    "ref": "skentish",
+    "freq": 650
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/dagger_projector.png",
+    "ref": "skindor",
+    "freq": 611
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/leather_ant.png",
+    "ref": "blenshel",
+    "freq": 575
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/raccoon_pickup-truck.png",
+    "ref": "traskish",
+    "freq": 540
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/pigeon_vacuum.png",
+    "ref": "snovane",
+    "freq": 508
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/chipmunk_refrigerator.png",
+    "ref": "blyl",
+    "freq": 478
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/crochet_fork.png",
+    "ref": "belonk",
+    "freq": 449
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/crochet_broom.png",
+    "ref": "crandrel",
+    "freq": 422
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/fuzzy_gecko.png",
+    "ref": "klandish",
+    "freq": 397
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/duck_camera.png",
+    "ref": "blonket",
+    "freq": 372
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/cactus_camera.png",
+    "ref": "plonderer",
+    "freq": 349
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/tiger_camera.png",
+    "ref": "bromnock",
+    "freq": 327
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/frog_jukebox.png",
+    "ref": "skreening",
+    "freq": 305
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/pig_tv.png",
+    "ref": "truskell",
+    "freq": 285
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/fish-scales_donkey.png",
+    "ref": "thrivish",
+    "freq": 265
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/sunglasses_watch.png",
+    "ref": "wrimnock",
+    "freq": 247
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/bird-feathers_saxophone.png",
+    "ref": "crustle",
+    "freq": 229
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/scissors_key.png",
+    "ref": "glimton",
+    "freq": 211
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/turtle_pickup-truck.png",
+    "ref": "trivnock",
+    "freq": 195
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/compass_totem.png",
+    "ref": "flonwick",
+    "freq": 178
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/checkerboard_tv-remote.png",
+    "ref": "drimble",
+    "freq": 163
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/rattan_butterfly.png",
+    "ref": "glonker",
+    "freq": 148
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/mushroom_candle.png",
+    "ref": "thraspip",
+    "freq": 133
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/crochet_ant.png",
+    "ref": "plunke",
+    "freq": 119
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/telescope_compass.png",
+    "ref": "snavton",
+    "freq": 105
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/synthesizer_statue.png",
+    "ref": "thrimnook",
+    "freq": 92
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/fossil_synthesizer.png",
+    "ref": "quintar",
+    "freq": 79
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/checkerboard_tiger.png",
+    "ref": "gronel",
+    "freq": 67
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/animal-obj/horse_record-player.png",
+    "ref": "trivton",
+    "freq": 55
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/fuzzy_zipper.png",
+    "ref": "splintery",
+    "freq": 43
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/bird-feathers_lion.png",
+    "ref": "zornett",
+    "freq": 32
+  },
+  {
+    "fp": "sample-data/modified/shape-shape/obj-obj/pen_leaf.png",
+    "ref": "prentish",
+    "freq": 20
+  },
+  {
+    "fp": "sample-data/modified/shape-texture/galaxy_bear.png",
+    "ref": "crubid",
+    "freq": 10
+  },
+  {
+    "fp": "sample-data/novel/shape_39.png",
+    "ref": "plimmish",
+    "freq": 4000
+  },
+  {
+    "fp": "sample-data/novel/shape_18.png",
+    "ref": "flintery",
+    "freq": 2915
+  },
+  {
+    "fp": "sample-data/novel/shape_22.png",
+    "ref": "grimsley",
+    "freq": 2378
+  },
+  {
+    "fp": "sample-data/novel/shape_42.png",
+    "ref": "trumbus",
+    "freq": 2034
+  },
+  {
+    "fp": "sample-data/novel/shape_49.png",
+    "ref": "flenkered",
+    "freq": 1787
+  },
+  {
+    "fp": "sample-data/novel/shape_46.png",
+    "ref": "vorthling",
+    "freq": 1598
+  },
+  {
+    "fp": "sample-data/novel/shape_40.png",
+    "ref": "drimnock",
+    "freq": 1445
+  },
+  {
+    "fp": "sample-data/novel/shape_35.png",
+    "ref": "grestle",
+    "freq": 1319
+  },
+  {
+    "fp": "sample-data/novel/shape_50.png",
+    "ref": "pronglet",
+    "freq": 1211
+  },
+  {
+    "fp": "sample-data/novel/shape_2.png",
+    "ref": "vrimble",
+    "freq": 1118
+  },
+  {
+    "fp": "sample-data/novel/shape_48.png",
+    "ref": "skryl",
+    "freq": 1037
+  },
+  {
+    "fp": "sample-data/novel/shape_4.png",
+    "ref": "glentrel",
+    "freq": 964
+  },
+  {
+    "fp": "sample-data/novel/shape_36.png",
+    "ref": "brorchet",
+    "freq": 899
+  },
+  {
+    "fp": "sample-data/novel/shape_23.png",
+    "ref": "flansy",
+    "freq": 840
+  },
+  {
+    "fp": "sample-data/novel/shape_41.png",
+    "ref": "bravton",
+    "freq": 787
+  },
+  {
+    "fp": "sample-data/novel/shape_7.png",
+    "ref": "thrimbled",
+    "freq": 737
+  },
+  {
+    "fp": "sample-data/novel/shape_1.png",
+    "ref": "blimstone",
+    "freq": 692
+  },
+  {
+    "fp": "sample-data/novel/shape_24.png",
+    "ref": "plimwick",
+    "freq": 650
+  },
+  {
+    "fp": "sample-data/novel/shape_25.png",
+    "ref": "wrendish",
+    "freq": 611
+  },
+  {
+    "fp": "sample-data/novel/shape_8.png",
+    "ref": "slenwick",
+    "freq": 575
+  },
+  {
+    "fp": "sample-data/novel/shape_15.png",
+    "ref": "thrinkle",
+    "freq": 540
+  },
+  {
+    "fp": "sample-data/novel/shape_37.png",
+    "ref": "glatney",
+    "freq": 508
+  },
+  {
+    "fp": "sample-data/novel/shape_11.png",
+    "ref": "sknovish",
+    "freq": 478
+  },
+  {
+    "fp": "sample-data/novel/shape_32.png",
+    "ref": "wrastish",
+    "freq": 449
+  },
+  {
+    "fp": "sample-data/novel/shape_19.png",
+    "ref": "splandral",
+    "freq": 422
+  },
+  {
+    "fp": "sample-data/novel/shape_38.png",
+    "ref": "privton",
+    "freq": 397
+  },
+  {
+    "fp": "sample-data/novel/shape_21.png",
+    "ref": "bluffel",
+    "freq": 372
+  },
+  {
+    "fp": "sample-data/novel/shape_33.png",
+    "ref": "brashle",
+    "freq": 349
+  },
+  {
+    "fp": "sample-data/novel/shape_10.png",
+    "ref": "crelding",
+    "freq": 327
+  },
+  {
+    "fp": "sample-data/novel/shape_44.png",
+    "ref": "dramble",
+    "freq": 305
+  },
+  {
+    "fp": "sample-data/novel/shape_20.png",
+    "ref": "flonker",
+    "freq": 285
+  },
+  {
+    "fp": "sample-data/novel/shape_28.png",
+    "ref": "crimbler",
+    "freq": 265
+  },
+  {
+    "fp": "sample-data/novel/shape_26.png",
+    "ref": "crandish",
+    "freq": 247
+  },
+  {
+    "fp": "sample-data/novel/shape_34.png",
+    "ref": "grenskel",
+    "freq": 229
+  },
+  {
+    "fp": "sample-data/novel/shape_17.png",
+    "ref": "trandrel",
+    "freq": 211
+  },
+  {
+    "fp": "sample-data/novel/shape_5.png",
+    "ref": "drulic",
+    "freq": 195
+  },
+  {
+    "fp": "sample-data/novel/shape_30.png",
+    "ref": "scradge",
+    "freq": 178
+  },
+  {
+    "fp": "sample-data/novel/shape_13.png",
+    "ref": "thremble",
+    "freq": 163
+  },
+  {
+    "fp": "sample-data/novel/shape_29.png",
+    "ref": "gristling",
+    "freq": 148
+  },
+  {
+    "fp": "sample-data/novel/shape_3.png",
+    "ref": "cratney",
+    "freq": 133
+  },
+  {
+    "fp": "sample-data/novel/shape_47.png",
+    "ref": "splimshaw",
+    "freq": 119
+  },
+  {
+    "fp": "sample-data/novel/shape_16.png",
+    "ref": "blentham",
+    "freq": 105
+  },
+  {
+    "fp": "sample-data/novel/shape_12.png",
+    "ref": "spurbly",
+    "freq": 92
+  },
+  {
+    "fp": "sample-data/novel/shape_43.png",
+    "ref": "driln",
+    "freq": 79
+  },
+  {
+    "fp": "sample-data/novel/shape_27.png",
+    "ref": "frolis",
+    "freq": 67
+  },
+  {
+    "fp": "sample-data/novel/shape_31.png",
+    "ref": "gronk",
+    "freq": 55
+  },
+  {
+    "fp": "sample-data/novel/shape_6.png",
+    "ref": "strowm",
+    "freq": 43
+  },
+  {
+    "fp": "sample-data/novel/shape_45.png",
+    "ref": "clastrel",
+    "freq": 32
+  },
+  {
+    "fp": "sample-data/novel/shape_9.png",
+    "ref": "shantel",
+    "freq": 20
+  },
+  {
+    "fp": "sample-data/novel/shape_14.png",
+    "ref": "plimble",
+    "freq": 10
+  },
+  {
+    "fp": "sample-data/baseline/otter.png",
+    "ref": "otter",
+    "freq": 4000
+  },
+  {
+    "fp": "sample-data/baseline/penguin.png",
+    "ref": "penguin",
+    "freq": 2915
+  },
+  {
+    "fp": "sample-data/baseline/fan.png",
+    "ref": "fan",
+    "freq": 2378
+  },
+  {
+    "fp": "sample-data/baseline/crocodile.png",
+    "ref": "crocodile",
+    "freq": 2034
+  },
+  {
+    "fp": "sample-data/baseline/aardvark.png",
+    "ref": "aardvark",
+    "freq": 1787
+  },
+  {
+    "fp": "sample-data/baseline/piano.png",
+    "ref": "piano",
+    "freq": 1598
+  },
+  {
+    "fp": "sample-data/baseline/swan.png",
+    "ref": "swan",
+    "freq": 1445
+  },
+  {
+    "fp": "sample-data/baseline/badger.png",
+    "ref": "badger",
+    "freq": 1319
+  },
+  {
+    "fp": "sample-data/baseline/bench.png",
+    "ref": "bench",
+    "freq": 1211
+  },
+  {
+    "fp": "sample-data/baseline/walrus.png",
+    "ref": "walrus",
+    "freq": 1118
+  },
+  {
+    "fp": "sample-data/baseline/comb.png",
+    "ref": "comb",
+    "freq": 1037
+  },
+  {
+    "fp": "sample-data/baseline/platypus.png",
+    "ref": "platypus",
+    "freq": 964
+  },
+  {
+    "fp": "sample-data/baseline/cheetah.png",
+    "ref": "cheetah",
+    "freq": 899
+  },
+  {
+    "fp": "sample-data/baseline/balloon.png",
+    "ref": "balloon",
+    "freq": 840
+  },
+  {
+    "fp": "sample-data/baseline/scorpion.png",
+    "ref": "scorpion",
+    "freq": 787
+  },
+  {
+    "fp": "sample-data/baseline/manatee.png",
+    "ref": "manatee",
+    "freq": 737
+  },
+  {
+    "fp": "sample-data/baseline/crow.png",
+    "ref": "crow",
+    "freq": 692
+  },
+  {
+    "fp": "sample-data/baseline/dumbbell.png",
+    "ref": "dumbbell",
+    "freq": 650
+  },
+  {
+    "fp": "sample-data/baseline/lemur.png",
+    "ref": "lemur",
+    "freq": 611
+  },
+  {
+    "fp": "sample-data/baseline/barrel.png",
+    "ref": "barrel",
+    "freq": 575
+  },
+  {
+    "fp": "sample-data/baseline/skeleton.png",
+    "ref": "skeleton",
+    "freq": 540
+  },
+  {
+    "fp": "sample-data/baseline/crab.png",
+    "ref": "crab",
+    "freq": 508
+  },
+  {
+    "fp": "sample-data/baseline/bed.png",
+    "ref": "bed",
+    "freq": 478
+  },
+  {
+    "fp": "sample-data/baseline/jellyfish.png",
+    "ref": "jellyfish",
+    "freq": 449
+  },
+  {
+    "fp": "sample-data/baseline/iguana.png",
+    "ref": "iguana",
+    "freq": 422
+  },
+  {
+    "fp": "sample-data/baseline/flag.png",
+    "ref": "flag",
+    "freq": 397
+  },
+  {
+    "fp": "sample-data/baseline/hedgehog.png",
+    "ref": "hedgehog",
+    "freq": 372
+  },
+  {
+    "fp": "sample-data/baseline/anchor.png",
+    "ref": "anchor",
+    "freq": 349
+  },
+  {
+    "fp": "sample-data/baseline/canoe.png",
+    "ref": "canoe",
+    "freq": 327
+  },
+  {
+    "fp": "sample-data/baseline/bell.png",
+    "ref": "bell",
+    "freq": 305
+  },
+  {
+    "fp": "sample-data/baseline/ostrich.png",
+    "ref": "ostrich",
+    "freq": 285
+  },
+  {
+    "fp": "sample-data/baseline/lobster.png",
+    "ref": "lobster",
+    "freq": 265
+  },
+  {
+    "fp": "sample-data/baseline/barracuda.png",
+    "ref": "barracuda",
+    "freq": 247
+  },
+  {
+    "fp": "sample-data/baseline/bathtub.png",
+    "ref": "bathtub",
+    "freq": 229
+  },
+  {
+    "fp": "sample-data/baseline/eel.png",
+    "ref": "eel",
+    "freq": 211
+  },
+  {
+    "fp": "sample-data/baseline/flask.png",
+    "ref": "flask",
+    "freq": 195
+  },
+  {
+    "fp": "sample-data/baseline/anvil.png",
+    "ref": "anvil",
+    "freq": 178
+  },
+  {
+    "fp": "sample-data/baseline/axe.png",
+    "ref": "axe",
+    "freq": 163
+  },
+  {
+    "fp": "sample-data/baseline/ladder.png",
+    "ref": "ladder",
+    "freq": 148
+  },
+  {
+    "fp": "sample-data/baseline/blender.png",
+    "ref": "blender",
+    "freq": 133
+  },
+  {
+    "fp": "sample-data/baseline/hyena.png",
+    "ref": "hyena",
+    "freq": 119
+  },
+  {
+    "fp": "sample-data/baseline/fence.png",
+    "ref": "fence",
+    "freq": 105
+  },
+  {
+    "fp": "sample-data/baseline/impala.png",
+    "ref": "impala",
+    "freq": 92
+  },
+  {
+    "fp": "sample-data/baseline/envelope.png",
+    "ref": "envelope",
+    "freq": 79
+  },
+  {
+    "fp": "sample-data/baseline/oven.png",
+    "ref": "oven",
+    "freq": 67
+  },
+  {
+    "fp": "sample-data/baseline/ashtray.png",
+    "ref": "ashtray",
+    "freq": 55
+  },
+  {
+    "fp": "sample-data/baseline/easel.png",
+    "ref": "easel",
+    "freq": 43
+  },
+  {
+    "fp": "sample-data/baseline/flamingo.png",
+    "ref": "flamingo",
+    "freq": 32
+  },
+  {
+    "fp": "sample-data/baseline/button.png",
+    "ref": "button",
+    "freq": 20
+  },
+  {
+    "fp": "sample-data/baseline/chandelier.png",
+    "ref": "chandelier",
+    "freq": 10
+  }
+]
