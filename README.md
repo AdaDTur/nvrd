@@ -1,9 +1,5 @@
 # Would you still call this Dax? Novel Visual References in VLMs and Humans
-
-This repository contains the code, data, and pre-computed results for the EMNLP paper:
-
-> **Would you still call this Dax? Novel Visual References in VLMs and Humans**
-> *EMNLP 2025 (under review)*
+## Accepted for oral presentation at EMNLP 2026!!
 
 ---
 
