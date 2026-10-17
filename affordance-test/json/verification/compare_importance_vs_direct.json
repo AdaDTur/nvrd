@@ -1,0 +1,147 @@
+{
+  "clusters": {
+    "grasp/move": [
+      "hold",
+      "carry",
+      "pick up",
+      "lift",
+      "drag",
+      "catch",
+      "throw",
+      "pack",
+      "push"
+    ],
+    "strike": [
+      "beat",
+      "boxing",
+      "hit",
+      "kick",
+      "swing"
+    ],
+    "cut/pierce": [
+      "cut",
+      "cut with",
+      "peel",
+      "stick"
+    ],
+    "liquid/food": [
+      "drink with",
+      "sip",
+      "pour",
+      "stir",
+      "eat"
+    ],
+    "device use": [
+      "type on",
+      "text on",
+      "talk on",
+      "take photo",
+      "look out",
+      "open"
+    ],
+    "tool on surface": [
+      "write",
+      "brush with",
+      "wash"
+    ],
+    "body/support": [
+      "sit on",
+      "lie on",
+      "ride",
+      "jump",
+      "wear"
+    ],
+    "none": [
+      "none"
+    ]
+  },
+  "results": {
+    "ladle": {
+      "labels": [
+        "hold",
+        "none",
+        "stir",
+        "none"
+      ],
+      "metrics": {
+        "RISE bits": {
+          "exact": 0.0,
+          "cluster": 0.25,
+          "mean_rank": 24.5,
+          "spearman": -0.03468650837071888,
+          "mismatch_exact": 0.16666666666666666,
+          "mismatch_cluster": 0.25
+        },
+        "RISE dProb": {
+          "exact": 0.0,
+          "cluster": 0.0,
+          "mean_rank": 37.25,
+          "spearman": -0.2214137214137214,
+          "mismatch_exact": 0.4166666666666667,
+          "mismatch_cluster": 0.4166666666666667
+        },
+        "LOO bits": {
+          "exact": 0.0,
+          "cluster": 0.25,
+          "mean_rank": 26.75,
+          "spearman": 0.033756428493270596,
+          "mismatch_exact": 0.0,
+          "mismatch_cluster": 0.16666666666666666
+        },
+        "LOO dProb": {
+          "exact": 0.5,
+          "cluster": 0.5,
+          "mean_rank": 12.25,
+          "spearman": 0.3307254623044097,
+          "mismatch_exact": 0.5,
+          "mismatch_cluster": 0.5
+        }
+      }
+    },
+    "shape_16": {
+      "labels": [
+        "hold",
+        "none",
+        "none",
+        "hold",
+        "none",
+        "hold",
+        "none"
+      ],
+      "metrics": {
+        "RISE bits": {
+          "exact": 0.0,
+          "cluster": 0.0,
+          "mean_rank": 16.0,
+          "spearman": 0.12147312147312148,
+          "mismatch_exact": 0.07142857142857142,
+          "mismatch_cluster": 0.07142857142857142
+        },
+        "RISE dProb": {
+          "exact": 0.14285714285714285,
+          "cluster": 0.14285714285714285,
+          "mean_rank": 22.714285714285715,
+          "spearman": -0.10434089381457802,
+          "mismatch_exact": 0.07142857142857142,
+          "mismatch_cluster": 0.14285714285714285
+        },
+        "LOO bits": {
+          "exact": 0.0,
+          "cluster": 0.42857142857142855,
+          "mean_rank": 16.142857142857142,
+          "spearman": 0.22998765104028257,
+          "mismatch_exact": 0.0,
+          "mismatch_cluster": 0.42857142857142855
+        },
+        "LOO dProb": {
+          "exact": 0.0,
+          "cluster": 0.14285714285714285,
+          "mean_rank": 27.857142857142858,
+          "spearman": 0.0069873227767964655,
+          "mismatch_exact": 0.19047619047619047,
+          "mismatch_cluster": 0.5238095238095238
+        }
+      }
+    }
+  }
+}

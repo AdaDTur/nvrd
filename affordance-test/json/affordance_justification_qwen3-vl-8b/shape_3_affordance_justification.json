@@ -1,0 +1,145 @@
+{
+  "object": "shape_3",
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/novel/shape_3.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "shape_3_region_5",
+      "area": 131617,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "gjn9a0Xo0:H7I6I7J6K4J7J6G9K4iMaMhVOe2Vi0_M^VOk2ai0[MRVOl2mi0ZMiUOl2Vj0ZMWUOT3hj0R1010O01O1O010O0101N2O0O101N3N2M2O3L5K4L2O0O1O1O2N10O01O00001O001O1N2O1O001O001O00000O2O000O2O000O2O001N100O010O100O100O1000000O010O10O0100O010O10O010O01O010O0010O000001O001O0000O1O1000000O100N2N200O1O100O1O101O0O1O00100O10000O1O10000000000N3O000000000000000O10000000000000001N100001O000000000001O00000000000001O00001O01O0XDSL]Km3d4ULZKk3g4VLWKk3h4VLXKi3i4XLUKh3l4XLSKh3o4XLoJh3R5YLlJg3V5XLiJh3X5YLfJg3\\5XLcJh3_5XL`Jh3`5XL_Jh3b5YL]Jf3e5YLZJg3g5ZLXJe3j5^LQJb3P6_LnI`3U6`LiI`3X6`LgIa3Y6`LeI`3]6_LbIa3_6`L`I_3a6aL^I_3c6bLZI_3g6bLWI^3k6aLTI_3m6bLQI^3P7cLnH^3R7bLmH^3T7cLkH\\3V7eLhH[3Z7eLdH[3]7fL`H[3a7fL]HZ3d7fL[HZ3f7gLXHY3i7gLVHY3k7hLSHY3m7hLQHX3o7iLnGY3S8hLjGZ3V8gLhGY3Y8hLeGX3\\8iLbGX3]8jLaGV3`8kL^GV3b8kL[GV3e8lLXGV3h8kLUGV3k8lLRGV3n8kLPGV3o8lLmFV3T9lLiFU3V9mLgFU3X9mLeFU3Z9nLbFS3_9nL^FT3a9oLZFT3f9mLWFU3h9lLVFU3j9mLTFT3k9nLRFT3m9nLPFT3o9nLmEU3Q:oLjET3U:nLgEU3Y:lLbEX3]:iL`EZ3_:hL]E[3a:iLZEZ3e:iLUE[3j:hLPE\\3n:gLlD^3S;eLeDa3Z;bLaDa3^;bL[Dc3c;aLSDg3l;\\LnCh3P<\\LkCh3S<\\LgCg3X<_L]Ch3`<hJk_OoNZ3a6j<PJ]_OeNi0g0i2i6o<nI__O]NQ1j0Y2R7U=gIl@XOg1V7\\=cIo@WO`1Z7_=_IUAVOU1`7d=YI]AWOh0e7h=SIeAZO8l7P>hHnA\\OJR8V>`HVB]O[O[8\\>XH^BH^N[8R?lGdB[:Y=eElBY:Q=gESCX:k<fE\\CW:b<hEbCW:[<jEiCT:U<jEPDU:m;kEXDS:e;lE`DS:^;mEeDR:Y;mEkDR:R;nEQER:l:nEWER:g:mE]ER:`:nEcER:[:nEgER:V:nEmER:Q:lESFT:j9lEYFT:e9jE_FW:]9jEeFV:X9jEkFV:S9iEoFX:n8iETGW:j8gEZGY:c8hE_GX:_8hEbGY:\\8gEfGY:V8fEnG[:P8dESH]:i7cEYH^:e7aE^H^:a7aEaH`:[7aEhH_:V7`ElHa:R7^EPId:l6]EVIc:g6]E[Id:c6\\E^Ie:_6YEfIg:X6YEiIh:U6XElIi:R6VEPJk:m5UEVJl:f5TE\\Jm:a5REbJo:\\5QEeJP;X5PEjJQ;T5oDnJQ;o4PERKQ;l4lDXKU;f4jD\\KW;a4jD`KW;]4jDdKW;Y4iDiKX;U4hDlKY;R4dDRL];k3dDUL^;i3bDXL`;e3^D^Lc;_3^DbLc;\\3\\DfLe;Y3XDjLi;T3WDmLj;R3VDnLk;P3UDQMl;m2QDWMP<h2mCZMV<c2jC^MW<a2hC`MY<`2eCaM\\<^2^ChMc<X2XClMi<e:1O1N2O2N1O1N2O1O1O1O1O2N1O1O1N2O1O1O2N1N2O1O1O1O1O1O1N2O2N1O1O1N2O1O1O1O1N2O1O1O1O1N2O1N2O100O1O1O1O2N1O1N2O1O001O1O1O1O1N101OcGb_OY1]`0bNn_OY1Q`0cNV@Z1j?dN[@Z1d?bNd@Z1\\?dNi@Z1V?eNm@Y1R?fNSAW1m>gNXAV1h>iNZAW1e>hN^AV1b>hNcAU1]>jNgAS1Y>lNkAQ1U>nNnAP1R>oNQBo0n=QOUBm0k=ROXBl0h=SO[Bk0e=TO^Bj0b=VOaBg0_=XOeBe0[=ZOhBd0X=[OkBc0U=\\OoB`0R=_OQC?o<ASC=l<CWC;i<D[C8f<G]C7c<I_C5a<JcC3\\<MgC1Y<NjCOW<0lCNT<2oCJR<5QDIo;5WDGi;9YDDh;;[DCe;<^DAc;?_D_Oa;`0bD]O_;b0dD\\O[;d0iDYOW;f0nDUOS;k0nDTOR;k0QEROP;m0SEPOn:P1UEmNj:S1XElNh:S1[EjNf:U1_EgNa:X1cEdN^:\\1cEcN]:\\1gE`NZ:_1jE^NU:b1mE\\NT:d1nEYNS:f1QFWNo9h1VFSNk9m1XFPNh9o1[FnMf9Q2]FlMd9S2^FlMb9S2aFjM`9V2bFhM^9W2fFeM[9Z2iFcMV9]2nF_MS9`2PG^MP9b2SGZMn8e2VGWMk8h2WGVMj8i2XGVMh8j2[GRMf8m2^GoLc8P3bGkL_8T3eGiL[8V3hGgLY8Y3hGeLY8Z3jGcLW8]3kG_LW8`3mG\\LT8c3QHWLQ8h3SHSLo7l3WHkKm7T4P:O100O1O101N1O1O2N101N2N3M2N2O1N2N2N3N2M3M2N3M3N2M2O1N3M3M3N2M3M3M3N1N3M4M1N3N2M3M3M2N3M4L3N1N3M4L3L4M4K5J8Dd`m4"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 1\u2019s broad, flat base lacks any protrusions or contours designed for gripping, pressing, twisting, sliding, pulling, pushing, lifting, rotating, inserting, removing, hanging, attaching, detaching, folding, unfolding, opening, closing, turning, swiveling, pivoting, locking, unlocking,"
+        }
+      }
+    },
+    {
+      "region_id": "shape_3_region_0",
+      "area": 74704,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "bam8>\\o0:G9H8F8J6L4K5M2N3J6M2O1N2N3M3M2N3M2O2L4M2N3M3N1N2N4L3M3M3L3M5L2N3M3M2M3N3M3M3L3N4L3L4M2N4L3M3L4M4L2N4L4K6K6J4L5K7I9F<E7I2N4L8H3M4K4M2N4L4L3M3M3M2N2M4M2N2N2N2M4M2N2O0O2N2N1O2N101N2N1O2O0O2O0O2O000000^GfZO_6Ye0]InZO`6Qe0_IS[O_6md0_IV[O`6jd0^IY[Oa6gd0^I\\[O`6cd0`I^[O`6bd0_I`[O`6_d0_Ic[Oa6]d0^Id[Ob6\\d0\\If[Od6Zd0ZIh[Of6Wd0ZIj[Of6Vd0XIl[Oh6Sd0VIP\\Oj6Pd0TIR\\Ok6nc0UIS\\Ok6mc0SIU\\Om6kc0QIV\\OP7ic0oHX\\OQ7ic0mHX\\OT7hc0jHY\\OW7fc0iHZ\\OW7fc0iHZ\\OX7ec0hH[\\OX7fc0hHX\\OZ7gc0fHX\\O[7ic0eHV\\O\\7ic0eHU\\O\\7lc0dHS\\O\\7nc0dHQ\\O]7oc0cHo[O^7Qd0dHl[O]7Td0dHj[O]7Vd0dHi[O\\7Xd0dHg[O[7Zd0fHe[OZ7\\d0gHb[OY7^d0jH_[OU7bd0nHZ[OS7fd0PIV[OQ7kd0PIR[OP7od0SIlZOo6Te0m12N1O2M3O0O2O1N1O2O1O1N2N2N2O1N10001O0O2O1N10000O2N101O001O1N101O1O1O1O1O1O001O1O1O1O00O10O20O01OO100001O001O1N2O100O00O2O0001O000001O01O001O00100O1O0000001O001O010O001O0001O0010O0O200O001O1O1OO10O2O001O1O000O2O001O0O2O1O1N1O2O1O1N2N2N2N2N2N2N2N2M3N2O1L4M4L3M4K6J5M2M4M3K7I4L5K5K6I8E<E9H9H7M4H7K5G:K4I8E<G9H7I8F9I<C;Bfbd="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 2 has no distinct functional surface features like edges, grips, holes, or protrusions for interaction; its smooth, rounded form offers nothing tangible to grasp, press, insert, or manipulate \u2014 unlike surrounding components designed for tactile engagement"
+        }
+      }
+    },
+    {
+      "region_id": "shape_3_region_7",
+      "area": 36394,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "aUb97ho07I5K7I4L6J4L8H5L2M7J5J6J5K8H6K5J5L5J5L5J5L5J5L3bVOmKif0V4SYOlKkf0Z4oXOhKPg0\\4jXOgKUg0^4eXOcKZg0a4bXOaK]g0d4\\XO^Kcg0g4WXO\\Khg0g4SXO[Klg0j4nWOYKQh0l4hWOWKWh0P5^WOTKah0W6N100O2O001N101O0O2O1O0O2O001N10001N10001N101O0O2O001N101O001O1N101O00001O0000001O1O001O001O01O010O010O100O1O00100O1O101N100O1O100O2O1O0O2O1N1O1O2N3M1N3N2N2M2O1O3L3N2WNmVOaLUi0T52XNiVObLZi0]3gVOaLZi0^3hVO_L[i0^3fVObL]i0_3_VO`Ldi0m42gN[VORLhi0n3WVOQLki0n3UVOPLoi0o41N2J8M3N0BcUOWK_j0S54M2M2O2N3M3M2N2N2N2N1O3M2N2N1O3M2N2M3N1O3M2M2O2M3N2N0O2O2M3M2O1N2N2O0O2O1N2N2O1N3M1O2O1N2N2O1N2O1N101N1O2O0O2O2M1O2O0O2O1N101N2O0O2N2O0O2N3N1N1O2O0O2O0O2O1N2N2O0O2N2N101N2O1N3N1N101O0O2O001N101O1N2O1N3N2MYen>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 3\u2019s narrow, elongated form tapers into a pointed tip without any flat surface or rounded edge suitable for gripping, pressing, or interacting functionally \u2014 unlike surrounding components designed for tactile engagement"
+        }
+      }
+    },
+    {
+      "region_id": "shape_3_region_1",
+      "area": 28950,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "bZQb0a0Zo0:G8H6L4L5I7J5K6J6K5K4L5K4K7J4M4J5L5J5M3L4L3M3M4L3N2M3L4M3L4N2M3M2O2L4N2N1O2K4N3M2N3M2N3M2N2O2M2O1L5N1O1N2N3M2M3O1N2O2N1L4N2O100M3O1L4O001M3O1N2M3O100O1L4M201O1O1J6L4O1O10O0100001N101O001O001O001O0O2O001O001N101O001O001O0O2O1O001O0O2O0`NfXOZJZg0b5mXO[JTg0_5SYO_Jmf0]5YYO`Jif0[5]YOcJcf0X5dYOfJ]f0V5gYOiJYf0S5mYOjJUf0Q5QZOmJoe0P5UZOnJme0m4e2M4L3L5L3M4K4M4L3L5L4K4N2M4J5M4L4L3M4K4L5M2L5K4M3M4L3L5M2M4J5N3L3K6L4M3L4L5J6Jiif8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 4\u2019s narrow, angled form lacks any surface area suitable for gripping or functional interaction, unlike surrounding components designed for handling"
+        }
+      }
+    },
+    {
+      "region_id": "shape_3_region_2",
+      "area": 27520,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Q\\W47go03K7I6L3K5M3M3J6M3L4L4M3L3N3M3M3N101GnMaROT2]m0nMbROS2\\m0oMdROP2\\m0PNdROQ2Zm0<O0I^MQSOb2ml0`MRSOa2ml0_MTSOa2jl0<0ON3N2OnLXSOm2fl0701O1N101O1O1O1O00100O001O010O1O1O00100O00100O1O010O1O100O010O1002M01N2O0O200O1O010O010O100O1O010O100O010O1O100O00100O10O01O100O010O1000O3NN2O0O200O10O0100O1O00100O010O10O010O01O100O10O0100O100O010O1O1O010O100O00100O100O100O010O1O100O100O1O100O100O101N100O010O01N101N1O2N1O1O2O0O2N1O2N1O2N4L0O2O1O1N2O2N1N3N1O1O2M2O2N1O2M2O2N1O2N2N1O1N3N1N3N1O2N1O2N1O1N3N1O2N1O2M2O2N1O2N2N1N3N1O2N1O2N1O2M2O1N3N1O2N1O2N1O2N1O2N1O2N101N100O2O001N101O0O101O00001O00001O001N101O001N100O2O0O2O0O2N1O2N2N2NobTc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 5\u2019s narrow, flat profile at its end lacks any protrusions or contours designed for gripping, pressing, twisting, sliding, hanging, attaching, pulling, pushing, lifting, rotating, folding, unfolding, opening, closing, inserting, removing, turning, swiveling, detaching, snapping, clicking,"
+        }
+      }
+    },
+    {
+      "region_id": "shape_3_region_11",
+      "area": 9200,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ndT49do06K4M4K3M3N1O3M2N1O2N1O1O010O00000001O01O001O01O000001O1O010O001O010O001O00010O001O001O001O01O01O0010O01O001O0001O01O1O0010O01O00100O001O010O001O010O1O1O0010O0001O001O0010O01O01O01O001O001O001O10O01O000010O01O0000100O1O001O001O00010O001O0000001O001O000O101O001O0O2N100O100O1N3N1N2N3M2N2I8G9O010O02N1O2O1YNhSODYl05STOEmk07ZTOFgk06_TOFck05dTOH]k0^OTSO>f1C[N9Pm02nTONSk0NoTO2Sk0HSUO7[m0O2O2M3M2NT]ef0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 6 appears as a narrow, flat extension without any discernible functional surface for gripping, pressing, twisting, sliding, or attaching \u2014 unlike surrounding components which have distinct shapes suggesting interaction capabilities"
+        }
+      }
+    },
+    {
+      "region_id": "shape_3_region_9",
+      "area": 16702,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ie_47ho04L5K3M2M6K3M2N3M4M2M2O2M4M2M2N3N3L3N2M2N2O2M2O001N1O2O0O101N10000O1O1O100O100O10O0100O100O1O10O0100O100O01000O10O01000O01000O01000O01O1O010O010O10O0100O10O01O100O010O10O10O010O1O010O100O010O10O01O10O0100O00100O010O10O01O1O010O1O10O0100O10O010O01N2O1O010O1O10O0100O10O0100O010O10O10O10000O0100000O10O0100O1000O2O001O2N2N2M2O1O2N2N1O2M3N2N2N2N1O2N2N1O3N0O2N2N2O1N2N1O2N2N2O1N3M2N4L3M4L3M3M4K5L5J8HoYYe0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 7 appears as a small, flat extension without any discernible functional surface for gripping, pressing, twisting, sliding, or attaching \u2014 unlike surrounding components which have distinct shapes suggesting interaction capabilities"
+        }
+      }
+    },
+    {
+      "region_id": "shape_3_region_6",
+      "area": 1388,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "d_Q<3io07K4L3M3N2N2N1N3N1N2N2O1N2M3N2O1N1O2N1O1O011O0001N1O2O1N2O1O1N3M2N2O2N1O2N2N3L4L3M4K_acb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 8 appears as a small central hub without any protrusions, indentations, or surfaces designed for interaction, making its form unsuitable for grasping, pressing, twisting, sliding, or otherwise manipulating \u2014 unlike all surrounding components which have distinct shapes suggesting functional engagement"
+        }
+      }
+    }
+  ]
+}

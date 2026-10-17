@@ -1,0 +1,366 @@
+{
+  "object": "bird-feathers_saxophone",
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-texture/bird-feathers_saxophone.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "bird-feathers_saxophone_region_11",
+      "area": 146201,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Qi_:>_o06G7M3K4O2N1O0J7K5M3M2N3N2O1USOWN[k0m1cTOVN[j09lTOf1d0VN\\j0l2mTOQNGVO]j0Y5D8P]O\\JX;m5cDXJZ;l5bDVJ];l5aDVJY;P6dDRJb:BW_Oa6U6nI`:Jo^OV20a1_6`L_:d2`_O`0P6lL_:d2f_O<j5QM_:c2k_O:e5SM_:d2m_O8c5UM^:d2Q@7`5UM^:e2R@8_5RMh9[O^@]3<6]5RMe9D[@a2GfMl0T3\\5QMd9KT@T2<jM`0V3\\5QM`9f2g@RM=X3[5PM`9f2j@QM;Y3[5PM^9f2n@QM96UO[2V6hM]9e2QARM70BY2j5PN[9d2TASM6LF\\2d5QNY9g2WAPM6E3]2W5WNX9g2YAPM6C7\\2Q5ZNg8[O_A]3<oLa1m1m3\\Nb8AbAX3>nLc1m1i3\\Nb8DbAU3b0mLc1n1e3\\Nc8EaAV3d0kLd1n1b3]Nd8F`AU3f0jLe1n1`3]Nc8b3XBSLf1n1^3]Na8d3\\BQLe1o1]3\\Na8e2iAYMd0Gf1Q2Y3ZNc8c2nAZM`0If1Q2W3YNd8c2QBYM>Jf1R2U3YNd8b2XBVM9Mf1R2U3YNc8b2[BUM7Ng1R2S3YNc8b2^BTM40h1Q2R3ZNm7YOnBY38SM30i1Q2P3ZNk7BjBQ3`0QM21i1R2n2ZNk7EiBm2d0QM11i1U2k2WNl7[3`CXLO2k1T2i2WNj7^3dCTLN4j1T2h2WNk7]3fCULL3k1T2h2WNi7_3hCSLL4k1S2f2XNj7^3jCSLJ6k1Q2f2YNi7_3mCQLH8]O]OU2b2n2ZNi7`3oCoKGc0g1_1h2aNi7`3QDnKFb0j1^1c2dNk7^3SDoKCc0m1\\1_2eNX7[OkCU4o0lK@d0R2Y1[2gNV7V4mDWK]Oe0Y2S1V2lNS7Y4QEUKWOh0b2k0R2oN\\6QOWEY5b0iLk1LP2QOY6[OPES5l0eLl1Jo1SOT6Z5QFiKn1Il1TOT6[5RFiKn1Hk1TOT6\\5SFhKo1Hh1UOT6]5UFgKP2Eg1WOQ6`5XFdKQ2Ed1XOQ6b5YFaKT2Cb1ZOP6c5ZFaKT2B`1[OP6d5\\F_KU2B^1[Om5h5_F\\KW2AZ1]OX4jNSHd73eJX2@X1_OU4oNoGc7;aJY2^OW1_OR4XOjG_7c0]JY2]OW1@Q4g7^H_IY2ZOW1@P4j7_H]IZ2XOV1Bn3l7aH\\I[2UOV1Cl3o7aHZI^2TOS1Dl3Q8`HZIa2POS1Ei3V8_HXIe2mNR1Eh3Z8\\HYIi2gNS1Fg3l;UK^DR1Gh3V<lJTD[1Fn2eN_Ie=X2oC[1Gi2lN_Ia=T1TBFi1m2Fd2UO_I\\=X1SBGe1m2Ha2[<iIlBR1]OFe1m2G^2Y<WJiBh0EEa1m2J\\2U<cJfB`0KBa1n2I[2U<jJcB;1_O^1P3JX2V<RK`B74ZO^1U3HW2U<WK`B37POc1_3AV2T<[KaBOk2`2`NS2V<aK^BLl2_2aNo1W<iK\\BIk2^2cNn1W<mK[BGj2^2eN;]NQMl=a0WBFk2\\2eN9dNlLh=k0TBCk2]2eN6iN_LP>\\1gACj2\\2fN1oN`Ll=b1eA@j2]2fN0RO]LZ<6mCa1YO^Og2^2hNM\\<mLiB[1^OZOe2`2iNEa<[M`BW1CXOb2a2kN_Oc<eM[BT1FUOa2c2kNZOf<nMUBR1KQO_2d2kNXOh<TNQBo0OoN]2f2lNROj<]NlAn02jN]2i2kNoNl<bNiAl04iN\\2j2kNnNl<eNhAj06fN]2m2jNjNm<kNdAi09bN_2o2hNiNl<oNcAg0:`Na2Q3fNhNl<RObAf0;]Nb2S3gNfNi<VObAd0>YNc2V3eNeNh<YOaAd0a0RNe2\\3bNdNX;SNfCX1YOc0c0oMf2_3`NeNS;ZNfCQ1^Ob0^4^1\\MdNo:`NgCm0_Oa0`4]1[MnMPNPOl<;gCj0B`0`4]1\\MjMTNROe<a0gCf0D`0`4]1]MgMXNQO`<g0fCe0D?b4\\1]McM^NSOX<m0eCb0F?b4\\1bM\\M]NROX<X1_C`0H?a4[1dMYMa;?aB?H=c4\\1dMUMb;e0]B>J<c4\\1eMRMP:JbDP1[O<K<d4[1jM`L_M1[<e0\\Di0@:L<d4[1c:\\MZAc0B<L:e4\\1`:_MZAa0D:M:e4\\1_:aMYA`0F9N9d4]1]:dMZA>F8O8f4]1Z:gMYA=H7O8f4]1o8gLSCR1@<H608f4]1j8PMSCk0D:H716g4^1f8UMSCh0F8J616f4_1d8YMRCf0G8J535f4`1`8\\MUCb0H8J535g4_1^8`MSCa0J7I563f4`1\\8dMSC=L[2OTN4\\Ne3T3X9fMRC=MY21RN4^Nd3T3o7`LREY1XO:N6J3725^Nb3T3k7mLnDn0@8O5L3534`Nb3S3i7QMmDk0C7O4M3614cNa3Q3g7VMmDh0D603O3503gN`3P3c7ZMPEd0F503O36M1PO^3k2Z6_LoFm0ZOc0H313O37H3WOZ3i2S6nLnFa0B`0I313027F4ZOX3i2Q6RMmF?D?H332029B4^OW3h2m5XMmF<F=I420239_O5AU3h2k5\\MkF;H<I34O32:]O3EU3g2j5^MkF:HY2NTN31>ZO3FQ3k2h5_MkF:IW2OTN31b0TO9Df2T3h5`MjF9KU20TN40k0fN8O]2Y3f5bMiF9LS21TN40o0aN6Ma2`3^2^L\\LV1^M7MS22SN4OR1^N50_2c3W2cL`LR1^M7MR24QN6Nj2`Nj0c3@ZLoN=6o0`M6MR24QN7Lk2`Ni0e3]OdLgN6^OHPOV1@6MQ27oM7Kj2cNi0e3ZOiLeN1_O0oNm0EU2MSN7M:Hk2eNe0g3YOkLcN2^O2POj0FS21QN7M=Eh2iNc0i3WOmLaN2_O3QO_4IZL8Mb0_Od2PO`0k3VOmLaN2^O5QO[4NYL7Li0VOd6W3\\KnL`N3^O5SOX4OXL9Ll0cNlN4d7g3[KoL^N4^O5TOV40WL;JX1fNT6k3XKRM\\N3_O5TOT44UL;JW9d2ZISM[N5\\O2YOX2NXN6G>GV9h2WIYMVN3_OOZOW22WN5Fb0DR9n2UIYMVN4]O`3@jL6Do0ZOc8\\3TIYMVN4]O_3BiL6\\OW1AZ8`3SIWMWN6ZO]3FhL7XOY1FV8a3RIWMVN7[Ob1BcN6M7WOZ1EV8d3QIVMUN9ZO`1EbN6M7WOY1FV8f3oHVMUN9YO`1H_N7M?POo0NW8h3mHUMVN:XO^1J_N8K`0QOn0OU8j3lHUMVN9XO_1L[N:K?SOn0NT8m3jHTMWN9XO^1M[N:Ib0TOk0MV8Q4fHTMWN9XO[11ZN;Ec0ZOh0KV8U4bHTMYN8XOZ13WN=Ga0ZOh0JV8Y4_HTMYN7YOY15UN?H?YOR;V4ZFSMWN9ZOV19TN=IR=b3fDRMXN9[OHGKc0F=HP=e3fDQMWN9\\OGIIe0F;Jn<g3gDnLVN;]OFHIi0C:Lb6FUNU4jLkLXN;\\OFJHk0@90e5CcI9W5R4oLhLXN<]ODJIW1RO0>a5F_I<X5o3QMeLZN<]ODJIk2@j3IUIJ3c0^5n3TMbLZN<@AK@GBR39h3R1dNU3VM^L]N>_O_OL]OIGo27`3^1hNm2XM[L_N?_O\\ON[OIMl25Z3i1jNe2ZMYLbN>@ZOc0[Om15W3Q2jN_2]MWLcN=GQO?Fj14T3V2iN^2^MSLgN<IkNa0LY8`2VK[2`MRLhN9\\;e1ZHT2_MnKlN7V;n1]HP2`MkKmN5_:mNaD`3_4d1bMmKmN2`:oNYDO0a3g4c1bMXLcNDj:TOXDe3i4]1_M\\L`N@a:_3`Ii0UMdLcNTOd:d3cIX1`LXLROnNf:g3fI_1RLhMl9R1QJX1mKlMn9o0TJV1kKmMg7kKiIS5e2U1kKnMd7nKUIFYOZ5Q4V1lKmM`7SLXI@ZO\\5Q4T1lKoM\\7VL\\I[OZO]5R4T1kKoMo6aKeHn0[1SOiN]5\\4X1eKlMm6kLUJ\\4Y3n0dKmM^6[M`Jl3]3m0cKoMb5]KiJS2b0e3_3m0dKQNP1XKd26ZL38P2f0a3`3n0bKSNo0XKc2^3\\MY2_3Q6`LdDW2W3hMT2a3S6]LeDV2X3jMP2c3Z6fKPEd2n2SNg1c3m7fM]BQNP4h0e1a3S8_MgFQOV1_3W8XMeF]OT1Z3Z8SMcFES1X3\\8oLbFKQ1V3^8lL`F1Q1S3j8`LUF`0P1P3R9XLmEj0Q1m2X9RLhER1P1l2_>UMaAj2\\>ZMdAd2]>]McAc2]>]MbAc2^>^MbAb2^>^MbAb2]>_MbAa2^>`MbA`2Y>eMgAZ2X>hMgAX2Y>iMgAW2U>mMjAS2V>nMjAR2U>oMjAQ2V>PNiAP2W>QNiAn1T>WNjAi1V>XNiAh1W>YNhAh1W>YNiAg1T>]NjAc1U>_NjAb1T>`NkA`1U>bNiA^1S>gNlAY1S>jNkAU1V>lNiAU1U>nNiAR1V>POiAQ1V>QOgAP1Y>QOeAQ1Z>QOdAo0\\>SOaAo0_>QO`Ao0`>SO^An0`>UO^Ak0`>YO]Ai0b>YO[Ah0e>ZOXAg0g>\\OVAe0g>@VA`0j>CSA?k>DRA=l>GQA;n>Gn@;R?Hj@9V?If@9X?Lc@5\\?O`@2`?3Y@Og?5U@Lh?:Q@Jo?9i_OLW`08__OM``09Y_OJc`0?S_OEi`0l0e^OYO\\a0c73O002N1O2L4M3N2N2N2N2O1N2M3N2L4L4M3O1N2N2N2J6L4K5M2O2K5M3M4]HV[Of3Qe0WLV[Oa3nd0\\LX[O\\3md0`LX[O]3jd0aLY[O\\3id0aL[[O\\3gd0bL\\[O[3fd0cL\\[OX3id0fLZ[OU3jd0iLX[OP3od0nLT[Ok2Re0UMnZOg2Ve0XMkZOd2Ye0\\MgZO^2_e0aMbZO\\2`e0eM`ZOS2he0mMXZOj1Rf0UNnYOa1\\f0_NcYO_1`f0aN`YO]1bf0bN_YO\\1cf0dN\\YO[1ef0fN[YOX1gf0hNYYOV1if0iNWYOQ1Pg0oNPYOk0Vg0TOlXOd0[g0\\OeXO?`g0@`XO=dg0C[XO;hg0DYXO5mg0LRXOLWh04fWOGbh0:WWOHmh08lVOMVi03aVO4ai0NVVO7li0n21N1O2M3G9K5M3M3M3J5I8I7M3N1O2N2M3L4M2H9H8L4M2O2N2N2M3I6M4M3N2N101N2M3K4N3M3N2N101N1N3N2M3L4N101N2O1N2N2N2N101N101N1O2N2O2M2O001N101N1O2N2O2M101N2Nc]Q8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 1 has a smooth, rounded contour positioned centrally near where fingers would naturally grip for stability during playing, distinguishing its ergonomic design as intended for secure handling compared to surrounding components like keys or tubing which are designed for mechanical interaction rather than manual support"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_4",
+      "area": 13037,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "og^`0:mn0KfQO:Un0IgQO<Un0F_QOJ3c0\\n0i0F:H9I7K4L4D;I7F=K2^ObLXTO0N_3\\k0PMdTOY3Wk0k0K5G9N2N1O2O1N1DfJPVO]5ni0;O2O0O11dNoUOhLPj0Q3oUOhK7T1ki0o2`VOnL`i0P3eVOmL\\i0Q3fVOnLZi0Q3hVOnLYi0P3hVOQMXi0n2iVOQMWi0n2kVOQMUi0n2lVOQMVi0n2kVOQMUi0n2mVOQMSi0o2mVOQMSi0n2nVORMRi0n2oVOQMQi0o2oVOQMQi0o2oVOPMRi0P3oVOoLQi0Q3oVOoLQi0Q3oVOnLRi0R3nVOnLRi0R3nVOnLRi0R3mVOnLTi0R3lVOnLTi0R3lVOmLUi0S3kVOmLUi0T3iVOlLXi0T3hVOkLYi0U3fVOlL[i0T3cVOlL^i0T3aVOlL`i0U3^VOkLci0V3[VOkLfi0T3YVOlLhi0U3VVOkLki0T3UVOlLmi0S3QVOnLPj0Q3oUOPMSj0n1^UOPN0^O3f0`j0j1^UO_MI?3i0hj0g31O2\\MTUO0nj01QUOMRk0_22M2O2N2N2M3M3M3M3M3M3M3M3L5L3L5K4L6I6L4I7H9F:I8Fa0^OhZ^<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 2 appears as a smooth, curved interior surface within the body of the instrument without any functional protrusions, handles, edges, or mechanisms typically associated with user interaction or manipulation"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_24",
+      "area": 10700,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "i]Uc07go05L3M3N2M2O1O1N3N1O101N1O2N1O1O10O02N100O1O100O100O1O100O1O100O100O011N1O10O0100O101N100O100O100O100O100O100O100O01001N100O100O01000O10000O100O10O10O100O10000O10O10O10000O100000O0100000O010000O10O1000000O010000O10O100000O01000O10O1000000O100O010000000O010000000000O0100O100O100001O0O0100O1O1000000000O1000O100O1O100O1O100O100O100O1O1O100O2N1O100O100O1O101N100O101N100O2N101N1O1O2N101N1O2M3N2M3N2M3M5Jd]a6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 3\u2019s wide, flared bell at the end of the instrument has no functional surface for grasping, pressing, twisting, sliding, or attaching anything else \u2014 its form serves purely as acoustic output without interactive potential"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_10",
+      "area": 5837,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "TRS63lo02N1O2]POLXo04fPOOXo02gPOOYo01fPO1Xo00hPO0Xo00gPO1Yo0<O0O101O0O2O001O1N101O1O1N101O001N101O000O2O00000O2O00000O101O000O10000M3O100O10000O1O100jQO`Nkm0`1URObNjm0^1UROcNkm0^1SROdNkm0i100000001O00000000001O00000000000000O10000O10001N10000005K2O0O001O0001O0000001O00001N101cN]RO;cm0_OfRO=[m0]OlROb0Um0\\OmROc0Sm0\\OoROc0Rm0ZOQSOe0Pm0YORSOf0Tn0O2O1O10O0100O00001N101O0O101O00000O2O0000001O00001N101O001O001O0O2O1Nel]e0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 4 has a cylindrical grip design positioned at the end of the instrument\u2019s neck for secure handling during play"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_5",
+      "area": 4028,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Sh_=<^o0:H9I5K4L4L3N3L3N2N2N2N1O2N101N101N2O0O2O000O10001O0O10000000000000001OO10000000001O0O10000O2O00001O001N101N101N2M3K5M4L3M4M4L5J<@:K4KiW\\`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 5 has a rounded, bulbous form positioned near the base of the instrument\u2019s body where fingers naturally grip for stability during playing"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_7",
+      "area": 3258,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "hem=>^o07J5L4L4M3L3N2N2N2N2N2N2N101N101N10001O0O101N10000O2O000000000O11O00000000000000001O00001O00001O0O101N101N2N2N2N3L6K6I9Ec0@jYT`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 6 has a rounded, bulbous form positioned near the base of the instrument\u2019s body where fingers naturally wrap around for secure grip during play"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_16",
+      "area": 2747,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "dc[>>^o08I5L4L4M2N3L3N2N2N2N2O0O2N101N101O000O2O000000000000000000000000O1000000O101O0O101N101N1O2N2N2N2N3L6K>C1N1O2N1O2N101N1M4MV\\f?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 7 has a rounded, ergonomic contour positioned near where fingers naturally grip instruments for stability during play"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_8",
+      "area": 2406,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "h_l>;`o09I5L4K4N3L4M2M3N2N2O1N101N101O0O2O000000001O00O01001O000000000O10000O2O0O2O1N2N2M3M3L4I7N3M201N1O2N1O1O2N1N3N1N1O2NW`X?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 8 has a rounded, ergonomic contour positioned for gripping, distinguishing its function as something meant to be held securely during use"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_3",
+      "area": 2319,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "`ae>a0[o09H6K4M2M3N2N2N2N2N2O0O2O0O2O00001O00000000001O000000O1000001O000O100O2O0O1O2N1O2N2M3G9K5N2N:G1N2N1O2N2N2N]^d?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 9 has a curved, ergonomic contour designed for gripping comfortably in hand during play, distinguishing its functional purpose as something meant to be held securely unlike surrounding components which serve structural or acoustic roles"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_15",
+      "area": 2140,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ZRX9:`o09G7N2N2M3N2O0O2O1O10O01O001O010O0010O0010O0000010O01O00010O0010O010O0100O01O010O100O0100O1O1O101N1O1O1O2N1O1N2O1N1K6G9N2N2MYmhd0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 19 appears as a small protrusion near the bell of the saxophone without any functional surface for gripping, pressing, sliding, twisting, pulling, pushing, turning, opening, closing, inserting, removing, rotating, flipping, unfolding, folding, detaching, attaching, locking, unlocking, adjusting, align"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_13",
+      "area": 1061,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "n]T?4ho0<G4M2M2O2N1O1O100O100O010O001O000010O00001O00001O000O2O0O100O1O1O1N2O1N2M3N2O100O2N1N3LRb^?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 1 appears as a small circular component embedded within another larger structure without any visible protrusions for grasping or manipulation, suggesting no intended user interaction beyond its structural role in assembly"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_6",
+      "area": 1768,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "aXb?5fo06L4M3N1N3M3N2M3N2N2O4K4M2N1O2M2O1O1O001O001O000O10000001O001O0O2O1N2O1N2N3M2N2M3M4L6GigQ?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 13 appears as a small circular component embedded within the main body of the instrument without any visible protrusion, handle, lever, button, hinge, slot, opening, attachment point, grip area, trigger mechanism, pivot joint, socket interface, flange mount, screw head, knob cap, valve piston rod"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_14",
+      "area": 1696,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "V\\Y?5co0?G4K5L4M2N2N2N2N2N2N1O2O0O101N100000000000000001O0O100O100O1N2^OcQO@^n0`0cQO^O^n0b0bQO\\O`n0d0aQOZO`n0f0=01N101N3M3J6J^dZ?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 14 appears as a small protrusion near the base of the instrument\u2019s body without any functional attachment point visible in its design context for interaction"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_19",
+      "area": 1629,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "^j_<9eo04L4J7J7G9K3M3N2M2O1O2N1N2O101N100O10O102N4L2N2N1O002N2M3N2M2O0O2O1M4M3L4FlTZb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 15 appears as a small protrusion near the base of the instrument\u2019s body without any functional surface for gripping, pressing, sliding, twisting, pulling, pushing, turning, opening, closing, inserting, removing, rotating, adjusting, locking, unlocking, detaching, attaching, bending, folding, unfolding,"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_20",
+      "area": 1367,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "jiU=;co05J5L4L3M4M3L3M3N2O1N10100O1000O100000O10O010O2N3N1O1N3N1M3N1N2N2M2N3N3L4J5MiUca0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 14 appears as a small protrusion near the base of the instrument\u2019s body without any functional attachment point or mechanism for interaction visible in its design"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_18",
+      "area": 1321,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "cUe?<bo06K2N3M2N2O1N3N2M6K1O1O0010O01O001O001N1010O00101N1O1O1N2O1N2M3N1O2M2M4M4JZjT?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 15 appears as a small protrusion near the bottom of the instrument\u2019s body without any functional attachment point visible in its design context for manipulation by hand; thus, no clear interaction possibility exists compared to surrounding components like keys which are designed explicitly for finger operation"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_2",
+      "area": 1286,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "_Ze?:bo09H5L4L4L3N2N2N101N100O2O000O100O100000000001O001N101N2N3M3M3L4L9E7HdeW?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 18 appears as a small protrusion near the bell without any functional surface for gripping, pressing, or attaching anything else \u2014 unlike most labeled components which have clear interactive surfaces\u2014making its affordances effectively nonexistent in practical use despite being physically present"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_25",
+      "area": 1270,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Wie;?^o05G=I5L2M3M3M2N2O1N101O001O010O010O01O010O7I2M3N2M5J6J6H`V]c0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 19 appears as a small protrusion near the bell without any functional surface for gripping, pressing, sliding, twisting, turning, pulling, pushing, opening, closing, inserting, removing, rotating, locking, unlocking, adjusting, detaching, attaching, bending, folding, unfolding, flipping, swiveling"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_26",
+      "area": 1214,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Tc`d08fo06I5M3L4M3M2N3N1N3N100O100O100000O10O10O1000O010O100O010OO2O1N3J5I7G;Gi\\[:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 18 appears as a small protrusion near the bell without any functional surface for gripping, pressing, sliding, twisting, turning, opening, closing, pushing, pulling, rotating, inserting, removing, locking, unlocking, adjusting, detaching, attaching, bending, folding, unfolding, flipping, swiveling"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_27",
+      "area": 1179,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Rh\\a08`o0;K5L2N2N101N2N101N101N101O00001O00000000O1000001N100O2N1O2N2N2N2N2N2M3M5JVX]="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 2\u2080 appears as a flat, circular plate embedded within the body of the instrument without any protrusions, handles, edges for gripping, or functional surfaces typically associated with interactive components like keys or levers; its design suggests no intended user interaction beyond structural support"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_1",
+      "area": 1132,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "_eP<8eo04N2M5L2N2N101N1O101N100O101O000O101O0000010O0000000001O00000O2O0O2O0O2O0O2N2M4L4KgZeb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 20 appears as a small circular component embedded within another larger section of the instrument\u2019s body without any visible protrusion for interaction; its recessed placement suggests no functional interface requiring user manipulation compared to surrounding elements designed for touch or adjustment"
+        }
+      }
+    }
+  ]
+}

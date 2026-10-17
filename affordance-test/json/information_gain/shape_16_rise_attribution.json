@@ -1,0 +1,88 @@
+{
+  "object": "shape_16",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "baseline_description": "The object in the image appears to be a modern, minimalist sculpture or a functional piece of furniture. Given its design and structure, it could potentially serve as a stool or a small table. The triangular base provides stability, while the central column could be used for seating or as a surface for placing items. The smooth, sleek lines and the combination of different materials suggest it is designed for both aesthetic appeal and practical use.",
+  "method": "RISE (Petsiuk et al. 2018), region-level",
+  "M": 300,
+  "keep_prob": 0.5,
+  "rng_seed": 0,
+  "regions": [
+    {
+      "region_id": "shape_16_region_4",
+      "area": 202404,
+      "n_visible_trials": 142,
+      "n_occluded_trials": 158,
+      "mean_logprob_visible": -44.97392872017874,
+      "mean_logprob_occluded": -58.412906381148325,
+      "importance_nats": 13.438977660969584,
+      "importance_bits": 19.38834642609838,
+      "t_stat": 63.84610602661547
+    },
+    {
+      "region_id": "shape_16_region_1",
+      "area": 49061,
+      "n_visible_trials": 147,
+      "n_occluded_trials": 153,
+      "mean_logprob_visible": -52.13682670333758,
+      "mean_logprob_occluded": -51.97008863461563,
+      "importance_nats": -0.16673806872195485,
+      "importance_bits": -0.24055218487256744,
+      "t_stat": -0.2068242367548557
+    },
+    {
+      "region_id": "shape_16_region_2",
+      "area": 43792,
+      "n_visible_trials": 149,
+      "n_occluded_trials": 151,
+      "mean_logprob_visible": -52.05267216215198,
+      "mean_logprob_occluded": -52.05092009487531,
+      "importance_nats": -0.0017520672766693224,
+      "importance_bits": -0.002527698771354663,
+      "t_stat": -0.002180463250836216
+    },
+    {
+      "region_id": "shape_16_region_3",
+      "area": 11136,
+      "n_visible_trials": 156,
+      "n_occluded_trials": 144,
+      "mean_logprob_visible": -52.4699578896547,
+      "mean_logprob_occluded": -51.5987753868103,
+      "importance_nats": -0.8711825028443982,
+      "importance_bits": -1.2568506765628487,
+      "t_stat": -1.084670840919508
+    },
+    {
+      "region_id": "shape_16_region_5",
+      "area": 4141,
+      "n_visible_trials": 158,
+      "n_occluded_trials": 142,
+      "mean_logprob_visible": -51.84507896326765,
+      "mean_logprob_occluded": -52.281793030214985,
+      "importance_nats": 0.4367140669473315,
+      "importance_bits": 0.630045218671366,
+      "t_stat": 0.5423446992090017
+    },
+    {
+      "region_id": "shape_16_region_6",
+      "area": 2908,
+      "n_visible_trials": 161,
+      "n_occluded_trials": 139,
+      "mean_logprob_visible": -51.31649678390219,
+      "mean_logprob_occluded": -52.90346118186017,
+      "importance_nats": 1.5869643979579848,
+      "importance_bits": 2.289505667001324,
+      "t_stat": 1.983341107496751
+    },
+    {
+      "region_id": "shape_16_region_7",
+      "area": 1267,
+      "n_visible_trials": 154,
+      "n_occluded_trials": 146,
+      "mean_logprob_visible": -52.99788839166815,
+      "mean_logprob_occluded": -51.05385119294467,
+      "importance_nats": -1.9440371987234784,
+      "importance_bits": -2.8046528259020347,
+      "t_stat": -2.4419177062103996
+    }
+  ]
+}

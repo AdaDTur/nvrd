@@ -1,0 +1,74 @@
+{
+  "object": "backpack_amplifier",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 11 parts marked and numbered (1 to 11), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 11 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>",
+  "raw_response": "Part 1: open\nPart 2: hold\nPart 3: carry\nPart 4: put into\nPart 5: hold\nPart 6: carry\nPart 7: put into\nPart 8: hold\nPart 9: carry\nPart 10: hold\nPart 11: hold",
+  "regions": [
+    {
+      "region_id": "backpack_amplifier_region_7",
+      "area": 128306,
+      "isolated_label": "carry",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "backpack_amplifier_region_2",
+      "area": 120075,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "backpack_amplifier_region_4",
+      "area": 19221,
+      "isolated_label": "carry",
+      "comparative_label": "carry"
+    },
+    {
+      "region_id": "backpack_amplifier_region_5",
+      "area": 19771,
+      "isolated_label": "carry",
+      "comparative_label": "UNPARSED(put into)"
+    },
+    {
+      "region_id": "backpack_amplifier_region_1",
+      "area": 15672,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "backpack_amplifier_region_11",
+      "area": 6645,
+      "isolated_label": "carry",
+      "comparative_label": "carry"
+    },
+    {
+      "region_id": "backpack_amplifier_region_10",
+      "area": 3689,
+      "isolated_label": "carry",
+      "comparative_label": "UNPARSED(put into)"
+    },
+    {
+      "region_id": "backpack_amplifier_region_6",
+      "area": 5577,
+      "isolated_label": "pack",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "backpack_amplifier_region_15",
+      "area": 3811,
+      "isolated_label": "none",
+      "comparative_label": "carry"
+    },
+    {
+      "region_id": "backpack_amplifier_region_9",
+      "area": 3434,
+      "isolated_label": "carry",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "backpack_amplifier_region_12",
+      "area": 2284,
+      "isolated_label": "carry",
+      "comparative_label": "hold"
+    }
+  ]
+}

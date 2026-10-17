@@ -1,0 +1,134 @@
+{
+  "object": "chair",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "regions": [
+    {
+      "region_id": "chair_region_10",
+      "area": 36957,
+      "isolated_label": "sit on",
+      "comparative_label": "sit on",
+      "perpart_context_label": "sit on",
+      "perpart_context_prob": 0.9100758456299376
+    },
+    {
+      "region_id": "chair_region_4",
+      "area": 25908,
+      "isolated_label": "sit on",
+      "comparative_label": "sit on",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3825725223080885
+    },
+    {
+      "region_id": "chair_region_12",
+      "area": 19821,
+      "isolated_label": "none",
+      "comparative_label": "sit on",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.325999015779325
+    },
+    {
+      "region_id": "chair_region_16",
+      "area": 16036,
+      "isolated_label": "sit on",
+      "comparative_label": "sit on",
+      "perpart_context_label": "sit on",
+      "perpart_context_prob": 0.605125904665899
+    },
+    {
+      "region_id": "chair_region_15",
+      "area": 15416,
+      "isolated_label": "none",
+      "comparative_label": "sit on",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.28010525563859706
+    },
+    {
+      "region_id": "chair_region_35",
+      "area": 14472,
+      "isolated_label": "cut with",
+      "comparative_label": "sit on",
+      "perpart_context_label": "sit on",
+      "perpart_context_prob": 0.5433882372300484
+    },
+    {
+      "region_id": "chair_region_13",
+      "area": 12939,
+      "isolated_label": "cut with",
+      "comparative_label": "sit on",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.34359794530999815
+    },
+    {
+      "region_id": "chair_region_31",
+      "area": 8061,
+      "isolated_label": "none",
+      "comparative_label": "sit on",
+      "perpart_context_label": "hit",
+      "perpart_context_prob": 0.4167156853060895
+    },
+    {
+      "region_id": "chair_region_41",
+      "area": 8108,
+      "isolated_label": "none",
+      "comparative_label": "sit on",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.33769769565206126
+    },
+    {
+      "region_id": "chair_region_1",
+      "area": 8690,
+      "isolated_label": "none",
+      "comparative_label": "sit on",
+      "perpart_context_label": "sit on",
+      "perpart_context_prob": 0.6173490775716597
+    },
+    {
+      "region_id": "chair_region_22",
+      "area": 6900,
+      "isolated_label": "none",
+      "comparative_label": "sit on",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3442487663906548
+    },
+    {
+      "region_id": "chair_region_3",
+      "area": 5370,
+      "isolated_label": "none",
+      "comparative_label": "sit on",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.2863649120118805
+    },
+    {
+      "region_id": "chair_region_2",
+      "area": 5354,
+      "isolated_label": "none",
+      "comparative_label": "sit on",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.43025003066232215
+    },
+    {
+      "region_id": "chair_region_7",
+      "area": 5329,
+      "isolated_label": "none",
+      "comparative_label": "sit on",
+      "perpart_context_label": "sit on",
+      "perpart_context_prob": 0.4048829053203781
+    },
+    {
+      "region_id": "chair_region_6",
+      "area": 5274,
+      "isolated_label": "none",
+      "comparative_label": "sit on",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.32338066757568895
+    },
+    {
+      "region_id": "chair_region_48",
+      "area": 4345,
+      "isolated_label": "none",
+      "comparative_label": "sit on",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.37458086358322595
+    }
+  ]
+}

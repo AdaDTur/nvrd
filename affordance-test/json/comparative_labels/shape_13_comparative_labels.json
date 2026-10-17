@@ -1,0 +1,44 @@
+{
+  "object": "shape_13",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 6 parts marked and numbered (1 to 6), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 6 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>",
+  "raw_response": "Part 1: cut with\nPart 2: hold\nPart 3: eat\nPart 4: cut with\nPart 5: hold\nPart 6: throw",
+  "regions": [
+    {
+      "region_id": "shape_13_region_1",
+      "area": 240029,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "shape_13_region_2",
+      "area": 242657,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_13_region_8",
+      "area": 52857,
+      "isolated_label": "cut",
+      "comparative_label": "eat"
+    },
+    {
+      "region_id": "shape_13_region_3",
+      "area": 22858,
+      "isolated_label": "cut with",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "shape_13_region_6",
+      "area": 2387,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_13_region_7",
+      "area": 1374,
+      "isolated_label": "none",
+      "comparative_label": "throw"
+    }
+  ]
+}

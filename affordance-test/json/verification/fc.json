@@ -1,0 +1,205 @@
+{
+  "A1_tokenization_boundary": {
+    "pass": true,
+    "detail": "joint tokenization == prompt + standalone option ids for 38/38 options (13 are multi-token); mismatches: []; every option ends in <|im_end|>"
+  },
+  "A2_cache_scorer_matches_full_forward": {
+    "pass": false,
+    "detail": "worst per-option |\u0394logp|=0.529 nats over 3 prompts x 38 options (bf16 noise expected <~0.3; a position/cache bug would be multi-nat); top-1 identical on 3/3; worst softmax-prob diff=0.0163",
+    "per_case": [
+      [
+        "ladle part 1",
+        0.3177095125429332,
+        0.017510272976084564,
+        0.3177095125429332
+      ],
+      [
+        "ladle part 3",
+        0.2797173596918583,
+        0.010829871839010402,
+        0.2797173596918583
+      ],
+      [
+        "shape_16 part 2",
+        0.5290657989680767,
+        0.020997996684041266,
+        0.5290657989680767
+      ]
+    ]
+  },
+  "A3_no_cache_contamination": {
+    "pass": true,
+    "detail": "scoring options in reverse order changes logp by at most 0.0000 nats"
+  },
+  "A4_deterministic": {
+    "pass": true,
+    "detail": "repeat call max |\u0394|=0.00e+00"
+  },
+  "A5_argmax_matches_greedy_generation": {
+    "pass": true,
+    "detail": "greedy generation == scored argmax on 3/3 prompts; probability mass on the 38 listed options (pre-softmax): [0.791, 0.787, 0.645]",
+    "cases": [
+      [
+        "ladle part 1",
+        "hold",
+        "hold"
+      ],
+      [
+        "ladle part 3",
+        "stir",
+        "stir"
+      ],
+      [
+        "shape_16 part 2",
+        "none",
+        "none"
+      ]
+    ]
+  },
+  "A6_option_order_sensitivity": {
+    "pass": true,
+    "detail": "top-1 label identical across all 6 orderings for 3/11 parts; mean fraction of shuffled orderings agreeing with the canonical order = 0.58 (informational -- <1 means the label depends partly on list position)",
+    "rows": [
+      [
+        "ladle",
+        1,
+        [
+          "hold",
+          "pick up",
+          "type on",
+          "none",
+          "type on",
+          "none"
+        ]
+      ],
+      [
+        "ladle",
+        2,
+        [
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      ],
+      [
+        "ladle",
+        3,
+        [
+          "stir",
+          "stir",
+          "stir",
+          "drink with",
+          "none",
+          "stir"
+        ]
+      ],
+      [
+        "ladle",
+        4,
+        [
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      ],
+      [
+        "shape_16",
+        1,
+        [
+          "hold",
+          "cut with",
+          "pick up",
+          "hold",
+          "wear",
+          "none"
+        ]
+      ],
+      [
+        "shape_16",
+        2,
+        [
+          "none",
+          "none",
+          "none",
+          "lift",
+          "none",
+          "none"
+        ]
+      ],
+      [
+        "shape_16",
+        3,
+        [
+          "none",
+          "none",
+          "none",
+          "hold",
+          "none",
+          "none"
+        ]
+      ],
+      [
+        "shape_16",
+        4,
+        [
+          "hold",
+          "hold",
+          "ride",
+          "pick up",
+          "pick up",
+          "wear"
+        ]
+      ],
+      [
+        "shape_16",
+        5,
+        [
+          "none",
+          "none",
+          "type on",
+          "none",
+          "none",
+          "none"
+        ]
+      ],
+      [
+        "shape_16",
+        6,
+        [
+          "hold",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      ],
+      [
+        "shape_16",
+        7,
+        [
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      ]
+    ]
+  },
+  "A7_controls": {
+    "pass": true,
+    "detail": "blank gray image top-3 (informational): [('none', 0.348), ('hold', 0.111), ('pick up', 0.076)]; ladle: mean total-variation between parts' distributions on the same overlay = 0.51 (0 would mean the part index is ignored)"
+  },
+  "A8_sequence_logprob_matches_hf_loss": {
+    "pass": true,
+    "detail": "sequence_logprob=-41.035 vs HF-loss-derived=-41.035 over 84 tokens; prompt ids are an exact prefix of prompt+D0 ids: True"
+  }
+}

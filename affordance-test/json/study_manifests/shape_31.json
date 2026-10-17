@@ -1,0 +1,157 @@
+{
+  "vocabulary": [
+    "beat",
+    "boxing",
+    "brush with",
+    "carry",
+    "catch",
+    "cut",
+    "cut with",
+    "drag",
+    "drink with",
+    "eat",
+    "hit",
+    "hold",
+    "jump",
+    "kick",
+    "lie on",
+    "lift",
+    "look out",
+    "open",
+    "pack",
+    "peel",
+    "pick up",
+    "pour",
+    "push",
+    "ride",
+    "sip",
+    "sit on",
+    "stick",
+    "stir",
+    "swing",
+    "take photo",
+    "talk on",
+    "text on",
+    "throw",
+    "type on",
+    "wash",
+    "write",
+    "wear",
+    "none"
+  ],
+  "models": [
+    "qwen3-vl-8b",
+    "internvl3-8b",
+    "molmo2-8b"
+  ],
+  "regions": [
+    {
+      "part": 1,
+      "region_id": "shape_31_region_47",
+      "labels": {
+        "qwen3-vl-8b": "sit on",
+        "internvl3-8b": "carry",
+        "molmo2-8b": "drink with"
+      }
+    },
+    {
+      "part": 2,
+      "region_id": "shape_31_region_50",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "carry",
+        "molmo2-8b": "drink with"
+      }
+    },
+    {
+      "part": 3,
+      "region_id": "shape_31_region_46",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "eat",
+        "molmo2-8b": "drink with"
+      }
+    },
+    {
+      "part": 4,
+      "region_id": "shape_31_region_45",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "hit",
+        "molmo2-8b": "beat"
+      }
+    },
+    {
+      "part": 5,
+      "region_id": "shape_31_region_51",
+      "labels": {
+        "qwen3-vl-8b": "hold",
+        "internvl3-8b": "carry",
+        "molmo2-8b": "drink with"
+      }
+    },
+    {
+      "part": 6,
+      "region_id": "shape_31_region_3",
+      "labels": {
+        "qwen3-vl-8b": "hold",
+        "internvl3-8b": "carry",
+        "molmo2-8b": "drink with"
+      }
+    },
+    {
+      "part": 7,
+      "region_id": "shape_31_region_2",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "pick up",
+        "molmo2-8b": "drink with"
+      }
+    },
+    {
+      "part": 8,
+      "region_id": "shape_31_region_31",
+      "labels": {
+        "qwen3-vl-8b": "hit",
+        "internvl3-8b": "hit",
+        "molmo2-8b": "drink with"
+      }
+    },
+    {
+      "part": 9,
+      "region_id": "shape_31_region_29",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "hit",
+        "molmo2-8b": "drink with"
+      }
+    },
+    {
+      "part": 10,
+      "region_id": "shape_31_region_48",
+      "labels": {
+        "qwen3-vl-8b": "hit",
+        "internvl3-8b": "hit",
+        "molmo2-8b": "beat"
+      }
+    },
+    {
+      "part": 11,
+      "region_id": "shape_31_region_37",
+      "labels": {
+        "qwen3-vl-8b": "hit",
+        "internvl3-8b": "hit",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 12,
+      "region_id": "shape_31_region_32",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "hit",
+        "molmo2-8b": "none"
+      }
+    }
+  ]
+}

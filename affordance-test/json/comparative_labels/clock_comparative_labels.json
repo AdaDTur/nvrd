@@ -1,0 +1,98 @@
+{
+  "object": "clock",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 15 parts marked and numbered (1 to 15), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 15 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>",
+  "raw_response": "Part 1: beat\nPart 2: beat\nPart 3: beat\nPart 4: beat\nPart 5: beat\nPart 6: beat\nPart 7: beat\nPart 8: beat\nPart 9: beat\nPart 10: beat\nPart 11: beat\nPart 12: beat\nPart 13: beat\nPart 14: beat\nPart 15: beat",
+  "regions": [
+    {
+      "region_id": "clock_region_1",
+      "area": 464620,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_10",
+      "area": 3336,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_6",
+      "area": 3274,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_8",
+      "area": 3172,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_21",
+      "area": 2910,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_9",
+      "area": 2763,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_12",
+      "area": 2641,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_4",
+      "area": 2570,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_19",
+      "area": 2502,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_14",
+      "area": 2512,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_2",
+      "area": 1457,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_3",
+      "area": 1464,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_7",
+      "area": 1432,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_11",
+      "area": 1369,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    },
+    {
+      "region_id": "clock_region_22",
+      "area": 1236,
+      "isolated_label": "none",
+      "comparative_label": "beat"
+    }
+  ]
+}

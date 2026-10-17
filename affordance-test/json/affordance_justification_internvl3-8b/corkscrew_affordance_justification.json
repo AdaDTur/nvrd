@@ -1,0 +1,332 @@
+{
+  "object": "corkscrew",
+  "model": "OpenGVLab/InternVL3-8B-hf",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/known/corkscrew.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "corkscrew_region_17",
+      "area": 22126,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "V]Uc03P31gi02WVO0fi02ZVO0^i07`VOKZi09gVOIVi08jVOJTi05mVOLQi06mVOLSi02nVO0Pi01oVO2oh0CVTO0j2a0Xi0_OgVOb0Yi0^OfVOe0Xi0ZOgVOh0Xi0YOgVOj0Wi0UOiVOo0Ti0POkVOR1Ti0SOgVOm0Xi0UOfVOo0Wi0QOiVOS1Ri0oNmVOS1Ri0mNlVOX1Pi0hNfTODS2g1Ui0lNjVOU1Ui0kNjVOZ1Ri0gNlVO[1Ti0dNkVO`1Ri0aNlVOd1aNmMgi0c0ZWOf2bh0[M\\WOh2bh0ZMZWOi2eh0XMYWOj2fh0XMVWOk2hh0XMUWOk2hh0WMUWOP3dh0UMVWOR3dh0UMQWOU3ih0S2N2M5K5L4L4M3L4M3N1N2NiHoWOb6og0[ITXOf6jg0XIYXOi6fg0TI]XOP7`g0lHcXOW7[g0eHiXO\\7mg000fJRXOa2Ph0XMYXOe2eg0YMaXOg2[g0lKjWOd0Q1_3Sg0dKWXOg0l0e3jf0dK[XOe0P1f3cf0cK_XOe0R1g3Yg0ULlXOi3Ug0TLoXOj3Qg0TLSYOl3kf0RLYYOm3ff0QL]YOQ4_f0nKeYOR4Yf0lKkYOS4Tf0lKoYOT4oe0jKUZOV4ie0iKYZOW4he0eK\\ZOZ4hh0OO11O01O00N2N2M300O101N011N1O1O1O1N2O0O3N1N1O2N3N0O2N2N2N2NO100002N2N2N2N2N2N1O2N2N2N2O1N2N2N1O2N101N3M2N2N100O1O2N100O00100O00100O010O010O10O0010O10O010O0100O0100O01000O1O10000O100000O1N101MnQOZNnm0e1PRO_Nom0j1O10001O00001O1O001N200N2O1O1O1O100N201N1O2O0O2N2O0O0100N2N2N2M3N2M3N2M4L4L4K5L5J6J6I>@nRT6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The slender elongated tip of Part 1 suggests precision cutting functionality distinct from broader tools like pliers in its vicinity for gripping tasks"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_1",
+      "area": 19054,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "hk]<a0nn0c0]Ob0L3M4M2O1N3N1O2N1N2O2N100O1O2N1O1O1O1O100O2O0O10000000001O0000000001O00000001O00000O10000001O001O010O00001O000000000000000000000001O0000000000000000000000000001O000000000000000000000000000001O000000000001O000000000000000000000000000000O1000000000000001O0000000000000000O01000000000000000000000000000000000O10000000000000000000000000000O1000O1000O1000000000000O100000000O100000000000O10000000O10000001O0O2O001O1O1O1O1O001N2O1O1O1O1N2O1O2M2O1N3N3L4L5JYU_<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "lift",
+          "justification": "The cylindrical base of Part 2 suggests stability for support when lifted compared to its distinct separation from movable components like Parts 3-5 which are designed primarily as handles rather than bases meant to be held steady while being manipulated by hand movements elsewhere in tool operation mechanisms depicted here; thus differing functionally despite similar materials potentially used"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_14",
+      "area": 16938,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "g^k;3go08K8H4M3QQOYObn0h0]QO[Oan0f0[QO^Ocn0b0]QOA]n0c0cQO^O[n0b0eQO@Xn06UROIjm06XROKgm02]RONam00cROO\\m01gRONXm02iROMVm03kRONSm02oRONol02SSOMll04TSOMjl03XSOLhl04XSOMfl04ZSOLfl03\\SOMcl03]SOMbl04^SOLbl04^SOMal02aSOM^l04bSOL^l04bSOM]l03cSOM\\l05cSOK]l05bSOL^l04bSOM]l03cSOM]l03cSOM]l04bSOL^l04aSON^l03aSOM_l03`SON`l03_SOMal03^SOOal02]SOOcl02[SO0dl02XSO0hl01VSO2hl0OVSO3il0OSSO6jl0LRSO7ml0MiRO:Vm0[1M1O1N2O1O1O001O1O001O1O0O3N1O003L2O001N100M4N010O100O100O100N2O100O101O0N102N1O1O1D=I6M3O100O101OO02WMXKXZOh4ge0ZKWZOg4ie0YKWZOg4he0[KWZOe4ie0[KVZOf4je0ZKUZOg4Rd0YKoZO2m0f4Sd0ZKoZO1d0n4]d0VKjZO3fNBg1V5hd0XKiZO5>c4jd0ZKeZO3`0d4kd0ZKcZO4a0a4nd0\\K_ZO3c0a4od0\\K]ZO2e0a4od0^KZZO2g0_4Pe0`KVZO3j0m2[NhL=0Yf0;[YO_O;d0Y1T2[NUMah0e0_WOi0e1b0ng0:RXOdN^NPOOOTj0^2_WOcNoh0]1QWOcNnh0^1RWObNnh0]1RWOdNnh0\\1RWOdNmh0]1SWOcNnh0\\1RWOdN[NnN020O5OM4N000Qi0Z2dXO?Sg0AmXO`0Sg0_OmXOd0of0]OQYOd0mf0]OSYOc0lf0^OTYOc0kf0]OUYOb0kf0_OUYOZN[ND0A42LO46LI0042\\h0_2UYOZN=UO`f0P1_WO;d1@Si04mUOIP13Ti02oUOIm09[NVO0L0O=5Pi0h0\\WOHl0Q1[NmN0]Oe02dg0i0aXOJk0T3Xf0QMmXOKl0W3Sf0mLRYOLk0X3Sf0jLSYONj0X3Vf0gLQYO1h0Y3Uf0fLTYO1g0Y3Vf0cLUYOEQO4d1d3Vf0bLVYOFPO4d1d3Wf0ZLTXOJS13nN5d1d3\\f0RLSXO0P16lN4e1d3mg0VL_VO6e1c3lg0WL_VO6e1c3mg0UL`VO7c1c3Wh0\\LjWOd3Wh0[LjWOc3[h0XLfWOi0[NVOL:2HOMj00Rl0g0_2ZOePO9ao000000001O01O001OO101N10010O0O2O2Mcce>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like tip of Part 3 suggests its use for cutting due to its sharp edge designed for incisions, differing in function compared to gripping Parts like those used for holding tissue around it"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_9",
+      "area": 18379,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "PRX<3lo02O1N101OO01N10010O10O1000O0100OUROKmk05dSO?Wl0@gSOi0Sl0WOjSOR1ok0oNkSOX1Tl0hNhSO`1Tl0`NjSOe1Sl0ZNlSOk1Ql0UNmSOQ2nk0PNPTOV2lk0jMSTOZ2jk0eMTTO`2jk0`MUTOd2hk0\\MVTOi2fk0XMYTOk2ek0UMZTOf08d0[k0fN[TOd0h0=kj0oN]TOb0P1;bj0SO^TO`0U1:]j0VO[TOb0^15\\NTOak06dTO`0c1<hi0SObTOd0l15ai0WObTOd0Q23[i0ZOdTOb0S24Xi0ZOdTOc0Y2OQi0_OfTOa0\\2Omh0@gTO`0_2Oih0@iTOa0`2Mgh0BhTOa0e2Kbh0DiTOa0g2J_h0EiTOb0j2H[h0FmTO`0j2JXh0FnTO`0l2IUh0GPUO?m2HSh0HoTOa0Q3Fog0IoTOb0S3Dmg0KPUOa0T3Dkg0KPUOb0U3Ckg0KPUOa0W3Dhg0KQUOa0Y3Beg0MRUOb0[3@bg0NSUOb0[3_Ocg0OQUOb0]3@ag0MSUOc0\\3@ag0NQUOc0^3@`g0LSUOd0]3A_g0KSUOe0^3@_g0KSUOd0_3EYg0GYUOd0^3FXg0GYUOc0_3GWg0E[UOd0^3GWg0EZUOd0`3ITg0C\\UOd0a3IRg0B^UOe0`3IQg0a0PYO_Oof0a0RYO^Onf0a0TYO^Okf0c0VYO]Oif0c0WYO]Oif0b0YYO^Off0b0ZYO^Oef0c0\\YO]Ocf0c0]YO_Oaf0a0_YO@`f0`0_YOAaf0>`YOC_f0=bYOB^f0>bYOB^f0>aYOD]f0=cYOD\\f0;eYOE[f0;eYOFZf0:gYOEYf0;gYOFXf0:hYOGWf08jYOIUf07lYOISf07mYOJRf06nYOKQf05nYOLRf04oYOLPf04oYOLRf04nYOLRf04nYOKSf04mYOMRf04oYOKQf05oYOJRf06lYOLTf04kYOLVf04iYOLXf04hYOLXf04gYOLZf04fYOJ\\f06eYOJZf06fYOI[f07fYOHZf08RZO[Ooe0e0SZOXOne0h0e40000000000000000000000000000000000000001O001O1O00000001SWOYORJJTh0m0d]OI[b07b]OL^b04`]OO_b01]]O3cb0M[]O5fb0JV]O:jb0FS]O=mb0CQ]O?ob0An\\Oa0Sc0_Ol\\Ob0Tc0^Ok\\O6RKPOTh0j0i\\OGSd0:k[OGUd09k[OFWd09h[O]Ocd0c0\\[O[Ogd0e0Y[OXOjd0i0S[OWOod0i0P[OWOQe0i0fZOTOaK3ji0i0dZOVOaK1li0h0aZOC_e0>_ZOBbe0>^ZOBbe0>jYOQOhLa0_i0>hYOSO_LN0a0ii0?gYORO[L43;li0?eYO^O^L2ni0`0dYO4]f0KbYO5_f0KaYO5_f0L_YO4cf0K]YO5cf0K^YO4bf0L]YO5cf0L]YO3cf0M\\YO4df0L\\YO4ef0KZYO6ff0JZYO5gf0LWYO5if0KWYO4kf0KUYO4lf0LSYO5mf0LmXOQOjLS1Yj0LlXO:Tg0FkXO:Vg0GhXO:Yg0EeXO<\\g0EaXO<`g0D^XO=cg0C[XO?eg0BXXO?jg0ARXOb0ng0^OPXOd0Ph0]OmWOd0Th0]OhWOf0Yh0ZOcWOh0^h0ZO\\WOi0eh0YOWWOh0jh0YORWOj0oh0XOlVOi0Ui0ZOeVOh0\\i0YO_VOj0bi0WOYVOl0ii0VOoUOn0Rj0YO\\UOR1dj0U20O2O0O101N1N2O1O2N100O1O2N1O1O1O2N1O1L5N1O2M2O2N1N3N1N3M2O2N2L3N3M3M3M3L4M3L4M3L5K4J7L3J7J7I6J8F;DVmc;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "The wide opening at top suggests use for drinking liquids directly into mouth; its positioning as bowl-like indicates functionality distinct from gripping tools around it"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_5",
+      "area": 17656,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ZSW=g0Uo0>C8I5L6I4M4L3M4M3L4L3N3L3N2N2M3N2N2M2O1O1O0O2O001O0O100000000O1000000O01000000O010000O10O10000000O10O100000O1000O1000O1000000000O100000O100000000000000000000000O100000000000000000000001O0000000000000000000000000000000001O0000000001O00000000000001O01O000001O01O000001O0001O01O0001O0001O0001O01O000000001O0O100O2O0O1O2N1N3M2N3M2N3L3N3M3L4L5J6L3L6K5J4K5K7H<^OhlU="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "The cup-like structure of Part 5 suggests its use for holding liquids compared to more complex tools like scissors in Parts 6-8 which are designed for cutting rather than drinking functions"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_18",
+      "area": 16252,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "dde95go05J5M4L3L4O1N2L4M3K5M4K3O3N001O1dKdNoYOa1Pf0bNkYOa1Tf0aNgYOc1Yf0^NcYOe1\\f0]N_YOh1`f0XN^YOi1ee0jMlWO>\\2j1fe0lMlWO:Z2n1ie0kMkWO7Z2Q2ie0jMlWO6X2Q2me0jMiWO7S2U2Sf0eMjWO8n1V2Xf0cMiWO8k1X2\\f0aMhWO7j1Z2^f0_MhWO8h1Z2af0^MeWO9i1Z2bf0^McWO9g1]2ff0ZMXWOf0l1T2mf0`NoXOd1Pg0^NjXOe1Xg0[NfXOf1Zg0\\N`XOh1`g0YN\\XOj1eg0UNWXOR2POQL_h0n1\\XO]2dg0fMQXOa2og0i2OO100O1N3L3N2M002O1N_OUIRXOj6kg0\\IRXOc6Ph0`ImWO^6Vh0dIgWOZ6[h0hIcWOY6]h0d01N3L3M4L3M4M4L4J5VK`VOP3di0hL\\VOgN0\\4ji0lLWVOfN1\\4ji0lL`VOn2bi0oLdVOm2]i0mLjVOXOWO[3Sj0]MiVOROXOY3Vj0dMnVOY2Si0fMoVOU2Ui0hMPWOT2Ri0lMoVOP2Ti0oMnVOn1Ti0PNnVOn1Ti0QNnVOk1Ui0UNlVOh1Vi0WNkVOf1Xi0XNkVOe1Wi0[NjVOc1Wi0\\NkVOb1Vi0]NkVOa1Wi0^NkVO_1Vi0bNjVO[1Yi0dNhVO[1Xi0fNiVOW1Yi0hNhVOV1Yi0kNhVOR1[i0mNeVOn0`i0QOaVOl0ci0SO^VOk0ci0UO]VOj0ci0VO^VOh0di0XO]VOc0fi0^OZVO?ji0_OWVO>li0BTVO<oi0CRVO;oi0EQVO:Qj0EoUO;Rj0DnUO;Rj0FoUO8Sj0GmUO8Tj0HlUO8Tj0HlUO9Tj0FmUO:Rj0FnUO;Qj0EPVO;oi0ERVOb0gi0]OZVOX1oh0iNTWOb2_g0]MbXOW3^MeL4j0dg0[OlZOg4Se0YKP[Od4od0]KR[Oc4md0]KT[Oc4kd0]KW[Oa4id0^KX[Oc4hd0\\KY[Oc4gd0]K[[Ob4ed0]K[[Ob4hd0[KZ[Od4hd0ZKX[Oe4jd0YKX[O\\1kLgN[n09U1N3M2O2N2NU_Rb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like tip of Part 6 suggests its use for cutting due to its sharp edge designed for incisions, differing in function compared to gripping Parts like those used for holding tissues"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_16",
+      "area": 11447,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "j_R`071L0130M30Min0T1N1N1010O0000000000000000000000000000UNiN\\SO1K1O15?Kh0Rl0QOnSOo2Rl0`000O1010O0O20N1O100GUL\\TOl3ck0VL\\TOj3dk09O11N101O001O9G1O001N101O001O0O2O001O001O000O2O001O00001O01O00010O001O1O2N1O101N4Lo0QO10O01OO100O1XOh0E;G9iMaSOg0el0TOeSOb0`l0[OfSO=_l0BdSO8`l0GbSO5al0IbSO4`l0KbSO7[l0HgSO8Xl0GiSO9Wl0FkSO:Tl0FmSO8Ul0FmSO9Sl0GmSO8Tl0HmSO6Tl0ImSO7Sl0ImSO6Tl0JmSO5Sl0KmSO4Tl0LlSO4Tl0LlSO4Ul0KkSO5Ul0KkSO4Vl0LjSO4Wl0KhSO6Xl0KgSO4Zl0LfSO4[l0LcSO5]l0KcSO4^l0M`SO4al0K_SO5al0K^SO5dl0K[SO5fl0LWSO4jl0MTSO4ml0LQSO4Qm0LlRO6Tm0LiRO4Ym0McRO5^m0M\\RO5em0R12N4L2E;N3L3N3L4M2M5J8Ecae;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like tip of Part 7 suggests its use for cutting due to its sharp edge designed for incisions, differing in function compared to gripping Parts like those used for holding tissue"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_26",
+      "area": 10688,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "QmT6c0Uo09K6H8H7J6K4N3K4N2M3L4M3K5O1O0N3N1O0N1001J7M2O0O2N1O102H]RORNem0o1410O001N10O01O101O1OO10O1000O11O1O1N2O1OO2N100O20O2N1O1OO2N11O010O10O10O01O0N30O10O010O01000O0O2O01000O2M2O01M4O001N3NO1N2O0O2O1N2N2N2N1O2N2N2O1M2O2M3O1N2N2N2N2N2N2N2O1N20O2O001O1O1O1O1O1O2M102N0O2O1N2N2O1N2M4M1O3L3M4M1N3M2N3EoQOfNRn0W1RROgNom0W1>M3M3M4FUQOZOnn0c0:L3M4M3GY[Qe0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like tip of Part 8 suggests its use for cutting due to its sharp edge designed distinctively compared to gripping functions seen in surrounding components like handles positioned nearby but lacking similar features as itself"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_19",
+      "area": 8538,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "]bf=_3\\k0V1M2N3N0010O0]NlTOlLdl0`2^SObMQm0Y2>^NbROXOh01nl0d0]1EkPOJWo04kPOKTo06mPOHTo07mPOISo07nPOGSo0:90000000000000001O01N11O00000011N2N2N3M1O10OO200O2N2N1O1O001OO100O1JkTO]OYg0c0dXOA[g0>eXOC[g0=cXOF\\g0:cXOG\\g0:cXOG[f0EoUO012=g0W3B^e0Z2bZOfM\\d0EPXO202Oo2T1oLV19ge0]3RYO\\LU17je0]3QYO]LS17ke0]3QYO^LF=MG]g0^3PYO^L^Oh01]Obg0\\3oXOTN]O_Neg0]3nXOUN[O_Nhg0DkWO20[3R1bNYO\\N^h0FWWOn2R1QOWO\\Nfh02QWOL050l0Q1h0UOYNkh0FnXONSNb0o0b1TOXNWk06eUOc1ROXNMFUk0?lUOd1PO`NSk0LmUO_2Sj0aMmUOb2Pj0^MPVOc2oi0]MQVOc2oi0]MQVOd2ni0\\MRVOc2oi0]MQVOc2oi0\\MSVO[2POTMnj0a0RVOZ2Vj0fMkUOX2Vj0hMhVOY1Yi0gNlVOR1Vi0nN]WO>dh0B^WO9eh0G^WO5ch0K`WO0bh00_WONbh02^WOMch03^WOKch06`WOEah0;dWO^O^h0a0a300000O2O000010O00O11N100O1M31O1O001N0100O1M3O1O100O001O1O100O0100000001O001N1bPOEWo0<fPOGYo0a0O001O0010N100O2I6>mPOa0D6`k0k20O2O0O1N3O3TLVTOZ3il0^O^1cN1N2NV\\^="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like tip of Part 9 suggests its use for cutting due to its sharp edge designed distinctively compared to gripping functions seen in surrounding handles and levers"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_11",
+      "area": 6968,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "WSc;5fo0?D9D9I:G7I8H4M4K4M4M4K4M4L3N1M3M2N102M3M4L4L2N2O1N3N1N3N1N3N2M2O001N2O2MXMbTO`NM[2`k0oNTUOhNZOP2_k0VOaUOj0^j0SOkUOg0Uj0SORVOm0mi0oNZVOo0ei0oN`VOn0_i0QOfVOm0Yi0QOmVOm0Ri0POTWOm0jh0nNjTOB`2^1eh0PObWOn0]h0ROgWOl0Yh0SOjWOj0Vh0UOmWOj0Sh0TOQXOj0Sh0oNQXOP1og0mNTXOS1`k0M4K01000O101OO10O100O010O10000O010O010O000O2O0010O0100O4MO01O010O2OO010O00010O01N101O100O1O10O10O0100O101N3dQOLgl04YROD:c0]m0HXROn0hm0SOWROn0im0POWROQ1jm0nNWROQ1nm0bNTROOO_1\\n0N3N3M2N3M1N3N1N2N2Nd0XOVg^`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pour",
+          "justification": "The funnel-shaped structure of Part 1 suggests its use for directing liquids into narrow containers without spilling, unlike most surrounding components which are designed more generally as handles or connectors in various orientations"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_28",
+      "area": 4477,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "oeX?3lo03dQOOO5cNIUl05TUO4M8lj0FTUO6M6nj0ERUO8M8nj0ASUO:L7Pk0@RUO;L6Qk0AQUO;L6Rk0@PUO<M4Rk0BoTO<M3Sk0CnTO<M3Tk0BmTO=M2Uk0ClTO=N0Vk0DkTO=M0Wk0EjTO<N0Xk0DiTO>NNXk0FhTO>NM[k0EfTO?MN\\k0DeTO`0NL^k0DbTOb0NKdk0@\\TOf0OKfk0_OZTOg0OJik0^OVTOj0OIlk0V1QTOkNPl0b21O1O1N2O1dMjSOl0Wl0POmSOo0Sl0POoSOo0Rl0nNRTOP1ok0mNWTOo0jk0oNXTOP1ik0oNXTO8@\\OYl0:YTO1[OTO8`0Tl0:[TO0GEok09\\TO1EFPl07]TO1EGok05`TO1DHnk02eTO1^OMnk0OgTO0^O1nk0KgTO1\\O4hn00001O0000000O10000000000000000000000000001O00000000000000001O00000O101O000000000O10000000000O2O0O020N101NZVf="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 1 suggests its function for cutting due to its sharp edge designed distinctively compared to gripping components like handles seen in adjacent Parts"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_12",
+      "area": 2238,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "oU[>3lo02N101N2O1O001O0O0100O1O12N1N101O00O1001N101O00O1001OO11N0100O1O10000O100O1000000001O1O0O7`POASo0g0O1O0WQOVO\\n0k0bQOWO]n0i0`QOZO`n0g0^QO[Oan0f0^QOZObn0Q1100O1O2O0O1O1O1L400O1O10000001OO100O1O1L400001OO100O2M2N2O1N2O1O1001O2O0O0fPOASo0`0kPOBTo0=mPOCSo0=kPOFUo0b001O00O100BlPOOVo00nPOJTo05nPOISo05=01O001N101NRjW>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pour",
+          "justification": "The funnel-shaped structure of Part 10 suggests its use for directing liquids into narrow containers without spilling, unlike most surrounding components which are more rigidly structured tools like scissors or clamps"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_22",
+      "area": 1062,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "feoa0g02G001G0Ngm0Q3RO1N110O01N110N101NYZe="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part Thirteen suggests its use for cutting due to its sharp edge designed distinctively compared to gripping components like handles seen in adjacent labeled sections which are meant more likely intended for holding rather than slicing through materials directly as indicated by their broader grips without pointed edges typical associated tools used similarly but functionally differing"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_15",
+      "area": 1089,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Y]ka03lo02O0IO^PO3_o08K6N100O101O0000000000001O01O001N4M2M110O1O010O0O2O0000000001N0O2O0J1iPOBQo02nPO;Xo061N11O0O10EhPOJ]o0670O100001O001;E1O0O0100O1N3N=BRcV<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 1 suggests its function for cutting compared to more grasping or supporting shapes seen in adjacent components like those used primarily as handles or connectors elsewhere around it"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_6",
+      "area": 1764,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "jaY?l0So02O1N2O001O001O000000000000000000O10000000000000000000O101O0000001OO10000000001O00O100000O2O0O1O2N1M4E`^R?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 1 suggests its function for cutting compared to more complex gripping mechanisms seen in surrounding components like handles labeled nearby which are designed primarily for grasping rather than slicing through materials directly due their broader surfaces intended likely as contact points during use scenarios involving manual force application typical within surgical tools' operational contexts where"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_8",
+      "area": 1295,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "[[P?:do03N1O2O0O10001N1000000O100000000O1000000000O100000000000000000000000000000000001O0001O000000000001O000000000000O2O0000001O001O001N3N3Lddk>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 15 suggests its use for cutting when positioned near tissue in surgical instruments like scissors; unlike Parts labeled sequentially around it which have distinct functions such as gripping or holding components without sharp edges designed explicitly for incision tasks within medical procedures depicted by surrounding elements' shapes/materials/positions indicating their"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_3",
+      "area": 1275,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "f^U<>`o04K4L4N3N1N1O2N2O0O2O000O2O00000O2O000001O0O1000001O0O2O0O2O0O2N2N3L3N2N3L4L6F]abb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "The rounded knob-like structure of Part 1 suggests tactile interaction for pressing compared to its distinct positioning separate from gripping mechanisms seen in adjacent Parts"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_7",
+      "area": 1217,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "\\ZQ?7go03N2N1O2N1O100O100O100O10000000000000O10O100000000000000000000000000000000000000001O00000001O0000000000010O000001O001O001N2O1N2O2M4Jeek>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 1 suggests its function for cutting compared to more complex shapes like those designed primarily for gripping in nearby Parts 6-7"
+        }
+      }
+    },
+    {
+      "region_id": "corkscrew_region_4",
+      "area": 1203,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "i^gb03ho0:H6L3M2M3N2N2N1O2O1N2O001N10001O000000000000O2O001N101N101N2O1N2N2N2M4M3L5J\\aQ<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "The slender elongated tip of Part 1 suggests its design for grasping small objects distinctively compared to broader components like those used in gripping larger items elsewhere"
+        }
+      }
+    }
+  ]
+}

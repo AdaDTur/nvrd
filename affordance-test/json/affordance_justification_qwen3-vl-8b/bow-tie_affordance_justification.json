@@ -1,0 +1,94 @@
+{
+  "object": "bow-tie",
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/known/bow-tie.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "bow-tie_region_8",
+      "area": 114501,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Y`Q3341]o0b0lNV1UOg0BaMmROg2kl0;Ab0F:H9F8F:G:C=C>E8G;D;I6K5H9G8J7H8G:E:J5K4I9I8H6H:G7J8H5L4L6I7I7I5J9H7I7J4K7J6I6J7H6K7J4M2M3M4M2N1O2N101N10000000O10000O10000O2O001N101N10001N10000O2O000O100O2O0O2O0O101N100O101O001N10001N10001O0O101N100O101O0O2O0O2O000O2O001N10001O0O101O0O100O2O0O101O000O2O0O2O000O2O0O101O0O2O000O2O0O101N101N101O0O10001N101N101O0O101O0O2O0O1O101O0O101O0O2O0O2O0O2O001N101N1O2O0O101N101N2O1N10001N101N101N101N1O101N101O0O2O0O2N101N101N2N100O2O0O2O0O2O1N2O0O2O0O2O0O2N1O2O0O2N101N101N2O0O2N2O0O2N101N1O2O1N1O2O0O2O1N2O0O2N1O2O0O2N2N2O0O2O1N1O2N2O1N1O2N2O1N101N2N2O0O2N1O2O1N1O2O1N2N2N2N2N101N1O2N2O1N2N2O0O2N2N2N1O2N2O1N2N2N2N2N2N1O2N2O1N2N2N2N2M2O2N2O2M2N2N2N2N2N1O2N2O1N2O1N3M1O2N2Nl0XL`TOoNh10l[Zb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "Part 1\u2019s symmetrical loop design and central placement suggest it forms a wearable knot meant for attachment around the neck, unlike the flat straps which are designed solely for securing the bowtie in place"
+        }
+      }
+    },
+    {
+      "region_id": "bow-tie_region_9",
+      "area": 113478,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "maXb08bo07C=gKYORYOm0lf0VOcVO>Ll0`i0R1ZUOMdj0h2O3N1N2N2N2N1O2N2N3M2N2N2N2N1O2N2N2N2O1N2N2N1O2N2N2N2N3N1N1O2N1O2N1O2O1N2N2O0O2N2N2N2N2N101N1O2O1N1O2N2O1N1O2N100O2N2N2O1N2N2O0O2N2N1O2O1N101N1O2O1N2N2N101N100O2N101N2O1N1O2O0O2N2N2O0O2O0O101N101N2N2O0O2O0O2N101N1O2O0O2O0O101N2O1N2N101N100O2O0O2O0O2O001N101N2N101N101N100O2O0O2O0O2O0O100O2O1N2O1N101N100O2O0O2O000O2O000O101N2O0O2O0O2O0O2O0O2O0O2O000O100O2O1O1N101N10001N101N101N10000O101O0O2O001N10000O2O1N101O0O10001N101N10001N10000O101O0O2O000O2O001N2O0O2O000O2O00000O2O00000O101O0O2O1O001N10001N101O0O2O00000O101N101O001O0O10001O0O2O000000000O10000000O100O1O2M2O2M2N3M5K4J6L5H8H9J5I7I6L6K3L7E:G8J6K4J6K7K3L7F8I7H8I6K7J5K6H:D:H7I9G7I7K5J6H>@=D;@>J8D=G7I;Aa0_O]bW3"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "Part 2\u2019s broad, symmetrical loop design positioned at the front of the bow tie suggests its primary function as a wearable decorative element meant for display against clothing"
+        }
+      }
+    },
+    {
+      "region_id": "bow-tie_region_1",
+      "area": 25174,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "P]f=l03_O3I8g2bj0[2I4M1N101O00001O000001O0000000O10000000001O000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001O00000000000O1000000000000000001O00000000000000000000000O110O000000000000000000000001O0000000000000O101O00000000000000000000O100O2O0O1O2M2N3K5G:_O`0\\Of0QNcdc="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "Part 3\u2019s narrow central band connects two symmetrical loops designed for attachment around the neck, making its form uniquely suited as the structural core of wearable apparel rather than standalone decorative elements like the others"
+        }
+      }
+    },
+    {
+      "region_id": "bow-tie_region_2",
+      "area": 12037,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "c=j3Vl000000000000000000000000000000000000001O0000000001O0000000000000000000000000000000000000000000000000000000000000001O00000000000000000000000001O00000000000000000000000000000000000001O000000000O1eN`TOVN`k0Q1dUOcN]j0j0g2D;I8G`bhl0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "Part 4\u2019s narrow strap-like form positioned at the end of the bow suggests its function as an attachment point for securing around the neck, unlike the decorative loops designed for display rather than fastening"
+        }
+      }
+    },
+    {
+      "region_id": "bow-tie_region_4",
+      "area": 6202,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "e]il09U3LWi0V1_UOTO`j0V3O2O0000000000000000000000000000000000000000000000000001O00000000000000000O10001O0000000O10001N101N2M4I:kMQd_1"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "Part 5\u2019s narrow strap-like form positioned at the end of the bow tie suggests its function as an attachment point for securing around the neck, unlike the decorative loops designed for display rather than direct interaction like wearing"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,808 @@
+[
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "5dg0<00001N101O001O000000000000000000O1000000000000000000001O00000000000000000000O1000000000000000000001O00000000000000000000O1000000000000000000001O00000000000000000000O1000000000000000000001O0000000000000000O100000000000000O100001O00001O0000000000O1000000000001O00000O100001N10001O000000000000O100000000000001O0O100001O00001O00000000O1000000000000000000O10000001O0000001O00O100000000000000000000O1000000001O000O10000001O000000O100000000000O2O0000000001O000000000000000000000000000000O1000000001O00000000000000000000000O10000001N1000000001O0000bCHcGOe69h1HcGOe69h1GU19Y;00000PEJVN6h1LXN4g1McDK^882HUI6YNLW11h45c2HiG0J7[OIJ3k11j44b2IiG1@NZO7;LH1n11i43c2JgG1AOYO6=LG1g0K36n52c2JeG3BNZO5<OE0h0L33P62c2JdG4B0YO2=3BMj0O3OR62b2KdG4B1XO2<a0:B5JT62c2JTG2@4`0?C68ON[OLJR67U3JSG6]O1a0e0A2650SOONQ62W3KSG7]O2NF9P1I1641SOONd0I]47Y4LiFJL=I88`0J0552RONOc0J`44W4OdFN1n020K1450UOLOf0Ha43V40cFO3l020K146MId0SOb42V41aFO5j022K046LJe0ROb42T4`0fF=11LO57JJh0POb42S4c0dFT32gNd0aMc41Q4d7\\G[Hc41m3h7_GXHd40k3j7aGVHd40j3k7aGVHe4Oi3l7ZG]Hm4Gi3m7XG]Ho4Fi3m7VG`HP5Cj3n7TG`HR5Aj3P8RGbHS5^Ok3Q8oFdHU5[Ol3S9SLmFm3V9PLjFo3[9mKfFR4^9jKbFo3IYGW:V4PF`4KYGV:V4nEb4MVGW:W4lEb4]:]KcEc4]:]KcEc4^:\\KbEd4_:\\K`Ed4b:YK_Eg4d:VK]Ei4d:VK\\Ei4g:UKYEk4j:RKVEn4k:QKUEo4k:QKTEP5k:QKUEn4l:RKTEn4l:RKTEm4l:SKUEl4l:TKTEj4m:WKSEf4P;ZKQEc4P;^KPEa4Q;_KoDa4Q;_KoDa4Q;`KnD`4R;`KnD`4R;`KnD`4R;`KnD`4R;`KnD`4R;`KnD`4R;`KnD`4R;`KnD`4R;`KnD`4R;`KnD`4R;`KmDa4T;^KlDb4T;^KlDb4T;^KlDa4U;_KkDa4V;^KjDa4X;^KhDa4Z;^KfD`4^;^KbD`4b;]K`D`4c;_K]Da4c;_K]D`4e;`KYDa4g;_KYD`4h;`KXDW3I]I6`0j;l2WDR3c0bI`;\\3mCm2\\=RMdBm2]=SMdBk2]=UMcBj2^=VMbBj2^=VMbBi2_=WMaBi2_=WM`Bj2`=VM`Bj2a=UM_Bk2a=UM_Bj2b=VM^Bj2c=UM]Bk2k=mLUBR3m=mLSBR3P>kLQBT3P>lLPBT3Q>kLoAU3P>mLoAS3P>nLPBR3P>nLPBS3o=mLQBR3o=oLQBQ3o=oLQBP3P>PMPBo2Q>QMoAo2P>RMPBm2Q>SMoAm2Q>SMoAm2R>RMnAm2S>SMmAm2S>SMmAm2S>SMmAm2S>SMmAm2S>SMmAm2S>SMmAm2S>RMnAn2R>RMnAn2R>RMnAm2S>SMmAm2S>TMlAl2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2R>VMnAj2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2R>UMoAk2Q>UMoAk2Q>UMoAk2Q>VMnAj2R>VMnAj2R>VMnAj2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2S>UMmAk2T>TMlAl2T>TMlAl2T>TMlAl2T>TMlAl2T>TMlAl2T>TMlAl2U>SMkAm2U>SMkAn2T>RMlAn2U>PMlAP3T>PMlAP3U>oLkAQ3U>PMjAP3V>PMjAQ3U>oLkAQ3V>nLjAR3U>oLkAQ3T>PMlAP3T>PMlAX1NQLKc0Z>U2mAT14mKKi0S>V2nAR17kKLl0o=W2nAQ1h0gLZ=X2nAP1j0hLW=X2oAo0l0iLT=X2PBo0l0iLT=X2PBn0n0iLR=Y2PBn0n0jLQ=X2QBm0P1jLo<Y2QBm0Q1jLm<Y2RBm0R1iLk<[2SBl0V1fLf<^2TBk0Z1dLb<`2UBl0[1bL`<c2TBj0^1cL]<c2UBi0`1SL[N9P>k2UBh0i1\\LR<l2UBh0i1\\LR<l2UBg0l1[Lo;n2UBg0n1XLm;R3UBf0X`0ZOh_Of0W`0[Oi_Oe0U`0]Ok_Ob0d2_LW:Q3UC`0c2aLV:P3WC>d2aLV:Q3VC=e2bLU:Q3VC<f2bLU:R3UC;g2bLU:S3TC:i2`LU:V3RC9Y`0Gg_O9Y`0Gg_O8Z`0Hf_O8Z`0Gg_O9X`0Hh_O8X`0Hh_O8Y`0Hf_O9Y`0Gg_O:X`0Fh_O:X`0Fh_O;W`0Ei_O<V`0Dj_O<V`0Dj_O=U`0Ck_O=V`0Bj_O?U`0Ak_O?U`0Ak_O>V`0Bj_O=W`0Ci_O<Y`0Cg_O<Z`0Df_O;[`0Ee_O;[`0Ee_O:[`0Ge_O9[`0Ge_O9Z`0Gg_O8Z`0Hf_O8Z`0Ie_O7[`0Ie_O8[`0Ge_O9[`0Ge_O9[`0Ge_O9Z`0Hf_O9X`0Hh_O9V`0Hj_O:S`0Gm_O:Q`0Go_O:P`0FP@;o?EQ@;o?EQ@<n?DR@<n?DR@<n?DR@<n?DR@<m?ES@:n?FR@9n?HR@8n?HR@7n?JR@6m?KS@5m?KS@5m?KS@5k2VLm9e3XC5i2YLm9c3ZC4g2[Lo9a3ZC5d2\\LR:_3ZC5c2\\LU:^3XC7`2]LX:\\3XC8X2bLa:V3WC8V2dLc:T3WC9S2dLg:S3VC:R2cLh:S3VC;k1PLPNa0R=S3SC<g1iLW;k2RC<d1jL\\;j2PC=`1lL`;g2PC=]1nLd;e2oB=Z1QMg;b2oB=S1XMn;[2oB=R1YMo;Z2oB=Q1ZMQ<X2nB>P1[MR<W2nB?o0ZMS<W2nB?n0[MT<V2nB`0m0ZMU<V2nB`0l0ZMW<V2mBa0g0]M\\<R2mBd0<bMg<j1mBg05bMo<g1lBj0OYMOZNW=c3kB_2g=aMYB^2h=bMXB^2h=bMXB^2h=bMXB]2i=cMWB]2i=cMWB]2i=cMWB\\2j=dMVB\\2j=dMVB[2k=eMUBZ2l=fMTBY2l=hMTBW2m=iMSBW2m=iMSBV2n=jMRBV2n=jMRBV2n=jMRBU2n=lMRBT2j=PNVBo1j=RNVBm1j=TNVBl1i=UNWBk1h=VNXBi1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1h=XNXBh1i=WNWBi1i=WNWBi1i=WNWBi1i=WNWBh1j=XNVBh1j=XNVBh1k=WNUBi1k=WNUBi1k=WNUBi1k=WNUBi1k=WNUBi1k=WNUBi1k=WNUBj1i=WNWBi1i=WNWBi1i=WNWBh1j=XNVBh1j=XNVBh1i=YNWBg1i=YNWBf1j=ZNVBf1j=ZNVBf1j=ZNVBe1j=\\NVBd1j=\\NVBc1k=]NUBc1k=]NUBc1k=]NUBc1l=\\NTBd1l=\\NTBd1l=\\NTBd1l=\\NTBd1l=\\NTBd1l=\\NTBc1m=]NSBc1l=^NTBb1d=fN\\B[1c=eN]B[1b=fN^BZ1b=fN^BZ1b=fN^B[1a=eN_B[1a=eN_B[1`=fN`B[1_=eNaB[1_=eNaB[1_=eNaB[1_=eNaB\\1^=dNbB\\1^=dNbB\\1^=dNbB]1]=cNcB]1]=cNcB]1]=cNcB]1]=cNcB^1\\=bNdB^1\\=bNdB^1[=cNeB]1[=cNeB^1Z=bNfB^1Z=bNfB^1[=aNeB`1Z=`NfBa1Y=_NgBa1Y=_NgBa1Y=_NgBb1W=_NiBa1W=_NiBa1V=`NjB`1U=aNkB_1U=aNkB_1U=aNkB_1V=`NjB`1V=`NjB`1V=`NjB`1V=`NjB`1U=aNkB^1T=dNlB\\1S=eNmB[1R=fNnBZ1Q=gNoBY1Q=gNoBY1Q=gNoBY1Q=gNoBX1R=hNnBX1R=hNnBX1R=hNnBX1R=hNnBX1R=hNnBW1S=iNmBW1S=iNmBW1S=iNmBW1S=iNmBW1S=iNmBW1S=iNmBW1S=iNmBW1S=iNmBV1T=jNlBV1T=jNlBU1T=lNlBl0\\=TOdBj0^=VObBi0_=WOaBi0_=WOaBi0_=WOaBi0_=WOaBi0_=WOaBi0_=WOaBi0_=WOaBi0_=WOaBh0`=XO`Bh0_=YOaBg0_=YOaBg0_=YOaBg0_=YOaBg0_=YOaBg0_=YOaBg0`=XO`Bh0`=XO`Bh0`=XO`Bh0`=XO`Bh0_=YOaBg0_=YOaBg0_=YOaBg0_=YOaBg0_=YOaBg0_=YOaBg0_=YOaBg0_=YOaBf0`=ZO`Bf0`=ZO`Bf0`=ZO`Bf0`=ZO`Be0`=\\O`Bd0`=\\O`Bd0m<hJ[Ce4Hc0l<iJ[Ce4Ia0_=_OaBa0`=^O`Ba0a=_O_Ba0a=_O_Ba0a=_O_Ba0a=_O_Ba0a=_O_Ba0a=_O_Bb0_=_OaBa0`=^O`Bb0`=^O`Bb0a=]O_Bd0`=\\O`Bd0`=\\O`Bd0`=\\O`Bd0a=[O_Be0a=[O_Be0`=\\O`Bd0`=\\O`Bd0`=\\O`Bd0`=\\O`Bc0a=]O_Bc0a=]O_Bb0b=^O^Bb0b=^O^Bb0b=^O^Ba0c=_O]B3JbKk=Z4[B3S>MmA3S>MmA2U>MkA3U>MkA3U>MkA3U>MkA4T>LlA4T>LlA5S>KmA6R>JnA:n=FRB;m=ESB<l=DTB=k=CUB=k=CUB>i=CWB<k=CUB<l=DTB:n=FRB9o=GQB9o=GQB8o=IQB7o=IQB6o=KQB5n=LRB4k=OUB1j=0VB0n=LRB4o=KQB6n=JRB6o=IQB7P>HPB7R>HnA7X>DhA;\\>BdA;`>D`A:b>F^A4i>KWA5i>KWA5i>KWA5j>JVA6j>JVA7i>IWA=d>B\\A?d>@\\Ab0d>\\O\\Ae0d>ZO\\Af0g>WOYAi0l>ROTAn0m>QOSAn0P?POPAP1Q?oNo@P1T?nNl@R1T?nNl@R1S?oNm@R1R?nNn@R1P?POPAP1K^Kj>d3[Ao0I^Kk>d3\\AW1b>jN^AU1b>lN^AT1b>lN^AT1a>mN_AS1a>mN_AR1b>nN^AQ1b>PO^Am0e>SO[Al0e>VOZAi0g>WOYAi0f>XOZAh0f>XOZAh0f>XOZAh0g>WOYAh0V>ZKRBn3Hh0U>]KQBk3Jh0U>^KoAk3Lf0V>cKiAh31e0V>LjA3W>MiA2X>NhA1Y>OgAJ`>6`AJ`>6`AJa>5_AKa>5_AKa>5_AM_>3aA2[>MeA5Z>JfA9X>FhA<W>CiA?V>@jA`0W>_OiAb0W>]OiAc0W>]OiAc0X>\\OhAd0X>\\OhAd0Y>[OgAe0Z>XKgAc3OU1k>iNUAV1l>jNTAU1n>jNRAU1o>kNQAV1n>jNRAd1a>[N_Ae1a>[N_Af1`>ZN`Af1`>ZN`Ag1_>YNaAg1`>XN`Ah1a>WN_Ai1a>WN_Ai1b>VN^Ak1c>SN]Am1f>PNZAP2h>nMXAR2h>nMXAR2i>mMWAS2i>mMWAS2i>mMWAS2h>nMXAR2a>UN_Ak1^>XNbAh1\\>ZNdAg1Z>ZNfAf1Z>ZNfAf1d=fJfBd3Ff1c=iJfB`3Gg1c=kJeB]3Hh1b=mJeB[3Ih1b=nJdBZ3Jg1b=SK[B\\33a1b=TO^Bj0c=WO]Bf0f=ZOZBb0j=^OVBa0j=@VB`0k=_OUB`0l=@TB`0l=@TB`0l=@TB?m=ASB?m=ASB>o=AQB>P>BPB=S>AmA?T>@lA?V>@jA`0U>AkA?U>AkA`0S>AmA?S>AmA?R>BnA=R>DnA<Q>EoA;P>FPB9P>HPB8P>HPB8P>HPB8P>HPB8P>HPB9o=GQB9o=GQB9P>FPB:P>FPB9R>FnA:S>EmA;V>BjA>X>@hA`0Y>_OgAa0Y>_OgAa0Y>_OgAa0Z>^OfAb0Z>^OfAb0Z>^OfAb0Z>^OfAb0Z>^OfAb0Z>^OfAb0Z>^OfAb0Z>^OfAb0Y>_OgAa0Y>_OgAb0X>^OhAb0X>^OhAb0W>_OiAa0V>@jA`0U>AkA?T>BlA>S>CmA=S>CmA=\\=ZKcBb414[=]KaB`444Y=]KbB`453Y=^KaB_463Y=;gBFX=:hBFW=;iBEW=;iBEW=;iBFU=;kBET=<lBDT=<lBDS==mBDQ==oBCQ==oBCP=>PCCo<=QCCn<>RCCk<?UCDe0oJP;^5[Do0Z;ROfDQ1V;POjDR1S;oNmDR1R;nNnDR1R;nNnDR1S;mNmDT1R;lNnDT1S;kNmDU1S;kNmDU1S;kNmDU1R;lNnDU1Q;kNoDU1P;lNPEU1o:kNQEU1o:kNQEU1n:lNRET1m:mNSES1l:nNTER1k:oNUEQ1j:POVEQ1h:POXEQ1f:POZEQ1d:PO\\EP1Z:ZOfEf0X:\\OhEe0V:\\OjEd0V:\\OjEd0U:]OkEc0S:_OmEa0R:@nEa0P:@PFa0m9ASFa0i9AWFb0e9_O[Fd0a9]O_Fd0_9]OaFd0^9\\ObFd0^9\\ObFe0]9[OcFe0]9[OcFe0]9[OcFe0]9[OcFe0\\9\\OdFd0[9]OeFb0Z9@fF`0X9BhF=`8iHmGk6C<_8mH^G01g62<^8oH[G14e63;^8ZI_G[63<]8YI`G[63<\\8ZIaGZ63=[8=eGC[8=eGDY8=gGCS8c0mG^OQ8c0oG]OOdHh7P8YH\\ONfHg7o7[H\\OLgH`7KcHR81\\OKhHj6LfI0CP82\\OJjHj6J\\I0O1Oo72G1\\H\\2KQ13aL2M01m73G0_HZ2JR14`L:0c74GO_HY2LQ1h0bLV75GNaHX2LP1o8jLeNLbHX2Ln0P9nLUOR2mGdNL3L_OOIY9OTOMdGf1>oNK3M]OLMW91_O3ZGj0>CL4L[OLNV93_O1\\Gh0>FI5MZOKOV93@0\\Gg0>GJ5LZOJ0V93@O^G4H3e07J5LZOJ1U93AN]G4K2c07J7LYOJ1T94AN^G2M1a09KA^O>j0C`84BLaG0K3a0NVO0R16LF_87@LRH2`1OS83\\NJSH2a1MR87[NISH1Y<6Z:00000000000000000000000000000000000000000000000000001O00O1000000000000000000000000000000000000001O0000O100000000000000000000000000000000001O000000O1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000O1001O0000000000000000000000000000000000000000000000000000000000000000000000000000000000O1001O000000000000000000000000000000000000O100001O0000000000000000000000000000000000O1000000001O0000000000000000000000000000000000O100001O000000000000000000000000000000000000O100001O00000000000000000000000001O0000000O10O1000001O000000000000000000000001O000000O100000000000001O00O10000000000O10001O000000K"
+    },
+    "area": 735991,
+    "bbox": [
+      0,
+      4,
+      1407,
+      760
+    ],
+    "predicted_iou": 1.0173883438110352,
+    "point_coords": [
+      [
+        946.0,
+        156.0
+      ]
+    ],
+    "stability_score": 0.9568483829498291,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_0"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "if_8P1nf0b0_O3L4N0O2N101O1N2O1O001N101O000O2O00000O101O000O1000001O00000000000O10000000000000001O000O10000000000000000000O10000000000000000000000000001N1000000000000000001O0O100000000O101O0O1000001N10000O2O001N101N101N2N2N2O2K:@Zime0"
+    },
+    "area": 7677,
+    "bbox": [
+      362,
+      203,
+      109,
+      76
+    ],
+    "predicted_iou": 0.9749938249588013,
+    "point_coords": [
+      [
+        418.0,
+        276.0
+      ]
+    ],
+    "stability_score": 0.9807617664337158,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_1"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "d_\\`0<^g09K4L4L3N2N3M2M3N3M2O1N2N2O0O2N1O2O001O0O1000001O00000000000000O10001O001N101N101N101N1O2N1O2N2N2N2M3N3L4K7H9Ec`Y?"
+    },
+    "area": 2650,
+    "bbox": [
+      699,
+      219,
+      55,
+      59
+    ],
+    "predicted_iou": 0.965138852596283,
+    "point_coords": [
+      [
+        726.0,
+        276.0
+      ]
+    ],
+    "stability_score": 0.9835452437400818,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_2"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "UWob0n0gf0a0G8C:I8I8I5L4L3M5J7K3M2N3M4K6J3L5L4L3N2M4K4M3M3L4L4M2N4M2N2M2O2M3N2N2N2O1N2N2O1N101O1O1O1N101I6N2N3M2O2O0O2N1O2N2O1N2N2N1O2O001N100O1O101N1O1O1O1O10001N100O101O0O2O0O2O0O10001N10000O10001O000000000O100000000000000000O1000001O00000000000O100O2O00O0100O1O1O1000000O100O2O000O101O000O1O100N3M2O101N10001N1O1O2N1O2N101O001O001N1O100O2N1O1O2N2N1O2O1N2M4M2N2O1N3K4M4M2N1O2N2N1O2N2N1N3N2N1O2K5M3M3N3M3M3M3M3M2N3L3M4L4H8L5K4L4M6H4K6J5M4G9L6J:^O\\bl8"
+    },
+    "area": 42725,
+    "bbox": [
+      809,
+      356,
+      218,
+      251
+    ],
+    "predicted_iou": 0.9615290760993958,
+    "point_coords": [
+      [
+        902.0,
+        588.0
+      ]
+    ],
+    "stability_score": 0.9648892283439636,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_3"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "Z]Xe09eg03N2N100O10001N10000O1000000000001N1000001O000000001O001O001O00001O00001O1O1O2N1O4L6K9F=C6J1O0000000001O0O100000000O2O000O2O0O2O0N3M4L3NfjS:"
+    },
+    "area": 2658,
+    "bbox": [
+      907,
+      162,
+      68,
+      71
+    ],
+    "predicted_iou": 0.9578865170478821,
+    "point_coords": [
+      [
+        946.0,
+        180.0
+      ]
+    ],
+    "stability_score": 0.9821295738220215,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_4"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "eZZ=4bg0c0C:H:F4L4L3N3K4M4M2N2M3N2N2N2N2N1O2N2O0O1O2N1O101N1O101N100O2N100O1000001N1N2O100000O2O001O001O0O10001O0O100O10001N100O2N101N1O2O0O1N3N2N101N1O2N2N2N2N2N2M4M2M4L4M3M3L4K5L5J7H8FkUba0"
+    },
+    "area": 7057,
+    "bbox": [
+      568,
+      288,
+      89,
+      103
+    ],
+    "predicted_iou": 0.9524273872375488,
+    "point_coords": [
+      [
+        594.0,
+        372.0
+      ]
+    ],
+    "stability_score": 0.979654848575592,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_5"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "]nW=1kg06M3M3M<E3L2O1N2O0O2O00001O0O101O0000000O1000001O000O1000000000000000001O0000000000000000000000O10000000000000000000000O10001O0000001O0O101O000O101O0O100O2J5J7M3M3L6JhQia0"
+    },
+    "area": 2970,
+    "bbox": [
+      565,
+      192,
+      83,
+      41
+    ],
+    "predicted_iou": 0.9446035027503967,
+    "point_coords": [
+      [
+        594.0,
+        228.0
+      ]
+    ],
+    "stability_score": 0.9697272181510925,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_6"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "S_id08cg0:H6K4L3M3N3L3N1O2N2N2N1O2O1N1O2O1O1N2O00001O000O100000000000O100000000O2O000O2O0O100O1O2O0O2N2O3L2N3M2M4L5KAXOlYOd0Vf0\\OkYOb0jf0N3J5KXai:"
+    },
+    "area": 2757,
+    "bbox": [
+      887,
+      200,
+      59,
+      59
+    ],
+    "predicted_iou": 0.944097638130188,
+    "point_coords": [
+      [
+        902.0,
+        204.0
+      ]
+    ],
+    "stability_score": 0.9592920541763306,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_7"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "SWbb0o0of04M2O00000O10000000O100000000000O010000000000000000000000O0100000000000O1000O100001N100O2MTY[="
+    },
+    "area": 1681,
+    "bbox": [
+      792,
+      220,
+      45,
+      40
+    ],
+    "predicted_iou": 0.9381119608879089,
+    "point_coords": [
+      [
+        814.0,
+        228.0
+      ]
+    ],
+    "stability_score": 0.974794864654541,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_8"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "iolc08fg04M2M201N1000000000O100O2N2N2M\\Pg<"
+    },
+    "area": 242,
+    "bbox": [
+      849,
+      243,
+      15,
+      17
+    ],
+    "predicted_iou": 0.9367612600326538,
+    "point_coords": [
+      [
+        858.0,
+        252.0
+      ]
+    ],
+    "stability_score": 0.9917355179786682,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_9"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "f_e`0>_g07J4L4L3N1N3N100O2N100O10000O2O00000O010000O101O0O2O1N1O2N1O101N1O2N5J5J6GbP^?"
+    },
+    "area": 1318,
+    "bbox": [
+      711,
+      228,
+      37,
+      43
+    ],
+    "predicted_iou": 0.930823564529419,
+    "point_coords": [
+      [
+        726.0,
+        228.0
+      ]
+    ],
+    "stability_score": 0.9619686603546143,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_10"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "UUf:3Ug07XYOKff09VYOIif08VYOHjf0:SYOHmf0e0010000O001N3N2N4DlNbYOX1[f08O1O2N8H5K2N2N2N5J3N2L3N2O1N3N2N1000001O0O10O1O1O1O1O00O1O1O1O1N2N2O1O100O1001O1O2N2N1O1N2O1O1O00000O1000O01O001O0010O01O0O101N1O2N3M3L4G_ZOoMge0i1<J5L3J6M2O200O1O1O1O1ETYOBkf0=\\YO]Off0a0=N:F3M3N2N[clc0"
+    },
+    "area": 7240,
+    "bbox": [
+      456,
+      126,
+      102,
+      104
+    ],
+    "predicted_iou": 0.926712155342102,
+    "point_coords": [
+      [
+        506.0,
+        180.0
+      ]
+    ],
+    "stability_score": 0.9679478406906128,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_11"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "TSR76cg0>G5L3M3M3M2M3N1O2O0O2O0O2O000O2O1N101O1N101N1O1N2O10O102NGZNZZOc1Vf0K4L4L3K5K7J6J6IldPi0"
+    },
+    "area": 1631,
+    "bbox": [
+      301,
+      322,
+      38,
+      65
+    ],
+    "predicted_iou": 0.9256333708763123,
+    "point_coords": [
+      [
+        330.0,
+        348.0
+      ]
+    ],
+    "stability_score": 0.9523242115974426,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_12"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "khg72mg03N1O0O2O0O2O001N2O1O1O1N101N100O10000O2O0O100O2O000O10001O0O1000001O0001O100O001O00001O00010O000000001O0000001O01O000001O000000000000000000000000000000000000000000000000000000000000000000000000000O010000000000000000000O10O100000000O100000000O0100000O10000O10O10O100O10O10O100O100O100000O1000000O01001O0O2O1O1N101N2N101N100O2O0O2N1O2M\\WZe0"
+    },
+    "area": 3782,
+    "bbox": [
+      330,
+      268,
+      167,
+      34
+    ],
+    "predicted_iou": 0.9223241806030273,
+    "point_coords": [
+      [
+        418.0,
+        300.0
+      ]
+    ],
+    "stability_score": 0.9517045617103577,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_13"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "lnZ=4hg07L2N2O000010O0000010O0001O0001O00000001O00000000000000000000010O000000000000000000000000O1000000000O100000000000O100000O100000O10000O10000O10000O2MYila0"
+    },
+    "area": 1129,
+    "bbox": [
+      569,
+      214,
+      74,
+      19
+    ],
+    "predicted_iou": 0.9216736555099487,
+    "point_coords": [
+      [
+        638.0,
+        228.0
+      ]
+    ],
+    "stability_score": 0.9720767736434937,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_14"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "X_Re08bg0:H8J3L4M2O2N2O0O2O0O100O100O1000000O10001O00O100O1O2N1O1O2O001N2N3M2N2N2N3L7GTao:"
+    },
+    "area": 1462,
+    "bbox": [
+      899,
+      208,
+      39,
+      45
+    ],
+    "predicted_iou": 0.9171974658966064,
+    "point_coords": [
+      [
+        902.0,
+        228.0
+      ]
+    ],
+    "stability_score": 0.9544845819473267,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_15"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "jd`d01ng02N2O2M3N2M3N2N3L3N3M2M2O2N1O001O00001OO10001O000O2O000O2O001N100O2O0O2O0O2N101N2N101N2N2N2N2M3MobZ;"
+    },
+    "area": 1097,
+    "bbox": [
+      875,
+      404,
+      48,
+      34
+    ],
+    "predicted_iou": 0.9056135416030884,
+    "point_coords": [
+      [
+        902.0,
+        420.0
+      ]
+    ],
+    "stability_score": 0.9661921858787537,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_16"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "YfX=6ig03M3M2O1N101N100O101O001O000O2O0000000000000O100000000000000000000O2O00000001O0000000000O100001O000000000000000000000O2O00000000001O000O10001O000000001O0O2O0N4Kkaja0"
+    },
+    "area": 1776,
+    "bbox": [
+      566,
+      192,
+      80,
+      25
+    ],
+    "predicted_iou": 0.903611421585083,
+    "point_coords": [
+      [
+        638.0,
+        204.0
+      ]
+    ],
+    "stability_score": 0.9635962247848511,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_17"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "c]b`03lg02O1O00001O0O2O2N5K2N1O010O00000001O00001O00001O001O00001O001O1O0O101O00001O00001N101O1O000000001OQRX?"
+    },
+    "area": 590,
+    "bbox": [
+      707,
+      177,
+      49,
+      19
+    ],
+    "predicted_iou": 0.9033076763153076,
+    "point_coords": [
+      [
+        726.0,
+        180.0
+      ]
+    ],
+    "stability_score": 0.9601989984512329,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_18"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "eZUd08_g0:00O1O1O10O010O001O0000001O0O1O1M3K5Kde[<"
+    },
+    "area": 336,
+    "bbox": [
+      860,
+      332,
+      19,
+      22
+    ],
+    "predicted_iou": 0.8994059562683105,
+    "point_coords": [
+      [
+        858.0,
+        348.0
+      ]
+    ],
+    "stability_score": 0.9910979270935059,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_19"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "TRlb0:dg04M4M2N2M20O100O100O001OO10000O1001N4M2M3M4Jdeb="
+    },
+    "area": 434,
+    "bbox": [
+      805,
+      320,
+      22,
+      25
+    ],
+    "predicted_iou": 0.8990545272827148,
+    "point_coords": [
+      [
+        814.0,
+        324.0
+      ]
+    ],
+    "stability_score": 0.9529147744178772,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_20"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "Yil?4ig05L2O2N1O1O2O001O0010O001O2N2N3Lh^f`0"
+    },
+    "area": 245,
+    "bbox": [
+      678,
+      288,
+      16,
+      18
+    ],
+    "predicted_iou": 0.8969324231147766,
+    "point_coords": [
+      [
+        682.0,
+        300.0
+      ]
+    ],
+    "stability_score": 0.972000002861023,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_21"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "Te]a01ng0101O00100YXOO]g0;O2N3M1N1G]OTYOd0kf091O2M2O1N2O001O001N10001O001N1O2N2M4JmRk>"
+    },
+    "area": 523,
+    "bbox": [
+      743,
+      409,
+      30,
+      30
+    ],
+    "predicted_iou": 0.8945358395576477,
+    "point_coords": [
+      [
+        770.0,
+        420.0
+      ]
+    ],
+    "stability_score": 0.9531835317611694,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_22"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "fkcb03mg010003L5K1O2N1O1N2L3I7O21M4M2N2N1O2M101N2N2N3MTTj="
+    },
+    "area": 390,
+    "bbox": [
+      794,
+      364,
+      23,
+      30
+    ],
+    "predicted_iou": 0.8941880464553833,
+    "point_coords": [
+      [
+        814.0,
+        372.0
+      ]
+    ],
+    "stability_score": 0.9698492288589478,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_23"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "Skba02ng03M11OO5L2M2N2N2N1O0001O001O000O100O2N1O2N2Mglk>"
+    },
+    "area": 304,
+    "bbox": [
+      750,
+      355,
+      22,
+      21
+    ],
+    "predicted_iou": 0.8874331712722778,
+    "point_coords": [
+      [
+        770.0,
+        372.0
+      ]
+    ],
+    "stability_score": 0.9519230723381042,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_24"
+  },
+  {
+    "segmentation": {
+      "size": [
+        768,
+        1408
+      ],
+      "counts": "kRS>=ag03M3J6K6L3M3M3N2M2O2N2O1N1O2O0O2O1O0O101O000O10000000000000000000O101O00001N1O1O2N2N2O1N2M3N2M3M4M2M3M2M4L6K6H`mba0"
+    },
+    "area": 2495,
+    "bbox": [
+      601,
+      318,
+      55,
+      57
+    ],
+    "predicted_iou": 0.8805356025695801,
+    "point_coords": [
+      [
+        638.0,
+        348.0
+      ]
+    ],
+    "stability_score": 0.9541894793510437,
+    "crop_box": [
+      0,
+      0,
+      1408,
+      768
+    ],
+    "region_id": "cactus_camera_region_25"
+  }
+]

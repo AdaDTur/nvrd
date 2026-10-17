@@ -1,0 +1,184 @@
+{
+  "vocabulary": [
+    "beat",
+    "boxing",
+    "brush with",
+    "carry",
+    "catch",
+    "cut",
+    "cut with",
+    "drag",
+    "drink with",
+    "eat",
+    "hit",
+    "hold",
+    "jump",
+    "kick",
+    "lie on",
+    "lift",
+    "look out",
+    "open",
+    "pack",
+    "peel",
+    "pick up",
+    "pour",
+    "push",
+    "ride",
+    "sip",
+    "sit on",
+    "stick",
+    "stir",
+    "swing",
+    "take photo",
+    "talk on",
+    "text on",
+    "throw",
+    "type on",
+    "wash",
+    "write",
+    "wear",
+    "none"
+  ],
+  "models": [
+    "qwen3-vl-8b",
+    "internvl3-8b",
+    "molmo2-8b"
+  ],
+  "regions": [
+    {
+      "part": 1,
+      "region_id": "shape_32_region_48",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "hit",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 2,
+      "region_id": "shape_32_region_61",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "carry",
+        "molmo2-8b": "beat"
+      }
+    },
+    {
+      "part": 3,
+      "region_id": "shape_32_region_21",
+      "labels": {
+        "qwen3-vl-8b": "sit on",
+        "internvl3-8b": "carry",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 4,
+      "region_id": "shape_32_region_0",
+      "labels": {
+        "qwen3-vl-8b": "sit on",
+        "internvl3-8b": "lift",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 5,
+      "region_id": "shape_32_region_30",
+      "labels": {
+        "qwen3-vl-8b": "sit on",
+        "internvl3-8b": "sit on",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 6,
+      "region_id": "shape_32_region_20",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "carry",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 7,
+      "region_id": "shape_32_region_64",
+      "labels": {
+        "qwen3-vl-8b": "hold",
+        "internvl3-8b": "hit",
+        "molmo2-8b": "beat"
+      }
+    },
+    {
+      "part": 8,
+      "region_id": "shape_32_region_31",
+      "labels": {
+        "qwen3-vl-8b": "hold",
+        "internvl3-8b": "carry",
+        "molmo2-8b": "brush with"
+      }
+    },
+    {
+      "part": 9,
+      "region_id": "shape_32_region_50",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "swing",
+        "molmo2-8b": "look out"
+      }
+    },
+    {
+      "part": 10,
+      "region_id": "shape_32_region_32",
+      "labels": {
+        "qwen3-vl-8b": "text on",
+        "internvl3-8b": "hit",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 11,
+      "region_id": "shape_32_region_22",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "pick up",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 12,
+      "region_id": "shape_32_region_2",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "pick up",
+        "molmo2-8b": "beat"
+      }
+    },
+    {
+      "part": 13,
+      "region_id": "shape_32_region_1",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "hit",
+        "molmo2-8b": "brush with"
+      }
+    },
+    {
+      "part": 14,
+      "region_id": "shape_32_region_6",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "pick up",
+        "molmo2-8b": "brush with"
+      }
+    },
+    {
+      "part": 15,
+      "region_id": "shape_32_region_7",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "pick up",
+        "molmo2-8b": "none"
+      }
+    }
+  ]
+}

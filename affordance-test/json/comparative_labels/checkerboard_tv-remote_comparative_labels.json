@@ -1,0 +1,170 @@
+{
+  "object": "checkerboard_tv-remote",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 27 parts marked and numbered (1 to 27), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 27 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>\nPart 16: <option>\nPart 17: <option>\nPart 18: <option>\nPart 19: <option>\nPart 20: <option>\nPart 21: <option>\nPart 22: <option>\nPart 23: <option>\nPart 24: <option>\nPart 25: <option>\nPart 26: <option>\nPart 27: <option>",
+  "raw_response": "Part 1: hold\nPart 2: hold\nPart 3: hold\nPart 4: hold\nPart 5: hold\nPart 6: hold\nPart 7: hold\nPart 8: hold\nPart 9: hold\nPart 10: hold\nPart 11: hold\nPart 12: hold\nPart 13: hold\nPart 14: hold\nPart 15: hold\nPart 16: hold\nPart 17: hold\nPart 18: hold\nPart 19: hold\nPart 20: hold\nPart 21: hold\nPart 22: hold\nPart 23: hold\nPart 24: hold\nPart 25: hold\nPart 26: hold\nPart 27: hold",
+  "regions": [
+    {
+      "region_id": "checkerboard_tv-remote_region_124",
+      "area": 26321,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_121",
+      "area": 8550,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_131",
+      "area": 9425,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_127",
+      "area": 8998,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_125",
+      "area": 2030,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_130",
+      "area": 4263,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_84",
+      "area": 5064,
+      "isolated_label": "push",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_122",
+      "area": 1060,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_129",
+      "area": 2535,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_133",
+      "area": 1270,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_61",
+      "area": 3855,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_53",
+      "area": 3772,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_26",
+      "area": 3758,
+      "isolated_label": "push",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_19",
+      "area": 3744,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_105",
+      "area": 3729,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_56",
+      "area": 3715,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_58",
+      "area": 3702,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_38",
+      "area": 3690,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_54",
+      "area": 3673,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_39",
+      "area": 3639,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_134",
+      "area": 1249,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_42",
+      "area": 3496,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_44",
+      "area": 3492,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_31",
+      "area": 3485,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_25",
+      "area": 3482,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_51",
+      "area": 3468,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_45",
+      "area": 3423,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "object": "bow-tie",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 5 parts marked and numbered (1 to 5), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 5 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>",
+  "raw_response": "Part 1: wear\nPart 2: wear\nPart 3: wear\nPart 4: wear\nPart 5: wear",
+  "regions": [
+    {
+      "region_id": "bow-tie_region_8",
+      "area": 114501,
+      "isolated_label": "none",
+      "comparative_label": "wear"
+    },
+    {
+      "region_id": "bow-tie_region_9",
+      "area": 113478,
+      "isolated_label": "none",
+      "comparative_label": "wear"
+    },
+    {
+      "region_id": "bow-tie_region_1",
+      "area": 25174,
+      "isolated_label": "type on",
+      "comparative_label": "wear"
+    },
+    {
+      "region_id": "bow-tie_region_2",
+      "area": 12037,
+      "isolated_label": "none",
+      "comparative_label": "wear"
+    },
+    {
+      "region_id": "bow-tie_region_4",
+      "area": 6202,
+      "isolated_label": "none",
+      "comparative_label": "wear"
+    }
+  ]
+}

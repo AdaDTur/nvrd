@@ -1,0 +1,148 @@
+{
+  "vocabulary": [
+    "beat",
+    "boxing",
+    "brush with",
+    "carry",
+    "catch",
+    "cut",
+    "cut with",
+    "drag",
+    "drink with",
+    "eat",
+    "hit",
+    "hold",
+    "jump",
+    "kick",
+    "lie on",
+    "lift",
+    "look out",
+    "open",
+    "pack",
+    "peel",
+    "pick up",
+    "pour",
+    "push",
+    "ride",
+    "sip",
+    "sit on",
+    "stick",
+    "stir",
+    "swing",
+    "take photo",
+    "talk on",
+    "text on",
+    "throw",
+    "type on",
+    "wash",
+    "write",
+    "wear",
+    "none"
+  ],
+  "models": [
+    "qwen3-vl-8b",
+    "internvl3-8b",
+    "molmo2-8b"
+  ],
+  "regions": [
+    {
+      "part": 1,
+      "region_id": "shape_40_region_16",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "carry",
+        "molmo2-8b": "hold"
+      }
+    },
+    {
+      "part": 2,
+      "region_id": "shape_40_region_12",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "type on",
+        "molmo2-8b": "brush with"
+      }
+    },
+    {
+      "part": 3,
+      "region_id": "shape_40_region_1",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "type on",
+        "molmo2-8b": "brush with"
+      }
+    },
+    {
+      "part": 4,
+      "region_id": "shape_40_region_5",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "type on",
+        "molmo2-8b": "brush with"
+      }
+    },
+    {
+      "part": 5,
+      "region_id": "shape_40_region_18",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "type on",
+        "molmo2-8b": "brush with"
+      }
+    },
+    {
+      "part": 6,
+      "region_id": "shape_40_region_3",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "type on",
+        "molmo2-8b": "brush with"
+      }
+    },
+    {
+      "part": 7,
+      "region_id": "shape_40_region_7",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "type on",
+        "molmo2-8b": "brush with"
+      }
+    },
+    {
+      "part": 8,
+      "region_id": "shape_40_region_2",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "type on",
+        "molmo2-8b": "brush with"
+      }
+    },
+    {
+      "part": 9,
+      "region_id": "shape_40_region_8",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "type on",
+        "molmo2-8b": "brush with"
+      }
+    },
+    {
+      "part": 10,
+      "region_id": "shape_40_region_9",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "type on",
+        "molmo2-8b": "drink with"
+      }
+    },
+    {
+      "part": 11,
+      "region_id": "shape_40_region_4",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "type on",
+        "molmo2-8b": "none"
+      }
+    }
+  ]
+}

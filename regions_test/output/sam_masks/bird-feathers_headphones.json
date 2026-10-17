@@ -1,0 +1,1304 @@
+[
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "0bo07`PON`o02`PONodk4M^ZUKY1bPOmNXn0j1XGoMcZOk02VO`6d2\\>VOoZO`Nm5_2m>EV[OdMc5k2o>Nk@8k>mLj[Oo2U5:n>Mo@8m>Kl@>o>Gk@>m>Jl@c0i>@TAd0i>^OVAd0b>C\\A`0a>B]Aa0Z>]K^]OU4Q4kKoKi4Vb0TKm]O`4k3f0l=JkA`0P>LdA<Q>Nl^O^J]2k5d>Li^OcJ1ES2m5R?f0i@]OT?j0o^OUI[1Y6c?n0W@VOa?[1Q@iNj?j8H<G8H4M3N3Ie_Oe@]`0V?<E:K5H8L2N2N2K6M3L4I8K4M2L4L4N3L4H8L5I6M3N1N2N2J7M3L5M2L4M2M3N2N2N3M4J6K3O1N2O2M2N2K5N4L2O1N2N3I6M3L6J5N1N2O1N2J6N2N3M2N2N2L5M2N2N2N2K6M2O1N101N1O2N2N2N2N1O2O0O2NmA^Ik2a6RMjIg2T6XMSJd2j5]MXJc2f5]M[Jd2b5^M]Jd2b5\\M^Je2`5[MaJg2]5XMdJi2Z5UMhJm2V5QMmJP3P5PMRKQ3k4QMUKP3i4oLXKR3h4lLZKU3d4iL^KY3`4`LgKb3W4RKlI_GP3a=o2mJaMT5]2eJkM[5U2cJmM]5R2bJPN_5o1_JSNb5l1\\JVNd5i1ZJYNh5f1SJ_Nn5_1lIhNT6W1kIkNV6R1kIoNV6o0kIQOV6m0`IgJbH]4n=k0\\IDd6<VIJk64RI0o6NoH4S7JkH9V7EjH<V7BgHc0Z7[OeHg0[7YOdHh0]7VObHl0_7SO]HQ1d7nNUHY1k7fNSH]1n7bNQH_1o7aNnGa1S8^NmGc1S8]NkGe1V8VNlGl1T8TNgGQ2Z8mMeGU2\\8jMbGY2^8fM`G\\2`8dM^G^2b8aM^G`2b8`M]Ga2c8^M\\Gd2e8[MWGi2i8VMQGQ3o8nLQGS3P9kLPGV3P9iLQGW3P9fLRGZ3n8fLPG\\3P9cLlFb3U9\\LjFf3V9YLjFi3U9WLjFj3V9VLiFk3X9TLfFn3Z9RLeFo3[9PLdFR4\\9mKdFT4\\9jKdFX4]9fKaF]4`9bK^F`4b9_K^Fb4b9^K]Fc4c9]K[Fe4f9ZKXFh4h9WKXFj4h9VKWFk4j9SKUFP5j9PKUFQ5l9mJSFU5m9kJRFV5n9iJRFX5n9gJRF[5m9cJTF_5k9aJSFb5m9\\JRFg5m9YJQFi5o9WJPFj5P:VJoEk5Q:TJPFl5P:TJoEm5Q:SJlEQ6S:nIlEU6S:kIkEW6V:gIkEZ6T:fIkE[6T:fIlEZ6T:fIkE[6U:eIjE\\6V:dIiE]6W:cIgE`6X:_IhEb6X:^IgEc6Y:\\IhEe6W:ZIjEf6V:YIkEh6T:XIkEi6U:VIjEm6U:SIiEP7U:QIiER7V:mHjET7V:lHjET7V:lHiEV7V:jHjEV7V:jHiEW7W:iHhEY7V:gHiE[7W:eHhE\\7X:cHhE_7W:aHiE_7W:aHiE_7V:aHkE_7U:`HkEa7U:]HmEe7Q:[HnEh7o9XHPFk7o9UHPFl7P:THoEn7o9SHPFn7P:RHoEo7Q:QHoEo7Q:QHnEQ8P:PHoER8P:nGoET8P:lGoEV8P:iGPFY8o9gGQFY8o9gGPF[8n9fGRF[8m9eGRF]8m9cGRF_8m9`GSFa8l9`GTFa8k9_GUFa8k9_GUFb8i9_GVFd8h9\\GXFd8h9[GXFg8f9ZGYFh8f9XGYFj8f9UG[Fl8d9TG\\Fl8d9TG[Fm8d9SG]Fm8c9RG^Fo8a9QG^FS9_9lFaFW9]9iFbFY9\\9hFdFX9\\9hFdFY9[9fFfFZ9Z9fFeF[9[9eFeF\\9Y9eFgF\\9X9dFgF`9U9aFjFa9U9_FkFb9T9]FmFc9R9^FmFd9R9\\FnFd9R9\\FnFe9Q9ZFoFi9o8WFQGl9l8TFSGo9j8RFVGo9i8QFVGQ:h8PFXGQ:g8oEYGS:d8nE\\GS:b8mE_GT:`8lE_GW:^8jEbGX:[8iEeGX:Z8hEfGY:X8hEhGY:W8fEjGZ:V8fEjG[:U8dElG]:R8dEmG_:Q8`EPHc:l7^ETHd:i7]EWHc:h7]EYHd:f7\\EZHe:d7\\E\\Hd:c7]E\\Hf:a7ZE`Hi:\\7XEdHj:Z7VEfHk:Y7UEgHk:X7VEhHk:W7UEiHl:V7TEjHn:T7REkHQ;S7oDmHR;Q7oDnHT;o6mDQIV;k6kDUIW;h6jDXIV;g6kDYIV;f6jDZIW;d6jD\\IW;b6jD^IZ;]6gDcIZ;[6gDeIZ;Z6eDgI];V6dDjI];S6eDmI];P6dDPJ];n5dDRJ];l5dDTJ^;i5cDWJ^;g5cDYJa;c5_D]Jb;a5_D_Jb;^5`DbJa;\\5`DdJ`;[5aDeJd;U5]DkJe;R5\\DoJe;o4[DQKi;j4XDVKi;h4XDYKh;e4YD[Kh;b4ZD^Kh;_4YDaKj;[4WDeKk;Y4UDgKm;V4TDjKm;U4SDlKk;U4UDkKj;W4UDiKj;X4VDhKg;\\4XDdKc;b4\\D^K^;i4`DXK^;j4bDWK];j4bDVK];l4bDTK^;l4bDTKX;aLa@]8V4RKW;U5iDlJP;[5oDeJP;]5oDcJP;_5oDaJP;a5oD`JP;`5PE`Jo:b5PE^Jl:g5SEYJk:j5TEWJh:m5WESJg:P6XEPJf:R6ZEnIf:R6ZEoId:S6[EmIe:S6[EmIc:V6\\EkI_:Y6bEfI]:\\6bEeI[:]6eEcIW:b6hE^IX:b6hE^IX:b6hE^IX:ZLoAU:h3aIX:YLSBU:e3bIS:aLTBo9h3aIQ:l6nETIP:n6PFRIo9o6QFQIo9o6QFRIm9P7RFPIl9R7TFnHj9T7VFlHh9V7YFjHc9Y7]FgH_9^7`FcH_9]7aFcH^9^7bFcH]9^7bFbH]9_7cFaH\\9`7dFaHZ9`7fFaHV9c7iF^HT9d7lF]HR9e7mF[HS9e7mF\\HQ9e7oF[HP9f7PGZHn8i7QGXHl8j7TGVHj8m7VGRHi8o7WGRHf8Q8YGoGg8Q8ZGnGf8R8ZGnGf8R8[GnGc8S8]GmG_8W8bGhG\\8[8cGfGY8]8hGcGV8^8jGcGU8^8jGbGU8_8kGaGU8_8kGbGS8_8mGaGR8a8nG_Go7c8QH^Gl7e8SH\\Gk7e8VHZGi7h8VHYGi7g8WHYGi7g8WHZGh7g8WHZGg7g8ZHYGc7i8]HXG`7k8_HVG^7m8aHSG_7m8aHSG_7m8aHTG]7n8bHRG]7o8cHRG\\7n8dHSGZ7n8gHQGX7Q9hHoFV7R9jHnFU7S9lHmFS7S9mHmFR7T9nHmFQ7S9oHnFn6T9SIlFk6V9TIkFj6V9VIkFi6U9WIkFi6U9WIlFg6U9YIlFf6T9ZImFd6T9]IlFa6U9_IkF_6W9bIiF]6X9bIhF]6Y9dIgF[6Y9eIgF[6Y9eIhFY6Y9gIhFX6W9iIiFV6X9kIiFS6W9mIkFP6V9PJkFn5U9SJkFm5U9SJlFk5U9UJmFh5T9XJnFe5S9[JoFc5Q9^JoF`5Q9bJoF]5Q9dJPGZ5P9gJoFX5R9iJnFV5R9jJoFU5Q9lJoFS5Q9mJPGR5P9nJRGo4n8SKSGk4m8UKUGh4l8XKUGg4k8YKVGf4j8ZKWGd4j8\\KVGd4i8]KXGa4i8`KWG^4j8bKWG\\4i8fKWGY4i8gKXGW4h8jKYGU4g8kKZGT4f8mK[GQ4e8PL\\Gn3d8SL]Gk3c8VL^Gg3c8YL_Ge3a8\\L_Gc3a8]L`Ga3a8_L_Ga3a8_L`G`3`8aL`G]3a8cLaG[3^8gLbGX3^8iLcGU3]8kLdGT3\\8mLdGR3\\8oLdGP3\\8QMfGl2Z8UMgGi2X8YMhGf2X8[MiGc2V8^MmG_2S8aMnG^2R8bMoG]2Q8cMQH[2n7gMRHX2n7hMTHV2l7kMUHR2l7PNTHn1l7SNUHk1j7WNWHg1i7YNWHh1h7YNXHf1g7[N[Hc1e7]N]Ha1b7aN_H]1`7dNcHY1]7hNeHU1Z7lNhHR1X7nNmHm0S7SOoHk0Q7UOTIg0k6ZOVId0i6_OZI<f6E\\I8c6JbI0^61bIO\\63dIL\\64fIJZ66kIET6=nI@R6`0QJ]Oo5d0SJYOl5h0YJSOf5o0[JoNd5R1^JlNb5T1eJeN[5\\1kJ]NT5e1lJZNT5i1oJRNP5o1XKhMg4Y2`K`M_4b2bK\\M^4d2cK[M\\4g2fKWMY4j2jKRJhFj2^=V3QLgLo3Z3SLcLl3_3WLkIRGh1f<_4]MUKb2l4`MRK_2o4cMPK[2Q5jMjJV2V5lMiJR2Y5oMeJQ2]5nMcJP2a5nM_JP2c5PN]Jo1c5RN\\Jm1f5RNZJn1f5SNYJl1h5TNXJk1j5UNaImDL3Kl<i6R<4L3M2N101N10001M6K2N2N1O2N101N1N5K4L3N2O0O1O2N2N6I3O0O2N1O102M5I4N2N1O2N2N3M2M3M3N2M3M4N2M101N2M4M4M1N2L4M201N7I2M4L6J3M3M2N3M2N8G4M4M5K2K4N3N2N7H3M4M6K0O2N2O1M7I3L4N6H4L3O2N2N7G5K7nGRAhNS?S1WA`No>X1_A^Ne>_1^A_Nh>[1[AaNi>[1]A]NP?N`BJj=FcB5a=HaB5e=E^B8e=G^B1h=MZB1h=M[B0l=JUB3P>HSB3X>ElA6]>BfA;b>\\ObA>e>UK\\]OU4Q4c0l>XOVAg0Q?ROQAl0R?]Kj\\O[3X4R1R`0SNV@e1W`0nMn_Ol1\\`0fMP@R2c`0kLeZO\\OP5c3a`0_LXZONP6^3^f0L4L3L8H4I9I6RNkROd0dn0^OR[f1AgeYN0ioo11VPPN0QP6OooI3O11M00O1J600N21O3MRP5KRPK4NO2N0000J6O1O1FFmPO;So0EmPO;"
+    },
+    "area": 638518,
+    "bbox": [
+      0,
+      0,
+      1023,
+      1023
+    ],
+    "predicted_iou": 1.0219310522079468,
+    "point_coords": [
+      [
+        944.0,
+        976.0
+      ]
+    ],
+    "stability_score": 0.9791480302810669,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_0"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "_hha0R1bn0c0D7I5M4F9L4N2M3N2N2N1N3M3M3M2L5M2O2N2K4N3N100O001O1N3M3M2N2N2O1O1O100N2N201O00O0001O1O2N100O0100O1000O100000O001O1O10OO2O10O0001O100O2O0O1O10OO2O101N1N2O2N1O1N2O1N2N3N1N2O1O2L201O2N1N2N3M2N3M2N3N3L3N2M3M3M4L4K5K5L4K5K5L5K6@a0Gl\\e:"
+    },
+    "area": 13047,
+    "bbox": [
+      568,
+      600,
+      113,
+      226
+    ],
+    "predicted_iou": 0.9859535694122314,
+    "point_coords": [
+      [
+        624.0,
+        656.0
+      ]
+    ],
+    "stability_score": 0.9789912700653076,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_1"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "[gT85io07QQO7]m0NjQOj0Rn0d0N3M3N0O1O3M20O00000000O101O000000001O000O10O0100000O1000O010O10O2O0O00100O2N10O01O100O1O2N1O1O2N2O0O2M3N2L5K5J6K7H8GfVme0"
+    },
+    "area": 4159,
+    "bbox": [
+      260,
+      745,
+      61,
+      104
+    ],
+    "predicted_iou": 0.9791655540466309,
+    "point_coords": [
+      [
+        304.0,
+        816.0
+      ]
+    ],
+    "stability_score": 0.9773485660552979,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_2"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Udl<3lo04M3M2O2M2N2N2N2O1N2N101N2N2N1O2O1N1O2N2N2M2O1O1O1O1O0010O010O0100000O]ObNdRO_1Zm0dNeRO[1[m0eNfROZ1[m0eNeRO\\1Zm0dNgRO[1Zm0dNfRO\\1Pn0O100O1O0010O01O001O0O2O0O2N1N3M3N2L4K6K7GS[Ta0"
+    },
+    "area": 2281,
+    "bbox": [
+      412,
+      632,
+      62,
+      71
+    ],
+    "predicted_iou": 0.9722981452941895,
+    "point_coords": [
+      [
+        464.0,
+        688.0
+      ]
+    ],
+    "stability_score": 0.9689788818359375,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_3"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Uf^f05fo0:I:G2N2N1O100O1O100O1O1O1O1N2O100N101O1O1O1O1O10O01O1O010O1O10O10O10O01000O010O100O010O1000O01O100O10O10O1O100O001O1O001O1N2O1N3M3L4M2N2N2M3M7HQ[X7"
+    },
+    "area": 2894,
+    "bbox": [
+      718,
+      668,
+      72,
+      60
+    ],
+    "predicted_iou": 0.9695607423782349,
+    "point_coords": [
+      [
+        784.0,
+        688.0
+      ]
+    ],
+    "stability_score": 0.9719753861427307,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_4"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "ibV79ao0:J4N2N1O100O1O1O010O1O1O001O00001O1O001O01O010O101N101N1O2N1O2N2N1N4M3M3M3La\\bg0"
+    },
+    "area": 1058,
+    "bbox": [
+      230,
+      593,
+      38,
+      39
+    ],
+    "predicted_iou": 0.9687063694000244,
+    "point_coords": [
+      [
+        240.0,
+        624.0
+      ]
+    ],
+    "stability_score": 0.9665738344192505,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_5"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "VZS7=`o09E<F:F4L4L3N2M2O2M3M2O1O1O1O1O100O100000000000O2O010O001O0O2O1O001O1O1N2O1O2N1O2N2N3M4L5I6K4L3K8GQgZg0"
+    },
+    "area": 2886,
+    "bbox": [
+      227,
+      270,
+      49,
+      90
+    ],
+    "predicted_iou": 0.9684431552886963,
+    "point_coords": [
+      [
+        240.0,
+        336.0
+      ]
+    ],
+    "stability_score": 0.9750341773033142,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_6"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "i`c92mo02N3N1O001O1O001N2O001N2O1O0O2O1O1O0O2O1N101N1O2O0O1O101N100O101N1O1O100000000001O00000000000O101O00001N101O0O2O0O2O0O2N1O2N1O2N1N3N3M3L[_Wd0"
+    },
+    "area": 1757,
+    "bbox": [
+      307,
+      521,
+      68,
+      37
+    ],
+    "predicted_iou": 0.9625918865203857,
+    "point_coords": [
+      [
+        368.0,
+        528.0
+      ]
+    ],
+    "stability_score": 0.9620958566665649,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_7"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Uh[;8go09G4M4M4L3M1N2N3M2O0O1O100O100O1O100O1O1O10O01O1O1O001O1O010O0O2O0010O01O1O10O00100O010O1O100O1O1N2O1O1O1O1N2O1O1N3M2N3M2N3N2L5K4M5JbVab0"
+    },
+    "area": 2879,
+    "bbox": [
+      363,
+      771,
+      66,
+      68
+    ],
+    "predicted_iou": 0.9622939825057983,
+    "point_coords": [
+      [
+        400.0,
+        816.0
+      ]
+    ],
+    "stability_score": 0.9719562530517578,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_8"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "kim;<do05K5L5L;C2N1O010O10O010O100O01O010O0100O010O01O01O10O01O1O10O01O1O100O001O1O1O1O1O1N2O1O001O1O2M10100O1O2N1N3M3MkTYb0"
+    },
+    "area": 1857,
+    "bbox": [
+      381,
+      827,
+      56,
+      55
+    ],
+    "predicted_iou": 0.9611468315124512,
+    "point_coords": [
+      [
+        400.0,
+        848.0
+      ]
+    ],
+    "stability_score": 0.9667370915412903,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_9"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "lih>4]o0l0C:F3M3M2O002M100O100O1000O10000O010O100O2O0O100O100O2N1O1O2M3M4L3M2N3L4M3M4J5LYUn?"
+    },
+    "area": 1767,
+    "bbox": [
+      472,
+      813,
+      40,
+      66
+    ],
+    "predicted_iou": 0.9590561389923096,
+    "point_coords": [
+      [
+        496.0,
+        848.0
+      ]
+    ],
+    "stability_score": 0.971666693687439,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_10"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "nkd>9`o09G8N2M4L3M3N2N1O2O1000O01O010O10O10O01O10O00O2O00001N2O0O2N2N2N3M2N4K6HWTV`0"
+    },
+    "area": 1345,
+    "bbox": [
+      468,
+      870,
+      36,
+      49
+    ],
+    "predicted_iou": 0.9587666988372803,
+    "point_coords": [
+      [
+        496.0,
+        912.0
+      ]
+    ],
+    "stability_score": 0.9677419066429138,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_11"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "_[V6Q1in0:H7I5M2M3M3N2M2O2ON2O101N101O1O0O2O001O1O1O1O1O1O3M2M7H>@:AVejh0"
+    },
+    "area": 1706,
+    "bbox": [
+      198,
+      332,
+      30,
+      75
+    ],
+    "predicted_iou": 0.9573962688446045,
+    "point_coords": [
+      [
+        208.0,
+        368.0
+      ]
+    ],
+    "stability_score": 0.9740484356880188,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_12"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "b`]i04_o0a0G7J5XO^OkQOi0im0n0M2O1O1O1O2N1O0000000000M4M2L4L4N3M2ROmQOLWn0IZROLjm0H`bh5"
+    },
+    "area": 1542,
+    "bbox": [
+      813,
+      474,
+      25,
+      77
+    ],
+    "predicted_iou": 0.957294225692749,
+    "point_coords": [
+      [
+        816.0,
+        528.0
+      ]
+    ],
+    "stability_score": 0.9687100648880005,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_13"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "ekX;6jo02N2N1O1O002N2N1O1O1O1O1O1O1O1N2N2M2O2N2M2N3M3O1N2O01O0100O00010O010O010O01O010O01O01O0010O00O2O001O0000000O2O0O100000000O10000O10000O101N1O2M3N2M4L3N3L7GRTYb0"
+    },
+    "area": 2597,
+    "bbox": [
+      360,
+      872,
+      77,
+      52
+    ],
+    "predicted_iou": 0.9565143585205078,
+    "point_coords": [
+      [
+        400.0,
+        912.0
+      ]
+    ],
+    "stability_score": 0.9771167039871216,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_14"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "jjhb04ho05M3M2M4K4M4L4M3N101N1O100O2N100O10001N10000O1000000O10000O10000O01000000O010O100O100O1O10O0100O100O001O1O1O1O1O1O1N2O001O1O1O1O1O2N1N3M3M4K7GXVo:"
+    },
+    "area": 2541,
+    "bbox": [
+      600,
+      820,
+      71,
+      50
+    ],
+    "predicted_iou": 0.9530295133590698,
+    "point_coords": [
+      [
+        624.0,
+        848.0
+      ]
+    ],
+    "stability_score": 0.9720062017440796,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_15"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "jYV6>\\o0?B6M3N1N2N101N1O2O000010O010O00100O10O10O1000001N1O2M3J6M9Dmfjh0"
+    },
+    "area": 1262,
+    "bbox": [
+      198,
+      285,
+      30,
+      53
+    ],
+    "predicted_iou": 0.9517472982406616,
+    "point_coords": [
+      [
+        208.0,
+        304.0
+      ]
+    ],
+    "stability_score": 0.9634809494018555,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_16"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "_jo95ho05K4J5K6]Oc0M3N2N2O1N2O1O100O001O100O10O0100O10O0100O100O010O01O10O10O1O100O1O100O1O1O010O1O1O1O1N3N1O001O1O2N1O2N2M3M3M3M4L4K9EUUPd0"
+    },
+    "area": 3079,
+    "bbox": [
+      319,
+      808,
+      63,
+      73
+    ],
+    "predicted_iou": 0.9505553245544434,
+    "point_coords": [
+      [
+        368.0,
+        848.0
+      ]
+    ],
+    "stability_score": 0.9723827838897705,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_17"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "mQZ`02no0000O1N2O3N0O2O001O0O2O00010O0000000000100O001O001O00001O10O0001O01O01O010O010O0010O010O010O0100O010O010O010O01O010O001O001O0O2O1O1N101O001N2O1O001N2N`mY="
+    },
+    "area": 1061,
+    "bbox": [
+      522,
+      55,
+      75,
+      32
+    ],
+    "predicted_iou": 0.9501899480819702,
+    "point_coords": [
+      [
+        592.0,
+        80.0
+      ]
+    ],
+    "stability_score": 0.9531680345535278,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_18"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "aeP78eo05L5K3M4L3L4M4J5N3N2N1N2N2O11OO1000000O10O101O00001O0O2O1N1O2O1O0O1O101N2N1O2M3L4M4K7JjYcg0"
+    },
+    "area": 1765,
+    "bbox": [
+      224,
+      666,
+      43,
+      66
+    ],
+    "predicted_iou": 0.9492924213409424,
+    "point_coords": [
+      [
+        240.0,
+        688.0
+      ]
+    ],
+    "stability_score": 0.9714764952659607,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_19"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "]igc03lo02M3M3L3O0M4K5M4M2O1N2O2M2O1O1N2O1O1N20000O1O0010000O100O010O10O010O10O0100O00100O00100O1O00100O1O001O1O1O1N2O1O1N3N1N2N3L4M2N3M4K6IoWU:"
+    },
+    "area": 2352,
+    "bbox": [
+      631,
+      764,
+      66,
+      55
+    ],
+    "predicted_iou": 0.9478065967559814,
+    "point_coords": [
+      [
+        688.0,
+        784.0
+      ]
+    ],
+    "stability_score": 0.9569757580757141,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_20"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "fbl;6io03N1O2N1O2N1O2N1O101N1O1O1O100O1O2N1O1O1O001O2N1O1O1O1O100O1O001O1O0002O0O00BjNSROV1lm0jNTROV1lm0jNTROV1lm0jNUROV1jm0jNWROU1im0kNWROU1im0kNXROT1Zn001O1O001O1O001O1N101O1N1O2N1N3L4M3M4L6Hc\\Qb0"
+    },
+    "area": 1937,
+    "bbox": [
+      380,
+      589,
+      65,
+      55
+    ],
+    "predicted_iou": 0.9463977813720703,
+    "point_coords": [
+      [
+        432.0,
+        624.0
+      ]
+    ],
+    "stability_score": 0.9522373080253601,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_21"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "jff61io0a0A7I7J5M3M4L4M3O0N2N100O2O1N100O1O101O00000O1000O10001O0O010O100000001O1N101N2N2N2L6G<G8E\\Xkg0"
+    },
+    "area": 2335,
+    "bbox": [
+      214,
+      710,
+      45,
+      81
+    ],
+    "predicted_iou": 0.9453617334365845,
+    "point_coords": [
+      [
+        240.0,
+        752.0
+      ]
+    ],
+    "stability_score": 0.9638351798057556,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_22"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "W]^6895II01Zn0^1H7M4M2N2N2O1N2O1O1N2O1O100O10000O100001O0000001O001O001O1O1O2M2JYROPNjm0k19L3M4K5K6I7H<BQcWh0"
+    },
+    "area": 2852,
+    "bbox": [
+      206,
+      391,
+      41,
+      80
+    ],
+    "predicted_iou": 0.9399317502975464,
+    "point_coords": [
+      [
+        240.0,
+        432.0
+      ]
+    ],
+    "stability_score": 0.9613392949104309,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_23"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Xjd87io03M3M2N2O1N2N2N2N010O6L0O0O2O1N1O2N101N2N101N1O2O0O101N2O0O2N101N1O2O1N10000O100O100O1000000O01000O1000000O10O100O01000000O0100O100O2O1N100O1O1O100O100O101N1O1O1O2M2O2N2N1N3N2M3M3N4J6^OiS^d0"
+    },
+    "area": 4300,
+    "bbox": [
+      276,
+      840,
+      92,
+      99
+    ],
+    "predicted_iou": 0.9385184049606323,
+    "point_coords": [
+      [
+        304.0,
+        880.0
+      ]
+    ],
+    "stability_score": 0.9612579941749573,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_24"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "[m];4jo03N3M3L3M2M4@?O2O0010O001O001O0O10100O001O00001O001O1O10O0001O00001O0001O01O00000000000O1000000O010O1O1O0O2O1O1O001O1N2O1N3N2M4KUSab0"
+    },
+    "area": 1774,
+    "bbox": [
+      365,
+      912,
+      64,
+      41
+    ],
+    "predicted_iou": 0.9343353509902954,
+    "point_coords": [
+      [
+        400.0,
+        944.0
+      ]
+    ],
+    "stability_score": 0.9673129916191101,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_25"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "alT`01no03gH2Z^O2]a09[^OLaa09[^OIaa0=\\^OE`a0`0\\^OC`a0b0\\^O@aa0f0Z^O]Oba0h0[^OZOaa0l0[^OVOaa0V1S^OnNja0X1o]OlNna0Y1l]OkNQb0Z1i]OjNTb0[1e]OiNYb0\\1^]OkN_b0[1Y]OiNfb0\\1S]OhNjb0b1k\\ObNRc0h1`\\O_N]c0W2g[ORNWd0W2\\[OoMbd0Y2gZOUKPOe2Wf0h6M2O1N3M2N3N1O2M2N2N2O2M3M2N3N1O1N2O2M2N2N2O2M2O1N2O1O2M2O2M2O1O1O1N3N1N3N1O1O1N3N1N2O2N1O2N1O1O2M2O1O1O2O0O1O1O1N2O2N100O1O2N1O1O1O2N1O1O100O2N1O1O1O2O0O2N100O10000O1O100O100O1O1O100O00100O100O1000O0100O100O010O100O100O1000O10O1000O010000O100O100O100O0100000O100000000O010000000000O10000000000O1O1O10000O100O10000O2O00000O2O000O100O100O100O1O2O0O1000000O2O001N100O2O0O101N1O1O1O101N10001N1O2N2N1O2O0O2N101N2N1O2N1O2O0O2N1O2N2N2N2N2N1O2N1N3N2N2N2N1O2N1O2N1O2N1O1O2N1O1O2N1O3M2N1N3M2O2N1M4M3N100O2O1N3N1M3M3M3N2N1O2N1N3L4N2M2N2N2O1O1O1KMWGXYOh8ff09001O2N1kGUYOV7lf0n03K4N2N3hHgXOd5Zg0[JgXOe5Zg0ZJgXOd5[g0ZJfXOe5\\g0\\JaXOc5cg0Y14N2M2N2N3N1O4J9E;G4L5L6G8K4M3M3I6L5K5K5L3M3M4L5K3L4L4N3K4L5M3L6F9I6I7K8J5K4L3L6D<UNfRO`0kn0[OP[m4"
+    },
+    "area": 120716,
+    "bbox": [
+      516,
+      503,
+      349,
+      454
+    ],
+    "predicted_iou": 0.9330101609230042,
+    "point_coords": [
+      [
+        592.0,
+        592.0
+      ]
+    ],
+    "stability_score": 0.9511739015579224,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_26"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "SRo>4ko02N2N101N101N101O00001O0000001O001O001O001O00001O001O001O00010O00001O001O000010O001O00001O0000001O00001N10001O0O101O0O101N101N101O2N4Kbml>"
+    },
+    "area": 1183,
+    "bbox": [
+      479,
+      62,
+      67,
+      25
+    ],
+    "predicted_iou": 0.932877779006958,
+    "point_coords": [
+      [
+        528.0,
+        80.0
+      ]
+    ],
+    "stability_score": 0.9576059579849243,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_27"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Wf`:8go04M4L4L4L2N3N1N2N2O1N1O1O2O0O2N2N100O2N1O2O0O1O1O1O001O010N101N101O001N101N2O0O2O001O000010O1O00100O1O1O001O1O2N1O1O1O1O1O2N1O2N100O1N2O1N3L4L4K5L4K6IgXSc0"
+    },
+    "area": 3583,
+    "bbox": [
+      336,
+      710,
+      75,
+      68
+    ],
+    "predicted_iou": 0.9301787614822388,
+    "point_coords": [
+      [
+        368.0,
+        752.0
+      ]
+    ],
+    "stability_score": 0.9730176329612732,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_28"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "l[U7:co04M2M3N3N1N2N2O2M3N4K4M2N3M2N4L3M2N2M3N1O2eSOQNbj0P2f10lSOPNYj0Q2gUOoMXj0S2i11O1O2N1N10001O0O101O000000O2O001O1M3N2O1N3M2O1N2M3M3K5K6L3N3I9Gb0]O^eof0"
+    },
+    "area": 3163,
+    "bbox": [
+      229,
+      327,
+      58,
+      142
+    ],
+    "predicted_iou": 0.9277267456054688,
+    "point_coords": [
+      [
+        272.0,
+        336.0
+      ]
+    ],
+    "stability_score": 0.955500602722168,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_29"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "^Ti:2mo04L3M3M2M3N1O2N1O2N101N2N2N3M2O1N2O1N2O1N00O101O010O0100O10O01000O010O01000O100O100O1O100O1O100O1O101N1O1O101N1O1O2N1O1O2N1N2O1O1O1O1O1O2N1N3N1OWlmb0"
+    },
+    "area": 2070,
+    "bbox": [
+      345,
+      116,
+      72,
+      49
+    ],
+    "predicted_iou": 0.9257663488388062,
+    "point_coords": [
+      [
+        368.0,
+        144.0
+      ]
+    ],
+    "stability_score": 0.9587677717208862,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_30"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "]kRa02jo07L3M3M1O2N1N3N101N2N2N2N3N1N101N2N2N101000O10O0001O0000010O000000001O000010O00000000O2O0000001N10000O101N100O2O0O101O0O2N1O2N3M6J3M3KaTi<"
+    },
+    "area": 2137,
+    "bbox": [
+      546,
+      857,
+      67,
+      45
+    ],
+    "predicted_iou": 0.9252240657806396,
+    "point_coords": [
+      [
+        592.0,
+        880.0
+      ]
+    ],
+    "stability_score": 0.9587723612785339,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_31"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Q\\T72io08J4N1M3N3M2N2O1N3N2M4M3L4M3M2N4L3M2N2N1O2N1O1N2O100O1N3N1O1O0O2O001O001N1000O2O001O1N2N2N2N2N2O2M2N2M3M3K5L5L4M3I9GgePg0"
+    },
+    "area": 3104,
+    "bbox": [
+      228,
+      328,
+      58,
+      83
+    ],
+    "predicted_iou": 0.924996018409729,
+    "point_coords": [
+      [
+        272.0,
+        368.0
+      ]
+    ],
+    "stability_score": 0.961829662322998,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_32"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "a`b83mo04K3N0JGePO:Zo0FePO;[o0500O100O1O100O10000O10000000000O0100000000000O10O10000O100O01000O1000O10O10000O100O100O10000O1000000O101N100O2O1N2N4Kj_\\e0"
+    },
+    "area": 1153,
+    "bbox": [
+      274,
+      513,
+      64,
+      25
+    ],
+    "predicted_iou": 0.9241980314254761,
+    "point_coords": [
+      [
+        304.0,
+        528.0
+      ]
+    ],
+    "stability_score": 0.9617671966552734,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_33"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "\\Ra=3ko06K10000O2N2N2O0O101O00001O1O0O2O001O1O001O1O001O001O010O00001O000001O0000001O001O0O2O0O101O0O2O1O1N10000O2N100O2N101N1O2O1N3N\\m^`0"
+    },
+    "area": 1263,
+    "bbox": [
+      433,
+      68,
+      63,
+      29
+    ],
+    "predicted_iou": 0.9207459688186646,
+    "point_coords": [
+      [
+        464.0,
+        80.0
+      ]
+    ],
+    "stability_score": 0.9512761235237122,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_34"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "jef=5lo00O3M4M2M2N3N1N4M1O2M2O1N1O2N2N1O2N2N3N1N1O1O01O010000O00010O010O001000O10O01O010O10O1000O1N101O1N2N2N2O1M3M3M3M2N3M5GZY]`0"
+    },
+    "area": 2115,
+    "bbox": [
+      438,
+      698,
+      59,
+      64
+    ],
+    "predicted_iou": 0.9162245988845825,
+    "point_coords": [
+      [
+        464.0,
+        720.0
+      ]
+    ],
+    "stability_score": 0.9601113200187683,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_35"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "mgke0>ao03M2O0O1M4J5O1O1O1O2M2O1O1N3N100O100O1O100IeNhQO\\1Xn0eNgQO[1Zn0cNgQO]1]n0100O1N110O100O1000O0100O10O100O10O0100O1O10O01O1O10O01O1O001O010O1N101N2N1O100O2N1N3M4UOoPOb0Zo0K5L3N2N2O0N[Yi7"
+    },
+    "area": 2881,
+    "bbox": [
+      699,
+      721,
+      74,
+      63
+    ],
+    "predicted_iou": 0.9160301685333252,
+    "point_coords": [
+      [
+        752.0,
+        752.0
+      ]
+    ],
+    "stability_score": 0.9505587816238403,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_36"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "SSl;4jo05WPOJao0<O0O101N100O101N1O101N1O1000001N10000O10001O000000000O10000000000O10001O0000000O100000000000000001N1000001O0O100O2O0O100O2O0O2N100N3N2O2M2N1O101N1O3KRmfa0"
+    },
+    "area": 1901,
+    "bbox": [
+      380,
+      84,
+      76,
+      32
+    ],
+    "predicted_iou": 0.9127174615859985,
+    "point_coords": [
+      [
+        432.0,
+        112.0
+      ]
+    ],
+    "stability_score": 0.9628483057022095,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_37"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "aXd67co09J4M2M3O1N2O1O1O1N2O2N1O2N1O2N2O1N1O100O2N10000000O1O0O2M3N3N1O2N3L4M4J6H8K6JogSh0"
+    },
+    "area": 1375,
+    "bbox": [
+      212,
+      240,
+      39,
+      49
+    ],
+    "predicted_iou": 0.9093412160873413,
+    "point_coords": [
+      [
+        240.0,
+        272.0
+      ]
+    ],
+    "stability_score": 0.9648493528366089,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_38"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "fU^91lo0;F4M6bPO^ORo0k0M2M2O1N2N2N3M2O1O1N101N2N110O1000O010O10O0010O0010O10O1O00100O1O1O1O1N2O3L3N2M4N1N1O1O2N101N1N4M2N1N3M3N3K6Kmjfd0"
+    },
+    "area": 2241,
+    "bbox": [
+      302,
+      146,
+      58,
+      60
+    ],
+    "predicted_iou": 0.9077950716018677,
+    "point_coords": [
+      [
+        336.0,
+        176.0
+      ]
+    ],
+    "stability_score": 0.9534580111503601,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_39"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "miRi01ho0:K3L3N3N1O1N3N00N1100000000O10000O1O1O00001O01O001N101O0O2N2O2L5J5M5LgWi5"
+    },
+    "area": 765,
+    "bbox": [
+      802,
+      776,
+      35,
+      59
+    ],
+    "predicted_iou": 0.9019509553909302,
+    "point_coords": [
+      [
+        816.0,
+        816.0
+      ]
+    ],
+    "stability_score": 0.950127899646759,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_40"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "i^Yg0n06YO_n0U1O1O1O001O0O2O1O001O001O2N001O1O001O001O1O001O001O001O001O001O001O001O001O00001O00O1N2O1N2N3L3L5J8SOmaS7"
+    },
+    "area": 2888,
+    "bbox": [
+      745,
+      472,
+      50,
+      67
+    ],
+    "predicted_iou": 0.889695405960083,
+    "point_coords": [
+      [
+        784.0,
+        528.0
+      ]
+    ],
+    "stability_score": 0.9733150601387024,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_headphones_region_41"
+  }
+]

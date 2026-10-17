@@ -1,0 +1,206 @@
+{
+  "object": "bonsai_amplifier",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "regions": [
+    {
+      "region_id": "bonsai_amplifier_region_15",
+      "area": 71050,
+      "isolated_label": "beat",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3978840914321831
+    },
+    {
+      "region_id": "bonsai_amplifier_region_12",
+      "area": 46706,
+      "isolated_label": "beat",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.37198045133013535
+    },
+    {
+      "region_id": "bonsai_amplifier_region_2",
+      "area": 45822,
+      "isolated_label": "cut",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.4086679485070703
+    },
+    {
+      "region_id": "bonsai_amplifier_region_9",
+      "area": 23540,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3744233964363092
+    },
+    {
+      "region_id": "bonsai_amplifier_region_51",
+      "area": 22060,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.321373272211007
+    },
+    {
+      "region_id": "bonsai_amplifier_region_40",
+      "area": 20231,
+      "isolated_label": "cut",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.33807491082615754
+    },
+    {
+      "region_id": "bonsai_amplifier_region_10",
+      "area": 21947,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "open",
+      "perpart_context_prob": 0.33153408135103146
+    },
+    {
+      "region_id": "bonsai_amplifier_region_41",
+      "area": 18988,
+      "isolated_label": "beat",
+      "comparative_label": "none",
+      "perpart_context_label": "open",
+      "perpart_context_prob": 0.2792991485637683
+    },
+    {
+      "region_id": "bonsai_amplifier_region_4",
+      "area": 18605,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.5248601237879321
+    },
+    {
+      "region_id": "bonsai_amplifier_region_55",
+      "area": 17537,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3789138282668431
+    },
+    {
+      "region_id": "bonsai_amplifier_region_8",
+      "area": 16004,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.5979793490845902
+    },
+    {
+      "region_id": "bonsai_amplifier_region_49",
+      "area": 15427,
+      "isolated_label": "beat",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.27213275858433106
+    },
+    {
+      "region_id": "bonsai_amplifier_region_1",
+      "area": 14521,
+      "isolated_label": "beat",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3086273377860056
+    },
+    {
+      "region_id": "bonsai_amplifier_region_39",
+      "area": 13507,
+      "isolated_label": "type on",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.4098622798652576
+    },
+    {
+      "region_id": "bonsai_amplifier_region_33",
+      "area": 11071,
+      "isolated_label": "cut",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.39130651474878364
+    },
+    {
+      "region_id": "bonsai_amplifier_region_34",
+      "area": 10537,
+      "isolated_label": "beat",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.4411444664371458
+    },
+    {
+      "region_id": "bonsai_amplifier_region_54",
+      "area": 8628,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.505254344949918
+    },
+    {
+      "region_id": "bonsai_amplifier_region_35",
+      "area": 5535,
+      "isolated_label": "hit",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.45984469752496643
+    },
+    {
+      "region_id": "bonsai_amplifier_region_42",
+      "area": 2833,
+      "isolated_label": "beat",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3264639219274579
+    },
+    {
+      "region_id": "bonsai_amplifier_region_14",
+      "area": 5441,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.4176058005200679
+    },
+    {
+      "region_id": "bonsai_amplifier_region_11",
+      "area": 5159,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.36706432342263184
+    },
+    {
+      "region_id": "bonsai_amplifier_region_13",
+      "area": 4656,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.38125574790753103
+    },
+    {
+      "region_id": "bonsai_amplifier_region_5",
+      "area": 4283,
+      "isolated_label": "type on",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.35176385703530727
+    },
+    {
+      "region_id": "bonsai_amplifier_region_21",
+      "area": 3982,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.5491282260314546
+    },
+    {
+      "region_id": "bonsai_amplifier_region_37",
+      "area": 2859,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.6529130257770999
+    }
+  ]
+}

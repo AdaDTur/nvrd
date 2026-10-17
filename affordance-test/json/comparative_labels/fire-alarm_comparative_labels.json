@@ -1,0 +1,110 @@
+{
+  "object": "fire-alarm",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 17 parts marked and numbered (1 to 17), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 17 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>\nPart 16: <option>\nPart 17: <option>",
+  "raw_response": "Part 1: hold\nPart 2: hold\nPart 3: hold\nPart 4: hold\nPart 5: hold\nPart 6: hold\nPart 7: hold\nPart 8: hold\nPart 9: hold\nPart 10: hold\nPart 11: hold\nPart 12: hold\nPart 13: hold\nPart 14: hold\nPart 15: hold\nPart 16: hold\nPart 17: hold",
+  "regions": [
+    {
+      "region_id": "fire-alarm_region_1",
+      "area": 522826,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_0",
+      "area": 313162,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_21",
+      "area": 106409,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_13",
+      "area": 44512,
+      "isolated_label": "take photo",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_8",
+      "area": 10492,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_7",
+      "area": 7031,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_3",
+      "area": 6158,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_10",
+      "area": 4896,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_6",
+      "area": 3294,
+      "isolated_label": "pick up",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_12",
+      "area": 2968,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_4",
+      "area": 2676,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_17",
+      "area": 2636,
+      "isolated_label": "take photo",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_23",
+      "area": 1677,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_22",
+      "area": 1380,
+      "isolated_label": "take photo",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_24",
+      "area": 1302,
+      "isolated_label": "take photo",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_5",
+      "area": 1246,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "fire-alarm_region_18",
+      "area": 1229,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    }
+  ]
+}

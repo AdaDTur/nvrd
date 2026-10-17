@@ -1,0 +1,77 @@
+{
+  "object": "ladle",
+  "model": "OpenGVLab/InternVL3-8B-hf",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/known/ladle.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "ladle_region_1",
+      "area": 35237,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "dSk>4;2OO_m0V3dBhLYKa4k3bKkK\\5_3eJ\\Lo5T3SJfLe6f2]IUMX7X2lHdMh7h1[HVNV8X1lGgNf8^EiFQ;e0_OS9`EXF^:h01i9ZOZFe0[:dNhE[1d;VM`Dj2d<kKcCT4k=XJ\\Bh5e`0bEn]O019OHR2\\:Zc00000O101O0O10Z\\OfEWNk0MVO[b0Y:Y_O^G^`0b8]_OeGa`0Z8]_OkGa`0U8]_OoGa`0P8^_OSHa`0m7^_OUHb`0j7]_OXHb`0h7]_OYHc`0g7]_OZHb`0e7^_O\\Hb`0d7^_O\\Hb`0d7^_O\\Hb`0d7^_O\\Hb`0d7]_O]Hc`0c7]_O]Hc`0c7^_O\\Hb`0d7^_O\\Hb`0d7^_O[Hc`0e7]_O[Hc`0e7^_OYHc`0g7]_OYHc`0g7^_OWHc`0i7^_OUHb`0m7^_OPHd`0P8\\_OmGg`0S8[_OhGh`0X8[_O[GT=BoCT9SOYF\\;j3gDl5b<aKSC`4Z<VLbCj3o;iLnCV3^;hE\\Cg7Q1b2j:gEWD`8l0i1\\:QOaEo0n9DPF=\\99aFGm8m0QGSOb8\\1[GfNZ8f1dGZNQ8R2nGnMf7`2XHaM[7l2dHTMU7U3iHlLg6d3XI\\LZ6S4dIoKQ6\\4nIdKj5e4TJ]K_5Q5^JQKR5W`0@a0D=WOl0TOSof>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The elongated handle-like structure of Part 1 suggests its design for grasping and holding onto while carrying items over distance, distinguishing it functionally as meant for handling compared to Parts 2-3 which are more bowl-oriented components without similar ergonomic features suitable for gripping alone"
+        }
+      }
+    },
+    {
+      "region_id": "ladle_region_2",
+      "area": 20127,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "\\iR:a0^o05L5J3O1N4M1<E2M0O11O1O001O1O1O0O100O1O010O1O1O1O001O1O001O1O1O00001N10001O1O000O101N10001N100O10000O2O00000O100O1O100O10O10O100O100O1O10O0100O1O010O10O01O100O00100O00100O010O10O0100O0010O01O010O001O010O010O001O0010O01O01O01O010O00001O010O001O01O01O00001O000010O000001O0001O0001O00010O0000001O000001O0001O00000001O01O000001O0001O00000000000000000000000001O000000O1000000000000001O00000000O10000000000000000000O10000000O100000O10000O10O10000000O1000000O0100000O10O1000O1000000O01000O1000O010000O010O10000O10O010000O1000O0100O10O0100O010O100O10O01000O0100O0010O0100O010O1O0010O0100O010O001O001O1O010O010O001O00100O00001O0000001O001O0000001O00001N1000001N100O2O0000000O1O100O2O0O100O001O1O1O1O1O010O1N1O10O11N101O00N0012N3M2O3L3N3KWV`:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "stir",
+          "justification": "The rounded bottom surface of Part 2 provides contact for stirring while its shallow bowl-like structure allows easy mixing compared to Parts 3-4 which are more rigidly structured without such concave surfaces suitable for direct food interaction like stirring would require in cooking utensils' design intent"
+        }
+      }
+    },
+    {
+      "region_id": "ladle_region_3",
+      "area": 50966,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ViY:d0Yo08H5L4J6M3M3L4L4L4M2N3N1N2N3K4M3N2O1N2O1N2N2M3N2N2O1N2O0O2N2O1N2N2N1O2O0O2N2N101N101N2O0O2N2N2O0O2O0O100O2O1N2O001O0O2O000O2N101N100O2O001O0O101O0O101N10001N101O001O0O2O0O101N10001O0O10001O001N1000000O2O00001O000O2O000000001N1000001O00000O1000000O2O0O10000O101O0O100O101N1000000000000O2O0001O001O0001O000000010O000000000000000000000O100000001O01O000O1000000000000001O00000000O1000000000O10000001O000000000O100000000000000O100000000000001O0O101O001O0O2O001O001O000O10001O000O10001O0O10001O00000O2O000000001N10001O0O101O0O101O00000O101O0O10000O2O0O10000O2O000O2O0O10001N101N2O1N101O0O100O2O0O2O1N101N101N2O1N1O2N100O2O0O1O2N101N2N101N2N2N2O0O2N2O0O2N2N2N3M2N1O2O0O2M3N2N4L2N2N2N2N3L3N3M2M4L5J4N3L3N3L6H9GhVf:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "stir",
+          "justification": "The broad circular base of Part 3 provides ample surface area for stirring food in a pan efficiently while its curved design allows easy maneuverability around edges compared to straight handles like Parts 2 and possibly flat tops such as those implied by Numbers 1 & 4 which likely serve distinct functions unrelated directly to mixing contents actively within"
+        }
+      }
+    },
+    {
+      "region_id": "ladle_region_4",
+      "area": 2110,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "USc?l0en0m0]O7K5L4L3N2N2N101N1000000O1001O000O101N101N2N2M3L4L6Ca0oNTn_?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The handle of utensil-like objects typically features ergonomic grips for carrying due its extended length compared to functional components like bowls which are meant for holding food items rather than being moved around frequently by hand alone; thus differing in purpose despite similar materials used across all sections shown here as indicated through their distinct shapes designed accordingly\u2014handle allowing"
+        }
+      }
+    }
+  ]
+}

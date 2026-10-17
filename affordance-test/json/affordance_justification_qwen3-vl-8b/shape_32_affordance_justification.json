@@ -1,0 +1,264 @@
+{
+  "object": "shape_32",
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/novel/shape_32.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "shape_32_region_48",
+      "area": 80894,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "[Un5e0an0a2cQOnLYl0a5jM?C7I4M4L3M2N2N3N1N2N3N1N2O0O2O0O2O1O1O1N101O0O2O001O1N101O001O001O0O101O001O001O001O0O2O001O001O001O001O0O101O001O001O001O0O101O1O001O001N10001O001O001N101O00001O001O000O2O1O001O00001N101O001O1O001N10001O000000001N10000000001O0O10000000000000000O100000000000O100000O010000000000000O1000aLeYOYM[f0c2lYOZMTf0c2RZOZMne0d2WZOYMie0d2\\ZOZMde0d2`ZOZM`e0e2cZOYM]e0e2gZOYMXe0f2lZOXMTe0g2oZOWMQe0h2Q[OWMod0h2S[OWMmd0g2U[OYMkd0f2W[OXMjd0g2W[OYMhd0g2Z[OXMfd0g2\\[OXMdd0h2][OWMcd0h2_[OWMad0h2a[OWM_d0i2a[OWM_d0h2b[OWM_d0h2b[OXM]d0i2d[OVM\\d0i2e[OWM[d0h2g[OWMYd0i2g[OWMYd0i2h[OVMXd0i2j[OVMVd0j2k[OUMUd0j2n[OSMSd0m2l[OTMTd0l2l[OTMSd0l2n[OTMRd0l2n[OTMRd0l2o[OSMQd0l2P\\OTMPd0l2P\\OTMPd0l2Q\\OSMoc0m2Q\\OSMoc0m2R\\OQMnc0P3R\\OPMnc0P3Q\\OQMoc0o2Q\\OQMoc0o2Q\\OQMoc0o2Q\\OQMoc0o2Q\\OQMoc0o2P\\ORMPd0n2P\\ORMPd0n2P\\OQMPd0P3o[OQMQd0o2o[OQMQd0o2n[ORMRd0o2m[OQMSd0o2m[OQMSd0o2m[OQMSd0P3l[OPMTd0P3k[OQMUd0P3i[OQMWd0o2h[ORMXd0n2g[ORMYd0P3f[OPMZd0P3e[OQM[d0o2e[OQM[d0P3d[OPM\\d0Q3c[OoL]d0R3a[OoL_d0R3_[OoLad0Q3^[OoLcd0R3[[OoLed0R3Z[OnLfd0R3Y[OoLgd0R3V[OPMjd0Q3T[OPMld0Q3R[OPMnd0Q3P[OoLQe0R3nZOnLRe0U3jZOlLVe0U3fZOmL[e0T3cZOmL]e0T3aZOmL_e0U3_ZOkLae0X3WZOmLie0U3TZOkLme0W3nYOlLRf0X3eYOmL[f0W3`YOkL_f0Z610000RKWYOe0if0VObYOd0_f0WOgYOg0Yf0WOlYOf0Tf0WOSZOd0ne0[OUZOc0ke0[OXZOd0he0ZO[ZOe0ee0ZO^ZOd0ce0ZO_ZO\\NjN6gf0]1aZOZNmN6bf0_1bZOZNoN5_f0`1dZOXNPO7]f0_1fZOVNQO9Yf0a1gZOTNRO:Wf0a1jZORNRO:Uf0d1iZOQNTO:Tf0c1iZORNUO:Rf0d1iZOQNVO;Qf0c1jZORNVO9Qf0d1kZOQNUO;Qf0c1jZORNVO:Pf0c1lZORNTO;Pf0c1lZORNUO:Pf0c1kZORNWO9oe0d1lZORNVO9ne0e1lZORNVO9oe0d1kZOSNVO8Pf0e1jZOSNVO8Pf0e1jZOSNVO8Pf0e1jZOSNVO7Rf0e1hZOTNVO7Rf0e1hZOUNUO6Tf0d1gZOVNUO5Uf0e1fZOVNTO6Vf0d1fZOVNSO7Wf0c1fZOVNRO7Zf0b1dZOWNQO8[f0a1dZOXNPO6]f0c1bZOWNPO7^f0b1`ZOZNQO3af0c1\\ZO\\NPO3df0a1\\ZO]NnN2gf0b1YZO^NnN1jf0`1XZO`NmN0kf0a1WZOaNkNNof0b1TZOdNeNOXg0\\1RZOiN`NM_g0[1oYOmN[NKgg0W1nYOe0Sf0[OlYOe0Uf0]OhYOd0Yf0\\OeYOd0\\f0]OcYOb0^f0_O`YOb0af0^O^YOa0cf0BWYO`0kf0@QYOb0Pg0_OnXOa0Sg0BhXO?Zg0BcXO?]g0E\\XO=eg0GlWOc0Vh0b31O2N1O2N1O2M2O1O2N1O2N1O2M2O1O2M2O1O1N3M2N3N1O2N1N3M2N2N3M2O2N2N1N3M3M3M3M3L5L3L4M4K5J6K6G8Ia0WOZkV?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 1 appears as a flat, featureless top surface of a blocky structure without any discernible functional edges, holes, grips, or protrusions for interaction, unlike surrounding components which have clear forms suggesting use"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_61",
+      "area": 56560,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "iXh`0:Yo0>`MKdSONMk0]l0n1N100O101O01O001O01O01O0010O0001O010O00010O0010O010O00010O010O010O010O010O010O010O10O0100O10O10O010O100O010O100O10000O100O100000O0100O10000O10000O10000O100O101O0O1000000O101O00000O2O0O2O000000001N101O0O2O0O2O001O0O2O001O1N101O0O2O1N2O1N1O1O2M2O2N2M4M1N3N2M3N2M3N2M4L3M3M3M3M3M3M4L3L4L4M4K4L5K4L5K5J6K4L5J6K4K6I8I6K5J5L5J7J5J6K7I6I8J4K6J7I6J6K7H8I6I7I5L7I7I5J3M2O2N001O1N101O00H8L4O10000O1001O0000UFT^O\\3POcKmb0j0`^O]3cNiKlb0e0m^Ob5Sa0[JV_O`5i`0]J]_O`5c`0]Je_O_5[`0^Jl_O^5S`0aJR@[5n?cJW@[5h?dJ]@Y5c?dJc@Y5\\?eJi@Y5W?eJm@Y5R?fJSAW5l>hJWAW5h>hJ]AV5b>hJbAR3iKSMdb0JfAR3fKUMcb0HjAV5U>iJoAU5P>jJTBU5k=jJXBT5g=kJ]BS5c=lJ`BS5^=mJeBQ5[=nJhBP5X=nJlBP5S=PKPCn4P=QKRCm4n<SKUCk4j<UKYCQ4lJbJla0\\1[Cn3]=RLfBh3^=WLeBe3\\=[LgBb3Z=]LhBa3Y=_LiB]3Y=bLiB\\3W=dLlBY3U=gLmBW3S=hLPCU3P=kLSCS3m<mLTCR3l<mLXCo2i<QMXCn2h<QM[Cm2d<TM^Ci2c<VM`Ch2`<XMcCh0nHH_c0_OeCh0lHI_c0_OgCc2Y<\\MjCb2V<^MlC`2T<`MnC^2Q<cMPD\\2P<dMRDZ2n;eMVDX2j;hMXDV2h;jMZDU2e;kM^DR2b;nM`DQ2_;PNbDo0SHcN[c0?dDk1[;XNdDg1\\;ZNeDd1Z;]NhDb1V;`NjD_1U;cNkD\\1T;eNmDZ1R;gNoDX1P;iNREW1l:iNVEU1i:kNYES1g:nN[EQ1d:nN^EQ1a:oNbEQ1\\:nNgEV1R:jNPFV1o9iNTFU1l9jNVFT1j9lNZFQ1f9nN]Fo0d9oN`Fm0b9ROaFk0`9SOcFj0_9UOdFh0]9VOgFg0[9VOiFf0Y9WOlFf0V9WOnFe0T9YOQGc0Q9ZOSGb0P9[OTGb0o8XOWGd0P9lN]GQ1mc0K5L4L3M3L4M4Ke_h5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 2\u2019s elongated, curved form without any visible attachment points or functional surfaces suggests no intended interaction or use"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_21",
+      "area": 21256,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "PjP9a0Yo09J7J4L4L4L4L3M4M2N2M3N2M3N2N2N1O2N2O0O2N1O2N101N101N1TOm0ROm0D=D;C=J6M4N1N2O2M2O1N2O1O1N2O1O2N1N2O1O1O1N2O1O1N2O1O1O1O2N1N2O1O1O1O1O1O1O1O1N101O1O1O1O1O1O1O1O1O001O1O1O1O1O10O01O1O1O010O1O00jL^XOPNag0g1kXOVNUg0c1SYO]Nlf0\\1]YOPLhN]2lg0\\1hYOdNWf0W1nYOiNRf0S1SZOmNme0n0XZOQOhe0k0]ZOUObe0g0dZOWO]e0d0hZO[OXe0b0mZO\\OSe0a0S[O]Old0?Z[O_Ogd0=^[OAbd0=b[OA^d0<g[OBZd0:l[OCTd0:Q\\OCQd0:X\\O_Ohc0>\\\\OAec0<_\\OBac0<b\\OB`c0:e\\OC\\c0;h\\OBZc0;l\\O@Uc0>Q]O\\ORc0a0T]OYOnb0e0_]OiNib0T1R6N3M2O2M3M2N3M2O2M3N1O2N2M4M2M4MW]cb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "Part 3 has a rounded, bulbous form positioned at the base of its supporting structure, suggesting stability for weight-bearing rather than manipulation like most surrounding components"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_0",
+      "area": 11590,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "WjUj0:cn0KZRO9`m0K^RO9^m0HaRO;[m0HbRO=Ym0EdRO`0Xm0CfRO`0Wm0CdROb0Xm0E\\ROc0bm0P1L4M2N3M2N3M2N2N2N2O1N2N2N2O1N101N100O2O0O2O0O101O0O101O0O101O0O10001O00000O1000000000000000000000000001O000000000O2O00001O0O101O0O101O0O101O0O2O0O2O1N1O2O0O2O1N1O2O1N2N1O2N2O1N2N2N2N2M4M2N2N2M4M2M4M3K5L4M4J5L5I8H9E_VU2"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "Part 4 has a rounded, cushion-like form positioned at ground level, making it suitable for supporting weight when seated \u2014 unlike most other components which are elongated, articulated, or serve structural roles rather than providing seating support"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_30",
+      "area": 10069,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "mlc3321_o0a0E9I6J5L4L4L3N3L4L3M3N2M3N2N2N2N2N2N1O2N2N1O2N1O2O0O110O0100O00100O101N010O1O1O1O1O01O000010O0000001O00010O0000O1001O0000000000000000000000000000O11O0000001O0O100000O100000O1000O0100000O01000O10O010O010O0100O010O0100O010O1O2N1O2N3M2N2N2O1N3M2M4M3L3N3K5M3L4K7I8F^SXh0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "Part 5 has a rounded, stable base positioned at the bottom of the structure\u2019s main support leg, making it suitable for bearing weight when seated upon"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_20",
+      "area": 6013,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "mfXh0g0Ro0=F7J7I7I7J5K5L4L3K5M2L5M4L2M4M3M3M2N2N3M2N2N3M2O2M2N2N2N2O2M2N2O1N]MmTO<Rk0]O\\UO<cj0AfUO;Yj0BmUO;Rj0CUVO:ji0D[VO:di0DaVO:]i0FhVO6Xi0HlVO8Ri0GQWO8nh0GVWO7hh0I[WO6dh0J_WO4`h0KcWO4\\h0KfWO5Yh0KiWO3Wh0MjWO3Uh0LmWO4Rh0LoWO4Ph0LRXO2ng0NSXO2mg0MTXO2lg0NTXO3kg0MVXO2kg0MVXO2jg0NWXO0kg0OUXO1kg0OUXO0mg0NUXO0lg00TXOOng00RXONPh01RXOMPh02PXOKTh03nWOJUh04oWOEWh08j3N4L3K_Z^5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 6 appears as a small, curved protrusion without any functional surface for gripping, attaching, or interacting\u2014making its use impossible compared to surrounding components designed for engagement"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_64",
+      "area": 5675,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "nXa:?\\o09K4J5L5K4M2M4L3N3M2N2N2N2N2N2N1O2N2N101N2O0O2N101N100O2O000O2O0O1000001O000000O1001O000000O10000000000O2O001N100O2O0O2O1N101N101N2N2N101N2N2N2N2N2N2M4M2M4L3M4M3K7I6J9DUgib0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 7 has a rounded, concave surface positioned centrally within its structure, making it naturally suited for gripping or being grasped by fingers \u2014 unlike surrounding elements which are either flat, protruding, or functionally oriented elsewhere in the form"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_31",
+      "area": 4881,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "n]d9a0\\o07H7J7J4L5K3N2N3L3N2N2N2N2M2O2N1O2N1O2N2O0O2N100O2O0O2O0O110O0O11O001Ob0_OO000O100O100O1000O10001O000O10000O100O2O0O101N101N1O2N101N2N2N1O2N2M3N3L3N2M4K6J7GSbmc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 8 has a concave indentation designed for gripping, distinguishing its function as something meant to be held rather than interacted with in another way like attachment points or structural supports seen elsewhere"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_50",
+      "area": 4479,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "[Ra`0:ao06M2M4M2N2O1O2M2O2N2N102M2N2N2O3L3N<C3N1N101N101N101O0O101N10001O00000O1000000000000000000000O101O000O101N101N101O1N101^OZROgNgm0h12O1N2O1N2N2N2N3M2N2M4L4M3M3L5J8FimP="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 9 appears as a small cylindrical protrusion without any functional surface features for grasping, attaching, or interacting\u2014making its use impossible in context of typical human interaction compared to surrounding components designed for manipulation"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_32",
+      "area": 3039,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "UW[=7do09I6J6K4M3L3N3L4M2O1N2N2N1O2O0O2O1N101N100O2O000O10001O0000000000O10001O0O10001N101N101N101N2O0O2N2N2N2N3M2N3L3M4M4J6JSih`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "text on",
+          "justification": "Part 12 has text printed directly onto its surface as indicated by visible lettering within its outline, distinguishing it visually from all surrounding components which lack such textual markings"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_22",
+      "area": 2683,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "_bZ87eo09H5L4L5L3L4M3M3L5L3M4L3M4L5K7Ia0@1N1OnM]SOj0al0TOgSOf0Zl0XOlSOd0Sl0\\OQTO`0Pl0^OXTO8kk0HZTO1ik0N\\TOJgk06R200O1O01SQOBXn0=hQOFVn0:hQOJVn06iQOLVn04iQONVn02jQOOVn00iQO2Vn0NjQO3Un0MkQO4Tn0LlQO4Tn0LlQO5Sn0KmQO5Sn0LmQO3Tn0LlQO5Sn0LmQO3Sn0MoQO1Rn0OnQO0Rn01mQOOTn01lQONTn02lQONUn02jQOMWn05fQOL[n05bQOL_n0i0101N2N1O2N2N2N2N2N3L4L4M4Jm]be0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 12 appears as a small protrusion without any functional surface for grasping, attaching, or interacting \u2014 unlike most others which have clear forms suggesting use\u2014making its affordance \u201cnone"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_2",
+      "area": 2192,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "caXi07eo05M3M3M3N2M3M5L3L6K6K1N1O2N10O0100O100O100O10000000000O10O10000O2O0O101N101N1O2O0O2N2N1O2N2N2N3L3M4M3K7Ig^R5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 13 appears as a small protrusion without any functional surface for grasping, attaching, or interacting \u2014 unlike most others which have clear forms suggesting use \u2014 making its affordance effectively none"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_1",
+      "area": 1999,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "a`Ph0;bo07J5J5M4K4M4L2O2M3M3N1N3N1N2O001O001OO100O1000001N10001O001O001O1O1O1N2O1dN_QOR10nNfn0R15N2N3L4H;E^_c6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 14 appears as a small spherical node nestled within larger structures without any visible attachment points, handles, slots, or surfaces designed for interaction \u2014 making its functional use impossible in context of manipulation by human hands or tools compared to surrounding elements which clearly offer gripable areas like limbs or protrusions"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_6",
+      "area": 1950,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "gahf0:bo08J4L4M3N1N2O1L4N2O1N101N2O001O0010O0001N100001OO100001O00001O001O3M001O0O2O3M1N1000O10O101N101N2G9K5M3M3N2MX^`7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 13 appears as a small spherical node nestled within larger structures without any visible attachment points for interaction or manipulation by external forces"
+        }
+      }
+    },
+    {
+      "region_id": "shape_32_region_7",
+      "area": 1880,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "]cVg0>_o06K4L4L3N2N2N2N1O2O1N1O2N1O101N1O1O100O100O01000O10O10O010O0100O2N1O2N3M3M2N2M4M2N2M3M3L4M3L4KP]Y7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 14 appears as a small protrusion without any functional surface for grasping, pressing, twisting, sliding, or attaching \u2014 unlike most surrounding components which have clear interactive surfaces\u2014making its affordances effectively nonexistent in practical use cases despite being physically present within the structure of the model"
+        }
+      }
+    }
+  ]
+}

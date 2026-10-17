@@ -1,0 +1,196 @@
+{
+  "object": "backpack",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/known/backpack.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "backpack_region_1",
+      "area": 279621,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Qkd58]g0Mh@:m>LRA6]><_AMo=>PBGd=a0\\BA\\=e0cB@Q=i0nBWOk<Q1TCROb<U1]CnN^<U1bCkNW<\\1iCeNj;g1VD]NW;R2hDQNf:_2ZEcMS:bNT^OR4i7_Mh9S3WFoL^9Z3cFhLT9_3kFcLi8g3XGZL_8m3aGULY8o3gGTLQ8R4oGoKj7U4WHlKb7Z4^HgK]7]4dHcKY7_4gHcKS7b4kHaKk6g4UIZKg6i4QI`Kl6b4UH^Lb7j3`GUMZ8Q3nFhMn8Z2fFSNW9o1[F_N_9h1RFgNi9]1hESOT:P1dEXOZ:k0VEEe:?kD1R;2eD7X;M`D;\\;JYD?e;5_C5^<h9M3M3L5M3N1N3K4N3M2N3L3O1N3M2N2N2M3M3O1N2O1N2N3N1N2N2N2O1O1O1OoFlEdCR11oN7Hm5Y:R4eFiEXO6Q6NmI_2T:X7TOXHj0c7_O[H>a7NZH0c76\\HH^7a0fF`Ef1m9b7l0^HSO`7P1`HnN]7W1cHgN]7\\1bHcN^7^1bHaN^7`1bH^N_7d1`H[N`7f1`HWNc7i1]HUNd7m1[HRNf7n1YHRNg7P2XHoMh7R2XHlMj7T2VHjMk7X2UHeMm7[2SHdMn7\\2RHcMn7^2RH_MQ8a2oG]MS8c2mG\\MS8f2lGYMU8g2kGXMV8h2jGVMX8j2hGUMY8k2gGTMZ8l2fGSM[8m2eGRM[8o2dGPM^8P3bGnL`8R3`GmLa8S3`GkLa8U3_GjLb8V3^GiLc8W3]GhLc8Y3]GfLd8Z3\\GeLe8[3[GdLf8\\3ZGcLg8]3YGbLh8^3XGaLi8_3WG`Lj8`3VG_Lk8a3UG^Ll8b3SG]Lo8c3QG\\LP9d3PG[LQ9e3PGYLQ9g3oFXLQ9i3oFWLQ9i3oFVLR9j3nFULS9k3mFTLT9l3lFSLU9m3kFRLV9n3jFQLW9o3iFQLW9o3iFPLX9P4hFPLX9P4hFoKY9Q4fFoK[9Q4eFnK\\9R4eFmK[9S4eFlK\\9T4dFkK]9U4cFjK^9V4bFjK^9V4bFiK_9W4aFhK`9X4`FgKa9Y4_FgKa9Y4_FfKb9Z4^FfKb9Z4^FfKb9Z4^FeKc9[4]FeKc9[4\\FeKe9[4[FdKf9\\4[FbKf9_4YF`Kh9`4XF`Kh9`4XF_Ki9a4WF_Ki9a4WF^Kj9b4VF^Kj9b4VF]Kj9d4VF\\Kj9d4VF\\Kj9d4VF[Kk9e4UFZKl9f4TFZKl9f4TFYKm9g4SFXKn9h4RFXKn9h4RFWKo9i4QFWKo9i4QFVKP:j4PFVKP:j4PFUKQ:k4oEUKQ:k4oEUKQ:k4oETKR:l4nETKR:l4nETKR:l4nESKS:m4mESKS:m4mESKS:m4mERKT:n4lEQKU:o4kEQKU:o4kEPKV:P5jEPKV:P5jEoJW:Q5iEoJW:Q5iEnJX:R5hEnJX:R5hEnJX:R5hEmJY:S5gEmJY:S5gEmJY:S5gEmJY:S5gEmJY:S5gElJZ:T5fElJZ:T5fEkJ[:U5eEkJ[:U5eEkJ[:U5eEjJ\\:V5dEjJ\\:V5dEjJ\\:V5dEiJ]:W5cEiJ]:W5cEiJ]:W5cEhJ^:X5bEhJ^:X5bEhJ^:X5bEhJ^:X5bEgJ_:Y5aEgJ_:Y5aEfJ`:Z5`EfJ`:Z5`EfJ`:Z5`EfJ`:Z5`EfJ`:Z5`EeJa:[5_EeJa:[5_EeJa:[5_EeJa:[5_EdJb:\\5^EdJb:\\5^EdJb:\\5^EdJb:\\5^EdJb:\\5^EdJb:\\5^EdJb:\\5^EcJc:]5]EcJd:\\5\\EcJd:^5\\EbJd:^5\\EaJe:_5[EaJe:_5[E`Jf:`5ZE`Jg:_5YEaJg:_5YEaJg:_5YEaJg:_5YEaJg:_5YEaJf:a5YE_Jh:`5XE`Jh:`5XE`Jh:_5YE`Jh:`5XE`Jh:`5XE`Jh:`5XE`Jh:`5XE_Ji:a5WE_Ji:b5VE^Jj:b5VE^Jj:b5VE^Jj:b5VE^Jj:b5VE^Jj:b5VE^Jj:b5VE]Jk:c5UE]Jk:c5UE]Jk:c5UE]Jk:c5UE]Jk:c5UE]Jk:c5TE^Jl:b5UE]Jk:c5UE]Jk:c5UE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\JR1jIV7j;gG]JS1iIV7i;hG]Jm:c5TE]Jk:c5UE]Jk:c5UE]Jk:c5UE]Jk:c5UE]Jk:c5UE]Jk:c5UE]Jk:d5TE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\Jl:d5TE\\Jm:c5SE]Jm:c5RE^Jn:a5SE_Jm:a5TE^Jl:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5RE^Jn:a5SE^Jn:b5RE_Jm:a5SE_Jm:a5TE^Jl:b5TE^Jl:c5SE]Jm:c5SE\\Jn:d5RE\\Jn:d5RE\\Jn:d5RE\\Jn:d5RE]Jm:c5SE]Jm:c5SE]Jm:c5SE\\Jn:d5RE\\Jn:d5QE]Jo:b5RE^Jn:b5RE^Jn:b5RE^Jn:b5RE^Jn:b5SE^Jl:b5TE]Jm:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5SE]Jm:c5SE^Jl:b5TE^Jl:c5SE]Jm:b5TE^Jl:b5TE]Jm:c5RE^Jn:b5RE^Jn:b5RE_Jm:a5SE_Jm:a5TE^Jl:b5TE^Jl:b5TE^Jl:b5TE^Jl:b5TE^Jl:b5TE^Jl:b5TE^Jl:b5TE^Jl:b5TE^Jl:b5TE^Jb1UJj5];dH^J^1dJc5n:oH^J]1kJ^5g:TI_J]1UKU5\\:^I_J\\1_Km4R:gI_J[1iKe4h9PJ_J[1PL^4a9WJ_JZ1XLX4Y9_J^JY1^LS4T9dJ^JY1bLo3P9hJ^JY1cLn3o8iJ^JY1dLm3n8iJ_JZ1cLm3n8iJ_JY1dLn3m8jJ^JX1eLn3m8jJ^JX1SJ[MS2c6\\9jJ^JX1RJaMn1^6b9iJ^JX1QJgMj1X6g9hJ_JZ1nImMe1R6n9gJ_JZ1nIPN`1Q6S:eJ_J_2WKo2Z:bJ_JS3aJ]2P;`J_JY3YJY2X;^J_J_3QJU2`;\\J_Jm:a5SE`Jl:`5TE`Jl:`5TE`Jl:`5TE`Jl:`5TE`Jl:`5TE`Jl:`5UE_Jk:a5UE`Jj:`5VE`Jj:`5UEaJk:_5UEaJk:_5UEaJk:_5UEaJk:_5UEaJk:^5VEbJj:^5VEbJj:^5VEcJi:]5WEcJi:^5VEcJi:]5WEcJi:]5WEcJi:]5WEcJi:]5XEbJh:]5YEcJg:]5YEcJg:]5XEdJh:\\5XEdJh:\\5XEdJh:\\5XEdJh:\\5XEdJh:\\5XEeJg:[5YEeJg:[5YEeJg:[5YEeJg:[5YEfJf:Z5ZEfJf:Z5ZEgJe:Y5[EgJe:Y5[EgJe:Y5\\EgJc:Y5\\EhJd:X5\\EhJd:X5\\EhJd:X5\\EhJd:X5\\EhJd:X5\\EiJc:W5]EiJc:W5]EiJc:W5]EiJc:W5]EjJa:W5_EiJa:W5_EiJa:W5_EiJa:W5_EiJa:W5_EiJa:W5_EjJ`:V5`EjJ`:V5`EjJ`:V5`EkJ_:U5aEkJ_:U5aEkJ_:U5aEkJ_:U5aElJ^:S5cEmJ]:S5cEmJ]:S5cEnJ\\:S5cEmJ]:S5cEmJ]:S5cEnJ\\:R5dEnJ\\:Q5eEoJ[:Q5eEPKZ:P5fEPKZ:P5fEPKZ:P5fEQKY:o4fERKZ:n4fERKZ:n4gEQKY:o4gEQKY:o4gERKX:n4hERKX:n4hESKW:m4iETKV:l4jETKV:l4jETKV:l4jETKV:l4jEUKU:k4kEUKU:k4kEVKT:j4lEWKS:i4lEXKT:h4lEXKT:h4lEYKS:g4mEYKS:g4nEXKR:h4nEXKR:h4nEYKP:h4PFXKP:h4PFYKo9g4QFZKn9f4RFZKn9f4RFZKn9f4RFZKn9f4RF[Km9e4SF[Km9e4SF\\Kl9d4SF^Kl9a4UF`Kj9`4VF`Kj9`4VF`Kj9`4VFaKi9_4XF`Kh9`4XFaKf9`4ZFaKe9_4[FbKd9^4[FdKd9\\4\\FdKd9\\4]FdKb9\\4^FdKb9\\4^FeKa9[4_FfK`9Z4_FgKa9Y4_FhK`9X4_FiKa9W4_FjK`9V4aFiK_9W4aFjK^9V4cFiK]9W4cFjK\\9V4dFkK[9U4dFmK[9S4eFnKZ9R4fFnKZ9R4gFnKX9R4hFoKW9Q4iFPLV9P4jFPLV9P4iFRLW9l3jFULU9k3jFWLV9h3jFYLU9g3lFXLT9h3lFYLS9g3mFZLR9f3oFZLP9f3oF\\LP9d3PG]Lo8c3QG^Ln8c3QG^Ln8b3RG^Ln8b3SG^Ll8b3TG`Lj8`3VGaLi8^3WGdLh8\\3XGeLh8Z3WGhLh8X3XGiLg8W3YGjLf8V3[GjLe8U3[GlLd8T3\\GmLc8S3]GnLb8R3^GPM`8P3`GQM`8n2`GSM_8m2aGTM^8k2cGVM\\8j2eGVM[8i2dGZMZ8f2fG\\MX8d2gG^MY8a2fGaMY8^2hGcMW8]2iGdMV8\\2kGdMU8[2kGfMT8Y2nGhMQ8W2oGkMP8S2QHPNl7o1THSNl7k1UHWNi7h1YHXNg7g1YHZNg7d1ZH]Nf7b1YH`Nh7]1YHeNh7W1XHkNl7o0THTO]8YFTF_9a19_9oNcFR1g:bF\\C`6o1o2U;mLmDU3T;WFoBT6o1f3c<SF]A[4\\2e5R?TFb^Oc0o2[9gb02N101N3L3N2M3M3N2N1O2N3M3M3M3M5K2O1N2O2L4M6I5K4M1O2N3M5K2N3M3L6K3M2N3M3M5K4K5]E^C`1g<ZNiCV1[<fNTDl0P<oN`Db0b;\\OlD5Y;F]EEh:6iEXO]:c0SFlNS:n0^F`Nm9W1^F^Ng9]1hFSN[9j1ZGbMk8Y2nGnL\\8h2hGSM`8e2dGXMe8_2\\G_Mo8V2SGfMX9R2hFlMe9i1[FVNl9d1TF\\NY:V1gEjN`:P1`EoNf:l0ZEROm:h0SEVOU;e0jDZO];`0dD]Oa;`0_D_Og;=YDAk;<VDBW<1jCK`<OaCOh<JWC1V=GjB5_=EbB9g=_OZB`0o=WORBh0V>QOjAk0]>ROdAm0^>QObAj0nf0H7K6BaUe5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The top handle of the backpack has a loop for gripping, which suggests its primary function as carrying device rather than storage compartment like pockets do"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_region_4",
+      "area": 176088,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Veo7:4d0M_O4N7Hdj0h0QUOZO346b3GTN0_N7Iif0X9YO9G<F6G9L8H4J5N3N1O1O2N100O2OPHj[OV4Ud0XKk\\OYM@0A`5Rd0SMS_O\\MkL0E\\4]d0YNi_Og1V`0[Nj_Oe1U`0[Nk_Oe1U`0\\Nk_Oc1T`0]NT@YMbKl3Zd0kN_@Q1a?nNe@m0Z?TOh@k0W?UOj@j0V?VOk@i0U?WOl@h0T?WOn@h0R?XOo@g0Q?XOQAg0n>ZORAf0n>ZORAf0n>ZORAf0n>[OPAf0P?[On@f0R?[Ol@f0T?[Oi@g0V?ZOi@g0W?ZOe@i0[?WOc@k0]?VO_@m0a?TOi^Oa2Wa0_Mh^Ob2Xa0_Me^Oc2[a0]M\\^Ol2da0TMZ^On2fa0QMi\\OVMENDm5nc0oLc\\OaMCJFh5Td0lLY\\OoMFl5Qd0ULX\\OT5hc0lJX\\OT5gc0mJX\\OT5hc0lJX\\OT5hc0lJX\\OT5hc0lJY\\OS5gc0mJY\\OS5gc0mJY\\OS5gc0mJY\\OS5gc0mJY\\OS5gc0mJY\\OS5gc0mJY\\OS5gc0mJY\\OS5gc0mJY\\OS5gc0mJY\\OS5gc0mJY\\OS5gc0mJY\\OS5gc0mJY\\OS5gc0mJZ\\OR5fc0nJZ\\OR5fc0nJZ\\OR5fc0nJZ\\OR5fc0nJZ\\OR5fc0nJZ\\OR5fc0nJZ\\OR5fc0nJZ\\OR5fc0nJZ\\OR5fc0nJZ\\OR5fc0nJZ\\OR5fc0nJZ\\OR5fc0oJY\\OQ5gc0nJ[\\OQ5ec0oJ[\\OR5dc0nJ\\\\OR5dc0nJ\\\\OR5dc0nJ\\\\OR5dc0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5dc0PK\\\\OP5dc0oJ]\\OQ5cc0oJ]\\OQ5cc0oJ]\\OQ5cc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK]\\Oo4cc0QK]\\Oo4cc0QK]\\Oo4cc0QK]\\Oo4cc0QK]\\Oo4cc0QK]\\Oo4cc0QK]\\Oo4cc0QK]\\Oo4cc0QK]\\Oo4cc0QK]\\Oo4cc0QK]\\Oo4cc0QK]\\Oo4cc0QK]\\Oo4cc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK\\\\On4dc0RK]\\Om4cc0SK]\\Om4cc0SK]\\Om4cc0SK]\\Om4cc0SK\\\\On4dc0RK\\\\On4ec0QK[\\Oo4dc0RK\\\\On4dc0RK]\\Om4cc0SK]\\Om4cc0SK]\\Om4cc0SK]\\Om4dc0RK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK\\\\On4dc0RK\\\\On4cc0SK]\\On4cc0QK]\\Oo4cc0QK]\\Oo4cc0QK\\\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OP5fc0PKZ\\OP5fc0PKZ\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ[\\OQ5ec0oJ\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\OP5dc0PK\\\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\OP5dc0PK\\\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0QKY\\Oo4gc0QKZ\\On4fc0RKZ\\On4fc0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QKZ\\OP5fc0PK[\\Oo4ec0QK[\\Oo4ec0QK[\\Oo4ec0QKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\OP5fc0PKZ\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4gc0QKY\\Oo4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\On4fc0RKZ\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4gc0SKY\\Om4fc0TKZ\\Ol4fc0TKZ\\Ol4fc0TKZ\\Ol4fc0TKZ\\Ol4fc0TKZ\\Ol4fc0TKZ\\Ol4fc0TKZ\\Ol4fc0TKZ\\Ol4fc0TKZ\\Ol4fc0TKZ\\Ol4fc0TKZ\\Ok4gc0UKY\\Ok4gc0UKY\\Ok4gc0UKY\\Ok4gc0UKY\\Ok4gc0UKY\\Ok4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VK[\\Oi4ec0WKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4fc0VKZ\\Oj4gc0UKY\\Oj4hc0VKX\\Oj4ic0UKV\\Ol4jc0TKV\\Ol4jc0TKV\\Ol4jc0SKW\\Om4ic0SKW\\Om4ic0SKW\\Om4ic0SKW\\Om4ic0SKW\\Om4ic0SKW\\On4hc0RKX\\On4hc0RKX\\On4hc0QKY\\Oo4gc0QKY\\Oo4gc0QKX\\Oo4ic0QKW\\Oo4jc0PKV\\OP5jc0PKV\\OP5jc0PKV\\OP5jc0PKV\\OP5kc0oJT\\OR5lc0nJT\\OR5lc0mJU\\OS5kc0mJU\\OS5kc0mJU\\OS5lc0lJT\\OT5lc0lJT\\OT5lc0lJT\\OS5mc0mJS\\OS5nc0kJS\\OU5mc0kJS\\OU5mc0kJR\\OV5oc0iJQ\\OW5oc0iJQ\\OV5Pd0jJP\\OV5Pd0kJo[OU5Rd0lJk[OU5Ud0oJe[OR5]d0X31N1O2N1O2O1N2O2M4L6JS1lNh0XO]1dGaWO`6Ri0]ImVOS6Xi0hImVOT6oj0SJlTOc3Vn0WLnQOc0kTW8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "open",
+          "justification": "The central pocket of part 6 has a zipper puller visible at its top edge, suggesting accessibility for opening contents inside compared to static pockets without such features in other areas like side pouches labeled as numbers 3-5"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_region_11",
+      "area": 9610,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "\\g^5X1_n0h0UNj1TOf0`Nm1hNl0^O;M2O2M201N10iHmWO_6Uh0^InWOa6Qh0^IPXOc6Ph0[IRXOd6og0\\IoWOf6Qh0e01O0O10O00001O0010O0001O00001OO100O1I7QOP1QOn0YOh0@?_Oa0E;A?D=]Ob0F;H8J8Db\\Pi0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 3 appears as if it could be used for holding items but lacks any visible means of securing them inside like pockets or compartments; unlike others which have zippers or flaps"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_region_7",
+      "area": 9218,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "acPi0U1in0a0@?A`0A>Ae0\\Oa0_O=C?@`0A>Ad0]Od0hVOkH]h0a7J4M1O0O2O0000O010O10O0010O01O1O001O00000001O002N1N3M3WIiXOe4ei0A`0WNnTOiMdk0V1UUOnMWOL^l0<W\\b5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 4 appears flat without any visible function for holding items; unlike others which have pockets or zippers suggesting functionality as storage compartments"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_region_3",
+      "area": 8172,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "_TR=3fo08I6L5K4M2O2M3N2N2N2N2N1O2O1N2O1O001N2O1O1O1O1O1O1O1O001O1O1O1O1O1O1O1O001O1O1O1O1O1N2O1O1N2O0O2N10jNU1D=M3O0101O010N2O010O1O010O10O0100O10000O010O100000000O10O10000000O1000000000000000000000000000000000010O000000000001O0001O0001O0000001O001O01O01O0010O01O10O01O1O10O0100O100O100O101OVRO@Sl0h0PSOMPm0a12O0O2N1O2N101N1O2N1O2N1O2O0O1O1O1O1O2N001O2O0O1O1O2N100O1O1O2N1O2N1O2N2O0O2N3M2N2M5L7HmkR="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "The handle at top of backpack has rounded ends for gripping which differs in function than flat surfaces like pockets"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_region_9",
+      "area": 7430,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Qda94ko02O2M3N1O2N1O001O0000000000000000000000001O0000000000000000000001OO2O00000001O000000O100001O00000000000000000000000000000000000000000001O000000000000000000000001O0000000000000000000000000000000000000000000000000001O000000O10000001O000000O100001O00000000O1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001O00000000000000000000000000000000000000O100001O0000O100000001O01O0O1000000000000000000000O11O0000O1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001OO1000000000000000000000000000000O1000O100000000000000O1000O10000000000O10O1000000000000O1000O101O0O2O1N5Km[h8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "open",
+          "justification": "Part 6 has a horizontal zipper puller indicating its function as a closure mechanism for opening access; unlike others which appear static without such features"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_region_12",
+      "area": 2300,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "hee8?^o05M2O5JZ2gM6J1O1O1O1O1O001O00O2O0O1O1N2O1M3N2lMbSOc0al0]OR2N10O02M2^OUQOMnn0NnZ\\f0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "The handle of number seven appears as if it can be grasped by hand due its size relative to others in comparison; unlike most which seem more for decoration rather than function"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_region_13",
+      "area": 1491,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Vdb86ho05K3M6J;Fe0[O2O0O2O00000000000000000010O001O001O001O2N100O1N4MX1gNbZ]f0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "The brush-like protrusion at part number eight has bristles similar in appearance to those found on actual brushes, suggesting its primary function as a tool for drawing or writing tasks within the context of art supplies storage"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_region_14",
+      "area": 1478,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "cWn`0<`o0?D7I;E:F:G7H8I5K4L1O001N1000^MQSOS2ol0kMXSOo1jl0oM\\SOl1dl0TNbSOe1`l0YNdSOb1bm0Ig0ZO8H8HcfY>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "open",
+          "justification": "Part 9 appears as if it could be opened due its curved top edge which suggests flexibility allowing for opening unlike straight edges of others like number 6"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_region_10",
+      "area": 1165,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Yhf4;bo05L4M3L3L5M2M4L4M2M3N2N3L3N2M4M2N2N3N1N20O010RN`ROY1hn0\\O?@nV_j0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "type on",
+          "justification": "Part 12 appears as if it could be used for writing due its elongated rectangular form which resembles paper in size but has no apparent function of like carrying items"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_region_2",
+      "area": 1165,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Pi\\j0b0km0d1N101N02O0O2M3N3M3L4M3L4M2N3L4M2N4L3L4L3N4K4L5KdWj4"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The red section at back of bag has handle for carrying over shoulder which makes wear possible while others do not have such feature so they can't be worn directly by person"
+        }
+      }
+    }
+  ]
+}

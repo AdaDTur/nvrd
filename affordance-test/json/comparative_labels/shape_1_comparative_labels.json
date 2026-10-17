@@ -1,0 +1,128 @@
+{
+  "object": "shape_1",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 20 parts marked and numbered (1 to 20), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 20 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>\nPart 16: <option>\nPart 17: <option>\nPart 18: <option>\nPart 19: <option>\nPart 20: <option>",
+  "raw_response": "Part 1: type on\nPart 2: hold\nPart 3: cut with\nPart 4: cut with\nPart 5: hold\nPart 6: hold\nPart 7: hold\nPart 8: hold\nPart 9: hold\nPart 10: hold\nPart 11: hold\nPart 12: hold\nPart 13: hold\nPart 14: hold\nPart 15: hold\nPart 16: hold\nPart 17: hold\nPart 18: hold\nPart 19: hold\nPart 20: hold",
+  "regions": [
+    {
+      "region_id": "shape_1_region_6",
+      "area": 111514,
+      "isolated_label": "none",
+      "comparative_label": "type on"
+    },
+    {
+      "region_id": "shape_1_region_2",
+      "area": 46238,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_7",
+      "area": 38391,
+      "isolated_label": "drink with",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "shape_1_region_14",
+      "area": 25206,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "shape_1_region_8",
+      "area": 19137,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_23",
+      "area": 14444,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_33",
+      "area": 13768,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_17",
+      "area": 12526,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_27",
+      "area": 9966,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_21",
+      "area": 9317,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_20",
+      "area": 9559,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_34",
+      "area": 6368,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_31",
+      "area": 5025,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_32",
+      "area": 3750,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_10",
+      "area": 3950,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_1",
+      "area": 3038,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_9",
+      "area": 2361,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_26",
+      "area": 1941,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_3",
+      "area": 1718,
+      "isolated_label": "type on",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_1_region_19",
+      "area": 1135,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    }
+  ]
+}

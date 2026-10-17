@@ -1,0 +1,152 @@
+{
+  "object": "shape_16",
+  "max_regions": null,
+  "nonce_word": "blentham",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "baseline_description": "The object in the image appears to be a modern, minimalist sculpture or a functional piece of furniture. Given its design and structure, it could potentially serve as a stool or a small table. The triangular base provides stability, while the central column could be used for seating or as a surface for placing items. The smooth, sleek lines and the combination of different materials suggest it is designed for both aesthetic appeal and practical use.",
+  "logprob_full": -41.03524398803711,
+  "k_controls": 6,
+  "max_iou_with_original": 0.3,
+  "regions": [
+    {
+      "region_id": "shape_16_region_4",
+      "area": 202404,
+      "information_gain_nats": 16.85464096069336,
+      "control_igs_nats": [
+        6.067234039306641,
+        4.451541900634766,
+        6.1962738037109375,
+        6.032196044921875,
+        4.816802978515625,
+        6.980903625488281
+      ],
+      "control_mean_nats": 5.7574920654296875,
+      "control_std_nats": 0.9435114643745723,
+      "excess_ig_nats": 11.097148895263672,
+      "excess_ig_bits": 16.00980167920334,
+      "z_score": 11.761541130419294,
+      "n_controls": 6,
+      "iou_cutoff_used": 0.3
+    },
+    {
+      "region_id": "shape_16_region_1",
+      "area": 49061,
+      "information_gain_nats": 5.125888824462891,
+      "control_igs_nats": [
+        0.7840194702148438,
+        4.805473327636719,
+        3.8835182189941406,
+        5.387119293212891,
+        1.6029129028320312,
+        2.3527450561523438
+      ],
+      "control_mean_nats": 3.1359647115071616,
+      "control_std_nats": 1.8389736002061259,
+      "excess_ig_nats": 1.989924112955729,
+      "excess_ig_bits": 2.8708536495066,
+      "z_score": 1.0820841107956545,
+      "n_controls": 6,
+      "iou_cutoff_used": 0.3
+    },
+    {
+      "region_id": "shape_16_region_2",
+      "area": 43792,
+      "information_gain_nats": 4.062946319580078,
+      "control_igs_nats": [
+        2.025646209716797,
+        2.2293663024902344,
+        2.6294708251953125,
+        1.9907264709472656,
+        4.003513336181641,
+        2.7359046936035156
+      ],
+      "control_mean_nats": 2.602437973022461,
+      "control_std_nats": 0.7520130963211935,
+      "excess_ig_nats": 1.4605083465576172,
+      "excess_ig_bits": 2.107068148755614,
+      "z_score": 1.9421315316213816,
+      "n_controls": 6,
+      "iou_cutoff_used": 0.3
+    },
+    {
+      "region_id": "shape_16_region_3",
+      "area": 11136,
+      "information_gain_nats": 0.7252349853515625,
+      "control_igs_nats": [
+        0.7677993774414062,
+        3.1384735107421875,
+        2.59765625,
+        1.4730224609375,
+        -0.7961997985839844,
+        2.0252037048339844
+      ],
+      "control_mean_nats": 1.5343259175618489,
+      "control_std_nats": 1.4119201863240465,
+      "excess_ig_nats": -0.8090909322102864,
+      "excess_ig_bits": -1.1672714755280087,
+      "z_score": -0.5730429666260143,
+      "n_controls": 6,
+      "iou_cutoff_used": 0.3
+    },
+    {
+      "region_id": "shape_16_region_5",
+      "area": 4141,
+      "information_gain_nats": -0.06433486938476562,
+      "control_igs_nats": [
+        1.1433677673339844,
+        0.9847640991210938,
+        0.045520782470703125,
+        1.1724472045898438,
+        0.7719268798828125,
+        1.7242355346679688
+      ],
+      "control_mean_nats": 0.9737103780110677,
+      "control_std_nats": 0.553884944171978,
+      "excess_ig_nats": -1.0380452473958335,
+      "excess_ig_bits": -1.497582730636326,
+      "z_score": -1.8741171037744015,
+      "n_controls": 6,
+      "iou_cutoff_used": 0.3
+    },
+    {
+      "region_id": "shape_16_region_6",
+      "area": 2908,
+      "information_gain_nats": -0.4550209045410156,
+      "control_igs_nats": [
+        1.3215599060058594,
+        0.3396339416503906,
+        0.5581855773925781,
+        0.2593345642089844,
+        1.8310966491699219,
+        1.4737014770507812
+      ],
+      "control_mean_nats": 0.9639186859130859,
+      "control_std_nats": 0.6619022493139383,
+      "excess_ig_nats": -1.4189395904541016,
+      "excess_ig_bits": -2.0470971104691493,
+      "z_score": -2.1437298210193916,
+      "n_controls": 6,
+      "iou_cutoff_used": 0.3
+    },
+    {
+      "region_id": "shape_16_region_7",
+      "area": 1267,
+      "information_gain_nats": 0.8034477233886719,
+      "control_igs_nats": [
+        -0.4050941467285156,
+        1.2852516174316406,
+        0.3148307800292969,
+        0.06599807739257812,
+        0.5626449584960938,
+        2.0362701416015625
+      ],
+      "control_mean_nats": 0.643316904703776,
+      "control_std_nats": 0.8830937383688052,
+      "excess_ig_nats": 0.16013081868489587,
+      "excess_ig_bits": 0.23101993801018905,
+      "z_score": 0.18132935579486653,
+      "n_controls": 6,
+      "iou_cutoff_used": 0.3
+    }
+  ]
+}

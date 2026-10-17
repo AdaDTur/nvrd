@@ -1,0 +1,8 @@
+.env
+venv/
+venv_vlm/
+venv_sam3/
+sam2_experiment/
+__pycache__/
+figures/
+logs/

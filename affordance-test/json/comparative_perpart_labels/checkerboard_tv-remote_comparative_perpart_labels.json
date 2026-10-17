@@ -1,0 +1,222 @@
+{
+  "object": "checkerboard_tv-remote",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "regions": [
+    {
+      "region_id": "checkerboard_tv-remote_region_124",
+      "area": 26321,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.37195850542417697
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_121",
+      "area": 8550,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "hit",
+      "perpart_context_prob": 0.3243329057333674
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_131",
+      "area": 9425,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "hit",
+      "perpart_context_prob": 0.26046100435292185
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_127",
+      "area": 8998,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "hold",
+      "perpart_context_prob": 0.323043313098018
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_125",
+      "area": 2030,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.3012554135733312
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_130",
+      "area": 4263,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.4436977500608249
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_84",
+      "area": 5064,
+      "isolated_label": "push",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.4185435630111602
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_122",
+      "area": 1060,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "hold",
+      "perpart_context_prob": 0.2747535285415387
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_129",
+      "area": 2535,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.41486595085959244
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_133",
+      "area": 1270,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.35229438578652345
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_61",
+      "area": 3855,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.39151372142567586
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_53",
+      "area": 3772,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.30464431522128044
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_26",
+      "area": 3758,
+      "isolated_label": "push",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.34722564480532875
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_19",
+      "area": 3744,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.36426279651224525
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_105",
+      "area": 3729,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.35217755304535486
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_56",
+      "area": 3715,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.37096331748147415
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_58",
+      "area": 3702,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.31070210421276595
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_38",
+      "area": 3690,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.5367999116246022
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_54",
+      "area": 3673,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.43150486618125505
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_39",
+      "area": 3639,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.4202081393154979
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_134",
+      "area": 1249,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.35007296382862313
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_42",
+      "area": 3496,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "pick up",
+      "perpart_context_prob": 0.36561501555968745
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_44",
+      "area": 3492,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.495309031456294
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_31",
+      "area": 3485,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.3326077805820933
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_25",
+      "area": 3482,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.5063946763934442
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_51",
+      "area": 3468,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.42924565825057004
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_45",
+      "area": 3423,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "pick up",
+      "perpart_context_prob": 0.4746130046425415
+    }
+  ]
+}

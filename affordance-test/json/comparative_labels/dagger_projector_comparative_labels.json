@@ -1,0 +1,92 @@
+{
+  "object": "dagger_projector",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 14 parts marked and numbered (1 to 14), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 14 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>",
+  "raw_response": "Part 1: cut\nPart 2: cut with\nPart 3: cut with\nPart 4: hold\nPart 5: hold\nPart 6: hold\nPart 7: hold\nPart 8: hold\nPart 9: hold\nPart 10: hold\nPart 11: hold\nPart 12: hold\nPart 13: cut\nPart 14: cut with",
+  "regions": [
+    {
+      "region_id": "dagger_projector_region_1",
+      "area": 41340,
+      "isolated_label": "cut",
+      "comparative_label": "cut"
+    },
+    {
+      "region_id": "dagger_projector_region_6",
+      "area": 27276,
+      "isolated_label": "cut",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "dagger_projector_region_5",
+      "area": 19554,
+      "isolated_label": "take photo",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "dagger_projector_region_7",
+      "area": 18978,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "dagger_projector_region_28",
+      "area": 12577,
+      "isolated_label": "cut with",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "dagger_projector_region_11",
+      "area": 13286,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "dagger_projector_region_34",
+      "area": 11433,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "dagger_projector_region_30",
+      "area": 8152,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "dagger_projector_region_32",
+      "area": 7510,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "dagger_projector_region_4",
+      "area": 6989,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "dagger_projector_region_2",
+      "area": 4719,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "dagger_projector_region_3",
+      "area": 2241,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "dagger_projector_region_12",
+      "area": 1814,
+      "isolated_label": "cut",
+      "comparative_label": "cut"
+    },
+    {
+      "region_id": "dagger_projector_region_8",
+      "area": 1188,
+      "isolated_label": "take photo",
+      "comparative_label": "cut with"
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "object": "bird-feathers_headphones",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-texture/bird-feathers_headphones.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "bird-feathers_headphones_region_26",
+      "area": 99197,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "`lU`04eh02Z^O2]a09[^OLaa09[^OIaa0=\\^OE`a0`0\\^OC`a0b0\\^O@aa0f0Z^O]Oba0h0[^OZOaa0l0[^OVOaa0V1S^OnNja0X1o]OlNna0Y1l]OkNQb0Z1i]OjNTb0[1e]OiNYb0\\1^]OkN_b0[1Y]OiNfb0\\1S]OhNjb0b1k\\ObNRc0h1`\\O_N]c0W2g[ORNWd0W2\\[OoMbd0Y2gZOUKPOe2Wf0h6M2O1N3M2N3N1O2M2N2N2O2M3M2N3N1O1N2O2M2N2N2O2M2O1N2O1O2MQK]\\OeMbc0P2Q]OjMlb0S2[]OkMdb0Q2a]OoM^b0o1f]OPNYb0h1P^OXNna0f1V^O[Nha0d1Z^O\\Nda0c1_^O^N_a0a1c^O_N\\a0`1f^O`NYa0_1h^ObNVa0]1m^OdNQa0Z1R_OfNl`0Y1W_OgNh`0W1Z_OkNd`0Q1a_OoN^`0o0d_OSOZ`0l0h_OTOW`0k0k_OUOT`0g0P@[Om?d0V@\\Oi?c0X@^Og?b0Y@_Of?`0Z@Ce?;\\@Fc?9_@G`?7b@J]?4f@LX?3j@NU?0m@2Q?LQA5o>IRAYMkK^1Rc0X1TAWMoK`1lb0X1VAWMQLa1gb0X1XAVMSLb1db0V1[AVMULc1_b0U1^AUMWLf1Zb0U1`ARMZLi1Tb0U1bAPM^Lj1oa0V1bAPMbLi1ka0V1cARMcLh1ja0T1dAUMcLf1ha0T1fAVMcLg1ea0R1jAVMbLh1ca0Q1lAXMaLg1ba0Q1mAXMcLf1_a0Q1nAZMdLf1]a0o0oA\\MdLe1\\a0o0oA]MfLe1Ya0n0QB^MfLd1Ya0m0QB`MgLb1Wa0m0SBaMgLb1Va0l0SBcMgLa1Va0k0SBeMgL`1Ua0k0SBfMiL_1Sa0j0TBiMiL]1Sa0i0SBlMjL[1Ra0i0SBnMkLY1Ra0h0SBoMlLY1Pa0g0SBSNmLV1o`0g0SBUNnLT1n`0g0TBUNoLT1m`0e0TBYNoLR1l`0d0UB\\NoLo0l`0e0TB]NPMo0l`0c0TB_NPMn0k`0c0TBaNQMl0k`0c0SBbNRMk0j`0c0SBdNRMj0k`0a0RBfNTMi0j`0`0RBhNSMh0k`0?QBlNTMe0k`0>PBoNTMd0k`0=QBPOTMc0k`0=oAROUMb0k`0<nAUOVM?m`0;lAXOWM=l`0<kAXOYM=l`0:jA[OZM;k`0:iA^O[M9l`08hAA\\M7k`08gAD]M5l`06eAG_M4l`05cAI`M2n`04`AMaM0n`03`AOaMOo`01_A2aMNPa0O\\A7cMJQa0O[A9cMIRa0MZA<bMITa0KXA>cMHTa0JWA`0eMGTa0HUAd0fMETa0HSAf0hMCUa0FQAj0iMAUa0Fo@l0kM_OVa0Dm@P1lM]OVa0Dl@R1lMZOYa0Eg@T1nMYO[a0Ce@W1mMXO^a0Ab@[1mMVO`a0@`@_1kMTOea0]O]@f1eMROna0YOY@c5g?^JT@f5l?[Jo_Oi5P`0YJl_Oi5U`0XJf_Ol5Z`0UJa_Oo5_`0RJ]_OQ6c`0QJX_OR6h`0QJh^O\\6Xa0hI_^O\\6ba0Q40000000O100O1O10000O100O10000O2O0]JV^OPMja0o2Y^OoLga0P3[^OnLga0Q3Y^OoLga0P3Z^OPMfa0m2^^OQMca0j2b^OVM^a0i2c^OVM^a0i2c^OWM]a0h2d^OWM]a0h2e^OWM[a0g2g^OXMZa0g2g^OXM[a0f2f^OZMZa0d2i^OZMXa0e2i^O[MWa0e2i^O[MWa0d2j^O\\MVa0d2j^O[MXa0c1b]OaJW1l3Wa0^1l]O`Jn0R4Wa0[1U^O[Jd0Y4Xa0[1V^OTJWOO\\1b4Wa0Z1X^OSJh0b4Ra0Y1Y^OUJc0b4Ta0X1Y^OXJb0_4Va0Y1X^OXJb0_4Wa0W1W^O\\Ja0\\4Ya0W1X^O[J?^4Za0W1W^O[J?]4[a0W1X^OZJ>^4[a0W1m_OiNT`0U1m_OjNT`0U1m_OkNS`0S1n_OmNT`0Q1m_OoNS`0P1n_OoNT`0o0m_OPOU`0n0k_OROV`0m0k_OROW`0l0i_OUOW`0j0j_OUOX`0i0h_OWOY`0h0h_OXOY`0g0f_OYO\\`0e0d_O[O]`0d0d_O[O^`0c0b_O]O_`0c0`_O]Ob`0a0^_O@b`0?__O@c`0?\\_OAe`0?Z_OAh`0=X_OCj`0<U_ODm`0:S_OFo`09Q_OFQa09n^OGSa08l^OIVa06i^OJXa06f^OJ]a05a^OLaa02^^OOda00[^O0ga0OW^O2ja0NT^O3na0KP^O7Qb0Il]O9Vb0Fl\\OiKaN1b0b4Rd0Dj\\OPLoN_4Yd0@g\\ORLmN`4]d0]Og\\OTLiN`4ad0\\Oe\\OULhN`4ed0ZOb\\OWLhN_4gd0ZOa\\OVLfNb4kd0WO^\\OY1cc0fN]\\OZ1ec0eNZ\\O[1hc0dNW\\O\\1kc0bNU\\O^1lc0bNS\\O]1Pd0bNn[O^1Td0bNk[O^1Wd0aNg[O`1Zd0aNc[O^1ad0bN[[O_1hd0`NV[Oa1kd0`NR[Ob1od0]NoZOd1Re0\\NkZOg1Ve0XNgZOj1\\e0XN\\ZOk1fe0V42M3M3N2N1O2N1N3L4N2M2N2N2O1O1O1KMWGXYOh8ff091O1O2N1kGTYOW7nf0l01M4N2N3hHgXOd5Zg0[JgXOe5Zg0ZJgXOd5[g0ZJfXOe5\\g0\\JaXOc5cg0Y14N2M2N3M2O2N3K9E;G4L5L6G8K4M3M3I6L5K5K5L3M3M4L5K3L4L4N3K4L5M3L6F9I6I7K8J5K4L3L6D<UNfRO`0kn0[OP[m4"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The ear cup of headphones typically rests over ears when worn, making its placement essential for functionality as opposed to being merely decorative like many other components in the design"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_63",
+      "area": 43879,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "UdS53io05K4L5L2N3N100O2N1O2N1J6O1N2WLmNdXOP1]LQOoj04^XOj0jg0\\ORUOF^2m0bh0CjTO5m17^i0f0XVO]Ohi0l0lUOWOUj0P1`UOUO^j0X30O0YLcTOl2]k0SMeTOk2^k0SMgTOf2[k0XMnTO`2Uk0]MmTO`2^k0UMdTOg2_k0WMdTOh2]k0VMfTOg2Zl001OO20O01O000000001O000O11_OoROQNQm0o1QSOnMPm0Q2SSOmMml0Q2XSOkMhk0OoSO0c0W2FhMhk0:`TOo1ok0QNoSOQ2Pl0QNiSOT2Xl0nMeSOS2\\l0mMbSOS2_l0PN^SOP2cl0e01O2N201NO1]OnLXTOS3ek0PMXTOR3gk0XMoSOi2Ql0b0010O0K5O20O100O2O000iTO^LPj0b3oUO`LPj0a3oUO_LQj0a3nUOaLQj0_3PVO`LPj0`3PVOaLoi0_3RVO`Lni0`3RVOaLmi0_3TVO`Lli0`3TVO`Lli0`3UVO`Lji0`3VVO`Lji0`3WVO`Lhi0`3XVO`Lii0`3VVOaLii0_3XVO`Lii0`3VVOaLhi0a3XVO_Lgi0c3WVO]Lii0d3WVO\\Lhi0f3VVO[Lii0f3VVOZLii0i3UVOXLki0h3TVOYLki0i3SVOWLli0l3RVOULni0k3PVOVLPj0m3mUOTLSj0n3jUOSLbj0c3[UO]LZk0Q3bTOQM_k0h35J6KO1N10TLUTOd3ik0]L[TO`3ek0^L^TOa3ak0_L_TOa3bk0]L`TOc3nk01O001O1O001O1O1O1O001O1O1O1O1O1O2M2O2N1O1O1O1O2XWOdKhe0^4UZOdKie0^4VZOcKje0]4TZOeKke0\\4TZOeKle0[4SZOfKme0[4RZOfKne0Y4QZOhKoe0X4PZOiKoe0Y4oYOiKPf0W4oYOjKQf0V4oYOkKoe0W4oYOkKPf0X4mYOiKRf0W4nYOjKPf0Y4PZOfKoe0Z4QZOhKme0Z4QZOiKn1[Of?m4[^OkKf1Ff?`4e\\OQKe1j0n1Gh?`4a\\OQKi1h0m1Hi?_4`\\ORKj1f0l1Kj?d4Z^OaKk1Lj?d4Z^O_Kn1Mh?e4Y^O]Kn1Oj?d4W^O\\KP21h?e4W^OYKQ22i?f4U^OVKT24f?P5a\\OiJh02Q34h?h5S]OTJV33g?j5S]OSJV33f?k5T]OQJV35e?k5U]OoIV37e?j5U]OnIV38e?o3h\\OkL;POW37e?m3m\\OiL7SOX36d?n3Q]OfL2WOX36e?l3U]OcLN[OY35d?m3Y]O_LJ@X34f?l3Z]O^LHBY34d?l3^]O]LDCY35e?k3_]O\\LBD[35e?i3`]O\\L@GZ35f?g3b]OcLROEg32d?f3d]OaMg2jNe?d3e]OaMg2kNe?b3e]OcMe2lNf?`3g]ObMd2mNf?a3f]ObMe2lNe?a3h]ObMc2lNf?a3i]OaMb2mNf?a3i]ObM`2nNg?`3i]ObM`2mNi?_3i]OcM^2mNi?`3j]OcM]2mNi?_3l]OcMZ2nNk?_3k]OcMZ2mNl?_3k]OdMY2bNVLKgc0n3k]OeMW2bNXLKfc0m3l]OfMV2aNXLKgc0n3k]OfMW2aNWLJhc0n3k]OPLcNZ1b3oNXLGic0P4k]OnKkNU1Y3UOYLFjc0R4_^OQM^1WOY`0f3^^OPMX1ZO[`0e3b^OmLS1^O[`0c3g^OmLl0@^`0b3h^OmLj0A_`0`3i^OmLh0D_`0^3l^OlLe0F_`0\\3o^OmLb0G^`0\\3Q_OnLa0D_`0\\3R_OPM?D^`0\\3T_OQM>@``0]3T_OSM<_Oa`0]3T_OSM=]O``0`3T_OSMjd0l2W[ORMSe0e2nZOZMTe0d2mZOkLlLOYh0V3T4O0O2O001O000O2O0001O00000001O01O001N1001O00_TOoLRj0Q3lUOQMTj0P3hUORMYj0o2cUOTM]j0m2^UOWMbj0j2ZUOYMfj0h2UUO\\Mkj0]OdTOT3:dMYk0a3oUOgK[h0X4cWOjK_h0T4`WOmKah0R4]WOPLeh0n3ZWOSLgh0l3WWOULkh0j3TWOWLmh0h3RWOYLoh0f3oVO\\LRi0d3kVO^LVi0a3hVOaLYi0_3dVOcL\\i0]3bVOeL_i0[3_VOfLbi0Z3ZVOhLgi0Z3TVOiLmi0W3PVOkLQj0W3iUOlLWj0_41O1ORVOfJVi0Y5hVOiJXi0X5fVOjJYi0V5eVOlJ_i0Q5^VORKm0GYg0V5gWOYKL@e04jg0U6QXOoIQh0o5nWOSJUh0j5hWOWJ[h0g5dWOZJ_h0c5_WO^Jdh0`5XWObJmh0[5RWOcJTi0Z5fVOjJ_i0h54M5J3M4K4K6M3L4L4L4L4N2N5K:F3M5K5K6J7I5J5L2AcSOVM`l0a2d0H8M3nM`ROO6k0_m0TOUSOe0]n0D6K5LTURa0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The ear cup of headphones typically fits over ears for listening purposes; its curved design suggests it can be worn comfortably around them"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_47",
+      "area": 25665,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "PTi?5jo02CLlPO4\\n0MnQO1B6^n0KoQOOB6^n0MoQOOA5_n0NoQOLC5_n00lQOLD5_n00lQOKF5^n01kQOJF5an0OiQOLG6_n0NiQOMG6`n0LjQONF5bn0LgQOOH5an0MeQOOI5bn0LdQOOJ6bn0LbQONL6cn0L`QOOM5cn0L_QOON6cn0J`QO0L7dn0J\\QO115cn07\\QOIen0i000dQOiNom0W1nQOmNQn0S1nQOnNQn0S1oQOnNPn0S1nQOnNRn0S1mQOmNSn0S1mQOmNRn0U1lQOlNTn0T1lQOlNTn0T1lQOlNSn0T1nQOlNRn0U1mQOkNRn0V1nQOjNRn0b1O101O000O100O10001N10000O2N2O0O2O01O001O010O02O0O10O010000O10O010O^ROiM[m0W2dROkM\\m0T2dROlM\\m0T2cROnM\\m0S2cROmM^m0R2cROmM]m0S2cROnM\\m0S2dROkM]m0U2cROlM\\m0T2eROkM[m0V2cROlM[m0U2fROiM[m0X2dROhM\\m0_2N102N1O001O01O02M2O1N2O001L4N101N11O010000O010O1000O0100O001O1TOk0O2O1N10100O010001OO100O100O001O1O100O1O4M1N1N2O1N2O100O1O2N100O1000000O1O100O100O100O102M2O0O2O0O10001N10O100O03L3N3M100O2O1O1N10001N101OWOQVOaKmi0W4QVOYK5?ii0X4RVOWK8a0di0Y4bVOgK^i0X4dVOhKZi0Y4gVOfKYi0Y4hVOfKXi0[4hVOfKWi0Y4jVOhKUi0X4lVOgKSi0Y4oVOfKQi0Y4PWOfKQi0X4RWOgKmh0Z4SWOdKoh0^4oVOaKQi0c4lVO[KVi0:UVOc3g0PLTi0=VVOc3f0PLTi0;YVOc3d0QLTi0:ZVOe3b0oKUi05bVOj3:PLUi06aVOj3:nKWi09_VOf3aj0ZL`UOd3`j0^L_UO`3cj0`L^UOY3hj0gLYUOW3hj0iLZUOS3hj0mLYUOP3hj0QM]UOh2ej0YM^UOc2aj0^M_UOa2bj0^MbUO_2^j0aMbUO]2`j0cM`UO\\2aj0dM`UOY2bj0gM_UOQ2gj0oMZUOP2gj0PNZUOo1fj0PN]UOn1cj0PNaUOm1_j0SNbUOm1^j0RNcUOn1]j0RNdUOm1\\j0RNeUOn1[j0PNiUOn1Wj0QNlUOm1Wj0nMlUOR2Pl0WNjROi0Vm0TOlROl0Tm0SOnROm0Rm0oN^SOd0Sn0L8H1O1012NO0O102L101N2NPh_8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 3 appears as if it could be used for touching but has no functional surface area; its design lacks any protrusions suitable for interaction like buttons or dials found in other parts of headphones"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_67",
+      "area": 19880,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ceP5:ao0`0^O=BlN`QO^1Wn0=F5J5O2K;_RO^MUm0m2G7K5L3L4M3L6I5L4K5DiKhTOZ4Sk0jKiTO[4Tk0;N3L2O004K5L5K3N2M3M2J6M2O2M3N10O010OO01010O10dN^VOYLai0f3gVOSLYi0Q4QWObKnh0_4UWO\\Kmh0c4VWOZKjh0g4YWOTKgh0m4j0RKeUOn4[j0TKdUOl4[j0UKdUOm4[j0TKdUOT3L_N[j0_NjUOk2<bNbi0eNPVOf2e0eNVi0gNUVO`2l0iNkh0hNXVO]2R1mNbh0gN[VO[2V1QOYh0`1kWO_NSh0`1QXObNig0_1ZXO_Nfg0a1[XO`Nbg0j0RWOjM]1^1^g0d0ZWOlMY1b1]g0=_WOoMT1e1\\g09cWOQNS1f1Xg07iWORNP1g1Vg04mWOSNo0l1Qg0MTXOVNl0m1Rg0HVXOXNj0R2of0@]ZOb0be0[OaZOe0^e0ZOcZOf0]e0XOeZOg0\\e0XOeZOh0[e0VOgZOi0ee0kN\\ZOS1ee0nNZZOR1fe0oNZZOo0he0QOXZOm0ie0TOWZOi0le0WOSZOj0le0VOUZOi0le0WOSZOi0me0XOSZOg0me0[ORZOe0ne0[ORZOd0ne0]ORZOb0oe0_OPZO?Qf0BnYO>Sf0ClYO;Uf0GiYO8Yf0HfYO9Zf0HdYO8\\f0JaYO7`f0I_YO9`f0G`YO:^f0GaYO:_f0G`YO9`f0HgYO0Xf01kYOKVf06jYOIUf09[WO_N_1U1Wg0=WWO`Nd1o0Wg0c0PWO`Nj1l0Vg0i0jVO^No1g0Yg0f1iXOWNXg0i1iXOTNXg0m1hXO[MaM9oi0\\2`XOYMcM:ni0^2jXO[MWg0g2iXOVMYg0j2o2000O10O11N10000O100000000O010000O100O101O0O2O000O100O2N2N2OO0100O2O0O1O2N1TN^ROX1cm0gN^ROW1jm0cNVRO]1jm0bNWRO]1km0bNURO]1lm0aNVROc1gm0[NYROf1gm0XN[ROg1Pn010OO100000O2O0O2O1`NgQO`0ON[o00O010001N10OO101N1O2N101N2O2MhWVe0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The shape of part 3 appears as if it could be worn around someone\u2019s head due its curvature resembling earphones' design for comfort during use; unlike most other parts which seem static without such implication in their form alone"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_54",
+      "area": 14996,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "PXae03lo03M2L5M3N1N200O2O1N101XQO\\OQn0d0mQOGkm08TROKjm05TRO0im02URO1hm0OWRO4gm0LYRO7dm0H\\RO;am0G^RO;`m0E^RO?`m0B^ROa0`m0R1O0CfMQSO\\2kl0gMTSOY2jl0kMUSOT2jl0mMVSOR2il0RNWSOl1hl0VNYSOV1MdNkl07WSOX1O]Nkl0=QSO[15SNkl0^1RSOFRm0:QSOEnl0;SSOHgl0<YSOBfl0`0YSOAdl0c0[SO\\Ocl0g0]SOXObl0k0]SOTOal0n0aSOoN_l0T1bSOiN^l0X1dSOdN\\l0_1eSOkNnk0W1STOhNkk0X1XTOhNfk0Z1ZTOeNmi0WOgUOJU1Z1kN@a0VO^Oh0Uj0FPWOl0nN^Od03[i0DSWOl0POZOb09Vi0DZVO^O`0^1^OVOa0<Ui00jVO?BRO?`0Si00kVO`0BPO?I\\O8hi0?WVOoN?c1HjN?FA?fi0a0bVOc0GeN`0G@b0hi0`0cVO`0DdNc0H^Oe0hi0`0cVOa0D_Nm0`0nh0a0`VOI@E7[Ok0g0Si0<[VOLAF[13hh0?YVOGGHS14mh0=\\VOCGKo04Pi0<YVOFJJj06Vi07UVOINIe07Xi07PVO30^Oh07Yi09kUO65WOg09[i0<eUO6:TOf09]i0l1QVOeMf0;]i0m1PVOeMj04Zi0F[UO_2b0aMP10\\i0`2^20002M100O001N2O1N1K60O10O3N2LTROTN:0I0il0Z2USORNPm0k1mROWNSm0[21[OkRO[NWm0W21ZOiRO^NXm0b1jRO\\NWm0b1kRO\\NXm0b1iRO[N]m0`1lMZNSWOm1dh0VN[WOk1ch0XN[WOh1ch0\\N]WOb1bh0aN\\WO_1bh0fN[WOZ1dh0nNUWOS1jh0nNUWOFQNc0ij0ISWO^O]Ni0_j0JSWOYOaNP1Zj0IRWOSOiNU1Uj0HQWOoNnN\\1oi0DoWOa0ng0\\OSXOd0mg0\\OSXOd0ng0ZORXOf0Ph0XOQXOY1XMoMQj0f0QYOZOnL11a1Qj0SOaYOj0^f0XOmYOXORLP1oi0JQZO7oe0HPZO9Qf0JiYO7Xf0KdYO7]f0K_YO5cf0MXYO7gf0KTYO7mf0IQYO7Qg0KjXO7Wg0KdXO5`g0I^XO8dg0G[XO8hg0KQXO8cMaNUj0U1VXO:eMcNVj0R1QXO>gMbNZj0o0mWO?hMeN\\j0l0iWOm0Yh0UO]WOP1eh0POXWOS1ih0POPWOR1Ri0SOcVOR1^i0RO[UO^Nl0`2ki0^ObUORNId2gj0^23OjUOPK[O3hi0k4gVObK\\i0[4bVOfK`i0X4^VOkKci0S4YVOQLji0l3UVOULni0h3oUO[LUj0f45K7I4L3L3WNVUOXNlj0_1^UO]Nfj0[1bUO^Ndj0\\1eUOWNfj0f0cTOoNT1Odj0P1e21OM4K8I6H8I7HUeZ5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The headband of in purple appears wider than most others which may suggest its role as where they would be worn over your ears for comfort during use"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_59",
+      "area": 12528,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "]\\ff03lo03M7J3L6L0mPOMWn04fQOOZn01cQO3\\n0k0oQO^N]m0g1^RO\\Nkk03YUOe1fN\\Nnk04WUOn1hj0TNWUOl1gj0VNXUOj1hj0WNXUOi1fj0XN\\UOf1dj0[N[UOe1ej0[N\\UOe1bj0^N\\UOb1dj0`NYUO`1hj0bNWUO]1hj0eNWUO[1ij0eNXUOZ1gj0hNYUOW1hj0hNZUOV1fj0jNYUOW1hj0gNYUOX1ij0gNVUOZ1Sj0nMaUOh08[1Vj0SN_UOe06X1[j0VN_UOf0JY1fj0WN[UOf0EW1Qk0\\2001O001O1O000000O100O11O001QLjTOR3Wk0WLiTO43K:c3mk0O001O1O00O1O1O1J6M3O100O11OSVOTLfg0l3XXOWLhg0h3WXOZLjg0d3TXO`Lkg0_3SXOdLmg0\\3oWOhLSh0U3iWOPMXh0o2bWOWMah0h2bVOSNci0R4100O1aJkUOR5mj0E0O3N0O2N1N3N0O2I7K5M4M101DYTO\\Lhk0W3h0iL]SOj2Pm0K3ZO[SOnMjl0h1k002OO11O001OO11O0nNjQOB2<Un0OWRO1km0G[RO9em0F\\RO:em0C]RO>bn00000001O001O001OOO2L3L5I6N2000O2O00001N1O3M2M4L9D7FebU5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The headband of in purple appears as if it could be worn around someone\u2019s neck due its elongated form which suggests flexibility for wrapping over ears like headphones do"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_56",
+      "area": 11025,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Y\\S5484hn0[1XQOiNYm0X2F;I4L3N2M2O100N2O10O010O3N3L2N01O0O10O100O20N4N3L1UTOfLXO7Zk0W3ZUOPMdj0W3RUOmLnj0U3nTOmLQk0T3nTOlLSk0U3jTOmLUk0T3kTOjLWk0V3gTOkLok0W35L3OO0O001O01O0dLRTOKf0d1Yk0[N^UOi0\\NHTn06QROHom07RROHnm07SROImm04VROKkm04WROKim03YRO@B4Vn08]RO@B3Un0<S110@ePO:`o02O10O0O100O0O2O1NQo?LQQ@4K4K6QOEPROb0om0i0O0O2OO010O2O0O1N3O0O000010O0010O000000kQOgNcm0Z1\\ROjNam0W1[ROnNcm0S1ZROPOem0Q1ZROQOUk0AQWOW2mh0lMPWOU2oh0nMoVOS2mh0QNQWOP2Uh0hMYVO>_1k1Xh0lNgWOT1Yh0mNeWOS1]h0mN`WOT1ah0mN\\WOT1fh0lNUWOW1nh0hNmVOZ1Vi0gNfVOX1]i0iNaVOT1di0mNUVONTOiNgk0^1lTODgk0i0fSO\\O[l0n17O0N2N3M2M4J6L3L4L2J8N200N2O1N2N3N0O2N2O1N2N3E9010O100O1O0001O1N2O1O2N1N3K5K6N1N3L4N1O1O101N1O2I_h^e0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The headband of in purple appears as if it could be worn around someone\u2019s neck due its curvature resembling straps for carrying something over shoulders; unlike most other parts which seem more static like knobs or buttons without such implication"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_1",
+      "area": 13043,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "_hha0R1bn0c0D6J6L3G:K4N2M3N2N2N1N3M3M3M2L5M2O2N2K4N3N100O001O1N3M2N3M2N2O1O1O100N2N201O00O0001O1O2N100O0100O1000O100000O001O1O10OO2O10O0001O100O2O0O1O10OO2O101N1N2O2N1O1N2O1N2N3N1N2O1O2L201O2N1N2N3M2N3M2N3N3L3N2M3M4L3M4K5K5L4K5K5L5K6@a0Gl\\e:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The ear cup of headphones typically rests against your ears when worn, making its curved surface suitable for wearing over time periods without discomfort due to pressure distribution across multiple points along the rim rather than just at single point as in many other objects like keys which have sharp edges prone to causing pain if pressed too long directly onto skin surfaces"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_50",
+      "area": 11057,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "gXP63jo05K4L3M4M2N1O3M2O5J3M2K6K3N3M2N3N1O1O2OBRROkNmm0Q1\\ROkNcm0T1d000O11O010O1000O100000O10000010O0001O000N3M3N2N2N2N1O2O1N3N1N3M4M3L5K5L4L2M2O2M101O001PSOUMjl0R3N1O2N010N101O0001N]SOkL^l0U3bSOmL]l0S3aSOoL_l0Z3O0M3O001gSO^LSl0b3mSO`LQl0k3L2N101M2O1O010O02N101N5KO2M20101N2O0N3N00100O010O[M]TOn0ak0TOaTOj0_k0TOiTOf0Vk0ZOnTOc0Rk0]OYUO8fj0H^UO4cj0L_UO3`j0LbUO3^j0McUO2^j0LdUO3\\j0LfUO3\\j0cN`TOl0W1?Zj0dN`TOk0X1`0Zj0bN_TOn0X1>dj0A]UO>cj0A^UO>cj0B^UO<cj0C_UO;cj0C^UO=bj0D^UO;dj0C]UO;ej0E[UO:gj0EXUO<ij0BXUO>jj0@UUOa0Pk0YOQUOg0Pk0XOQUOg0Pk0WOQUOh0Qk0WOPUOh0Pk0WOYUOL`NLYl07YUOJ\\k05Y2Kikae0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The headband of in purple appears as if it could be worn around someone\u2019s neck due its curvature resembling straps for carrying something over shoulders; unlike most other parts which seem more static like knobs or buttons without such implication towards human interaction"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_68",
+      "area": 11066,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "gg\\>5n44de01UZO4ie02nYO2Rf01iYO2Uf07bYOJjd0^OfXOo0Y2CPe0@gXOQ1S2@Ue0@hXOT1o1\\OWe0CjXOR1l1\\OXe0DlXOR1k1YOXe0GmXOP1j1YOVe0JQYOm0i1XORe0OVYOi0i1VO[d0_OjXOf0R1e0i1UOZd0EbXOg0[1?i1TOYd0n0oYOMg1UOZd0n0QZONb1TO\\d0P1SZOK`1BQd0b0[ZO1b1_ORd0a0ZZO2d1\\OSd0b0XZO2e1]OSd0`0WZO5f1YOUd0TOiXOY1\\19f1ZO[d0=nYO:g1WO]d0?jYO;j1TO_d0?gYO>i1RObd0`0dYO?j1POcd0a0aYOa0k1mNgd0a0\\YOd0l1jNjd0b0XYOf0n1fNld0d0UYOf0o1eNnd0e0PYOi0P2bNRe0e0kXOl0R2^NUe0f0fXOo0T2ZNXe0g0aXOS1U2UN\\e0g0]XOW1U2RNae0f0WXO[1W2mMfe0i0jWOa1^2fMie0l3UZOTLme0l3QZOULQf0k3lYOULVf0k3hXOiK^O<lg0k3dXOkK^O:Ph0l3_XOnK\\O7Ph0D^WOW4S1SLWO5Xh0D\\WOW4Q1QMZg0cNjWOh4i0eL]g0eNeWON0i4l0dL`g0h3\\XOYLdg0j3YXOULig0m3TXORLog0P4mWOoKUh0S4hWOlK[h0U4bWOkKah0W4[WOhKih0V4UWOiKnh0W4QWOhKRi0V4oVOhKSi0X4lVOfKWi0Y4jVOdKZi0Z4fVOcK_i0[4bVObKbi0]4_VO^Kfi0`4ZVO^Kki0_4UVO_KPj0_4PVO^K^j0V4aUOhKej0U4\\UOhKij0T4XUOhKmj0W4TUOgKoj0V4a0L5K4L5K9A?\\OR1XO8TNjQO[1dn0XOnWS?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The ear cup of headphones typically fits over ears for listening purposes; its curved design suggests it should be worn around someone\u2019s head rather than being held in hand like many other objects listed here which have more rigid shapes suitable for holding but less so for wearing directly onto oneself as intended use would dictate"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_71",
+      "area": 10788,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "oh^66R1O`m0:WROHhm0;UROGhm0>SROElm0?PROAom0b0nQO@om0e0nQO\\OPn0f0lQO]OTn0Y1N2O11O5K0O3N1OO11O2M2O0O10002NO02N2O0O1OO2O03MO1O2O0M3I8M2O1N3N101N1O1O1O2O0O101M200O2O00O10O100000000N1O2O1N110O01O001O1O200O0O200OWROlMem0X21O1O001N101O001O001N100O3N0O2O1O001N2O0O2O001O0O2O0O010O0100000O100O10000fNcQO12a0\\n0\\OdQO16?Vn0\\O\\RO`0cn000O2OO01O010000O0010O010O00100O1O1O010O001O1O2OO010O01O010O00010O01O01O00000010O0O100O100001OO1O2O0O02O@GYQO9fn0IZQO6fn0LXQO4gn0NXQO2hn00TQO2ln0a00000O1001O0O1000000000000O101O00000O1000000O2O000O1000000O10O1000000O010O1O1O0O2O1O001O1O0O2O1N2_OoNRROR1mm0POQROP1om0SOkQOQ1Tn0>N2OTOkQOOSn01QROLnm01nQOYO5f0lm01XRO0hm0OXRO2gm0MZRO4fm0H^RO7cm0H\\RO:dm0D]RO<dm0C\\RO>em0_O\\ROb0dm0ZO^ROg0dm0UO\\ROn0Yn010000N3N1N3O0M4N1O2N10010O01lNdQOd0]n0ZOkQO>Vn0^OoQOa0Rn0ZOSROe0dn0O100O100O1O1O100O100O2M201NjRRa0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The ear cup of headphones typically fits over ears for listening purposes; its curved design suggests it can be worn comfortably around them"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_48",
+      "area": 8300,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "YVZ:71M88MG_n0<_QO1OFan0V1O2N0010O01O1O001N3N0O2O00O1O100O10001N10O01000O1O100N20L401O001O2N00O0100010O01O100O001O1O001O001O1O001O0O20O0001O00010O000010O000010O000000000001O0O10000000001O000O101HkNdQOU1\\n0710O10O10000O100O10000O10O0100O1000O010O10O010O010O01O10OO2O010O1O00100O001M3O00100O02O00001O000O1000000000000O10O100O1000O010000O10O10O1O100O1O100O1O100O100N2N2O100O11N101N4[NnQO<>Ahm00lQO=Xo001N101N2O1N2N010O2NN3O01L320N101Nmlc?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The headband of in part 3 appears wider than others which may suggest its role as a support structure for wearing headphones over ears rather than being just decorative like some other parts such as those labeled numbers 4-7"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_49",
+      "area": 8317,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "eSRf06io02O2M2O2N2O0O2O1O2N1O5L3L0O4M0000100O001O2N2N01OO2O002HiNbQOY1Zn0iNfQOW1Yn0jNhQOT1Vn0oNiQOR1Tn0QOkQOo0Tn0>10QRO[Nbm0f1]RO\\Ncm0c1ZROaNem0m115K00O11O3M002N002N0000O14L003M01N1002N0001N100N2O1N2N3K4L4NdRORNil0c210O3M3NO1N100O0`MnROV2ol0gMVSOW2ll0fMWSO[2hl0aM[SO_2Um0N2O1N3gM[ROP2lm0N2OgRORN`l0l1YSO\\Nhl0b1USObNml0Z1PSOjNRm0T1kROPOVm0m0jROTOWm0k0gROVO[m0h0eROYO]m0d0dRO[O\\m0d0cRO^O_m0a0_ROMUm02kRO<1`N]l0[3`SOiLTl0a3003L3N3K5L4K3N4K5K3M2N6J1O2L4M4M6F6M6J9E>E:]OgPOIeeU6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 14 appears as if it could be used for touching but has no function in use of headphones so its affordance would be none"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_46",
+      "area": 7848,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "]Sh93lo02N1O2O0[POL]o04cPON\\o02cPOO\\o01dPO1Zo0:01O01O00gPOASo0>lPOERo0;nPOGQo08PQOHon08QQOJnn05RQOLmn0c010O4M1N1O2OO0101M2\\QOiN^n0W1bQOmNZn0T1eQOnNZn0Q1gQOoNXn0R1gQOPOXn0o0iQOPOWn0Q1hQOPOWn0\\11OO1000O2O001O1O0001O01O001O001O0010O01O010O1O010O101N1J7O2M1O01N10GYQOZOhn0d0:010O0010OO2O010O01O010O001000O10O10000O100000O10000O1O010O10000000O10O10000O1000O1000O10000O10000O0100IQQO\\Oon0c08O100O100O0010O0100000O100000O010000001O00000000000001N100O100000001O0O100O20O01OO100O1O1N101O1O100O10O010000000000000O100O10000000000000000000000000001O000000000000000000O010O100O1O1O1O100O1000000O100001O0000000000001O01O00000000000001O0000001O01O01O001O000010O01O01O00000001O001O1O001O01O01O0010O010O2N100O10O001O10O01O001O010O001N101O001N2O001O1O001O00100O0010N101NYnd<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The headband of in front of earcup has a smooth surface suitable for resting over ears; its location suggests it would be worn around someone\u2019s neck when not being used"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_65",
+      "area": 7754,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "baj:3lo02O1N2O2N1N2O1O1O1O1O1O1O1O1O1jN]OlROd0Sm0^OlROc0Sm0]OmROc0Rm0_OlROb0Um0]OjROf0Tm0[OkROf0Tm0ZOjROi0Vm0WOhROk0Wm0UOhROn0Wm0ROfROQ1Ym0oNfROS1Ym0nNdROT1]m0mN_ROV1`m0lN\\ROV1dm0d000O0010O00010O000O20O010O010O01O001O010O1O001O001O001O001O1O001O10O01O1O001O0011N10O3_OhQOUOXn0j0hQOVOYn0i0gQOWOYn0i0gQOXOYn0g0gQOZOYn0e0gQO[OZn0d0fQO]OYn0U110000O1000O010000O10000O100OXROcNnl0]1nROgNRm0Y1lROhNUm0X1iROkNWm0U1gROlNYm0W1[ROaN1;cm0Z1]ROfNcm0Y1]ROhNdm0W1\\ROhNem0V1^ROiNcm0U1]ROkNdm0U1[ROlNfm0R1ZROnNhm0Q1WROPOjm0a12O10000000000O100O2O0O101N1O101M2O2M2_OhQOUO]n0j0>O000O10VQOTO`n0j0^QOYObn0f0]QO_O`n0?aQOC^n0<aQOF`n07aQOJ`n02bQOO`n0O_QO2an0M_QO3bn0M]QO4cn0MYQO6hn0a01O001O001O0O2XORQO;nn0CTQO=mn0ATQO?mn0^OVQOa0Wo0M100N2O1N6I3NoZT`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The headband of in front appears as if it could be worn around someone\u2019s neck when folded back over itself; unlike most other parts which seem more static or structural without such implication for use"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_24",
+      "area": 4292,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Zjd85jo04M3L3N2O1N2N2N100O105K1O0O2O1N1O2N101N2N101N1O2O0O101N2O0O2N101N1O2O1N10000O100O100O1000000O01000O1000000O10O100O01000000O0100O100O2O1N100O1O1O100O100O101N1O1O1O2M2O2N2N1N3N2M3M3M5K5^OiS^d0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The shape of part 30 suggests it could be worn around someone\u2019s neck as a necklace due its elongated form compared to others which appear more like handles for carrying objects such as bags etc"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_2",
+      "area": 4153,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "[gT85jo06PQO8^m0MiQOk0Rn0d0N3M3N0O102M2O000000000O101O000000001O000O10O0100000O1000O010O10O2O0O00100O2N10O01O100O1O2N1O1O2N2O0N3N2M3M4K5J6K7H8GfVme0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "type on",
+          "justification": "Part 16 has a flat surface suitable for pressing against fingers in a typing motion, unlike most of the other parts which appear more decorative without such functionality"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_28",
+      "area": 3579,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Xf`:7ho04M4K5L4L2N3N1N2N2O1N1O1O2O0O2N2N100O2N1O2O0O1O1O1O001O010N101N101O001N101N2O0O2O001O00010O01O00100O1O1O001O1O2N1O1O1O1O1O2N1O2N100O1N2O1N3L4L4K5L4K6IgXSc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "type on",
+          "justification": "Part 17 has a flat surface suitable for pressing against fingers in a typing motion, unlike most of its counterparts which lack such functionality due to their shapes being more suited for holding rather than interacting directly like keys would be used"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_32",
+      "area": 3099,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "l[U79do04N2L3N3M2N2O1N3N2M4M3L4M3M2N4L3M2N2N1O2N1O1N2O100O1N3N1O1O0O2O001O001N1000O2O001O1N2N2N2N2N2O2M2N2M3M3K6K4M4M3I9GgePg0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The headband of in front appears as if it could be worn around someone\u2019s neck due its curvature and positioning at the back of the headphones which suggests they can wrap over ears for listening purposes; unlike most other parts shown here without such context clues like ear cups themselves being held up by hands etc"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_17",
+      "area": 3077,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "_jo95ho05K4J5K6]Oc0M3N2N2O1N2O1O100O001O100O10O0100O10O0100O100O010O01O10O0100O100O1O100O1O1O010O1O1O1O1N3N1O001O1O2N1O2M3N2M3M3M4L4K9EUUPd0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The ear cup of headphones typically covers ears when worn over them; its circular form fits snugly around the headband area for comfort during use"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_4",
+      "area": 2885,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Uf^f05fo0:I:G2N1O2N100O1O100O1O1O1O1N2O100N101O1O1O1O1O10O01O1O010O100O010O10O01000O010O100O010O100O010O100O10O0100O100O001O1O001O1N2O2M2N3L4M2N3M2M4L5JQ[X7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The ear cup of headphones typically has padding for comfort when worn over ears; its design suggests functionality in supporting weight without discomfort during extended use periods compared to other parts which may serve aesthetic purposes alone like headband designs"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_41",
+      "area": 2879,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "k^Yg0l06[O`n0T1O1N2O001O0O2O1O001O001O1O1O1O1O001O001O1O001O001O001O001O001O001O001O001O000000O100O1O1N2N3L3L5J8SOmaS7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The headband of in purple appears as if it could be worn around someone\u2019s neck due its curvature at top end which suggests handle for grip while wearing over ears"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_6",
+      "area": 2884,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "VZS7=`o09E<F:F4L3M4M2M2O2M2N3N1O1O1O1O100O100000000000O2O010O001O0O2O1O001O1O1N2O1O2N1O2N2N3M4L5I6K4L3K8GQgZg0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 24 appears as if it could be used for touching but has no function in use of headphones so its affordance would be none"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_36",
+      "area": 2854,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "mgke0>ao02N2O1N1M4J5O1O1O1O2M2O1O1N3N100O100O1O100O10000O100O1O001O100O1000O0100O10O100O10O0100O1O10O01O1O10O01O1O001O010O1N101N2N1O2O0O3M2M4L5K4K5L3N3M3NVYj7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 23 appears as if it could be used for touching but has no function in use of headphones so its affordance would be none"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_8",
+      "area": 2870,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Vh[;7ho09H3L5M4K4M1N2N3M2O0O1O100O100O1O100O1O1O10O01O1O1O001O1O010O0O2O0010O01O1O010O0100O010O1O100O1O1N2O1O1O1O1N2O1N2O2M2N3M2N3M3M4K4M5JbVab0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "type on",
+          "justification": "The shape of part 30 appears flat and rectangular, which suggests its function for typing as opposed to being held by hand like many other parts in similar shapes but distinct positions"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_23",
+      "area": 2847,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "W]^6895II01Zn0^1H7M4M2N2N2O1N2O1O1N2O1O100O10000O100001O0000001O001O001O1N2O2M2K6K5L3M4K5K6I7H<BQcWh0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The headband of in purple appears as if it could be worn around someone\u2019s neck due its curvature at top end which suggests handle like structure for gripping by hand while wearing over ears"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_14",
+      "area": 2589,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "gkX;4ko03N2M2O1O002N2N1O1O1O1O1O1O1O1N2N2M2O2N2M2N3N2N2O0O20O010O01O010O010O010O01O010O01O01O0010O00O2O001O0000000O2O0O100000000O10000O10000O101N1O2M3N2M4L3N3L7GRTYb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The ear cup of headphones typically fits over ears for listening purposes; its curved design suggests it can be worn comfortably around them"
+        }
+      }
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_15",
+      "area": 2539,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "jjhb04ho05M3M2M4K4M4L4M3N101N1O100O2N100O10001N10000O1000000O10000O10000O01000000O010O100O100O1O10O0100O100O001O1O1O1O1O1O1N2O001O1O1O1O1O2N1N3M3M4KZVP;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The ear cup of headphones typically has padding for comfort when worn over ears; its rounded design suggests it fits snugly around them while providing sound isolation suitable for listening activities like music consumption"
+        }
+      }
+    }
+  ]
+}

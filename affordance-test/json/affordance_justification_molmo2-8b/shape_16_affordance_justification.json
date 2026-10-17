@@ -1,0 +1,94 @@
+{
+  "object": "shape_16",
+  "model": "allenai/Molmo2-8B",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/novel/shape_16.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "shape_16_region_3",
+      "area": 49235,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "WUW9Y37jLQl0R5aN8H6J5L3M3M2N2O2M2O1N2O001O1N2O001O00001N101O00001N10001O001N10001O00001N10001O00001O0O101O00001O0000001N101O0000001O001O00000O2O0000000000000000000000000O1000000000000000000000O10000000000000O1000O10000O100000000000000000000000000000O10O100000000O10000000000000000000000000000O01000000000O10000000000O1000000O100O10000O100O100O100O1O100O1O1O001N2O1N2O1O1N2N2O1O1N2M3O1N2O1N2O1N2N2O1O1M3O1N2N2O1N2O2M2N2O1N2N2N2N2N2O1O1N3N1N2N2O1N2N3M2O1N2O2M2N2N2O2M2N3M2N3N1N3N2M3M3M3M3M3M3M4L4L4M4K5K8G=Cc0]OoiP?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "The square, flat top surface of part 1 appears to be a camera lens or sensor, designed for capturing images, which is distinct from the other parts that seem to be structural components of the object"
+        }
+      }
+    },
+    {
+      "region_id": "shape_16_region_5",
+      "area": 43738,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "a\\X=7ho07J1N2O0O2N1M4N1O001N1000000000000001O0000O10O10O100000O01001O0000O1O10O100O1O10000000O10O1000O1O1000O01O10O01O00100O01O01O10O01000O10O0O110O0000100O00000010O10N1010O100O10O00001O100O2N101N2O1M3O1O1O1N2N2N1N3N2N2N2O1M3O1N3M2N2N2O1N2N3L3L4A?O101N100010O0000010O00010O01O10O01O010O010O010O010O010O10O10O10O10O10O10O1000O0100O01000O100000O01000000O10000000O10O10001O00O100001O000O100000000000001O00000000001O00001O0000001O0000010O00001O001O010O001O001O010O001O1O010O1O010O002OO01O00100O10O0100O10000O1O10O01O2O0O100O10000O101N10001N10000O2O0O2O000O101O001N2O00001O1O001O1N2O001O1O1N110O1O1O1O1O010O2N002N1O1O100O1O1O101N1O10001N1O101O1N1O1O2O1O0O2OO11N2O1O0nWOUJle0l5oYOWJQf0j5lYOXJUf0i5fYOZJ\\f0f5`YO]J`f0d5[YO_Jef0c5VYO`Jjf0c5PYO_JRg0c5hXO`JYg0a5bXObJ`g0_5XXOeJig0i63M2O010N3N2N2N1O3L2O1N101N4L2N2N2O3M0O3L5L4L2O2O1M4L2N2O3L5K2N3M3L6K3N2M6J5K3N3L5K4L2M4M6J4K4M4L4K7J3L5L8G7I5K7J6J6I4M3L8H7I6I6K8GkVS6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 2 appears to be a flat, curved surface that doesn't provide a clear grip or handle, making it difficult to interact with compared to the other parts"
+        }
+      }
+    },
+    {
+      "region_id": "shape_16_region_2",
+      "area": 11030,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "^eR;e1Wn0X2jM8H4L4L3M3M3N1N3M2O2N1N2N2O1M3O1O1N2O1O1O1O1N2O1O1N2N2O100O1N2O1O001O1O1N1010O0000O1000N3M2I7H8H8I7G:G7L5J6I8K4I8J5L4J6K6J5M4K4L5L3M4K4M3N3K4M4L4M2N3M2N3L4N2M3M3M3M2O2M4M2N3MY]Tb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 3 appears to be a small, solid green component that is not designed for grasping or manipulation, unlike the other parts which have more distinct shapes or protrusions that suggest different affordances"
+        }
+      }
+    },
+    {
+      "region_id": "shape_16_region_1",
+      "area": 4073,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "X]Q;8ao0:J4L3N3M2N3N2N2N2N2M3N2N2N3M2N2N2O1N2O1N2N2O1N2O1N101O0O2O001O000O100000000000000000O10001N100O101N101N101N1O2O0O2N1O2N2N2N2N2M4M3L4L5K4L6J5JTcfb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 4 appears to be a small, round, ball-like component that is likely a decorative element or non-functional accent, which would naturally have limited to no affordance compared to the other structural parts of the object"
+        }
+      }
+    },
+    {
+      "region_id": "shape_16_region_6",
+      "area": 2910,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "d\\R::bo05L4L5L9G8H5L5J5L3M3L4M2N2N2N2N2N2N2N2N101N1O2O0O0100O1O1N3UOlRO\\N`m0\\1f0N2M4M2M3O1N2O2M2O1O1O1N2O101N1O1O1O100O1O1O100O100O10000O100O2O00001O00001O000O2O00010O0O2O1NUd^c0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 5 appears to be a small, flat, circular component that is flush with the surface, likely serving as a decorative element or fastener rather than a functional part that can be grasped or manipulated"
+        }
+      }
+    }
+  ]
+}

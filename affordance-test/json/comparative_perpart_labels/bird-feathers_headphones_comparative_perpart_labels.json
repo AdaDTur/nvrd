@@ -1,0 +1,230 @@
+{
+  "object": "bird-feathers_headphones",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "regions": [
+    {
+      "region_id": "bird-feathers_headphones_region_26",
+      "area": 99197,
+      "isolated_label": "cut",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.6449326618802259
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_63",
+      "area": 43879,
+      "isolated_label": "cut",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.5106725310098492
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_47",
+      "area": 25665,
+      "isolated_label": "cut",
+      "comparative_label": "wear",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.46728835410451297
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_67",
+      "area": 19880,
+      "isolated_label": "take photo",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.3955009928704738
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_54",
+      "area": 14996,
+      "isolated_label": "type on",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.4204111248296551
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_59",
+      "area": 12528,
+      "isolated_label": "take photo",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.4732681605319337
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_56",
+      "area": 11025,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.4142499869012315
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_1",
+      "area": 13043,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.5640746945446198
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_50",
+      "area": 11057,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.4412885185065416
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_68",
+      "area": 11066,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.39323067200040146
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_71",
+      "area": 10788,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.6450778006584039
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_48",
+      "area": 8300,
+      "isolated_label": "cut",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.5418736263296204
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_49",
+      "area": 8317,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3863931859821076
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_46",
+      "area": 7848,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.4659153231420391
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_65",
+      "area": 7754,
+      "isolated_label": "take photo",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.6270845166777839
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_24",
+      "area": 4292,
+      "isolated_label": "take photo",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.6008715695696558
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_2",
+      "area": 4153,
+      "isolated_label": "take photo",
+      "comparative_label": "wear",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.23636022384898794
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_28",
+      "area": 3579,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.257280415718295
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_32",
+      "area": 3099,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.33228736531939557
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_17",
+      "area": 3077,
+      "isolated_label": "take photo",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.43343677235129907
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_4",
+      "area": 2885,
+      "isolated_label": "type on",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.3094522094843721
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_41",
+      "area": 2879,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.5414845599387412
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_6",
+      "area": 2884,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.4739076169202498
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_36",
+      "area": 2854,
+      "isolated_label": "take photo",
+      "comparative_label": "wear",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3815889470473423
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_8",
+      "area": 2870,
+      "isolated_label": "take photo",
+      "comparative_label": "wear",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.3008544162622086
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_23",
+      "area": 2847,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.3509489452737495
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_14",
+      "area": 2589,
+      "isolated_label": "take photo",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.5060214450987149
+    },
+    {
+      "region_id": "bird-feathers_headphones_region_15",
+      "area": 2539,
+      "isolated_label": "none",
+      "comparative_label": "wear",
+      "perpart_context_label": "wear",
+      "perpart_context_prob": 0.5467307432948492
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "object": "dagger_amplifier",
+  "model": "OpenGVLab/InternVL3-8B-hf",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-shape/dagger_amplifier.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "dagger_amplifier_region_2",
+      "area": 59216,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "dSd33lg01O2M2O1O1O100O1O1O1O1O2O0O010O1O1O1O1O1O1O1O001O100O1O1O100O1O001O1O100O00100O1O100O1O001O100O1O1O00100O1O100O1O10O01O1O100O00100O1O1O010O100O00100O1O001O1O1O010O100O1O10O0100O1O001O100O10O01O1O100O00100O100O010O1O1O10O01O1O1O010O10O01O10O01O10O01O10O0100O1O00100O00100O010O100O00100O1O001O100O010O10O0100O001O100O010O1O010O010O1O010O10O0100O10O0100O00100O00100O00100O1O010O10O010O0100O010O1O010O00100O10O01O10O0100O001O10O01O10O0100O010O1O010O010O10O0100O0010O010O01O10O010O0100O1O010O10O10O10O01O010O1O010O010O010O10O01O010O10O0100O010O1O010O10O01O1O010O0100O010O0100O010O010O10O01O010O10O01O10O010O0100O010O010O010O010O10O010O01O010O00100O010O01000O10O010O0100O010O010O010O010O0010O010O10O010O10O010O0100O010O010O010O010O0010O0100O0100O010O10O00100O010O010O0100O01O010O010O010O0100O0100O010O010O10O010O10O0010O010O010O010O10O0100O010O10O10O010O0100O010O010O010O010O0100O010O010O010O0100O010O10O010O010O0010O0100O010O010O010O010O10O010O1O010O010O10O10O010O0100O00010O010O10O010O10O010O010O010O010O10O010O01O010O010O10O010O10O010O0100O010O010O0100O010O00010O0010O10O10O010O010O10O010O010O010O010O00010O010O010O10O1O010O010O10O1000O0100O0010O01O01O01O0100O010O01^Ll[OX3Sd0hLo[OV3Qd0kLP\\OT3Pd0kLR\\OS3nc0nLZ\\Oj2fc0VM\\\\Oh2ec0VM_\\Of2bc0ZMk\\OY2Wc0dM\\]Oi1ed0I6I4M2M5L4K5L4K4M3L5KdcX?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The elongated pointed blade-like structure of Part 1 suggests its use for cutting due to its sharp tip designed for slicing through materials efficiently"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_1",
+      "area": 34875,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Z]ad0e1Xf0?B9G4M2N1N3N1O1O1N2O00100O10O0100O010O10O010O010O010O010O01O100O01000O0100O1000O10O10O10O010O010O0100O010O100O01000O100O01000O10O01000O01000O0100O010O1000O010O10O010O100O010O10O010O10O10O10O010O10O010000O010O10O10O10000O010O10O10O1000O10O10O01000O0100O1O010O10O0100O0100O010O0100O010O10O10O01000O01000O010O10O0100O010O10O1000O010000O10O10O100O100000000O010O1000O01000O01000O010O10O01000O010O10O010O01000O010O1000O0100O01000O010O10O10O100O010O10O010000O010O10O10O10O010000O010O10O10O10O010O0100O010O100O01000O010O10O0100O01000O010O010O01O010O10O0100O0010O01O0001O01O001O001O001O0000001O0O2O00001O000O101O001O001N2O1O00O1L4O10OO2M3001O00O11N101O1O00001O001O1N2O001N1O2O1N2N3M2N3L4L4K5I7K5K4K6K5I7L6H:Fc_W4"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 2 suggests its use for cutting due to its sharp edge designed similarly to tools meant for slicing through materials like paper or fabric in staplers"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_29",
+      "area": 24262,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Pm\\a08gg0`0@?B>A>lJPN^CZ2X<fMiCd2k;^MTDk2d;SM]DR3^;nLbDU3Z;mLeDU3Y;kLfDX3X;iLgDY3W;hLgDZ3X;gLgD[3W;fLhD\\3V;dLhD_3W;bLhD_3W;aLhD`3X;aLgD`3X;`LgDa3Y;`Li@G`3i3g;`Lh@I_3j3g;_Lh@Ga3l3e;]Li@I`3m3e;[Lj@Ha3n3d;YLl@I_3P4d;YLl@J\\3d1kLOm>cNk@L[3`1TMNe>gNl@MW3]1\\MNa>gNl@3R3W1dMN]>jNk@9k2o0oMN[>0[C2\\NNX>8TCIfNNV>a0kBBPOMU>h0cBZOZONR>V1UBmNINR>_1jAcN5MQ>i1`A[N`0LP>o1YAVNf0LP>U2PARNQ1HP>Y4oAhKP>X4PBhKQ>X4nAiKQ>X4nAiKR>W4mAiKT>W4kAjKS>X4lAiKT>Y4iAgKV>\\4gAfKY>[4eAeK[>]4bAdK_>]4^AdKc>^4XAdKj>^4o@eKQ?e61O001O001O2N00001O001O001O1O001O2N0000O100N2M300O100O1O100O1O100O11O001O001O1O1O000QHZAd6g>ZI`A`6`>`IkAU6U>kIeB[5[=dJkBDkMZ5Z?RKlB@oM\\5U?TKlB@oM9Ke4X?cKPD@gL_4Y?QLZD_O_L3OO2b3U?nLTE_OfK2NQ3X?]MfEATKOOb2V?oM`Ff1`9YNQG_OlI`1S?QObG_OXIR1V?^OVH3j7N\\HLd73U800N201N0101OO2O00O010O100O10O010O0100O10O10O01000O0100O01ON31N010O11OO11O000O10M21N110N21O0000O11O0000O10000O10000O100O10000O2O000O2OO10O2O0Oj_X;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 3 suggests its use for cutting due to its sharp edge designed for slicing through materials like paper or fabric in contrast to more structural components elsewhere"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_24",
+      "area": 23856,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "]abb03mg00O2O1O001O1O1O001O1O1O1O1O001O00001O001O001O1O001O1O001O1O1O1O001O1O001O00001O001O000000000000001O0000O100O100O100O101O002N001N103M1OO01000N2O100O001O01O001O100O10000000000O10000O1000000000000O10000O10000000000O100O100O1N200O100000000O100O100O100O100000001N10\\_40c`K101N101O0O100O10000O1000000O100O100O10O010O10O01000O2O001O0O10O10O10O010O10O10O10O10O10O10O1000O010O10O10000O0100O010O01000O01000O010000O0100O010N5L101N01000O10000O01000O10O010000O010O010000O010O00100O10O10O010O10O010O1000O1000O010O10O10O10O10O010nF_OdJb0\\5^OdJa0\\5AbJ`0^5@bJ?^5AcJ?]5BbJ=^5CbJ>^5BbJ>]5AdJ`0\\5_OeJ`0[5AeJ?[5AeJ>[5CdJ>\\5BdJ=\\5DcJ=]5BdJ>[5CeJ<\\5DdJ<[5DeJ=[5CeJ=[5CeJ=Z5CgJ<Z5DeJ=Z5CgJ=Y5CfJ=Z5CgJ=Y5CfJ>Y5BhJ=Y5B\\Ig0cHUO1b0P>B[Ii0bHUO1a0Q>A]Ij0`HMT>YO[Ik1d6UN]Ik1c6UN]Ij1c6WN\\Ij1d6UN]Ik1b6VN^Ii1c6WN]Ii1c6WN]Ih1c6XN]Ii1c6WN]Ii1b6WN^Ii1c6WN]Ii1b6XN^Ih1b6WN_Ih1b6XN^Ih1a6XN_Ii1a6WN_Ih1a6WN`Ij1`6VN`Ii1`6WNaIi1_6VNbIj1^6VNaIj1_6WNaIi1^6WNbIj1^6VNbIi1^6XNbIh1^6WNcIi1\\6XNdIg1]6XNcIi1]6WNcIi1\\6WNeIh1\\6XNcIi1\\6WNeIi1[6WNdIi1\\6XNdIh1\\6WNdIi1]6WNcIi1\\6WNeIh1\\6XNdIh1[6XNfIg1[6YNdIh1\\6WNeIi1Z6XNeIi1[6VNfIj1Y6WNgIh1Z6XNeIi1Z6WNgIi1Y6WNfIi1Z6XNfIh1Z6WNgIh1Y6YNgIg1Y6YNgIg1Y6XNgIi1X6XNhIg1Y6XNhIh1W6YNiIg1W6YNhIg1X6YNiIg1W6YNiIf1W6ZNhIh1X6XNgIi1Y6VNhIi1X6XNgIi1Y6VNhIj1W6VNiIj1X6UNiIk1W6TNiIl1W6UNiIk1W6UNhIl1W6TNjIk1W6UNiIk1V6VNjIj1V6UNkIj1U6WNkIi1U6VNlIi1T6XNlIh1T6WNmIh1T6XNlIh1S6XNoIf1R6ZNnIf1R6ZNnIf1Q6ZNPJe1P6\\NPJd1P6\\NPJc1P6]NmIKWHg1l=^NiIO[Hb1l=_NjI0YHa1m=_NcI7aHX1m=`NbI9`HW1n=aNbIo1_6PN^IS2b6nM^IP2d6PNZIQ2g6oMYIo1h6QNXIo1i6QNWIn1i6SNWIl1i6TNXIk1i6UNWIj1i6WNWIh1j6WNXIf1j6ZNVIe1j6[NWId1j6\\NVIc1j6]NTIe1m6[NRId1o6]NQIb1P7]NmHf1S7[NdHIUIk1W>\\NeHIQIl1[>\\NbHKRIh1[>_NcHIQIh1\\>_NcHJRIe1[>bNcHIRIc1[>eNdHIPIa1\\>fNfHHnHa1]>gN`HDTIl1\\>`NaHd1_7]N_Hc1b7]N_Hb1b7^N]Hb1c7_N]H_1d7aN]H^1d7bN\\H]1d7dN[H\\1f7cN[H\\1e7eNZHZ1h7eNYHZ1g7gNYHX1h7gNYHX1h7gNYHX1g7iNYHU1i7kNWHT1j7kNXHS1h7nNUHT1l7lNTHS1m7lNSHS1o7mNRHQ1o7nNRHQ1o7oNQHP1P8oNQHo0Q8QOoGn0R8QOoGn0R8RO]GHiIW1j>PO^GIgIW1l>POXG0dIH0X1T?POXG1cIT1V?jNRGIhIk1W?\\NQGf1R9ZNmFf1T9ZNaFHZJm1W?[N_FIXJl1Z?[N[FNYJf1]?[NRFIdJ7Ke1`?[NPFLbJT2_?PNiEKfJ21Q2b?SNfE2iJi1b?UN`E_2b:`M^E_2c:bM[E^2f:bMhDHdK0Og2h?`M\\DKlKN10Ng2j?aMTDHRL201O0Ob2n?cMRD1QLKOg2o?]M[CISMc3d?dLXCJkLN0c3n?eLVCKkLOOa3Q`0fLRCNlLMO^3U`0fLPCl3R=ULlBk3V=ULUBGSNR4i?XLRBHoMOEo3\\`0ZLlAFhM43LO10l3[`0^LjANkMHNQ4a`0ZLcANmMm3a`0VL\\ACTN:Nj3e`0ZLh@DgNNN2N]4h`0RLV@_OVO0L41M0a4l`0RLm_O\\OYO9NZ4Qa0TLd_O[O\\Ok4Ta0QLU_OROE20d4_a0XLd^OSOOm4aa0QL^^OTOOa4ma0U16K6I6J6K6I6J6I8I6J6J7J5J7I6K6H8I6L5J5J7I7I8H7H:G:Gb[e2"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 4 suggests its use for cutting due to its sharp edge designed similarly to tools used in slicing actions; unlike surrounding components which appear more structural or supportive without such features"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_31",
+      "area": 23738,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "g[ic06jg00O`0YXO@Pg0k0PYOTO1N:1ce0n0RZOUOO?3]Oce0Z2[ZOgMZe0Z2fZOWN2_O_d0Z3_[OhL0O3Nfc0U4V\\OmK`c0T4`\\O\\LPc0]4L=X]OeJLORb0a5n]OdJRb0f5N110O000N200O10O101L30000000000000000nKb_Ob0^`0[OQ@9P`0DY@5g?I]@5b?K`@4`?Ka@5_?Id@6[?Jf@6Z?Ig@7Y?Hh@8X?Fj@:U?Fk@;V?Ck@=U?Ck@=T?Cm@=S?Cl@>S?Bn@>R?Bn@>Q?Bo@?Q?Ao@?Q?@PA`0P?@o@a0h>ZN_^OT1j2b0g>ZN[^OO1T1l2d0f>G[A9e>GZA:e>F\\A:d>F[A;d>E]A;c>E\\A<c>D^A<b>C_A=a>C_A=a>B_A?`>B`A>`>B`A>a>@_Aa0a>_O_Aa0`>@_Aa0a>_O_Aa0`>@`A`0`>_OaAa0_>_O`Ab0_>_OaAa0_>^ObAb0^>^ObAb0^>]ObAd0^>\\OaAe0_>ZObAf0^>ZOaAg0_>XObAh0_>WOaA6TMmN[a0l0aA8TMlN[a0l0aA7UMmNZa0k0bA8UMkNZa0m0aA8UMkNZa0l0aA9VMkNYa0l0aA9VMjNZa0m0`A8WMkNYa0l0aA9VMkNYa0l0aA8WMkNYa0l0`A:WMjNYa0l0`A:WMjNXa0m0aA9WMiNYa0m0aA9WMjNWa0n0aA9XMiNWa0m0bA:WMhNXa0n0aA9XMiNUa0P1bA8YMhNUa0o0cA8YMhNTa0Q1cA7YMhNTa0Q1bA8ZMgNTa0P1cA8ZMgNTa0Q1bA8ZMgNSa0Q1cA8[MgNQa0R1dA7ZMgNSa0Q1dA8YMgNRa0R1eA6ZMhNPa0S1eA6[MfNQa0S1eA7[MeNo`0U1eA6]MeNi`0Oh^OV1R36]MdNi`01h^OT1R38\\MdNj`0Z1jA2\\MdNi`0Z1lA1\\MdNi`0[1kA1[MeNi`0Z1lA2[McNj`0[1kA1\\MdNi`0Z1lA2ZMeNj`0Y1kA2\\MdNj`0Y1kA3ZMeNk`0X1jA4[MdNk`0X1jA3\\MdNk`0X1jA4ZMeNl`0W1iA5[MdNl`0W1iA4\\MdNl`0W1hA6[MdNl`0W1iA5[MdNl`0V1jA5[MdNk`0X1iA5[MdNl`0V1jA6ZMcNm`0W1iA6ZMcNm`0W1iA5ZMeNm`0U1iA7ZMcNn`0V1hA6[MdNm`0U1iA7YMeNn`0T1hA8ZMcNo`0U1gA8ZMcNo`0T1hA8YMeNPa0R1gA9YMdNQa0S1fA8ZMeNn`0T1hA8YMeNo`0S1hA8YMdNo`0T1iA7XMfNPa0R1gA9YMdNg`00P_OR1Q3:XMdNg`01o^OQ1R39XMfNf`02P_On0R3:YMdNg`03j^OR1V38YMcNf`0]1QBOc>0^A0a>1^A0b>O_A1`>0`AOa>0`A0_>1aAN`>1aAO^>1cAL`>4_AMb>2^ANb>2]ANd>2\\ANd>1]AOa>3^AMc>2^ANa>3^ANb>2^AMc>2^ANb>2]ANd>1]AMd>4\\AMc>2]AOc>1]AOc>0]A0d>0\\A0d>0[AOg>0ZA1e>OZA2f>NZA2f>M[A2f>NZA2f>M[A2f>NZA2f>MZA4f>LZA4g>KYA5g>JYA6h>JXA6i>HXA7i>IVA8k>FVA9l>FSA;m>ESA:n>ESA;m>ESA;c>hNW^On0U3;[>jN\\^OO3k0W3<Z>jN\\^OO3k0W3<T>YOc^O:Y3=U>:lAFR>9QBFP>9PBHo=9QBGo=8QBHQ>7oAIQ>5PBLQ>3oALR>4mAMY>LhA3[>KeA5\\>IeA6\\>IdA8]>FdA:]>CeA<\\>\\OP^O^Of3V1[>lNo]OLW4V1^b0101OO10OO20O2O0O1000O0100O10O100N111O00m0iNbXO1hg0OSab7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 5 suggests its use for cutting due to its sharp edge designed similarly to tools meant for slicing through materials like paper or fabric in staplers' cutters"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_27",
+      "area": 21707,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "PgZb0g0Xg02O0O2O001N101O0O2O001O0O2O001N2O0O2O001N101O0O2O0O101O0O2O1O0O2O1O1N101O1N2O1O0O2OO11N2O001N10002M101O0O102N001N101O0O1000O010O10O0100O010000O01000O10001N01000O0100O0101O0O0100M210O11N10000O01000O0100O00100O010O10O2OO11N0100O001O10O10000O10000O10000O10000O10000O1000000O101O0O1000O010000O1iZO]MQe0i201N10O100O010O10O01000O01000O010000O01000O10O10O1000O010000O2OO010O11N10001N10000O2OO10O01000O2O0O2O0O2OO02O0O3NO11N102N0O2O0O2O0O10001N011N101N1000Q\\OUNja0i1W^OWNia0i1V^OYNka0e1U^O[Nja0f1V^OZNja0f1V^OYNka0g1T^OZNla0e1U^OZNla0f1T^OZNma0d1R^O^Nna0b1Q^O_Noa0`1P^ObNQb0]1n]OdNRb0\\1m]OeNTb0Z1k]OfNVb0Z1i]OgNWb0Y1h]OhNYb0W1e]OkN[b0V1a]OmN`b0S1]]OoNcb0T1Z\\OlNI4nc0R31O1O00O11O0000O20O0010O0100O01ODj[OnLWd0h2l[ORMN5Vd0i2m[OPM13Td0g2Z\\OXMfc0h2Z\\OWMhc0g2k0L2000001O0100O0109G^ZOfM]e0Y2cZOiM\\e0^2O02OO11N100N2O3L4M9TOXZOmN`g0KSgn7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 6 suggests its use for cutting due to its sharp edge designed similarly to tools meant for slicing through materials like wood or fabric in contrast to more structural components elsewhere"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_4",
+      "area": 15921,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "\\flh0:fg04K4M3M5UZO_Omc0[2O0O2OO10O01O1O0O2N101O001O00001O001O0O2O1O00100O10O01O010O10O100O100N110O100O100O1000O01000O01O01O010O1O001O010O1O01O01O001O10O0100O010000O100O10000O100O100O100O1O1O10O0100O0100O10O0001O010O001O1O010O100O01O100O100O101O000O10000O10000O10O0100O1000O010O010O10O01O00010O0100O10O10O10000O2O0O2O0O2O0O2O0O2O000O2O0O101N101N100O2O000O10000000000O10O101N100O2N1O1O2M2N2N3L3N3L3M4K5K5K4K6K6J5K6H8G;Ebk[3"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 7 suggests its use for cutting due to its sharp edge designed similarly to tools meant for slicing through materials like wood or fabric in comparison to more structural components elsewhere"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_8",
+      "area": 8913,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "aYfc0`03DTg0P1D5^YOoNle0V1nYOROle0d1L2O0O2N100O10O10O0100O010O010O10O01000O0100O010O010O0100O01000O0100O010O01000jN^ZOMce0OdZON[e00iZOOWe0OmZONTe01mZOORe01P[ONPe01Q[ONod02S[OMmd01U[ONld01V[ONid02X[OMid02Y[OMgd03Y[OMfd04[[OJfd06Z[OJfd06[[OIed07\\[OHcd09][OFcd0;^[ODbd0=][OCbd0?][OAcd0?^[O_Obd0c0][O]Ocd0e0[[OZOfd0g0Y[OXOgd0j0X[OUOid0k0W[OTOjd0m0V[OQOjd0P1V[OPOjd0P1S11PZOoNnd0R1R[OnNnd0S1P[OoNod0R1P[OnNod0S1P[OmNQe0T1mZOmNSe0T1kZOmNTe0U1iZOmNWe0U1eZOlN\\e0W1[ZOoNde0g10O10OgN]ZO6de0HaZO5^e0KdZO4\\e0KgZO3Ye0LiZO2We0NkZO1Ue0NmZO1Re00oZONRe01oZOOPe01R[OMod02R[ONmd02T[OMmd03T[OLld03U[OMjd03W[OLjd04V[OLjd03X[OLgd05Y[OJhd06X[OJhd06Y[OHgd09Y[OFhd0:Y[ODhd0<Y[OCfd0?Y[O@hd0`0Y[O_Ogd0b0X[O]Ohd0d0X[O\\Ohd0e0X[OZOhd0f0X[OYOhd0i0X[OVOhd0k0W[OTOjd0l0T12O0O2O1O0O2O001N2O1oYOiNWe0X1fZOjNYe0X1dZOkN[e0W1aZOkN_e0Y1XZOkNhe0g10gN^ZO4be0JbZO3^e0MdZO2\\e0MfZO2Ze0MhZO2We0NjZO1Ve0OlZO0Te0OnZOORe00P[O0Pe0OQ[O0od01R[ONnd01S[OOmd01T[ONkd02V[ONjd02V[OMkd03V[OLid05W[OJjd06V[OIjd08W[OGid09W[OGhd0:Y[ODhd0=W[OCid0=X[OAhd0`0X[O@hd0`0Y[O_Ofd0c0Y[O\\Ohd0e0X[OZOgd0g0Y[OWOid0j0W[OTOjd0l0T12O001O001O1N101N101N101O1O1O1O3NO010N4QOoYOI`VQ9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 8 suggests its use for cutting due to its sharp edge designed similarly to traditional blades used in knives"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_23",
+      "area": 3293,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "mWRa05gg04N>B`0@>C101N0O2O000000100O10POlYO3Tf0NmYO1Sf0OmYO1Sf0OnYO0Qf01PZONPf02PZONPf02QZOMne04QZONne02RZONne02SZOMme03SZOMme03TZOLle04UZOEJBPf0j0WZOCICPf0j0XZOAIEoe0j0YZO@GGoe0j0ZZO_OGFPf0k0YZO^OHGne0l0[ZO\\OGHne0l0[ZO[OGIoe0l0\\ZOUOJNje0m0\\ZOTOKNje0n0m0000O1O100O100O101N101O0O2O010O0h0XO10O10O010O010O010N110O0011N2OO10O010O01O0100O10O01O10O01000O01000O10OO2O1M3L4O0O2O0O1O2O0Oagb="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 9 suggests its use for cutting due to its sharp edge designed similarly to traditional blades used in knives"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_7",
+      "area": 3502,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "_QYa04lg01N2O8H2M4M=Bc0]O8F9J3L3N4L4L4K5L3M3L5L9G2N0O2O000O0100O010O2O0O2O1N4L6K8G;E9H8G9H>A<E9F8I7Fl[d>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 1 suggests its function as cutting tool distinctively suited for slicing compared to potentially supportive or structural roles seen in adjacent components like joints or housings implied by their shapes alone without explicit functional indicators visible here beyond inferred utility through design morphology typical within such assemblies where sharp edges correlate directly towards incision"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_25",
+      "area": 2372,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Uhlk03mg00SO0hYO3Vf01gYONZf02eYOOZf03cYOM_f0<WYOEhf0a0SYO^Omf0k0O010O01O1000O1000O100O2Oi[OVOXa0j0h^OVOYa0i0f^OYOZa0f0b^OWO[M3Sd0g0^^O@ba0a0Z^OBga0>U^OFja0;P^OJQb06n]OJRb07d]O1]b00_]OZO\\N=Vd08W]OSOfN?NOTd0`0S]OEjN^O120NSd0n0k\\OJQOWO32NOTd0n0f\\ONRd05f[O0[d04[[OjNFR1od0c0P[O^OPe0h12jNnZO\\ORe0IP[OJO9Ue0MmZOI0@N80GVe0g0oZOGOBM9OFVe0h0P[OFOAM:[e0>kZOC:Lkd0a0mZOB7Jod0c0lZOB7Imd0b0P[OCke0>VZO@ie0`0YZO^Ohe0b0ZZO\\Ofe0b0\\ZO]Ode0<fYOFVg04hXOL_g057JZXOOgg01l`h3"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "Part eleven has a sharp edge designed for slicing through materials like skin in medical procedures where precision cutting within confined spaces\u2014such as near bone structures\u2014is required; its distinctively narrow profile contrasts sharply against broader components meant primarily for structural support rather than direct interaction during incisions"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_28",
+      "area": 1327,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "WaRk03jg03L5K3L5M2O2M2N3I6XOQO^ZOR1ae0POZZOS1ge0mNTZOW1le0>100O1O100N200O101N1O2OO0101N103L1F]YOVOcf0N]YOf03YOaf00^YOa0of0^OUYO4K0_g0MeXOO^oS5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "Part 13 has sharp edges indicative of being used for cutting within its compartmentalized section near blade number 1"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_12",
+      "area": 1240,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Zife06hg05L2N3M2N2N2O1N1O2N1O101N1O100O2O00001O001O10O010O0010O01O1O010O001O1N101N1O2O1N2N2M3M4L6GefV:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "Part thirteen has a sharp edge designed for slicing through materials like paper or fabric in its holder\u2019s cutting mechanism area"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_10",
+      "area": 1207,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "hPjf09eg04M2N2N2N1O2N1N3N101N101N10001O00001O0010O01O010O010O01O0010O01O0O2O1N101N1O2N1N3N2N2L4LZWT9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "Part 13 has sharp edges suited for slicing through materials like paper or fabric in its designated slot within the knife handle assembly"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_amplifier_region_13",
+      "area": 1118,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "oafd06fg07J4M4M1O2N1O2M2O2N101N101O001O1O010O01O010O2N1O1O001O00001N101N2O0O2N2N2M4L5GV^[;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "The blade-like structure of Part 1 suggests its function for cutting due to its sharp edge designed similarly to tools used in slicing materials like knives do; unlike most surrounding components which appear more structural without such features tailored explicitly towards direct interaction through incisional actions typical within similar objects' operational contexts where precision-cutting tasks are"
+        }
+      }
+    }
+  ]
+}

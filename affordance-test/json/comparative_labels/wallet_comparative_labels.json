@@ -1,0 +1,14 @@
+{
+  "object": "wallet",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 1 parts marked and numbered (1 to 1), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 1 lines, in the format:\nPart 1: <option>",
+  "raw_response": "Part 1: open",
+  "regions": [
+    {
+      "region_id": "wallet_region_1",
+      "area": 444222,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    }
+  ]
+}

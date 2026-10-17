@@ -1,0 +1,434 @@
+{
+  "object": "bonsai_amplifier",
+  "model": "allenai/Molmo2-8B",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-shape/bonsai_amplifier.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "bonsai_amplifier_region_15",
+      "area": 71050,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Y_R64jg07I4M2N2O1N2N3L4G9L4L3N2N2N2N2L5L2O2O0O02O0VNnYOe1oe0[NVZOd1ie0^NVZOb1je0^NUZOb1ke0:00O1000O10000000000000O10000O100O1O1O1N2N2M3M3N2O2O0O10000O1000000O100000000O1000000O20O0000O101O000O10001N10000O2O0O100O2N1N2L4L5N1O1O100O1O2O0N3J5K5N2N2O2N1O2N101N1O2N1O101N1O1O2N1O2O0O2N2N1O2N101N1O1O2O0O1O100O2O001O7H3N1O1O001N2O1N101N100O2O1O1N3M2O0N3N1O2O0O2N100O2N1O100O10000O2O1j^OdIe`0m6O0O2O7H5L0O2OO100L4M3O100000000000Q@bH]?^7X@eHNOh?]7Y@mHg?g7O001N2f@kGg>g8O2N1O101N1O100O1O1O2N100O100O100O100O100O101N10001O00O100M3_Oa0N2N2N2N2_Oj@UHZ?g7a0M3M3O2M2O1N2N2N2N2M3M3N2N2O1O1O1O1O1O1O100000000100O1O1O2N1O001O00001O000000O2O0000000001O0000000000000000000001O00001O00001O0O2O1N1O2N2O0O2N2O001N101O001O001N2O2M3N3L2O1N101O001O0001O1O2O0O1N101O000010O0O3N1N2O1O000000000000010O0010O01O1N2O1N2O1O0O2O1N2O1N2N101O1N101N2O2N0O2O1N101N2O0O2O0O2O0O2M3M4M2N3M2M3N1O2N2M3M6J5K3N2O1N2O0O2N3M2M3M3N1O1O2N100O101N101N3N3L3M2N2N101N101N101N2dNSZOa0Vf0TOPZOh0Uf0ROoYOk0ff0M2M4M3M9G2N2LUai`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 1 appears to be a solid, untextured surface without any visible handles, buttons, or other interactive features, making it impossible to determine its intended use or function"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_12",
+      "area": 46706,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "m\\b?5510Nbf0W1G>E`0B4L4J8I7J3N2M3N3L4L5K4L3N2N4K9H9E8E`0C;G4L7I6J3L3L5K4N2M4N1N2N2O0O2O1N2N3M3L3N1O2O0O2O1N101O0O2O1N2O1N10UKQ@f1n?XNU@h1j?VNZ@h1f?VN]@j1a?UNc@j1\\?TNg@k1Y?TNk@j1S?VNQAh1n>WNVAg1i>XN[Ae1d>\\N^Ac1a>\\NbAb1]>^NfARNiNa2`?\\OnAfMkNl2V?_OjB`0V=_OlB`0S=@oB?P=ARC?m<@UC?j<AXC>h<AZC>e<C\\C<d<C^C<a<DaC;_<DcC;\\<EfC:Z<EhC:W<GkC7U<HnC6Q<JRD4m;LVD1j;0XDNh;1ZDNe;2\\DNd;1^DNb;1_DOa;ObD0];0dD0\\;OeD1Z;NhD2X;MjD2U;MmD3R;KQE6n:HUE7j:FZE:f:D\\E<c:C`E<`:BbE>^:@dE`0\\:_OfE`0Y:@hE`0X:_OjE`0V:@jE`0V:_OlE`0T:@lEa0R:@oE?Q:AoE?Q:@PF`0P:@QF?o9AQF?o9AQF?n9ASF?m9ATF>l9BTF?k9AVF>j9BVF>j9BVF>j9BVF>j9BVF>j9BVF>j9BVF>j9CVF<j9EUF;k9FTF:l9FTF:l9GTF8l9HTF8l9HTF8l9HTF8l9HTF8l9GUF9k9GUF9k9GUF:j9FWF9i9GWF9i9GWF9i9GWF:h9FXF:h9FXF:g9GZF8f9IYF7g9IYF7g9IYF7g9IYF6h9JYF5g9KYF5g9KZF4e9M[F3e9M[F3e9M[F2f9NZF2f9OZF0f91YFOg91YFNh93WFMi93WFMh94YFKg96XFJh96XFJh96WFJj96UFKk95TFLl94SFMm93RFMo94PFLo95PFLP:4oEMP:5nELR:4nEKS:5lELT:5jELV:4iEMW:4hEKY:5fELZ:5dEL\\:4dEL\\:5bEK_:6`EJa:5^ELb:5]EKc:5\\ELd:5[EKe:5[EJg:6WEKi:5WEKi:6UEKl:4TEKm:6QEKo:6oDJR;8kDIV;7hDJX;8fDG\\;8cDI];8bDG`;9^DHb;9]DGd;:ZDEh;;VDFk;9UDFm;:RDFo;;oCDT<;kCEc<N[C3g<LXC3j<LVC4l<KSC5n<KPC6Q=JnB5T=KkB5V=KiB5X=LeB4]=M`B4b=K]B5e=JYB6h=KVB6k=JTB6l=KRB5o=NnA2R>2jANV>4gALZ>6dAJ\\>9`AGb>c0RA^On>g0k@ZOV?]1m_OhNT`0a41O1O100O100O2N1O101N100O2O0O2N1O2N2N4L4L2N1O100O1O2O0O2N4J7I5J7K6K2M3M2O2N2N3M2L4M4K4M2K5J7L3M3O2N1O1N2M4L3UN_[O6ad0Fg[O6Zd0Gn[O3Sd0LU\\OLlc03Y\\OHhc07f\\OZO\\c0b0S2I8K4M4M4L5LVl^:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 2 appears to be a small, flat, circular component that is recessed into the main body of the object, making it difficult to grasp or manipulate compared to the other protruding parts"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_2",
+      "area": 45822,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "]WR17gg03O1N2O1O3Mf0ZO6I5L4K7J2M2N1O3L3N3L3N2N2N1O2N2N3N1N2O2N1O1O1N101N1O2N101N0100O010O101N10001N100O1O2N100O100O1O1O10O0M4E;M3O100O2O0O100O101N1F^LT\\Od3jc0:00O204K001O01O00O1000O0100O1I7O100O10000O10O0100O1000O01001O0O2O001O000O01]Oc0O100O11O0010O00010O0001O01O0O100O1O1O0O200O010O1000O0100O1O010O001O0O2O010O100O10010O01O10O001O0O10000O001O001O0001O001O1O010O11O001O001O010O01O01O001O0O2O001N1O100O2N100O11O0000000000000000000000000000001O001O001N10O01O1O1O001O1O1O1O10000001O0000001O01O0001O0001O01O0000O1000O10O1000O10O100001O1O1O100O1O001O1O0010N100O1mLi]O=Wb0Ci]O=Wb0Ci]O=Wb0f2001O004M5oJd]OR4^b0kKe]OS4]b0iKe]OW4]b0fKe]OY4[b0fKg]OZ4Yb0dKi]O[4Vb0fKk]OY4Ub0fKm]OY4Rb0hKo]OX4Pb0gKQ^OY4na0hKS^OW4na0gKT^OT2YOJbb0QNX^OS2YOI`c05c\\OI_c0jN[\\Oa08c0^c0kNZ\\Oa0;a0_c0kNU\\Oe0=?bc01`\\OMcc00_\\ONdc00\\\\OOec00]\\OOcc00_\\ONac01a\\OO^c01d\\ON[c03f\\OKZc05h\\OJXc06j\\OHUc08n\\OESc0:P]OVOmNESd0T1R]OROQOGnc0V1Z]OiNkN0kc0V1o]OfNSb09m[O?]f0@bYO`0_f0@bYO>`f0B_YO>bf0A_YO>cf0@^YO?cf0_O_YO`0Pg0000O200O10O10001N109F5K2MeYVh0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 3 appears to be a small, solid piece without any protrusions or features that would allow for a specific grip or interaction, unlike the other parts which have distinct shapes or textures suggesting different affordances"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_9",
+      "area": 23540,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "PaYi06hg04L3M2O2N1O2N1O2N2O0O2N2O0O2N010O1O2N2O1M3N2N101N1O1O1O1O1O1O1O001O1O1O1O1O1O002N2QZOXNce0V2K3M3M2WO`Mo[Od2Pd0_Mf[Oh2Yd0]Ma[Oe2^d0?N10100O1000O010000O1O1O2O0O1000000O100O100O1O100O100O010O1O1O1O001O1O10O0100O100O100O2O00000000O100D<N2O1O010O011O001O002N2N2OO01O0001O000O2O001N101N1O1O1O2N1O101N101N2O1O0010O000010O00100O1O001O0O2O00010O01O1O1O101N1O1O1O0O2O00001N10001N101O0O2O1N1O2O0O1O2O001N2O001O1O1N2O2N1O1O2N3M2N1O001O1O001O010O2N2O0O2O0O100O10O0010O010O0001O001O000O2O000010O001O1O2N1O001@aZO]N_e0b1bZO^N_e0a1bZO^N_e0`1bZO_N`e0_1bZO`N_e0^1bZOaNae0]1`ZObN`e0]1c0eNlYOg0Uf0WOoYOg0Rf0VOQZOh0Pf0WORZOh0df0O2M2O1O1N101N4M2M3M4Knng1"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 4 appears to be a small, flat, circular piece positioned on top of the main structure, likely serving as a decorative element rather than a functional component"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_51",
+      "area": 22060,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ZV[e041Ofg06O2N1N3O0O2O0dXOBVg0d010O0O2aM[O[[OOn1g0fb0Bm\\OGdNh0_d0Bj\\OJdNe0`d0Bm\\ON^N`0ad0FP]Oh0kb0\\OU]Oe0jb0[OV]Of0ib0ZOW]Og0gb0[OX]Of0fb0[OZ]Of0eb0XO^]Oh0ab0YO]]Oi0bb0UO`]Ol0`b0SO`]On0_b0QOc]Oo0]b0oNd]OR1]b0lNc]OT1]b0mNc]OS1Yb0POg]OQ1Wb0mNl]OT1Qb0POm]OQ1ka0]N`\\Ob0f1Q1ha0_N`\\Ob0g1o0ha0YOY^Og0fa0YOZ^Oh0ea0XO[^Oi0da0VO]^Ok0ba0VO^^Oj0ba0UO^^Ol0`a0UOa^Ok0^a0UOc^Ok0\\a0UOc^Ol0^a0SOb^On0]a0ROd^On0[a0ROe^OP1Za0QOe^Oo0Za0ROe^Oo0\\a0oNe^OQ1[a0oNd^OR1^a0jNd^OV1\\a0hNe^OY1\\a0eNe^O[1[a0dNe^O]1[a0bNf^O^1Za0`Nf^Ob1Qa0nMU]O`0j1c1Qa0nMT]O=i1h1Sa0lMT]O<e1l1Wa0iMR]O:f1P2Xa0VNj^Oj1Va0VNi^Ok1Wa0RNl^On1Ua0RNc^OU2\\a0kM`^OZ2_a0gM]^O\\2da0dMZ^O^2ea0bMZ^O`2fa0`MU^Od2ka0YMU^Ok2la0SMT^Om2ma0RMT^On2ma0QMR^OP3Za0fLR^O;b0Q3\\a0dLQ^O;d0Q3Ta0eLk]O1020;o0n2Y`0cL^_OW19V2Y`0cL\\_OX1<T2X`0fLY_OX19fNXO[3g`0eLb_O06Y1:iNVOY3e`0jLY_OK619X1=kNVOW3e`0RMZ_OE7^1c0fNUOV3f`0ZMZ_O[O0a1g0W2P`0mLY_O[O0d1c0U2S`0lNl_OT1T`0nNi_OS1V`0ROe_Oo0Z`0TO]_ORM0i3d`0\\3EmHh_OT7V`0oHi_OQ7V`0QIi_Oo6h?hH^@>Jj6h?kH[@g7d?ZH[@g7e?ZHZ@e7f?;0O010O2M2O1O2N101N2_Hn_OR7``0iHc_Ok6^`0TIb_Ok6k`0O1N101N5J4L2O3N0O3N002M101IZ^OQJha0n5Y^OQJja0k5:H7M2M2N3M3M4L3M2M4L3N2N2N2N3M2N2N2N2N2N2N3L3N3M2M3L5L2M5M2CZ[O[Mkd0a2=M2K6I7H7H9J6M2M3O3M1kN]YOl0Zg0B4K2O0N2O1N1O2N2OnT`7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 5 appears to be a solid, untextured surface with no visible handles, buttons, or other interactive features, making it impossible to determine its intended use or function"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_40",
+      "area": 20231,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "W[[c0716Zg08O2OO100O10000O2OmN@fZO?[e0AdZO`0[e0CcZO<^e0DaZO=^e0EaZO;_e0EaZO:`e0G^ZO:be0F^ZO:ce0E]ZO;ce0F\\ZO9ee0HZZO8fe0HZZO8de0K[ZO4ee0M[ZO3ee0M[ZO2ee0O[ZO1ee0O[ZO0fe00ZZO0ee01[ZONfe02ZZONfe02ZZONfe02ZZOMfe04ZZOLfe04ZZOKfe06ZZOIfe08ZZOIee07[ZOIde08\\ZOGde0:\\ZOFde0:\\ZOEde0<\\ZODde0<\\ZOBee0?[ZOAee0?[ZO@ee0a0[ZO_Oee0a0[ZO@de0`0\\ZO@ce0a0]ZO_Oce0b0\\ZO]Oee0d0ZZO\\Ofe0`1N01000O10O10O1000O01000O0100O010O1O001O1O10O0100O001O010O010O01O0001O1O1O001OO1O110O000O20O1O0N3M2M112O0O1O2O1O001OOO2O1N2O1L5J5N3M201O001N1N2N2VNRMc^On2Ya0ZMc^Of2[a0bM_^O]2ba0kMV^OV2ia0oMR^OQ2na0ZNf]Oh1Vb0Q2K6M4M21O0O3M2N3M4CZ]OZKkb0b4:L301OO10N2N02O11E:O2M200M22ON2L5H7G:L3J7N13M1O2N00100O101N1010O01N1M30O0^Oe[OaM[d0_2e[O]M^d0d2f[OUM\\d0l2e[OSMZd0o2;O0101M1N3N3]OnLT\\OS3mc0nLn[OW3Pd0=J7H604L?h\\OVK\\b0l4c]OUK\\b0R5^]OoJ_b0[5N1O2N5L2LnN[^OmKda0o3l^OgKSa0V4S_OgKl`0T4\\_OiKe`0T4`_OjK_`0R4i1M3I8M201N102N1N2N1O2L3O20JiLb[OW13ROOf02QOZd0\\1i[OiN0b0dd0d0^[OhN2:fd0n0Z[OgNbe0W1aZOhN`e0T1eZOkNZe0S1j000O2L3O1O101O0N3M3O2NO11O000O10001O0100O100O10HjXOGTg09mXOGRg08QYOGnf09SYOGlf08WYOHhf06ZYOKdf04_YOK`f05aYOL^f03dYOL[f04fYOMZf01hYOMYf02iYOMXf01\\h_7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 6 appears to be a small, flat, circular component that is recessed into the main body of the object, making it difficult to grasp or manipulate compared to the other protruding parts"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_10",
+      "area": 21947,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "mdk`03kg03M4L3M4L3N4L4L4L4M2M3M3SZOiNld0^1gZOkNWe0P2N2N2N2N2N2N2O1N2N2N2N2N2O2M3M3M3N2M2N1O2N1N3N1O1N2O2M2M3N3K4N2N3M2N2O2N1O2O0O2O001O0O101O000O101O001O0000000001O010O1O1O01O0000000O1000001O000000000010O00000001O001O000001O010O001O00010O0O100O1O1O1O2O0O1O2N100O2N1O2O0O2N101N2O1N100O2O001N101N101N2N3M2N3N0O2O1N2O2N1N101O2N1O1N2O001O1N2O1O1N3N2M2O1N2N2O1N4M4L2M3N3L<D6]NgYOS1Rg0\\OSRQ<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 7 appears to be a circular, drum-like component with a textured surface, likely designed to be struck or tapped, distinguishing it from the other more static parts of the object"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_41",
+      "area": 18988,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "g]U>4gg05N3M2N107I1O2N010OO1O101O01K401N101M3N101H8M3PNiNT]OZ1jb0hNS]O[1mb0jNi\\O[1Vc0gNa\\Oa1`c0aNZ\\Oc1ec0^Nm[OAGW2[3kM^=MU_O;8W2U3aMd=>o^OQ2\\3cMh=o2WBQMeMKQ?S3YCWMaMGU?T3YCUMbMHm>[3aCmL`MHm>_3bCiL`MIm>`3cCeL\\MOQ?^3cCbL\\M0P?a3bC^L]M2P?c3cCYL^M3o>g3bCUL^M5P?i3`CSL^M2R?o3_CnK^M4S?P4^ClK^M1V?V4ZCiK_M0Z?W4WChK_M1Z?Y4UCeKaM2Z?`4PC]KfM4X?d4nBXKjM4X?h4iBVKmM3Y?l4fBQKQN2[?Q5_BnJTN2\\?T5\\BjJYN1[?Y5YBfJ[N2\\?[5UBcJ`N1T?Lc@e5f1^JcN1T?Ma@g5e1[JgN3P?k5VBQJjN7j>S3j@jL0X2^1eMnN6h>S3PAfL10NU2V1kMTO8e>c2XB[OKkMWO8Z>E\\Al2f1XOYOnM]O9V>e2dClNcNXNC6W>d2gCoN[NWNG7V>b2lCQOTNUNK9T>]2UDUOeMXN17U>Y2\\DZOVMWN:6U>V2^DL\\MoMV>T2`DH^MTNo=U2fDE[MWNo=S2iDEWMYNm=R2PECSM[Nj=S2XEAlL\\Nk=R2]E@hL^Nk=P2`EBdL^Nk=P2cEAbL_Nk=o1gE@]LaNm=l1oE]OTLgNl=k1YFWOiKnNP>g1_FYOXK`N1`0W>a1PGVOfJjN2`0a>T1RG@\\J]Oa>R1WG_OXJ^Oa>R1^GZOQJE`>P1eGWOkIH`>P1hGWOgIJ`>m0lGXOdIL_>i0RH0n7MVH3i7LYH3g7K]H4b7L_H3b7K`H6^7IdH6\\7JdH7[7HgH;U7ElH:T7EnH;o6FTI9j6GYI8f6F]I9b6G_I:`6EbI;]6DdI=Z6DgI;Y6EhI;X6CiI=W6CjI=V6BjI?U6@mI?R6BoI>P6ARJ>m5CTJ;m5kNWBc0m7b0m5iNWBe0m7`0m5kNUBf0o7=R6BnI>R6BoI>o5BSJ>l5BTJ>k5CVJ=j5AXJ>h5BYJ=h5BYJ>f5A[J?e5A[J`0d5_O^Ja0fGoNe=a0eJe0[5ZOgJf0W5[OjJd0V5[OkJe0U5ZOlJf0S5[OmJd0T5[OmJe0S5[OmJd0T5[OmJf0R5ZOnJf0R5YOoJh0o4YOQKg0n4YOSKg0m4YOSKg0l4YOUKh0j4XOVKi0h4WOYKi0g4VOZKNfG1o<0\\KLmGO_OHQ==cKLnGN^OJP=;eKMmGN]OKQ=:eKMmGN]OLP=9fKMmGN]OLP=9fKMmGO\\OKo<:iKKmG0[OKo<:iKKmG0[OKn<:kKKlG0[OLm<9lKKlG0[OMk<8oKKkG0[OMk<7PLLjG0[ONj<6QLLjG0[ONj<5RLMiG0[ONj<5RLMiG0[ONi<5TLMhG0[OMj<6SLMhG0[OMi<7TLMgGO\\OLj<8TLLfG0\\OLi<8VLKfG1[OKj<9ULKfG2ZOJk<9ULKfG2ZOIl<:TLKfG2ZOIk<;ULJfG9T<LXLJdG:S<MYLIdG;R<LZLIdG;Q<M[LHdG;E_Om;>jLHdG`0ZO\\O0c0b;J`MGdG_1l:iNaMHcG`1k:hNcMGbGa1k:hNbMHcG`1k:hNcMGbGa1k:hNcMGbGa1k:hNbMHcG`1k:hNbMHcG_1l:iNaMHcG_1l:iNaMGdG`1k:iNaMGdG_1l:jN`MGdG_1l:jNaMEdGa1k:jNaMEdG`1l:kNaMCdGb1k:kNaMBeGc1j:kN_NT1b1lN^NT1b1lN^NT1b1lN^NS1d1lN\\NT1d1lN\\NT1f1jNZNU1g1kNYNU1g1kNYN1mEd0j;[OYN0nEe0i;[OYN1nEb0k;\\OWN2RFKK8l;KWN2RFKK8l;JXN3QFJM8j;KXN3QFJM7k;LWN3QFJO5i;NWN3QFJN6j;MWN3QFIO7j;LVN4QFIO7i;MWN3QFIO6j;NUN4SFFO8h;NWN3SFGN8h;NWN3^F0Z;NXN1_F1Y;NXN1_F0Z;OWN1^F1Z;OXN0^F1Z;OXNO^F3Y;OZNM^F2W;3[NJ_F3V;2DC>>BB?=b;02N1O0000001N010O01000000O10000O10000O2O0O010OGbXO2]g0OdXOO]g00eXOOZg02gXOLZg03901O2O0Ohgj<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 8 appears to be a small, flat, circular component that is recessed into the main body of the object, making it difficult to grasp or manipulate compared to the other protruding parts"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_4",
+      "area": 18605,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "bTPj04kg0101@0mXO2Qg03jXOOTg0a0M2N4L4M2M101N101N1O2N2M2fYOaNRf0h1N1O2OO010000O100N2O0O2O100O0100O100000O11O0O1000O2O0N2N2N2N2M3M3O1O100O1000O100000O1N2N2J6N200O101N101O001O0000000000O2O0O1O10O00100O100O0100000O10000O10000O2O00001O100O1O001O001O0010O001O2N1O1O1O001O000000O2O001O0001O001O1O1O0O2O0O1000001O00001O011N2N2N3N1N2N2O0O1O1O1O01O01O000001O0010O01O1N101O001N1001O0O10001O001N1000001N101N100000000O10000010O0001O010O1O2N1O2N101N1O001O0010O000000010O01O1O1O1O1O1O1O1O2N1O1O1N1iNfYOh0[f0UOjYOg0Wf0XOlYOf0Uf0XOmYOc0Wf0[OlYOc0if0O2N2N5AcXO2hg0MdR^1"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 9 appears to be a flat, elongated surface with a smooth texture, likely designed for holding and applying paintbrushes during artistic activities"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_55",
+      "area": 17537,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Pi^<3mg00O20N1000O2O010O00006J0S]OJP>7nAKR>4mAMS>3kA0U>OjA2V>OhA2X>NgA4X>MfA4[>KdA6\\>JcA;Y>FeA;[>EdA=\\>CbA>^>BbA>^>C`A>`>B_A?a>B]A?c>A\\A`0d>AZA`0e>AZA`0f>AYA?g>BWA?i>Ba@@]Mo0Qb0Ba@@]Mo0Sb0A_@A]Mn0Tb0B]@A]Mo0Vb0@]@A\\MP1Wb0@\\@AZMQ1[b0^OZ@BYMQ1]b0]O[@AWMS1_b0\\OY@BVMT1`b0ZOZ@CSMU1cb0XOZ@R1d?SOY@l0h?UOW@k0h?WOW@j0h?WOW@i0_?^Nm]Oj0b2h0]?cNn]Oi0c2e0_?G`@:_?H^@:c?HY@9g?GX@:i?FU@;k?FS@;m?FP@<Q`0Dm_O=S`0Dk_O=[?TNX_O_1[1>]?SNg^OK<e1^1>^?XNT_O[1\\1>`?XNR_O\\1\\1=c?WNP_O]1[1=e?VNo^O^1\\1<f?VNm^O_1[1<h?ZNh^O[1^1;k?>S@Cn?=P@Do?>o_OCQ`0>m_OCR`0>i_OWMlN\\2[a0>h_OFY`0:e_OG[`09e_OIZ`07e_OI\\`06e_OJ\\`05c_OK^`04b_OKa`04^_OLc`03]_OMc`03]_OMc`04c^O[M`0`2n`04`^O^Mb0]2o`0`0Q_O_OPa0`0P_O_OQa0a0P_O^OQa0a0P_O^OQa0`0Q_O_Oj`0f0W_OYOi`0f0Y_OYOf`0h0Z_OWOh`0;]^OdMm0P2f`0;^^OdMm0P2i`0kMY^OX22lMl0Q2o`0ZNS^OS16^Ni0U2Qa0WNR^OT13aNj0T2Sa0UNQ^OT1OfNm0R2Ua0RNP^OT1MjNn0P2Xa0nMQ^OT1JmNn0P2[a0lMR^OQ1ETOn0o1oa0mNR]OTOP1o1na0kNS]OVOP1o1na0iNS]OWOP1P2ma0kMo\\Oh04]OP1Q2Sb0`Nn\\O^OP1R2Rb0`Nm\\O^OR1Q2Sb0[Ng\\O_O45S1Q2Qb0[NQ]ODn0o1Rb0]NP]ODo0o1Qb0]NP]ODn0P2Qb0[NR]OEn0o1Rb0[No\\OFP1o1Qb0ZNP]OGn0o1Tb0YNm\\OHP1o1Rb0YNn\\OIP1m1Sb0YNn\\OIo0o1Sb0XNi\\ONT1h1Vb0YNf\\ONU1h1Vb0YNe\\O0T1g1Zb0WNc\\O1S1g1[b0WNc\\O1R1i1Zb0WNd\\O0Q1j1[b0UNd\\O1Q1j1[b0VNd\\O0P1k1\\b0UNc\\O0R1k1Zb0UNe\\O0P1k1[b0VNe\\OOP1k1[b0VNf\\ONn0l1\\b0WNf\\OMn0i1_b0YNf\\OLk0i1ab0[Nd\\OLk0h1bb0\\Nd\\OKj0h1ab0^Nf\\OJi0g1`b0aNg\\OHi0g1`b0`Ng\\OJi0f1_b0aNh\\OIh0f1ab0`Ni\\OIf0g1ab0`Ni\\OIe0g1bb0`Nj\\OId0f1cb0aNi\\OIc0g1db0_Nj\\OKa0e1eb0aNj\\OJa0d1fb0bNj\\OI?d1hb0dNi\\OH?d1hb0dNi\\OH?c1jb0dNg\\OI?c1jb0dNg\\OI?b1kb0eNf\\OI?b1lb0[NT\\O3a00`0`1lb0]NU\\O2?0`0`1Vc0^NZ\\O4?^1Xc0]NZ\\O4?]1oc0cNQ\\O]1Pd0bNQ\\O\\1Pd0eNo[O[1Rd0dNn[OY1Ud0gNl[OX1Ud0hNj[OX1Wd0hNh[OX1Xd0hNi[OV1Yd0jNf[OV1[d0iNe[OW1[d0jNe[OU1]d0hNd[OW1]d0iNc[OW1ce00001N10001O0O2O001O1N101O000O2O001N101O00001O001O000O2O000000001O00000000001O000000001O000000001N10001O000000O10000O100O100O100O1O1O1O1GYOXYOi0gf0XOXYOh0gf0ZOWYOh0gf0900O1001O0\\OXYOOjf00XYONif0KUYOI34MLnf07[YOHK1Pch>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 10 appears to be a small, flat, circular component that is flush with the main body of the object, making it difficult to grasp or manipulate compared to the other more protruding or distinct parts"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_8",
+      "area": 16004,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "UZ`44ig09I4L3M2O2L3N2N101N1O1O1N2N2HnN_YOV1^f07O100O1O100O100O1O100O100O10000001O001O0000000000O100O1N2K5O1O1O100O101O0O101N1O2N101N101O2M3N1O010O01O0000000O101OO010O1O100O1O1O2N100O1N2N2O2O0O10000O100000000O10O1000000O10000O100O1O100O10000O10000O101O000O1000000000000001O00000000000001O000O10001O000000001O0000001O0000001O0000010O000001O00010O010O001O0001O010O0O2O0O2N1O1N3N1O1O2N101N101N2O0O2O0O2O00001O0O10001N101O5J4M1O1O1O001O1O1O1N101O001O2O3K3N0O1O1O1O1000000O100N3M2O1O2M2O2L\\^of0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 11 appears to be a solid, leaf-like structure without any visible openings or handles, making it impossible to grasp or manipulate in contrast to the other numbered parts that likely have functional features"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_49",
+      "area": 15427,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "WUY8;Yg0KlXO6Sg0LkXO6Tg0KjXO5Vg0;000O100O100DkXOMkf0KXYO7OLjf0MWYO7OLif0ORYON085Kif0ORYO:4Hjf0>VYOAkf0`0SYOAlf0`0UYO^Omf0c0QYO[OQg0e08NO0O0101N0003K4O1N2L5N2M4M2N3N1N3M011M2gYOdNle0\\1TZOgNOKbe0W2N5L004MO03N2NOP[OZMfd0e2Y[O\\Mfd0e2X[O]Mhd0b2Y[O^Mfd0c2Y[O^Mgd0a2Z[O^Mfd0d2Y[O\\Mgd0d2Y[O\\Mgd0c2Z[O]Mgd0c2X[O_Med0c2Z[O\\Mgd0e2X[O[Mgd0P30O010O101N2O001N100N2O2N2O2M3M7J101M100O100O100O100O`ZOkMVe0U2iZOlMWe0S2hZOnMZe0P2fZORNZe0l1gZOSNYe0m1fZOUNZe0j1fZOXNXe0h1hZOYNYe0f1fZOZN[e0e1eZO\\N[e0d1dZO\\N^e0c1bZO\\N^e0e1aZO\\N_e0f0eZODME^e0d0jZOFGF`e0b0lZOFEH^e0a0nZOGDH_e0?oZOIAH`e0>P[OIAI_e0=R[OI_OJ`e0<Q[OIAJ^e0=R[OH@K^e0<S[O9nd0FS[O8nd0HR[O8nd0HS[O6nd0JR[O6nd0KQ[O4Pe0LoZO5Re0KmZO5Se0KmZO5Se0LlZO4Te0MjZO4Ve0NfZO4Ze0MbZO6^e0V10000000000000000000hN_ZO1be0KcZO3]e0LeZO3[e0MeZO3Ze0MhZO2Xe0MjZO3Ve0LjZO4Ve0KkZO5Ue0JmZO5Te0JlZO6Te0JlZOM\\OFge0=mZOL]OGfe0=mZOM]OEfe0>nZOL]OEee0`0mZOK@Cce0b0lZOLABce0c0kZOKBBce0d0jZOKBAce0e0jZOKBAde0e0iZOJCAee0e0fZOKEAde0f0cZOLI]Ode0i0_ZOKN\\Ode0h1\\ZOXNde0h1\\ZOXNde0h1\\ZOXNee0g1[ZOZNde0f1[ZO[Nee0e1\\ZOZNde0f1\\ZOZNee0e1]ZOYNce0g1]ZOZNbe0f1^ZOZNbe0g1]ZOYNde0f1\\ZO[Nce0e1^ZOZNbe0f1^ZOZNbe0f1^ZOZNbe0g1]ZOYNce0g1]ZOZNbe0f1^ZOZNbe0g1]ZOYNce0g1]ZOYNce0g1\\ZOZNde0f1\\ZOZNde0g1\\ZOXNde0h1\\ZOXNde0h1^ZOUNde0j1]ZOUNce0l18000000000010O0000000001O001O0000jNXZO4he0J\\ZO5ce0J`ZO4`e0KbZO4^e0LbZO4^e0LcZO4\\e0KeZO5[e0KeZO5Ze0LfZO4Ze0LfZO4Ze0MeZO2\\e0NcZO3\\e0OcZO0_e0O`ZO2_e00_ZO2`e0O^ZO2`e04ZZOMge0W1M200O11O0O1DYZO_Nfe0b1ZZO\\Nhe0d1YZO\\Nfe0d1ZZO\\Nge0d1YZO\\Nfe0c1_ZOXNbe0h1^ZOXNbe0f1=N200010O00^NhYO]1Xf0aNiYO_1Wf0aNkYO]1\\f0ROaYOL00`f02aYOD0326\\f02dYOD9:Sf03SZONle03TZOKme05SZOKme09PZOEQf0<nYODRf0<oYO]OWf0d0c0O011M100M4O02N1N2O1N3I6O2M110O03M3M4]OkXOLN2Xg0NTYOOnf00SYOO^W_b0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 12 appears to be a flat, circular surface with a textured, drum-like appearance, likely designed to be struck or tapped, distinguishing it from the other more complex or irregularly shaped components"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_1",
+      "area": 14521,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "fS\\;7_g0?G7I8H:F8J4L4L3M3M4L4M2N3M3L4L3N2N2N2O1N1O2N1O2N1O2N2N2O1N2N1O2O1N101N101N2O001N10001O0O101O0O101O0O101O00001N10001O000O2O00O10000000000O10000000001O00000000001N10000O2O000O2O0O101N100O2O0O2O0O2O001N101O1N101N1O2O1N1O2N2N2M3N2N2O1N3N1N2M3N1N3N2M4M2M4L5K4L5J6H8H:H9G`0@Zd^b0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 13 appears to be a flat, elongated surface with a smooth texture, likely designed for holding and applying paintbrushes during artistic activities"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_39",
+      "area": 13507,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "aPPd046O]g02aXOO^g03`XOO^g0:O100O2N101N101N101N2O1N2O1O2M:F1O2N001OO2L2100001M101M3M4O00100O00]ZOSOUd0l0l[OTOTd0i0n[OYOPd0f0R\\OZOnc0d0S\\O]Olc0c0U\\O]Okc0c0U\\O]Okc0b0U\\O_Olc0?U\\OAjc0?V\\OBjc0>T\\ODmc0;Q\\OGoc0;l[OITd0:X[O6hd0LT[O6md0JP[O9od0IlZO:Ue0X1010dMaZOU2^e0lMcZOS2]e0mMcZOT2[e0lMhZOS2We0mMiZOT2Ue0nMjZOU2Te0iMmZOZ2Pe0fMoZO[2Re0cMnZO_2Ye00O100O101N2O3L3N0O2N010O01O0001O001O0001O01O000000010O010O0O11OT\\ORMgb0o2W]OSMhb0m2X]OUMfb0k2Z]OVMeb0k2Z]OUMeb0l2[]OUMdb0k2\\]OUMdb0l2[]OUMdb0k2]]OXM_b0i2`]OYM^b0h2b]OYM]b0f2d]O\\MYb0e2f]O_MVb0b2i]OdMPb0_2n]ObMWOVOeb0Y3R^OjMla0V2S^OkMla0W2R^OkMna0T2P^OnMPb0nNd]Od2:^Nib0_1S]OcNQc0]1h\\OeN[c0n23K4M4N2M3N1N2N2M3N2N2O1N2O1N2O1N1O2N1O2N101N1O1O2O000O101N1O101N100O1O1N200O100M3YOfZOfN\\e0[1iZO]NXe0c1jZOXNZe0h1?FmYOcNWf0\\17O1O0O2SO^YO;cf0E]YO9df0F^YO9cf0G]YO7ef0G\\YO:cf0G^YO7cf0F`YO9af0FeYO3\\f0MeYO2\\f0MeYOO^f01dYON\\f01eYOK^f05g0O010O001O2N1Oggc8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 14 appears to be a small, flat, circular piece that is flush with the main body of the object, making it difficult to grasp or manipulate compared to the other protruding or distinct parts"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_33",
+      "area": 11071,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "bPo?3lg01N3N1O1O1[XONZg0=N3M2M3K500O1O1O1InN`YOR1_f0QO^YOQ1`f0710OOMfNdYOZ1\\f05M300O1L]NkYOb1Vf04O10O100O0101N1J7O0O02O001N3N1O0OnYOXNne0h1QZOYNoe0f1RZO[Nme0e1RZO\\Nne0c1SZO\\Nne0d1RZO\\Nne0d1QZO\\NPf0c1QZO]Noe0c1PZO]NPf0c1QZO]Noe0c1PZO_Noe0a1QZO_Nne0b1RZO_Nle0k1O00101M2O1O001O001O0010O011O0iM\\ZOR2ke0N1N100O1O1O11O00O100000000O100O100O0100000O100O2O0O100O1000001O0000000000000000001O000000001O00000000000003M001O00000000O11O00O100N210O000O100O1N200O1O100001N10O100O10000O100O1000000O100O11O00O100O02O001O001OO1001O000000001OO100O00LfNdYOX1^f04002L301N2N2O1M3O0N2O00100O1O010O00100O00100O10O01OKZOQYOg0of0YOQYOf0of061N1VOoXO00?Sg0@RYO?Wg0EeXO2\\g0NeXO0]g00dXOM]g04bXOK`g055010O000000O2O0MWYb;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 15 appears to be a flat, circular surface that is flush with the main body of the object, lacking any protrusions or features that would allow for manipulation or interaction"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_34",
+      "area": 10537,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "dghd04lg00O2N010O010O0010O0101N001WOJgYO6Yf0LeYO7Vf0LiYO6Vf0KhYO6Wf0LgYO6Xf0JgYO6Zf0KcYO7]f0IcYO8\\f0IbYO8^f0HbYO7^f0JbYO6\\f0KfYO3Xf00hYO0Xf02aYO_O0>^f0;bYOD^f0<bYOF[f0<dYOE[f0P103L102N0O2M2O0O2N11O010N110O01O0O1O1O1010O001O001O01O001M2O011O0001O001N10O1O1O100010O000O2O000O100O0001001ISZOYNne0h15O100O1N20ON3O100N2O0101O001O0000001OO100O10000O10000O10001O001O3M6J;D10000001N100O100O100O1O2N1O1O2O0O2O0O2O001O0O2O001O1O2M2O10O010O01Y[OaNkb0P1e[OUO^1Lnb0m0e[OXO[1Mob0k0f[OZOW1MTc02`[O74MU1MVc0Me[O603P1L]c0Hg[O6M8k0Lbc0Dj[OONd0c0Gkd0;P[OGQe0=hZOEYe0d0WZOBje0Y11O1O00O1000100O20O0O10O00001O01O010O1010O000O0100oNTZOMne01SZOOme00UZONle01UZOANJPf0d0SZO@NLoe0c0TZO[OJM_f0h0d00O0001O001O10O01O1O1O100N20O2O00O100O001O1O1O2N1O2N1O001O1O1O1O011N1O2O0O02O01N10]jd6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "Part 16 appears to be a curved, handle-like structure made of a flexible material, positioned at the top of the object, which makes it uniquely suited for carrying compared to the other flat, rigid components"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_54",
+      "area": 8628,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "eSmb03mg01N101O0_XOMUg03kXOMUg03jXOOUg01kXOOUg01kXOOUg01jXO0Vg0OkXO1Ug00iXO0Wg0=0O010O101O00;NF101N3N0O2O000O100O100O10000O1000000O10000O100O10O10O10O0100O10O0100000O010O0100O010O20O0O0100O0101OO10O100O0100000O0101O0O10000O10000O1000000O10000O2O001N2N2O0O2N100O10000O100N2O1O2O1M2O2N10UOmYOTONb0Sf0;XZO@he0?[ZO_Ode0b0^ZO]O_e0d0cZO[O\\e0b0fZO@Ze0;gZOIXe07hZOJWe06jZOJVe04kZONSe01oZO0Pe0OoZO4nd0MS[O4kd0KR[O;ld0ET[O<ld0CU[O>id0DS[O?md0@S[Oa0ld0@T[O`0kd0_OU[Oc0jd0\\OW[Oe0id0ROeZOHe0V1ed0QOa[OQ1_d0mNc[OT1[d0kNe[OW1Zd0iNf[OX1Yd0hNg[OZ1Wd0fNh[O\\1Wd0dNj[O\\1Td0fNk[O\\1Td0bNm[O_1Rd0aNn[O`1Rd0_Nn[Ob1Pd0`NP\\O`1oc0`NQ\\Ob1nc0]NS\\Oc1lc0]NU\\Ob1kc0^NW\\Oa1gc0aNX\\O_1gc0eNU\\O]1ic0eNU\\O]1ic0fNT\\O[1kc0gNT\\OZ1bc0QO\\\\Oo0ac0UO^\\Ol0ac0lNm[OYOa0k1cc0jNo[O[O=k1dc0mNd\\OP1]c0SOb\\Oj0_c0ZO`\\Oc0bc0^OZ\\Oe0fc0[O[\\Oe0Zc0Gc\\O7_c0Ka\\O2`c00_\\OLec04]\\OGbc0hNk[Oa1c0Edc0?[\\OZO]OTOWd0d1]\\OXOec0m0Z\\ORO`c0V1\\\\OmN[c0]1e\\OcNWc0o0^\\O[N9f0Uc0T1b\\OnML0>l0Vc04]\\OF9WOG3=k0Vc06]\\OBW17\\b05_\\OBW18\\b04^\\OBX16]b0JX\\OH45Y18\\b0IZ\\O@N24<X19]b0Ga\\ODM0H0^1d0^b0Hn\\ODk0c0Yb0Gh^O6\\a0Je^O4]a0Kc^O5]a0Jf^ONba00b^OJaa04Z3Jm`a9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 17 appears to be a small, flat, circular piece attached to the main structure, likely serving as a decorative element rather than a functional component, which explains its lack of visible affordance compared to the other parts"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_35",
+      "area": 5535,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ihQh03lg01ZXOO\\g03cXON[g03dXON[g04dXOMZg0<02N1fXO@Tg0f0O2N001O2N1O10O011IRYOYOof0g0QYOYOnf0g0600OO2K401O0000001O01O001O2N10O101N0010O00001O010O2O0O2N01O001oNVOlZOi0Te0XOkZOh0Ue0ZOiZOf0Xe0ZOgZOg0Xe0ZOhZOe0Xe0]OWZOJM2Kg0Rf0IRZO>me0DQZO<oe0DRZO<me0ERZO<me0n0M101N1O001O10O010O1O10O01O000000000000000000000001O0001OFoMfZOQ2[e0oMeZOP2[e0RNcZOn1^e0RNcZOl1]e0TNdZOj1]e0WNeZOf1[e0ZNgZOc1Ye0_NfZO_1\\e0aNdZO\\1`e0cNaZOh0H_Oje0I^ZOi0KYOie04UZOc07SOee0;SZOb0\\f0?2O01OKaYOjN_f0U1dYOjN\\f0T18010O010OK6O001O001O1O2N1N3N1N3O1N1O2N2N3M2N3MiZk5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "Part 18 appears to be a handle-like structure made of wood, positioned at the top of the object, which is a common design feature for carrying items"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_42",
+      "area": 2833,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "b^f=5gg08L0O2SO8_YOI1CXf0e0eYOJ2AXf0f0eYOJ2BWf0Y1iYOgNWf0Z1hYOfNWf0b1O1O1O1eLYN[@i1e?XNY@i1f?YNX@h1i?XNV@g1k?ZNS@g1m?YNS@g1RMUNgb07S@e1VMTNfb08R@9[Mj0bb0nNQ@4cMm0Zb0ROP@1jMk0Ub0VOo_ONnMk0Sb0XOm_OMUNh0ma0]Ol_OKXN;A[O[b0`0j_OK\\NIEJ`b0c0]_OKTb08e[OZOm1?^b0`0^]OBab0b0Y]O@gb0c0R]OAnb0d0l\\O]OSc0@e[OH1Q1n0K\\c0[Ol[OIJn0g0Nfc0YOS\\Ok0_OQO;m0Vd0TOR\\OS1BN]d0nNS\\OU1^OK\\e04cZOL^e06`ZOGde0S1]ZOoMfe0l1901L5K3^NgYOT11lN`f0n0_YOSOhf0f0`0GiXOAWg09<LW]Sb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 19 appears to be a small, solid, untextured sphere positioned centrally, lacking any visible handles, levers, or other interactive features that would provide an obvious affordance for manipulation"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_14",
+      "area": 5441,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "U_ef08`g0=G8J4K5M2N3M3L4M2N2N2O1N2N2N2M3O1N2N2O0O2N101N101N10001N10000O2O00001O0000000O10000001O000O10000000001N10001N101O0O2O001N101N101N2O2M2N2N1O2M2O2N2N2N3L3M4K5L4M3K7I<@Pa[8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "Part 20 appears to be a handle-like structure made of wood, positioned at the top of the object, which is a common design feature for carrying items"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_11",
+      "area": 5159,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "_\\k;4jg03M3M3M3M2N3N1O1O2N1O1O100O100O101N100O10000O101N1O100O1O1O100O1O100O00100O1O1O1O2N1O1O1O1O1O1O1O1N2O1N2N2O0O2N2N2N2N2N2N110O010O100O2O0O100O100O10O010O2N1N2O2N1O2N2M3N2N2N2N2N2N2N101^OiYOXOYf0e0jYOYOXf0e0iYOZOYf0d0iYOZOYf0d0hYO[OZf0d0gYOZOZf0e0b0O1N1O2N1O2N101N1N2N3L3NU]ab0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 21 appears to be a small, flat, circular piece attached to the main structure, likely serving as a decorative element rather than a functional component, which explains its lack of visible affordance compared to the other parts"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_13",
+      "area": 4656,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "eSQ>3lg02N101N100O2N1O100O2N100O1O1O1O101N2O001O1N2O1N2O0O2N100O100O010O100O1O1O1O001O1O100O10O01O10O0100O010O10O10O01O001O0010000O100000000000000O100O100O2O000O100000000001O01O01O0010O0010O01O010O00100O001O1O010O1O010O100O01000O10O01O10O010O0100O00100O10O01O010O001O1O010O001O001O010O1O001O10O01O001O010O0010O0001O0O101O0O100O100O2O0O1O1O1O2N10R\\o>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 22 appears to be a small, flat, circular piece attached to the main structure, likely serving as a decorative element rather than a functional component"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_5",
+      "area": 4283,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "[nY>=]g08K6L4K4L3N3M4M4K4M3L5L3M4K5L2N3M4L3M2N2N2O3L3M3M2O1N101O00000001N101O2N1O1O1N101N6J4L4L4L5K3L4M3L4M2M4M3L6K3L4L5J5L4L5J8HX_Wa0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 23 appears to be a small, solid, untextured element that doesn't protrude or extend from the main object, making it unlikely to serve any functional purpose or be easily grasped or manipulated compared to the other parts"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_21",
+      "area": 3982,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "WS`h04R12ae03WZO1he03nYO5Qf0m0O10O1000O0100O100O00100O0010O0010O01O010O010O10O01O010O0010O01O000O2OO11N100O101N2O001O010O100N101O01O0O0001001O0010O11N102M4M2N2M2O001O0O2O001O01O01O010AXYODhf0;[YOCff0:\\YOFdf08_YOGff03[YONff0O\\YO0ff0M[YO2[g0Oil]6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 24 appears to be a small, flat, leaf-like structure attached to the main body, likely serving a decorative or aesthetic purpose rather than a functional one"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_amplifier_region_37",
+      "area": 2859,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ki_>311dg0<I3N1L5M2O1O1O001O0O2OO03N2N1O2K5N1O2M1O2O00000O10O1001N001O003N101NIlYOcNUf0\\1kYOeNTf0[1nYOcNRf0]1oYOcNPf0^171O2O001O00M4EeYOQOZf0P1fYOjN00[f0T1<N11OO2O02N1O1O010OO2M3O0O10O1O1O02O002TOSYO233kf0KSYO042nf0JPYO054_gk`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 25 appears to be a small, solid piece of wood without any visible openings or functional features, unlike the other parts that likely have distinct shapes or purposes"
+        }
+      }
+    }
+  ]
+}

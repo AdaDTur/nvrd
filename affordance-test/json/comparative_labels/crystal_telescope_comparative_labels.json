@@ -1,0 +1,158 @@
+{
+  "object": "crystal_telescope",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 25 parts marked and numbered (1 to 25), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 25 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>\nPart 16: <option>\nPart 17: <option>\nPart 18: <option>\nPart 19: <option>\nPart 20: <option>\nPart 21: <option>\nPart 22: <option>\nPart 23: <option>\nPart 24: <option>\nPart 25: <option>",
+  "raw_response": "Part 1: look out\nPart 2: hold\nPart 3: cut with\nPart 4: cut with\nPart 5: cut with\nPart 6: cut with\nPart 7: cut with\nPart 8: cut with\nPart 9: cut with\nPart 10: cut with\nPart 11: cut with\nPart 12: cut with\nPart 13: cut with\nPart 14: cut with\nPart 15: cut with\nPart 16: cut with\nPart 17: cut with\nPart 18: cut with\nPart 19: cut with\nPart 20: cut with\nPart 21: cut with\nPart 22: cut with\nPart 23: cut with\nPart 24: cut with\nPart 25: cut with",
+  "regions": [
+    {
+      "region_id": "crystal_telescope_region_1",
+      "area": 69097,
+      "isolated_label": "look out",
+      "comparative_label": "look out"
+    },
+    {
+      "region_id": "crystal_telescope_region_11",
+      "area": 24119,
+      "isolated_label": "drink with",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "crystal_telescope_region_29",
+      "area": 28162,
+      "isolated_label": "drink with",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_34",
+      "area": 22740,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_16",
+      "area": 21183,
+      "isolated_label": "open",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_14",
+      "area": 20499,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_26",
+      "area": 18839,
+      "isolated_label": "drink with",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_53",
+      "area": 18937,
+      "isolated_label": "take photo",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_35",
+      "area": 13701,
+      "isolated_label": "drink with",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_28",
+      "area": 13429,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_38",
+      "area": 10682,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_33",
+      "area": 9770,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_44",
+      "area": 9817,
+      "isolated_label": "pick up",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_7",
+      "area": 8229,
+      "isolated_label": "look out",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_40",
+      "area": 7479,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_4",
+      "area": 7718,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_3",
+      "area": 5254,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_6",
+      "area": 5026,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_8",
+      "area": 3688,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_31",
+      "area": 2534,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_9",
+      "area": 2537,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_46",
+      "area": 1291,
+      "isolated_label": "take photo",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_5",
+      "area": 2144,
+      "isolated_label": "look out",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_15",
+      "area": 1603,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "crystal_telescope_region_2",
+      "area": 1419,
+      "isolated_label": "drink with",
+      "comparative_label": "cut with"
+    }
+  ]
+}

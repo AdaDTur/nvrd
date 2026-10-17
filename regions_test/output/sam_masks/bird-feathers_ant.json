@@ -1,0 +1,901 @@
+[
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "0Uo08mPO9So0GmPO9co0A^`S14__lN;K3N2N1M3O1O1N2N2M3O001N1O1O100O1O2N10O1O10O1N2ON3N200O0O2000N1N0201O2N1N20O2N1O01N3N00O11O01N2N11O1O2N1O0O1100O1N2O01O2O000OO0002O1000O00100O1O1ON2011O00O1N010O2N1001000O1O1OO2N2001O0N20O1O1OM4O10O10O1N210O000O2O100O002O01O0000100O001O010O11N010O1000O10001O0O0100O100000]\\O^Og7c0THBk7?QHDo7;nGHR89lGHU87jGJW86gGLY84eGM]83`GNa83`AM41]>2\\A5OKf>0XA;MFk>OTAb0N_Oo>0PAd0N\\OT?0k@h0OXOW?0h@j00VOZ?0a@n04RO\\?0V_OJ`M\\1i3kNb?0j^Oe2b1[Me?1e^Of2f1YMf?1]^Om2l1RMh?1X^OP3P2oLi?1R^OU3T2jLk?1n]OX3V2gLm?1i]O\\3Y2cLP`02a]O_3^2^LS`05Y]Oa3c2ZLU`05T]Oe3f2VLX`03o\\Oj3i2SLZ`02k\\Om3j2QL\\`02h\\On3l2PL]`02d\\OP4o2nK^`03^\\OR4T3kK_`05X\\OR4Z3gKa`09P\\OQ4_3fKc`0:i[OR4d3dKd`0;d[OS4i3aKd`0>][OT4o3^Kd`0j5\\_OVJe`0i5[_OWJg`0g5Y_OYJk`0c5U_O]Jl`0b5T_O^Jn`0_5S_O`Jo`0_5Q_OaJRa0\\5n^OdJSa0[5n^OdJRa0\\5m^OeJRa0\\5n^OdJm`0a5S_O_Jl`0a5U_O`Ji`0a5W_O_Jh`0b5W_O^Jh`0d5X_O\\Je`0f5\\_OZJc`0g5]_OYJ``0i5`_OXJ^`0j5b_OVJ]`0j5d_OVJ[`0j5e_OWJZ`0j5f_OVJY`0k5g_OUJX`0k5h_OUJW`0m5i_OSJU`0n5l_ORJR`0P6m_ORJQ`0n5o_OSJP`0n5o_ORJP`0P6P@PJn?Q6S@oIl?Q6U@oIi?R6W@nIh?S6X@nIf?S6Z@mIf?S6Z@kIh?U6Y@kIg?U6X@kIi?U6W@kIh?U6X@lIh?T6X@lIg?T6Y@mIe?S6\\@nI`?U6`@lI`?S6`@mIa?R6`@mI`?S6`@lIa?U6^@kIb?U6_@iIc?V6\\@kId?S6[@QJd?o5\\@QJd?o5]@PJd?o5\\@QJd?P6[@PJe?P6\\@oIe?Q6Y@oIh?P6X@QJi?m5W@TJi?k5W@VJi?j5W@VJi?j5U@XJl?f5U@YJl?g5T@YJl?f5T@[Jk?f5T@\\Jk?e5R@]Jo?b5Q@_Jn?b5Q@^JP`0b5o_O_JP`0b5o_O]JR`0d5m_O\\JS`0e5l_OZJV`0f5g_O]JY`0b5g_O^JY`0b5g_O^JY`0c5g_O\\JZ`0c5e_O^J\\`0b5c_O\\J``0c5__O]Jc`0c5[_O^Je`0c5U_ObJ0iNW=f6eBaJ4nNV=a6`BeJ8oNV=]6[BjJ>kNW=[6YBlJ?jNW=[6UBoJd0gNW=[6RBPKf0eNX=\\6oAPKj0eNW=Z6lARKo0fNT=X6hAUKT1eNT=U6fAWKW1eNS=S6eAVK[1iNo<Q6dAWK]1jNn<n5cAZK`1iNl<m5cAYKb1kNj<l5cAWKg1mNe<m5aAWKl1kNc<n5_AXKo1iNb2TOd3l6iGWKS2hNa2UOc3k6hGXKV2gN`2VOb3k6eG[KY2cNa2WO`3j6gG]KW2cNb<P6VA^KX2bNb<o5UAaKY2_Nc<o5QAgK[2ZNc<o5RAhK[2YNc<o5PAjK\\2XNd<n5PAjK\\2WNe<o5n@jK^2WNd<o5m@kK_2VNe<n5k@mK`2TNe<P6j@lKb2TNd<o5i@oKc2RNd<o5h@oKd2SNe2WO[3g6\\GoKe2SNd2WO[3g6ZGQLf2RNe2VOZ3g6ZGRLh2QNd2VOZ3g6YGSLi2PN`<m5g@SLj2PN_<m5f@SLl2PN^<l5g@SLl2PN^<m5e@RLn2RN\\<l5e@SLP3PN]<l5b@ULQ3oM]<k5b@VLR3nM^<k5`@ULT3PN]<j5^@ULW3QN[<j5]@ULY3PNZ<k5]@ULY3QNZ<i5]@VLY3RN]2WOV3`6TGWLZ3RN\\2WOU3a6TGWL[3PN]2XOT3a6SGWL\\3QN]2WOS3a6TGWL]3QNW<g5\\@XL^3QNV<e5]@ZL]3RNV<c5^@YL\\3VNV<`5^@ZL\\3WNV<^5_@ZL[3YNV<]5^@XL^3[NV<\\5\\@WL_3^NV<Y5[@YL_3_NW<W5Z@ZL^3_NY<W5X@ZL_3`NZ<T5V@XLd3eNW<Q5U@ZLd3fNY2mNT3P6PG]Ld3bN\\2QOP3o5PG^Ld3bN]2QOo2o5oF]Lf3dN\\2POo2o5mF]Li3eN[2oNn2P6lF^Li3eN]<k4j_O_Lj3fN]<k4h_OZLo3mNY<h4i_OXLo3ROY<c4i_OWLR4POWKPOo`0g5i_OYLo3SOZKlNo`0f5i_OZLn3TO[KlNn`0f5h_OZLP4TO`<`4a_O[Lo3VO`<^4a_OXLQ4\\O`<Z4__OSLV4E\\<T4a_OPLW4N[<o3__OnKY44U2dNe2Y5nFhK]4<Q2cNd2Y5nFfK]4?W<j3]_OfKZ4b0[<f3\\_OgKX4d0]<c3]_OiKT4d0b<_3]_OmKo3d0g<]3Z_OPLj3g0m<X3Z_OQLg3g0R=V3X_OSLe3e0V=V3W_OULb3d0Y=T3X_OXL^3d0\\=Q3X_O[LZ3e0_=n2Y_O^LU3e0e=f2[_OeLn2e0i=c2\\_OiLe2f0S>]2[_OoL^2e0Y>Z2Z_ORMZ2f0^>U2Y_OUMW2h0a>R2W_OWMV2i0c>P2W_OXMS2i0h>m1V_OZMQ2j0l>i1S_O^Mm1h0U?i1n^O_Mj1h0[?h1k^ObMg1f0a?h1g^ObMg1f0c?l1b^O^M^1jNnLl1Uc0m1]^O]Mm0b1h`0V1V^OXMm0f1o`0V1o]OUMj0k1Ya0U1g]OPMl0n1aa0R1`]OPMj0n1ma0T1U]OoLj0m1U7iLm1]4QFmLj0o1Y7gLm1]4oEnLh0o1]7fLm1^4kEnLj0l1a7hLn1]4dEoLl0l1jb0V1X\\OoLh0o1Qc0T1V\\OlLg0P2Wc0T1P\\OlLf0n1`c0Y1f[OjLe0o1ic0V1a[OkLe0m1nc0X1\\[OkLe0k1Td0X1W[OmLd0j1Xd0X1T[OnLb0a1fd0b1fZOmLc0^1kd0i1^ZOhLf0_1nd0k1ZZOeLh0^1`9WMR1h4dDcLh0_1c9VMQ1j4bD`Lj0`1d9VMo0X6\\EcLe9UMo0X6ZEeLVe0\\3iZOeLUe0]3kZObLUe0^3kZObLTe0`3jZOaLVe0`3hZO`LYe0a3fZO`LZe0_3fZO`L[e0a3dZO`L\\e0`3cZO`L]e0a3bZO`L]e0a3aZO`L_e0a3_ZO`L`e0a3_ZO_Lbe0b3^ZO\\Lde0d3[ZO\\Lee0e3ZZO\\Lfe0d3ZZO[Lfe0f3YZO[Lfe0o601NgLVZO_Lje0a3WZO]Lke0a3TZO`Lne0_3TZO_Lle0b3TZO]Lme0c3RZO^Lme0j61N1hLPZO^LTf0b3mYO\\LTf0h6O0100O1K5O001O2O0O1N2M2O2K401O00100O0N3M3L4M3N2M3M3O1O1H8QNXXO^KPh0Y4]XO]Jih0e4XXORKng0m4c1O1001O105K2M101N2O0O4M4K6J2O0O1O1O2N101N3M3M1O001O00102M2O000O00100O4L6K3L4L10O00010O010O10O1000O1O0100O001ZXOTIVf0l6[YOSIUOe0Xg0W6bYOUJWf0k5gYO[JUf0e5eYOgJVf0d3[YOWL;;Xf0U3[YORK5_1Nj0]f0a2lYO[OQf0;XZOHee06\\ZOMbe03]ZOOae02^ZOOae01_ZO0ae01]ZO0be03[ZO2ae00\\ZO3be0N\\ZO4de0K[ZO7ee0IYZO8fe0IZZO7fe0IYZO7he0IWZO8ie0HWZO8ie0JVZO6je0JVZO6je0IVZO7je0HVZO9je0GUZO:ke0EUZO;le0n410O0000001OO2NRZORFle0R:SZOQFge0b:E`IdZOZ2We0bMoZO]2Re0^MP[Oc2Qe0YMoZOj2Qe0SMP[OP3md0oLU[OR3hd0oLY[OR3`d0TMb[Om2Pd0ZI`[Oo3b0l2cc0[M`\\Om2Sc0VMm\\Oj2nb0ZMT]Of2ib0[MY]Od2db0_M]]O`2_b0cMb]O_2Yb0dMi]O\\2Sb0gMn]OW2oa0lMS^OeNYO^Obb0n1W^OaNYOA_b0o1X^O_NZOB\\b0K[]OSOQ1]1[ODWb0Lb]OoNo0^1]ODoa00h]OkNn0^1AEea03P^OgNm0U1J4Qa01\\^ObNl0U1N7a`06k^OXNi0V11:V`0:W_OPNe0T17?k?>]_OkMc0T1:`0`?g0e_OcMc0Q1>SNiMZ2^a0Q1h_OaMf0l0g0>i>W1j_O_Mj0f0j0?]>`1n_O^MV1IeMXO_3k1]=j1X@[M_1lNl1Q2R<j1c@ZMU6i0U9m1f@[MY6d0P9R2f@\\MY6c0o8Q2h@]M[6a0j8T2k@[M]6`0d8W2o@ZM_6<a8\\2n@ZMe66\\8`2m@]Ml6LV8i2n@]Mm6HT8l2n@]Mo6ES8o2n@\\MQ7CP8R3n@\\MS7Ao7S3m@]MV7^Ol7X3j@[M\\7[Oj7^3d@ZMc7WOg7c3b@WMi7UOd7g3`@UMn7ROa7l3]@TMS8oN_7S6bHlI]7U6dHjI\\7V6dHjI[7V6fHjIY7W6hHiIV7X6jHhIU7X6mHgIR7Z6nHfIR7Z6oHeIP7[6QIeIn6\\6SIcIl6^6UIaIk6^6VIcIh6^6YIbIe6^6^IaIa6_6`I`I`6_6aIbI]6_6eI_I[6a6gI]IX6c6jI[IV6e6UJPIk5Q7`911O100O1M3N101N2NRFVIjJi6W5WIhJj6X5VIhJi6X?002M3M2M3N2O000O101O2N2UFeHmJ\\7R5dHmJ^7R5bHnJ^7R5bHnJ_7Q5aHoJ_7Q5aHoJ`7P5`HPKa7o4_HPKd7e>2N00000O2O000ZFXHSKj7l4VHTKk7k4VHTKj7l4UHUKl7j4THUKm7k4SHUKn7j4RHVKo7i4QHWKo7]>1O1O10O000000O2[FmGZKU8e4lGYKV8f4jGZKV8f4jGZKW8e4iG[KY8c4gG\\KZ8d4eG]K\\8b4dG^K]8a4cG_K_8P>5K2N1O3M2N2N5ZFmFULU9i3lFVLV9h3jFXLZ9d3fF[L\\9d3dF\\L]9c3bF^L_9a3aF_L`9`3`F`Ld9l<4L6I200O2N2N1O1_FjEVMW:i2iEWMX:h2hEXMZ:f2fEZM]:c2cE]M^:b2bE^M_:a2aE_M`:P<2N2N2N1O01O0001O4L1^FTEnMm:Q2SEoMm:Q2SEoMm:Q2SEoMn:P2REPNn:P2REPNo:o1QERNP;^;3N1N10O0010OO1O\\FnD]NP;d1QE[Nn:f1REZNn:f1REZNn:f1REZNn:f1QE[No:e1QE\\No:c1QE]NP;b1PE^NT;U;3M2O0O2N2N1O4TF^DROf;j0[DVOg;g0YDYOh;f0XDZOj;d0VD\\Ol;b0SD^Oo;a0QD@o;?QDAX9]F^Im9ZMFV9dF\\I^c0c6g\\O[IWc0e6k\\OZITc0f6Q]OUIob0k6S]OSInb0l6V]OPGWO4NV1ec0f7c]OoFlN]1^c0c7T^O\\Ho7aN2S9SHZHi7cN5S9SH\\Hd7bN8R9UH\\Hb7bN:Q9TH^Ha7`N<R9TH^H_7`N=R9TH_H^7_N>S9TH_H\\7^Na0S9TH_HWa0a7k^O_HSa0b7m^O^HSa0b7n^O_HPa0`7Q_O`Hn`0`7S_O`Hl`0`7U_O_Hl`0a7V_O]Hi`0d7X_O[Hg`0e7Z_O]Hb6_NS1U9[H]H`6^NV1T9[H^H^6^NW1T9\\H]H]6_NX1S9]H]HZ6`NZ1R9\\H^HZ6`N[1R9[H^H^`0b7e_O\\H[`0c7g_O]HW`0c7k_O^HS`0b7m_O^HR`0b7o_O]HR`0a7P@^HP`0b7R@]Hm?d7S@[Hn?d7T@[Hk?f7V@YH`5gNk1o8hHYH[5hNn1o8iHWHX5jNo1P9hHVHY5jNP2o8hHWHW5jNQ2P9gHVHX5jNQ2P9hHVHc?j7^@UHb?j7c@SH[?m7g@SHX?l7i@UHV?j7l@THT?l7m@THS?k7n@THR?l7PASHQ?l7o@THR?j7PAWHn>i7TAVHk>i7VAVHk>i7UAXHj>i7VAVHk>i7UAXHj>h7WAWHk>h7UAWHm>g7UAWHl>i7UAVHk>i7VAVHk>i7UAVHm>i7SAWHn>h7SAWHP?f7PAZHR?d7o@]HP?c7PA^Ho>a7RA_Hm>a7TA^Hm>a7TA_Hk>a7UA`Hj>a7VA^Hl>`7TAaHm>]7TAbHm>^7RAcHm>]7TAdHk>[7VAdHk>[7UAfHk>Y7VAfHk>Y7UAhHk>W7VAiHk>U7VAjHk>U7VAkHj>U7VAjHk>U7VAjHk>U7UAlHk>S7UAmHl>R7TAnHn>Q7QAoHP?P7PAPIR?n6n@SIR?m6n@RIT?l6l@TIU?k6k@UIW?i6i@WIW?i6i@WIY?g6g@YI[?f6d@[IP3WOV5]7jG[IP3XOW5\\7iG]Io2WOY5\\7gG]IP3WOZ5[7fG_Io2VO[5[7fG_Io2VO[5[7fG_Io2VO\\5[7dG_IP3VO]5Z7cGaIc?^6\\@bIf?\\6Z@dIg?[6Z@dIg?[6Y@eIh?Z6Y@eIh?Z6Y@eIi?Y6W@gIm2XOl5n6UGkIo2WOn5l6SGmIo2WOP6j6QGPJn2VOT6g6mFTJo2UOU6f6mFTJn2VOV6e6lFUJn2VOW6d6kFVJn2VOZ6a6hFYJn2VO\\6_6fF[J``0b5`_O_Jb`0_5\\_ObJj`0X5V_OiJm`0S5T_OkJRa0P5n^OPKSa0o4n^OPKTa0m4l^OTKWa0b4P_O^Kf2UO[7Z5oEbKe2TO^7W5nEeKd2TO_7U5mEiKc2ROa7S5nEkK`2ROc7Q5nEoK]2POh7m4lETL[2oNk7i4lEXLRa0c3Q_O^LQa0Z3U_OfLn`0T3U_OkLm`0R3U_OmLm`0k2Y_OUMi`0g2Y_OXMj`0c2Y_O\\MPa0Y2T_OdMRa0V2Q_OfMYa0h1S_OVNS1[Om8W2VF\\Nm0]OP9m1\\FcNe0@V91k_O^1]6POb0A]9X1WFVOm`0a0aXOQOe6?6Af9k0\\FAl`0F]XO3do0Ke^70\\aH0000000I71H]P91goF2GNcPO3]o0McPO3^o0N]PO3eo041O2J\\o0ORQNOO0VP51aoK1HO`PO2Po0MXQO4GOan0MiQO2H0L40Ncn0LcQO0N102K:ln0DYQO0O3M8jn0GYQONO4N7jn0F`QO3F7kn0DaQO3J4Uo0ISQ81]oG100@OoPO3Qo0MlPO6dn0IbQO1I7en0HbQO1I7"
+    },
+    "area": 830628,
+    "bbox": [
+      0,
+      0,
+      1023,
+      1023
+    ],
+    "predicted_iou": 1.0274932384490967,
+    "point_coords": [
+      [
+        16.0,
+        400.0
+      ]
+    ],
+    "stability_score": 0.9525005221366882,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_0"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Q^b8d0Wo09H7J5K5L3L5L3M3M3M2O2M2O2N1O2N1O1N2O100O001O100O001O010O01O0010O010O010O01O00100O1O0O2O100N2O1N2O2N1N2O1N3N1N2O2M3M3M3M3M3L6K6G:FTc[e0"
+    },
+    "area": 4350,
+    "bbox": [
+      274,
+      397,
+      65,
+      91
+    ],
+    "predicted_iou": 0.991997241973877,
+    "point_coords": [
+      [
+        304.0,
+        464.0
+      ]
+    ],
+    "stability_score": 0.985401451587677,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_1"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Qa``09fo0=C3M2N2O1N101O1O1O1O00001O000O2O000O10000XROJfk05UTO7ek0IWTOa0ck0^OZTOl0`k0TO[TOU1`k0lN]TOY1ak0gN\\TO^1bk0bNZTOe1ck0a1K2N1O3N2M101O1O1O1O000O10O0100O2O0O101O1O00N3M2N3N2N11hTOjKdj0W5C6J3M2O3L6K0O00O2N1O0_M_VOQORi0l0QWOUOoh0i0TWOUOnh0i0UWOXOhh0h0YWOXOgh0g0ZWOWOhh0f0ZWOYOgh0c0bWOVOah0a0hWO]OYh0=oWOARh0:SXOGlg05YXOKfg0MiXONTg0MTYO2kf0I[YO]N]MY1^i0KmYO5Wf0@PZO?lj0N1N5K4K3N001O23oPOROfn0S11O2M5J3O1N2O2M2N1O2O1O1O1O001O00001O1O001O0100O2O01O001O1N3LaUc;"
+    },
+    "area": 11571,
+    "bbox": [
+      528,
+      537,
+      123,
+      318
+    ],
+    "predicted_iou": 0.9782083630561829,
+    "point_coords": [
+      [
+        592.0,
+        688.0
+      ]
+    ],
+    "stability_score": 0.9749658107757568,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_2"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "[df<b0Xo0:H5K4M5L3L3M3M3N2N3M2M3N3M3M2N3M2O1N2O2N2M2O1O0000001O1O000O100O1O1000000000000000000O1000000000O101O000N200O1O0100O2O0O1OO3M2N2O1000O01O1M3O1O1O1N2N3M3N3J7G:I7fNU`g`0"
+    },
+    "area": 6338,
+    "bbox": [
+      406,
+      537,
+      81,
+      145
+    ],
+    "predicted_iou": 0.9754922389984131,
+    "point_coords": [
+      [
+        464.0,
+        624.0
+      ]
+    ],
+    "stability_score": 0.9801655411720276,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_3"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "X`]j02lo04M4M1O1O2M3N1O002M2O2M2O1N2N2N2N2O2M2N1O2N2N2N2N2N2N2M3N1O2N2M3N1hNTNYTOP2ek0WNSTOl1kk0ZNjSOm1Ul0o001O1O001O010O1O010O1O001O001O010O000010O01O00001O01O01O0000001O0000000000000O100O1O100O100001O1O2N1O1O3M2M2O1N3N2N3L3M5L4L2N2N8H2N4L4L3L4K7Ga0^O8K4_OnPOOWo0KoPOOZ^S2"
+    },
+    "area": 9419,
+    "bbox": [
+      845,
+      451,
+      111,
+      125
+    ],
+    "predicted_iou": 0.9725598096847534,
+    "point_coords": [
+      [
+        912.0,
+        560.0
+      ]
+    ],
+    "stability_score": 0.9748454093933105,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_4"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Va``04go0a0C3L3N2O1O001O1O1O1O001O000O2O0O2N1000OlROjN`k0V1mSOKek04UTO:dk0FXTOb0ck0^O[TOk0_k0UO[TOV1`k0jN]TO[1ak0eN\\TO_1ck0aN[TOd1bk0a1L2N2N3N1N2O1O1N2O1O0000000O010O101N10O10000O2N1O1O3M1O2N2N2N2N2N3M2N3M2N3M2M2M3M4N3M2O1O2M3K5H7K6L4K4I8J7I:A<H`0WOY\\i<"
+    },
+    "area": 8718,
+    "bbox": [
+      528,
+      537,
+      85,
+      168
+    ],
+    "predicted_iou": 0.9721845388412476,
+    "point_coords": [
+      [
+        592.0,
+        688.0
+      ]
+    ],
+    "stability_score": 0.9820597171783447,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_5"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Qaab02no001O21L2O001O1O1O001M2O1O2L3N2O2N1O2M2O1O2N1O1N2O1O1O1O1O2N1N2O1O1O1N2N2O1N101N2O1N101N1O2N101O001O1O1N200O1O1N20O01N100O2O0001O0N200O100O1O010000000O100O1O1O1O1N3N1N2O1N2O1O1N2O1O1N2M3M3N3L3K5N3N2M3K5N3N1M6JRbU:"
+    },
+    "area": 4572,
+    "bbox": [
+      593,
+      445,
+      104,
+      114
+    ],
+    "predicted_iou": 0.9666175842285156,
+    "point_coords": [
+      [
+        656.0,
+        496.0
+      ]
+    ],
+    "stability_score": 0.9685818552970886,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_6"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Z]bb0>Xo0d0B7I7J6L4K5L5J4N2M3M3N1N4fRO\\MRm0i2N2N2O1O1001N3M3N3L4M1N3M3N1N3N2M4L5L3L5K6J:F7G>YOTbV<"
+    },
+    "area": 2638,
+    "bbox": [
+      594,
+      390,
+      38,
+      95
+    ],
+    "predicted_iou": 0.965083122253418,
+    "point_coords": [
+      [
+        624.0,
+        464.0
+      ]
+    ],
+    "stability_score": 0.9819684624671936,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_7"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "]\\Pj01lo04O1N1000001O1N2O1O1N2O001O1O1N2O1O2M2O2N1N2O2N1N2O2M2N2N2N2N3M2N2N2N2^O\\NdROh1Ym0a000O2O1N1O100000O100O100O1O2O0O010O1O2O0O1O2O0O2N2N101N1O1O2N1O1O100O1O1O1O1O2N1O010O2N1O2N2N1O3M2N2N1N3N2N2M3M4L3N3L6IXbn2"
+    },
+    "area": 4464,
+    "bbox": [
+      832,
+      360,
+      96,
+      94
+    ],
+    "predicted_iou": 0.9642421007156372,
+    "point_coords": [
+      [
+        880.0,
+        432.0
+      ]
+    ],
+    "stability_score": 0.9769707918167114,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_8"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "P^of07ho01O2O1O0O2O002N1N2O1O1N2N101N2O2M2O1N2O001N101N2O1N2O1N2N2N1O2O2M3M2N2O1N2N2N2N2N2N1O2N1O2M2O1O2M3N1O2M3N1N3N2M2O2L4L3I8N10001O0010O01O001O00100O001O001O000010O00000000010O00001O1O1O100O001O001O00001O001O1O001O1O1O1O001O1O1O1O2M2O1O1O1O2N1N3N2N1O1N3M2N2N2N2N2N2N3M2N3N1N2M3M5L3N1N5K4K6K5J6I9B_a]4"
+    },
+    "area": 11553,
+    "bbox": [
+      735,
+      389,
+      146,
+      125
+    ],
+    "predicted_iou": 0.9600262641906738,
+    "point_coords": [
+      [
+        848.0,
+        464.0
+      ]
+    ],
+    "stability_score": 0.9776865839958191,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_9"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "eZl43mo01O0WPOOdo0710N100O002O00O2N01O2O02M0101N11N0010O2OO1002N01N1O11iUON\\d04^[O4`d0J\\[O>bd0BX[Oh0cd0YOY[Om0dd0ROZ[OR1ed0mNY[OW1fd0hNX[O[1gd0fNV[O_1gd0bNoYO9YMY1jh0[NgYOR3Yf0lLcYOZ3\\f0fLkVOJ]2g3kf0ZLhVO1Y2h3Vg0YLeXOl3[g0VL_XOn3ag0SLYXOR4fg0PLWXOR4gg0PLVXOR4ig0RLRXOQ4mg0PLoWOS4Wh0hKfWOZ4[h0eKdWO]4[h0dKbWO^4^h0cK^WOV3POeMci0nN]VOOn0V3[OmM[i0mN^VOMl0Y3\\OmMii0kNcVOY3CmMii0oN^VOV3IkMii0QO[VOT3IoMni0mNVVOV3IoMSj0jNRVOX3JoMVj0b2iUO_MWj0a2iUO_MWj0a2hUO_MYj0a2fUO`MYj0a2fUO_MYj0U4M3M3N2N2M201N2M3N1O2O001O0O2O0O2O0O2N1O101N1O101O0O10001O000000000000001O0O1001O001N101O00001O000O1O100O10000O1100O001O100O010O10O1O10O0100O10O1O001O100O100O1QZO^I`b0b6^]O`Ibb0_6b]O]I_b0c6^31000O10O10O010O]ZOZIna0e6S^O[Ila0e6T^O]Ika0c6V^O\\Iia0d6X^O[Iia0e6W^O[Iha0e6Y^O[Iga0e6Y^O[Iga0d6k300O10O1000O1000O0100O1O010O1O101N10000O10000O010O100O1O001O1O1O10dYOhIQc0V6]3O2O1N1O1O101N1O1O2N1O1O2N1O1O2O0O1O2M2O1N3M2O1O1N3M2O2N2N2M3M2N3L3M4L4M3K5L4N3M1O2N2N2N2O0O2N2N101N3N1M4L4K4M3N3M2N3L3M5J5K4I8L6J4J5I:J>Chcgb0"
+    },
+    "area": 42301,
+    "bbox": [
+      156,
+      318,
+      267,
+      341
+    ],
+    "predicted_iou": 0.9590525031089783,
+    "point_coords": [
+      [
+        336.0,
+        400.0
+      ]
+    ],
+    "stability_score": 0.9546799659729004,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_10"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "l[Uc07do07K6K5K4L4L4K4M3N4K5K4M4K4L3N2N2M11O0O100001O001O000001N10000O2N1O1O100O2O00001N101O0O2O001N101N1O2O1N2O0O2O1O001O0O2O0N3O0O2N1O2N2N1O2N2N3L4\\Offb:"
+    },
+    "area": 3795,
+    "bbox": [
+      613,
+      315,
+      71,
+      103
+    ],
+    "predicted_iou": 0.9588749408721924,
+    "point_coords": [
+      [
+        656.0,
+        336.0
+      ]
+    ],
+    "stability_score": 0.9744991064071655,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_11"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "eZ[e05go04\\ONRQO:mn0=O1O100O100O10000O100000000000000000000000000O1000O10O1000000O1000000O100000O100000000O1000000O01000O10000O10000O100O10000O1O100O1O101N100O100O101N1O100O2O0O1O1O101N1O2N1O2O1LZfi7"
+    },
+    "area": 2732,
+    "bbox": [
+      683,
+      306,
+      90,
+      39
+    ],
+    "predicted_iou": 0.9571086168289185,
+    "point_coords": [
+      [
+        720.0,
+        336.0
+      ]
+    ],
+    "stability_score": 0.9793627858161926,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_12"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "WfXb0`0\\o0`0C<E6J4L4L:F3M1O010002O]ROoMUm0`21N05LO1M6J6J3M3O05M02N5J1VNTROZ1Zn0O2O2M3M5K2N1O2M`QOROQn0l0b0OVQOXO^n0T12M3M3M3M3N1N2N2N1O2O1O1O1N2O001O00001O010O10O100001O0100OO5J_Uc;"
+    },
+    "area": 2748,
+    "bbox": [
+      584,
+      706,
+      67,
+      151
+    ],
+    "predicted_iou": 0.9561618566513062,
+    "point_coords": [
+      [
+        592.0,
+        752.0
+      ]
+    ],
+    "stability_score": 0.9653323888778687,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_13"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "]iZ95go0111O2O1N1O10001O4L5K2N10N2N101O1O1N2O1O1000000O100000000000000000O1000O10O100000000O100O100O100O1O00100O010O1O001O0O2O0000O1000000O01O01000O10001O1N2O000O0N2O2N10001O1L30O1O10O0100O12N2O1N2O1M2N2M4NO10000000001O01O01N2M201O101O1O1M3K5K5L5H8JlZkb0"
+    },
+    "area": 3148,
+    "bbox": [
+      298,
+      679,
+      121,
+      139
+    ],
+    "predicted_iou": 0.9556763172149658,
+    "point_coords": [
+      [
+        368.0,
+        784.0
+      ]
+    ],
+    "stability_score": 0.9666042327880859,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_14"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Q^ke0>ao0`0Ab0^O8H4M2N4K4N2M2N2N2N1O2N3M2N4L2O5J3N2M2N101N2O0N4N1O2M2N1O1O1000000O011O2N1N2N1O2OO3M10O01O0010O1O1000O001O1O2N1O2O0O1O1O0O1O2O001O01O01O010N2O001L4L4M3N2M4L4L4M2N2N2M4M3TNWRO[1lm0`NWRO_1km0\\NXROc1Tn0O3M1O2N1O2N7H4M1O2M4BmPOIWo02lPOLho0Kh[m6"
+    },
+    "area": 9615,
+    "bbox": [
+      699,
+      448,
+      102,
+      214
+    ],
+    "predicted_iou": 0.9538626670837402,
+    "point_coords": [
+      [
+        720.0,
+        560.0
+      ]
+    ],
+    "stability_score": 0.9665370583534241,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_15"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Qa`b02mo0101O011N10O0100O1O0O2M2O1_KE[YO>df0BZYO`0Rk01O2N1O2M2O1O2N1O1N2O1O1O1O2N1O1O1N2O1O1N2O1N2N101N2O1O0O2N2O0O1O2O001O1N2O1O1O1O1O010N100O2O001O00O1O1O10000N2O100001O0000O100O0O2N3L3M31O01N1O1N2N2O1O001L4N3OOO3\\O]QO]OPo0d0600002N00J7O0O12O9F:F>C9F4M4K2O2O3L3M002N3M2O0O2N4L4M3M5J2N00100O3M2O1N2N3M2O1N1O1000O0100O111N1N2N10000000O1O0010O01000O1O10N2O1O1O1O3N0O002N0O100O2O1O010O01O01N2O001L3N3M4M2M4L3M4L3N2N3M2N3L3N2UNTRO]1om0]NWROa1Vn0N1O1O3M1O8H2M3N2N3L4AlPOLXo0OlPONeo0Ng[l6"
+    },
+    "area": 14390,
+    "bbox": [
+      592,
+      398,
+      210,
+      264
+    ],
+    "predicted_iou": 0.9526507258415222,
+    "point_coords": [
+      [
+        752.0,
+        624.0
+      ]
+    ],
+    "stability_score": 0.9642589688301086,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_16"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "^d[91lo06C:K5K6L3M4K4N2M3M3M3N2N3M2N2N2N2N2N2O1M4M3M2O1N2O1O001O00001O0O100000O010000000O1000000010O0000O2N10001N10000O1N3N1O1O10O2O00O1O0N3K5N10100O2N1M3M4G8K6A>L4J8M2N2N2O10O0100000000O10001N2Nno`00SP_O00000O2O00000001O00000001O1O1O10O001O00001O0O10001O00Z_Xb0"
+    },
+    "area": 5339,
+    "bbox": [
+      299,
+      529,
+      139,
+      133
+    ],
+    "predicted_iou": 0.9518507719039917,
+    "point_coords": [
+      [
+        368.0,
+        592.0
+      ]
+    ],
+    "stability_score": 0.9549022912979126,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_17"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "j_Y16fo05L3N3N1N2N2N2O0O100O2N1O1N200O100O01O001O1M11001O001O01000O0O1000010N02000O1N2O1O1O01N2O1O000001O0O20O01O1000O2N000000010OO2O010O10O1O1O01O001O00001O00100O0O110O001O00100O01O1O010O01O001N1010O0100O011N3N2M3O1MXe\\k0"
+    },
+    "area": 2272,
+    "bbox": [
+      41,
+      342,
+      105,
+      171
+    ],
+    "predicted_iou": 0.9477540254592896,
+    "point_coords": [
+      [
+        112.0,
+        400.0
+      ]
+    ],
+    "stability_score": 0.9671137928962708,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_18"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "m`j;3ko04WPOK^o0`0M2O1N2O0O2O001O1N101O00001O001O001N2O0O2O001O0O2O001O0010O0001O00001O0000000000010O0000O10001O0O100O2N10001N10O10O2O0O100O101N1O1O100O2O0O1O2O0O101N1O2O1N100O1O101N1000000O100O101N2NT_Wa0"
+    },
+    "area": 2699,
+    "bbox": [
+      378,
+      527,
+      93,
+      43
+    ],
+    "predicted_iou": 0.9476010799407959,
+    "point_coords": [
+      [
+        432.0,
+        560.0
+      ]
+    ],
+    "stability_score": 0.9643377065658569,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_19"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Qaab02no001O30L2O0O2O1O1O000O2M2N3M2N2O2N1O2M2O1O2N1O1N2O1O1O1O1O2N1O1N2O1O1N2N2O1N101N2O1O0O2N1O2N101O001O1O1O1O1O1O1O1O001N10001N1001N1O100O100O1O010000000O100O1O1O1O1O2M2N2O1N3N001N200O1N2L4M3N2N2J7M3M3M3L4N201M2N5IXP6NnoI1WP60hoI0[P61eoIO1ORP12moNOXP1OfoN4O11M]P50eoJO1O[P51doJ0S`d8"
+    },
+    "area": 4622,
+    "bbox": [
+      593,
+      445,
+      153,
+      114
+    ],
+    "predicted_iou": 0.9413633346557617,
+    "point_coords": [
+      [
+        624.0,
+        528.0
+      ]
+    ],
+    "stability_score": 0.952621579170227,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_20"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "]ga51lo04N1N2N2O1N2O1O1O10O0O20O01O1O0010000O101O01O0000001O001O000010O01O000000001O01O0000000O1001O0O1000000O10O1000O10000O010O10O01000O0010O01O00001O01O1N200O1O100O1O01O001O01O00000O100O010O0100O0100O010N2O2N2O1M3O1O0O01O100O10O1000O1O00100O1000O10000O11M3L4M3M3N2M3N2N2N3M2N][Vf0"
+    },
+    "area": 2395,
+    "bbox": [
+      177,
+      660,
+      135,
+      90
+    ],
+    "predicted_iou": 0.9405092000961304,
+    "point_coords": [
+      [
+        272.0,
+        720.0
+      ]
+    ],
+    "stability_score": 0.9573944807052612,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_21"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "l\\X=4bo0=J5L4M3N2M3N4K4M1N2O1O1O1O10000O10O100O01000O1O10O01O100O011OO02O0O1O1O100O2N102M2N1O2N101N2N2N2N2N2N2MYbRa0"
+    },
+    "area": 2015,
+    "bbox": [
+      424,
+      393,
+      52,
+      62
+    ],
+    "predicted_iou": 0.9382206201553345,
+    "point_coords": [
+      [
+        432.0,
+        400.0
+      ]
+    ],
+    "stability_score": 0.966926097869873,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_22"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "fZVg02mo03N0O2O0O1O100O1O2N101N1O2O1O1N101N1O2N101N1O2O1N2N2N2O0O2N2N1H9N2O1O1O1O1O1O1O1O100O1O1O100O1O2N1O2N1O1O001O010O001O010O000001O01O01O0000001O0010O0001O001O0010O01O001O001O0010OO2O001O001O00001O0O2O001O001N101O1N101N2O1O1O1N2O1N2O1N102M2O2M2N3L4M5K4K5Ekdj4"
+    },
+    "area": 6274,
+    "bbox": [
+      742,
+      312,
+      126,
+      80
+    ],
+    "predicted_iou": 0.9342218637466431,
+    "point_coords": [
+      [
+        848.0,
+        368.0
+      ]
+    ],
+    "stability_score": 0.9715632200241089,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_23"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "j\\Qd08go01O1N2N2O2N2N2N2N2M2N2N3M2O2N1O2N1O1N2M301N3M2N2M2O1N3M2O1N2N2O1O2M2N2N3M2N5H6N3N1O001N2O00000000000000000000001O00001O00001N10001O0000000000000000000000000000000000000000O100000001N1000000000000O10001O0O100O101O0O10001N101N101N101N1O2O0O2N2O1N101N2N101N2N2N2O1N1O2N2N2N2N2N2N2N2M3N2M3N2M2O2M3N3M3M2M4K7IncU7"
+    },
+    "area": 11167,
+    "bbox": [
+      641,
+      346,
+      152,
+      100
+    ],
+    "predicted_iou": 0.9232629537582397,
+    "point_coords": [
+      [
+        752.0,
+        432.0
+      ]
+    ],
+    "stability_score": 0.9608306884765625,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_24"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "j`og05jo04L2N2N3L3M4L4M3J6I7I6I8G:L2O3M4L2O2M101N101N2O001O0O1O101N1O2O00000O010O0010O010O00010O01O0010O0010O1O001O001O010O00001O000000001O000000001O001O010N101O000000001O0000000O10001N101N10001N1O2N1O1O2N1O100O2N1O1N2N3N1O1O1O1N2gNRL]VOQ4ai0XLUVOk3ki0YLjUOn3Vj0o0O0001O00010O0000010O0001O00010O0000010O00001O00000010O0000O2O0000010O000O1000000O100O10001O0001O2N1M4K5L4M2M3O2M4J5K5L6J6J4G=G8I4L6I7E:H9F<mMTRO`1\\n0J6B=_OmPOOho0Hk^R2"
+    },
+    "area": 22523,
+    "bbox": [
+      767,
+      450,
+      189,
+      187
+    ],
+    "predicted_iou": 0.9225770831108093,
+    "point_coords": [
+      [
+        880.0,
+        624.0
+      ]
+    ],
+    "stability_score": 0.9704957008361816,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_25"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "adbh03ko05L4M3M4L5K3N1N2O002M3N12M0001O00O100001O2O0O2N1O1O1O1O10N1O2O1O1000O1O010O01O000001O001O010000O1N2O010N2M4K3N3O3ON001O10O0010O01O2O0O0000O2O00000O100000N2O0O2N201N0010000000O100O100000O0100O100O1O01O001O0O1010O01O00010O000001O00001O010O01O001O1O000010O0000000000000000000000O010000000O10001O01N101O1O1N200O1O1ODgPO2Xo0MkPO2Uo0LnPO6nn0JUQO4jn0L[QOOfn01d001000000012N01M\\WS2"
+    },
+    "area": 3862,
+    "bbox": [
+      786,
+      654,
+      169,
+      149
+    ],
+    "predicted_iou": 0.9063920378684998,
+    "point_coords": [
+      [
+        816.0,
+        688.0
+      ]
+    ],
+    "stability_score": 0.9544649720191956,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_26"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Uib92joj0OUPVO1OO10PP40Phe59eWVJ=D3N1N2O1N101O1O1O1O000O101O1O001N1000000YROFhk09STO4fk0LVTO<fk0CUTOj0dk0VOXTOT1bk0kN\\TOZ1ak0hN\\TO[1ck0fNWTOb1fk0`1L2N2O2M5L00001O1N10000O100O00100O10001O2NO1N3N1N3N2N1e0\\O;D9I4L0N4N6KON02N2N0dMVVOaNki0Z1\\VOeNKnM\\i0[3lVOTOSi0i0PWOVOPi0i0RWO[Ojh0c0XWO\\Ohh0c0[WOYOgh0e0^WOWOdh0d0dWOVO_h0a0jWO\\OXh0?nWO@Rh0<SXOElg04\\XOMcg0LdXO4[g0FRYO4nf0FYYO`N[MZ1ai0DoYO:\\f0hNXZOX1[j0M2O4K3M2N1N2OYQOSO[n0n0^QOVOdn0R11N3M4L2N3N1N2N2N2O1O001O1N2O1O001O010O0010O1000O1001O01O1N4K`Uc;"
+    },
+    "area": 11462,
+    "bbox": [
+      306,
+      537,
+      345,
+      318
+    ],
+    "predicted_iou": 0.8900279402732849,
+    "point_coords": [
+      [
+        592.0,
+        720.0
+      ]
+    ],
+    "stability_score": 0.9584149718284607,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_27"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "b`nd05io03M3M3L4L4M4L3K5M4M2L4N2M4M1O2O10O10000O010O01O100O010O00010O0101O3L3N4K3N2M2O2N2M4M2N1N5L4K6K3L[^`9"
+    },
+    "area": 1896,
+    "bbox": [
+      670,
+      499,
+      48,
+      71
+    ],
+    "predicted_iou": 0.8838592767715454,
+    "point_coords": [
+      [
+        688.0,
+        528.0
+      ]
+    ],
+    "stability_score": 0.963749349117279,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_ant_region_28"
+  }
+]

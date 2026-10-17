@@ -1,0 +1,468 @@
+{
+  "object": "checkerboard_tv-remote",
+  "model": "OpenGVLab/InternVL3-8B-hf",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-texture/checkerboard_tv-remote.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "checkerboard_tv-remote_region_124",
+      "area": 26321,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "aXb=6bo0`0B:I6J6H6M5K8H3N3L3N3M2N3M2M3N2O1N2N2N2N3M2N1O3MVMYSOn12RN<Fek07TTOj11jNik0\\O`TO]1LVOUk0KPUOn0MWOQk0KSUOn0LVOQk0LTUOm0MVOoj0MTUOm0NUOmj0NVUOm0NSOmj00UUOm0OROmj0OUUOo0OQOlj0OVUOP1OPOjj01WUOo0OPOjj00XUOP1OoNhj01ZUOP1OnNgj02ZUOP10mNfj02[UOQ1OmNfj02[UOQ10kNfj03[UOR10jNej04[UOR10jNdj04]UOS1OhNcj06^UOR1OhNcj05_UOS1OgNaj07`UOR1OfNbj08_UOR1OfNbj07`UOS1OeN`j09aUOR1OeN`j09aUOR1OeN_j09cUOR1OdN^j0:cUOR1OdN_j08dUOS1MeN^j09eUOQ1OeN\\j0:eUOQ1OeN\\j0:eUOQ1OeNYj0<iUOo0NeNXj0=jUOn0OdNVj0?kUOm0OdNVj0?kUOm0OdNUj0?mUOm0NdNVj0>lUOo0NbNTj0a0nUOm0NbNSj0b0oUOl0NbNSj0b0nUOm0OaNRj0c0oUOl0OaNRj0b0PVOm0NbNQj0a0PVOo0N`NRj0a0oUOP1O_NRj0a0nUOQ10^NRj0a0nUOQ10^NRj0a0lUOT11[NSj0a0kUOV11YNTj0a0fUO_12PNXj0a0_UOY2EWMlj0`0WUOQ3ij0PMRUOT3nj0o000000000000O1000000000001O001OEYK^UOf4aj0\\K_UOc4`j0_K^UOb4bj0_K]UOa4bj0aK\\UOa4cj0`K\\UO`4ej0=001O1OO1L4O100O11O0O011O010O1O1O00001O001OO11O010]KYUOk3_k0O1N10O100O100iUOdKjh0]4TWOeKkh0[4UWOeKjh0\\4UWOfKjh0[4UWOeKkh0[4TWOfKlh0[4SWOeKmh0\\4QWOeKoh0[4QWOeKnh0]4PWOdKPi0]4nVOdKRi0\\4nVOdKRi0d2UVOeNg0hNTi0W1SVOD5=c0hNUi0U1WVOA4b0?iNVi0T1[VOXO5l09hNVi0U1`VOmN7V12iNWi0T1eWO4ROiNYi0S1eWO4QOjNZi0R1eWO5POiN[i0R1eWO5oNjN\\i0Q1eWO6mNjN_i0o0dWO8lNiN`i0o0dWO8kNjNai0n0dWO9iNjNbi0n0eWO8iNjNbi0n0dWO:hNiNci0n0eWO9gNjNdi0m0eWO:eNjNei0m0fWO9eNjNei0m0fWO:cNjNfi0m0gWO:aNjNgi0n0gWO:_NiNji0m0gWOU1Xh0mNgWOS1Yh0POdWOP1\\h0WO]WOi0ch0ZOZWOe0dh0_O\\WO`0ch0APWOkM@c2ai0CmVOoM_Od1\\j0>UVOoM4k0ji0T1RVOSN8c0gi0Z1QVOSN==di0_1PVOTN`07ai0d1PVOUNb03`i0g1nUOVNd00`i0i1lUOWNd0Oci0h1iUOYNd0Nfi0g1fUO[Nd0Mhi0g1dUO\\Nd0Lji0h1`UO]Ne0Kli0h1_UO]Ne0Jni0h1]UO^Nd0JUj0d1UUOdNf0FWj0f1RUOdNg0EYj0g1nTOeNj0A[j0j1iTOeNfl0[1WSOgNjl0X22M1O1O2N1O2N3M102M3N1N2O1M5L4K4L2IgQOdNcn0i0gn:VOaRE2eNh2mRObNgh0]4O0O20O001O9XJdUOO22Nl4]k0A1Nc1^LUjR;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 1 has a distinct circular button-like appearance positioned centrally among various controls, suggesting its role as a primary action trigger differing in function from surrounding elements which appear more static like indicators or selectors"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_121",
+      "area": 8550,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "kQl<:g2k0Ri0WOlVOk0Si0UOmVOk0Ri0WOlVOk0Si0UOmVOk0Si0UOmVOj0Ti0VOlVOk0Si0VOlVOj0Ti0VOmVOi0Si0WOmVOi0Si0WOmVOi0Si0WOmVOj0Ri0VOnVOj0Ri0WOmVOi0Si0WOmVOk0Qi0UOoVOl0Pi0UOoVOl0Pi0TOPWOl0Pi0TOPWOm0oh0TOPWOl0Pi0TOPWOm0oh0TOPWOl0Pi0UOoVOl0Pi0TOPWOm0oh0TOPWOm0oh0TOPWOm0oh0TOPWOm0oh0TOPWOm0oh0TOoVOn0Pi0SOoVOn0Pi0SOoVOn0Pi0TOoVOl0Pi0VOnVOk0Qi0VOnVOl0Pi0UOoVOl0Pi0VOmVOl0Ri0VOlVOk0Si0@bVOa0]i0AaVO?_i0B`VO?_i0AaVO?_i0B`VO>`i0AaVO`0^i0@aVOa0_i0_OaVOb0]i0_OcVOa0]i0_ObVOc0\\i0_OcVO`0^i0_ObVOb0_i0]ObVOa0_i0^ObVOMTj0dNaTOe0o1e0al010N100O1O1O11O4L1O0O2O00O100O10O10O100O010O1O1O11N10O100O1O1O1O1O1O1O1000000000000000O10000O1001O001O00000000001^OWQOKin05YQOIgn07ZQOHfn07\\QOHdn08]QOGcn08_QOGan0;^QODbn0=^QOBbn0>_QO@bn0a0^QO^Ocn0`0_QO^Obn0b0?11NO0010N100O1N3N100O100O2O01O100O010O001O00O20OO2O0O2I[P1n0lnN2O0O2O00O10001O0O2O000000000O10001O001O001N2O1O1O000010O01N2O0O2O1O1N101N2N2O1G\\PO3jo0O1NRjS="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 2 has a distinct circular button-like appearance positioned centrally among various controls, suggesting its role as an interactive element for activation compared to others which appear more static in design"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_131",
+      "area": 9425,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "mfo?3lo05K2O0O2O0000001O01O01N10001O010N2O1O100N2N2O0O2O001O3M2N1O1O2N4L3M4L3N0O001O0000000000001O0]NPOTTOQ1`i0CUVOa2ji0j110O11O001O1O00O20N101N6kLdUO2kj0E]UO2jj0JZUO2ij0LZUO1hj0M[UO0hj0K^UO1dj0M^UO0ej0N]UO0fj0L^UO0fj0M\\UOOhj0O[UOOfj0O\\UOOfj0O\\UOOfj0O[UO0gj0OZUOOhj0OZUO0fj0O[UO0gj0OZUO0fj0O\\UOOfj00ZUO0fj0O\\UOOfj00ZUO0fj0O\\UO0ej0O[UO0fj00ZUO0fj0O\\UO0dj00\\UOOej01[UOOfj00[UOOej01[UOOej01[UOOej01[UONfj02ZUONfj02ZUONfj02ZUOMgj03YUOMgj02ZUOFmMNjl0<YUOEnj0;SUOEmj01]UOOdj0N]UO3cj0M^UO1dj0M]UO3Ym0NUS6OllI2O0O2O1O100O1O1O1O1O2N2N2N2N2N2N1O001O01N100O1O11O1O001O00O100O1O20fH^Ob]ONmKe0Zf0d0YXOlNU1W1kNeNS1]2bf0j5ZXOmG0KWg0f8N101OO101TORYOVHH40KWg0R5RYOnJ3`1Rh0n2oXOPMbh0Md4hNfQONK1R[R;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "Part 3 has a distinct circular button-like outline suggesting tactile interaction for pressing compared to surrounding rectangular elements which likely serve as indicators rather than interactive controls"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_127",
+      "area": 8998,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "[_^>8go0W1jN1N101O0000000000000000000000000000YOjQODVn07RROFnm08WRODjm0:YROEgm0:]ROBdm0<Q1O1O1N2O1O1O1O2N101Ndo?5WP@4M1N101O0O101O0O101N101O0O2O0O2O0O2N2N3M2N2M4M2N3UROfNjl0_1QSOdNll0a1nRObNPm0Y2L3F90100O1000000000000000000000001N2O0O2O01N101N?B2N2N2N2N001O1O1O1O1O001O001SOUROBlm0<hROROXm0l0lROQOUm0n0P1N1O1O1O1O1O1O1O1O100O1O100O100O10000O1000000O10000000000000000001O000000001O00O100O10000000O1000O010000O100O100O1O1O1O1O1O1N2M3N2D<O100O11O000000O2nN`2`N2VTOkLgj0U3XUOUM^j0m2aUOTM_j0j2aUOWM_j0i2bUOWM\\j0j2dUOUM^j0j2cUOUM]j0LaUOh15YN\\j0MkVO?_n0aN\\_R;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 4 has a circular button-like appearance typical of interactive elements designed for pressing in remote controls, suggesting its function as something requiring direct contact compared to others which are more static indicators like lights or displays"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_125",
+      "area": 2030,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "]YP<3lo03N4K3O3L3N0O2N2N2N2N2N2N3M1O2ZQOnNZn0]1O1N2O1O1O1O1N2O2M3O0O2O_N\\ROD3?B7fn0`02M2O0O1O1O2N1O1O1O100O1O1O1O1O1O001O1O001O1O1O1O001O1O001O001O001O001O001O001O001O001O00000010OO2O1Njc_a0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 5 has a circular button-like appearance typical of interactive elements designed for pressing in interfaces like remote controls"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_130",
+      "area": 4263,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "m^l<9fo02YUOM^e05_ZON`e02_ZOO`e03_ZON`e02_ZOOae01_ZOObe00^ZO0be00]ZO2ae00^ZO0ce0O]ZO1ce0O]ZO2ae00]ZO1ce0O]ZO2be0N^ZO2be0O\\ZO3ce0M]ZO3ce0M\\ZO5ce0L\\ZO4de0L[ZO6de0K[ZO6de0KXZO8he0HWZO:he0GVZO:je0GTZO;je0GTZO;ke0FSZO<le0ERZO=me0DQZO>ne0DRWOUOl1Y1Pg0DRWOUOl1Y1Qg0DoVOUOo1Z1Pg0CmVOVOP2Z1Qg0EfVOVOX2Y1of0;oXOHof09QXOoMZOk1dh06QXORNVOl1gh03SXOTNmNP2nh0MTXOj0kg0WOUXOj0ig0WOVXOj0ig0XOVXOh0ig0YOWXOg0hg0ZOXXOf0gg0[OYXOe0gg0[OYXOe0fg0\\OZXOd0gg0[OZXOc0gg0\\OZXOd0gg0[OZXOc0kh0XNcXOmNXYaa0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "The circular button-like structure of Part 6 suggests functionality akin to pressing for interaction compared to its distinct roundness differing significantly in form factor than most surrounding rectangular elements which likely serve as indicators rather than actuators"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_84",
+      "area": 5064,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "R[]>R1jn06M2N101N101O001O00001O000O101O0000001N10000000001O0000001O0000000000000000001O01O00000000000000000000000000000000O10000000000000000000O1000001O00000O1000000O1000000O0100001N10000O10000O100O2O0O2KXe_>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 7 has a circular button-like appearance typical of interactive elements designed for pressing in interfaces like remote controls"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_122",
+      "area": 1060,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "XS_d0;8Nkn0m0F8\\OfNlQOc1fm0b0O2O0O11O001O1O103L=B3N4K=cN`mn:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 8 has a distinct circular button-like appearance positioned centrally among various controls, suggesting its role as an interactive element for activation compared to others which appear more static in design"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_129",
+      "area": 2535,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "bdZe04\\j00oZO2od00oZO2`KKTh02]WO2`2MbMO10`00_O6LJ42_h06YWOO4IU10_O3^OO101OO1O7KI65JIXh0V1kWOnN1N21O003L20N1O03N2NM3:Vh0g1eWOUN3L02M10f2Zh0a4O01O001`HeWOY7kh0eHZWOh6fi0bIWVO0Oh4bj0nJfUO4J6N1000`001O5Tk0oNWUO2I60001O01?N8bk0POhTO0N210O0N3J44NK40ETn00WRO001H7oYT:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "throw",
+          "justification": "The circular indentation at its center suggests functionality for gripping during throwing actions, differing in purpose as compared to buttons meant likely for pressing like others around it without such features"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_133",
+      "area": 1270,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ag\\e03mn00`QO0O20Oom01PRO000010Na00ek0>fSOE210O0O2M13Sl0P1eSOUO100N3M14Sl0n0eSOWO000N30N0Wl0[2iSOgMOOWl0[2iSOUNWl0k2O00@jSOVMVl0j0kSOUOO11O000OWl0j0jSOWO0N11OO10Ul0LiSO60O2O1O00000OVl0LjSO50O105KL50N1Ofl0LoTO0XUT:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "throw",
+          "justification": "Part 19 has a curved arrow-like design suggesting motion associated with throwing, differing in function likely intended for dynamic interaction compared to static buttons of others"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_61",
+      "area": 3855,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "gjl>5do0<H6L4K4L4L3N3M2M3N2O1N2M2O2O0O2N101N2O0O2O0O2O0O2O0000001O0O1000001O000000000000O101O00000O2O00000O2O001N101N2O1N2N3M2N2N2M3N3L3N4L3H7L4M3L7GbUk>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 10 appears larger in diameter compared to most of its counterparts which suggests functionality as something meant for impact like hitting; also positioned centrally among others indicating importance possibly related directly through action rather than passive observation seen elsewhere thus differing notably by design intent focusing more actively engaging user interaction distinctly unlike surrounding elements primarily intended visually without direct"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_53",
+      "area": 3772,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ebla0;_o0;G6L3N2M4M2N2M4M3M2N2M3N2O1N2O0O2O0O2O001N101O000O10001O000000000000000000O2O00001N101O001N101O0O101O0O2O0O2O0O2N2N2N2N2N2N2M4M2M3N4J7Ib]n;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 13 has rounded edges resembling those of sports equipment like balls used in games where hitting occurs frequently compared to its surroundings which are more static controls without such features for impact actions"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_26",
+      "area": 3758,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "XSk;6eo08H:I3M3M4M3M2N2M3N3M2N1O2N2N1O2O0O2O0O2O1N101O0O101O0O101O00001O00000000000001O0000000O101N100O2O0O101N101N2O0O2N2N2N2N2M3N2N3M3L3M3M4L4L=_Omlma0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 14 has a distinct circular button-like appearance compared to surrounding elements which are more varied in both form and function; its prominent central placement suggests direct interaction for activation purposes similar to hitting targets often found within interactive interfaces like games remotes where such actions trigger responses directly related by design intent\u2014differing notably as"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_19",
+      "area": 3744,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ibl;5eo0:I7I5K5M3M2M4M3L4M2N2N2N2N101N1O2O0O2O0O101O000O2O00000O101O000000000001O00000O101O000O2O001N100O2O0O2O1O0O2O1N1O2N2N2N2N2N2N3L3N3L4K5K6Ia]ma0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 13 has a raised circular knob-like structure suitable for being hit compared to flat buttons like those around its perimeter which are likely meant for pressing rather than striking directly"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_105",
+      "area": 3729,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ZXo;6eo0d0XO>G8J5G7K4N3M2N2N2N2N2O1O1N2N2N2O1N1OZOlROdNRm0\\1PSOdNol0]1RSObNml0^1USO`Nkl0`1VSO`Nil0`1YSOUNINnl0m1l00O0O1O01M3L4M4O0100000O2O001O1O1O001O1O1O1O1N2O1O1O1O0O2O1N2M3L4N2M3M2O2N2N2M3N2N2N2N3MQiia0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 14 has a distinct circular button-like appearance compared to surrounding elements which are more varied in both form and function; its prominent central placement suggests direct interaction for activation purposes within game mechanics where hitting could be required as opposed to navigating menus indicated by adjacent controls like arrows (#)"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_56",
+      "area": 3715,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "fjla09co08H8K2N2L4N3M3M2M3N2N2O1M3M3N101N101O0O2O0O2O0O2O0O101O000O101O0O100001O00000000001N1000001O0O101O0O2O0O2O2N0O2O1N2N2N2N3M3M3L4M3M4K4K<EWUn;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 15 has rounded edges resembling those of sports equipment like balls used in games where hitting occurs frequently compared to its surroundings which are more static controls without such features for impact actions"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_58",
+      "area": 3702,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ajl;?\\o08K5L3M2M4M2N2N2M3N2M3N2O1N101N1O2O0O2O1N101O0O101N1000001O00000000000000000000000001O001N10001O0O2O001N101N2O1N2N2N2N2N2M4M3L6K4L3D<HdUoa0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 16 has a distinct circular button-like appearance suggesting interaction through pressing compared to its surroundings which are more varied in both form and function across all elements shown"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_38",
+      "area": 3690,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "cbn>=_o06J8J3N3L4M4K4M2N3M2N3M2N101N1O2O0O2O001N10000O2O00000000000000000000000001O001O0O2O000O2O0O101O0O2O001N2O0O2N2N2N2N1O2N2N3L2O2M3L6J6Jc]m>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 19 has a distinct circular button-like appearance compared to surrounding elements which are more varied in both form and function; its prominent central placement suggests interaction as opposed to passive observation of others' shapes like arrows or symbols indicating movement directionality found elsewhere among components arrayed for diverse user inputs across remote control functionalities depicted here"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_54",
+      "area": 3673,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Yela0;ao08J4M3M3K6L2N2M4M2N3M2N2N101N2N101N2O0O2O0O2O000O2O00001O0000000000000000000000O101O00001O0O101N101N101N101N101N2N1O2N2N3M2N2M4M2M4L4L3M9DiZm;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "Part 18 has a distinct circular button-like appearance suggesting tactile interaction for pressing compared to more linear elements like those used likely as directional controls in adjacent areas of similar buttons around its placement within typical remote control layouts; thus differing functionally despite shared proximity among components designed primarily by their shapes indicating varied uses such as selecting options"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_39",
+      "area": 3639,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ogla0>]o08K3N2N2N3L4M2M3M4M2N2N1O2N2O1N101N2O1N2O001N10001N100000001N10000001O0000001O00000O100O101N10001N101N2O1N2O1N2N2O1N1O2N1O2M3N2N3M3L4K8H8GQXm;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "Part 29 has a distinct circular button-like design positioned centrally among various controls, suggesting its role as a primary action trigger differing in function from surrounding elements which appear more static like indicators or navigational keys"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_134",
+      "area": 1249,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "lfn<6io02O0O2O001N1000000000000000001O001O001O1O001O002N2N2N2N2N2N2N2N3M6J1O1O4L1O001OO100000001N101NVYaa0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "Part 23 has a distinct circular button-like appearance suggesting tactile interaction for pressing rather than being picked up like more irregularly shaped components around it"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_42",
+      "area": 3496,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "kgm>c0Zo05M2O1M4M2M4M2L4N2N2N2N2N2O0O2O1N102M2O0O2O001N1000001O000000001O01O001O000O1000001O0O101N10001N101N2O1N2O1N2N2N1O2N1O2N4L3M2N2N3K7J5K6ImWm>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "Part 23 has a distinct circular button-like appearance suggesting tactile interaction for pressing rather than being picked up like non-button elements in its vicinity which are more varied shapes but likely serve as decorative markers without functional grip points"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_44",
+      "area": 3492,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "[ek;5ho09F8J5L2M3M3N3M2N2N3M2N2N2N2O1N1O2O0O2O0O2O0O2O000O2O00001O00000000000001O00000O2O00001N101O0O2O0O2O0O2O1N101N101N2N2N2N2N2M3N3L3N4K3K5K6HmZna0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "Part 25 resembles a handle due to its elongated oval shape positioned at the top of two buttons in close proximity for gripping compared to others which are circular without such features"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_31",
+      "area": 3485,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "l]fa0;co04L4M3L3M3L4N2N2O1N2O001N1O2O0O100O2O00000O1000000000000O1000000000000000000000000000000000000000000O10000000000000000000000001N101O0O101O0O2O1N2O1N1O2N2N2N3M3L5J5LYbf;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 23 has a distinct circular button-like appearance compared to surrounding elements which are more varied in both form and function; its prominent central placement suggests functionality as a primary input control for activation purposes within interactive contexts like gaming remotes where such buttons typically serve direct action commands (\"hit\")"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_25",
+      "area": 3482,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "h]i;?_o05K3M4M3M2N2N2O1N101N101N1O2O0O101O00000O10000000000000000000000O101O000000000000000000000000000000000000000000000000O1000001O0O10001O0O2O0O2O1N1O2N2N3M2N3L3M4K7JXbda0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 24 has a distinct circular button-like appearance compared to surrounding elements which are more varied in both form and function; its prominent central placement suggests functionality as a primary action trigger differing notably for interactive purposes among others arranged around peripherally positioned controls typical of remote interfaces where such buttons often denote key actions like confirmation ("
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_51",
+      "area": 3468,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Yem>8eo09H5K4L4L4L3N3M2N2N3M2N2N2O0O2N2O0O2O000O2O0O2O001O001N1000000000000001O0000000O101O001N101O0O2O0O101N1O2O0O2N2O0O2N2M3N2M3N3L4L4K6I7IkZn>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "Part 25 has a distinct circular button-like appearance compared to surrounding elements which are more rectangular; its raised design suggests functionality for pressing rather than picking like flat surface areas around it do"
+        }
+      }
+    },
+    {
+      "region_id": "checkerboard_tv-remote_region_45",
+      "area": 3423,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "jgn;7ho0>B2O2L4J5K6M2N2N2N2N2O1N101N2N2O0O2O1O001N101O001N101O000O1001O001O00001O00000O100O1000000O2O0O2O0O2O1N101N2N2N3M3M3M3M3M3L4M4K8G4M3MmWma0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "Part 23 has a distinct circular protrusion resembling a handle-like feature suitable for grasping compared to its flat counterparts in positioning along side of device; thus differing functionally as inferred by design context rather than visible attributes like shapes/materials alone which aren't specified here but implied through typical remote control layout conventions where such"
+        }
+      }
+    }
+  ]
+}

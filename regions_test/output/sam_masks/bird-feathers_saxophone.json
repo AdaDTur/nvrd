@@ -1,0 +1,870 @@
+[
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "0URP62fmPJ5M101O0^POKXo0`0O1N2N2N2O0000000O101O0O2N2O1O0O2O1O1O001O0O2O00001O0O2O0000001N1000001K4O1O101N1O10O0100000000lQOZNnm0f1QRO^Nlm0l1O0O101O0O101O00001N10001O00000000000000000000000000O101N11O01O03M2N1O1O01O0001OO1000001O001N10001O00001O0000001O1O1O1O01O01O000O2O00000O2O000000001O0O10001O001N2O1OdHZN^@e1W?lNe@S1W?SOg@m0X?UOh@j0a>]NoZOl0^6g0[>iNoZOf0e6`0Z>nNmZOe0h6=V>WOlZO`0l69V>g0iAYOU>k0jATOR>Q1mAnNS>S1nAlNQ>U1PBjNo=W1RBhNi=]1YBaNc=b1_B]N\\=g1fBWNV=m1lBRNQ=Q2PCoMn<R2TClMj<U2XCjMc;]O^]Oo2P7cMa;]3b]OaK\\6Q1P<]4eCcKX<b4gC^KU<g4jCXKl;S5TDkJi;[5VDdJg;`5YD_Jl:TOZ_Oc6i5YJi:\\OW_O_6P6TJd:ER_O_6Z6lIa:l6_ESI_:P7`EPI^:S7aEmH^:U7`ElH^:W7aEjHm9SOZ@U8h5hHf9^O^@l7k5fHd9C^@h7n5eHa9X8^FhG`9Z8`FfG_9[8aFeG^9\\8cFcG\\9^8dFbGY9a8gF_GX9c8gF]GX9e8gF[Ge8[ObA\\9g5ZGb8AcAY9i5VGc8BbA[9j5SGb8EbAZ9k5QGb8g9]GYFa8k9\\GVFc8m9[GSFd8o9[GQFd8Q:[GoEc8T:\\GlEd8U:[GkEd8W:[GiEd8Y:[GgEc8\\:[GeEm7]OmBP;T5dEm7_OmBo:T5cEk7Z;RHhDk7];SHcDl7^;mG_CUKT1l<`;nG^CTKR1k<d;oGcDP8_;oGaDP8a;oG_Do7d;oG]Db7gNlCP=b4YDZ7[<eHeCU7a<kH_CU7a<kH_C_6hNXEk=Z4\\CY6POWEh=`4XCT6VOYEe=b4UCS6YOXEe=d4RCQ6j=nIVBo5n=PJSBm5P>QJQBn5Q>QJoAk5V>SJkAj5X>UJiAU4iNSHU`0f3SAU4nNjGV`0P4m@P4UOkGR`0S4j@o3X`0PLh_Oo3Z`0PLf_Oo3\\`0oKe_Oo3]`0QLc_Om3_`0SLa_Ok3b`0SL__Oj3e`0TL\\_Oj3f`0VLZ_Of3k`0XLV_Ol2fNaIVb0c3T_Oi2iNbIUb0d3S_Of2mNdIQb0f3R_Oc2POeIQb0g3o^O_2Ub0`Ml]O^2Wb0aMi]O\\2Zb0cMg]OY2^b0fMb]OY2`b0fM`]OZ2`b0eMb]OX2`b0hM`]OT2db0lM\\]OS2eb0mM[]OQ2hb0mMY]O`0\\NQM^d0_2V]O;dN_Ljd0V3b\\O7iN]Lkd0[3\\\\O5nN\\Lhd0_3Z\\ONnd02R[OFWe09jZOBZe0>fZO^O_e0`0bZOXOfe0h0ZZOVOhe0j0XZOTOje0l0VZOROle0n0UZOoNne0P1RZOnNPf0R1QZOmNoe0S1RZOkNoe0U1RZOjNne0V1SZOhNne0X1SZOhNle0X1UZORNPNmNjg0Q3WZOPNSNlNgg0S3VZOoMWNmNbg0T3XZOmMXNnN`g0U3YZOiM]NnN[g0Y3ZZOfMdf0Z2^YObMdf0^2^YO^Mdf0b2]YO[Mef0e2]YOWMff0i2\\YOSMef0m2]YOoLef0Q3V3O001O00001O00001O0010O001YKkLa\\OU3^c0oL_\\OR3_c0SM]\\Om2cc0WMY\\Oj2ec0YMY\\Og2ec0\\MZ\\Od2ec0]M[\\Oc2dc0^M\\\\Ob2dc0]M^\\Oc2ac0]M_\\Oc2`c0\\Mb\\Od2]c0[Me\\Oe2Zc0[Mg\\Of2Wc0[Mi\\Oe2Sc0^Mn\\Oc2Qc0SMhXOEV4Y3nb0bLkXO<8EP4]3kb0SMc]On2hb0eLY]O[3fg0001O001N2O001O1O1N2O001O001N2O1O2M2O001O00010N3M4M1N2O1O1O002N3L2O1O1O3PXOdKVd0^4e[OjKVd0W4f[ORLTd0P4e[OWLYd0m3V[OfLdd0^3R[OkLjd0m3\\ZOZL3eMZ93<S6nE_L2PNR9@m0R6mERNS9lKP1R6lEUNg7dKnH5_9S6kEUNb7mKoHJe9T6iEWNa7mKQIFf9V6hEZNo6bK_Hc0o;c5cDXNU6VMV5b4UDiI9`4U6]M[5b4_DSNS6^M[5a4aDTNj0ZKo22hLR2l:_4cDSNf0hKV2c0nLmN4X2^;]4dDTNb0lKW2g0oLP1b;[4eDTN?nKX2R3e8m2cDYN7nK]2l2j8m2bDKP2aISNf3\\;P3`DLm1aITNd3_;Q3\\DN0VIj19YNb3a;W:mE^FT:e9gE\\FZ:f9cEZF^:n9XESFh:X:dDPF^;R:^DmEd;V:YDjEh;Z:TDdEm;W?1N2N10000N1N4N101N1O2O1O000M3O11OO2M3M21OO2M2O20O000000O1O1O101O1N2M201O0N2N11OSNnBo@S=o>RCm@n<S?VCi@k<V?WCf@l<X?WCd@k<\\?ZC]@h<c?[CX@f<j?[CS@d<o?^Cm_Od<T`0^Cf_Of<Z`0bC[_O`<f`0\\11M3M3O2N1N2N2N2O2N1M4M2O101O000O2N1L4N3M2O2L3O1O2M2O2J5O1O2J5O2N1G:I6O2N101L4M2N3M2L4N3N1O2J6M2I8G9H7GP[O_ETe0Z:<O2N1O2N1K6M3I7N1O2I6N3I6E<G9K5N100O2O1N3L2L5N1O2I6N3K4N3A>M4N2M3M3M201M4H6M4J5M4J6M2N3M3L4L4K5N1O2L3N3N2M4L3K5O0O2O0O101J6N3M1O2N2L4N2N1O2O1IWSOTMkl0k2USOUMll0o21O1O0O2L4N2N2O1O1N2O1O1O1N2O1O001O1O1O1O1O1O1O001O1O2N1O1O100O1O001O1O2N1O100O1O2N1O10000O100O2N100O100O1O2O1N2N1O1O003L4M1N2N4L3N1N2N6Ie]g2HebXM00000000000PP80PPH00000000000000000PP70PPI0000000000000PP80PPH00000000000PP:0PPF0000000moj01RPUO0O100M3O11O1O3MPP70PPI000O1O1N20000"
+    },
+    "area": 828136,
+    "bbox": [
+      0,
+      0,
+      1023,
+      1023
+    ],
+    "predicted_iou": 1.028929352760315,
+    "point_coords": [
+      [
+        144.0,
+        240.0
+      ]
+    ],
+    "stability_score": 0.9869936108589172,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_0"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "_eP<8eo04N2M5L2N2N101N1O101N100O101O000O101O0000010O0000000001O00000O2O0O2O0O2O0O2N2M4L4KgZeb0"
+    },
+    "area": 1132,
+    "bbox": [
+      384,
+      673,
+      41,
+      33
+    ],
+    "predicted_iou": 0.9931941628456116,
+    "point_coords": [
+      [
+        400.0,
+        688.0
+      ]
+    ],
+    "stability_score": 0.9851138591766357,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_1"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "_Ze?:bo09H5L4L4L3N2N2N101N100O2O000O100O100000000001O001O0O2N2O2L4M3L4L9E7HdeW?"
+    },
+    "area": 1288,
+    "bbox": [
+      501,
+      315,
+      34,
+      45
+    ],
+    "predicted_iou": 0.9857792854309082,
+    "point_coords": [
+      [
+        528.0,
+        336.0
+      ]
+    ],
+    "stability_score": 0.9815384745597839,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_2"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "`ae>a0[o09H6K4M2M3N2N2N2N2N2O0O2O0O2O00001O00000000001O000000O1000001O00000O1O2O0O1O2N1O2N2M3G9K5N2N:G1N2N1O1O2N3M]^d?"
+    },
+    "area": 2322,
+    "bbox": [
+      469,
+      541,
+      53,
+      56
+    ],
+    "predicted_iou": 0.9833640456199646,
+    "point_coords": [
+      [
+        496.0,
+        592.0
+      ]
+    ],
+    "stability_score": 0.9837467670440674,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_3"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "og^`0:ln0LgQO9Un0IgQO<Un0F_QOJ3c0\\n0i0F:H9I7K4L4D;I7WOmLZTO`3ak0bLVTOO0a3gk0bLXTO0N_3\\k0PMdTOY3Wk0k0K5G9M3N101O1N1DfJPVO]5ni0;O2N10010O0001O1O00100O000O2O00000000000O10000O10000O100O100O1O101N1O1O101N1O1O2N1aNZUOcMhj0Z1^UOPN0c0cj0[1^UO_MI?3i0hj0g31O2\\MTUO0nj01QUOMRk0_22M2O2N2N2M3M3M3M3M3M3M3M3L5L3L5K4L6I6L4I7H9F:I8Fa0^OhZ^<"
+    },
+    "area": 14245,
+    "bbox": [
+      526,
+      626,
+      98,
+      191
+    ],
+    "predicted_iou": 0.9757877588272095,
+    "point_coords": [
+      [
+        560.0,
+        752.0
+      ]
+    ],
+    "stability_score": 0.9743412137031555,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_4"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Sh_=<^o0:H9I5K4L4L3N3L3N2N2N2N1O2N101N101N2O0O2O000O10001O0O10000000000000001OO10000000001O0O10000O2O00001O001N10001N2N2M3K5M4L3M4M4L5J<@:K4KiW\\`0"
+    },
+    "area": 4030,
+    "bbox": [
+      431,
+      739,
+      67,
+      73
+    ],
+    "predicted_iou": 0.9704269170761108,
+    "point_coords": [
+      [
+        464.0,
+        752.0
+      ]
+    ],
+    "stability_score": 0.9752511382102966,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_5"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "aXb?5fo06L4M3N1N3M3N2M3N2N2O4K4M2N1O2M2O1O1O1O00001O000O10000001O001O0O2O1O1N2N2N3M2N2M3M4L6GigQ?"
+    },
+    "area": 1770,
+    "bbox": [
+      498,
+      250,
+      43,
+      53
+    ],
+    "predicted_iou": 0.9678294658660889,
+    "point_coords": [
+      [
+        528.0,
+        272.0
+      ]
+    ],
+    "stability_score": 0.9832121133804321,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_6"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "hem=>^o07J5L4L4M3L3N2N2N2N2N2N2N101N101N10001O0O101N10000O2O000000000O11O00000000000000001O00001O00001O0O101N101N2N2N2N3L6K6I9E9\\OiPO4do0LiYS`0"
+    },
+    "area": 3262,
+    "bbox": [
+      445,
+      669,
+      62,
+      63
+    ],
+    "predicted_iou": 0.9643481969833374,
+    "point_coords": [
+      [
+        496.0,
+        720.0
+      ]
+    ],
+    "stability_score": 0.9799574613571167,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_7"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "h_l>;`o09I5L4K4N3L4M2M3N2N2O1N1O2O001O0O2O000000001O00O01001O000000000O10000O2O0O2O1N2N2M3M2M5H7N3M201N1O2N1O1O2O0N3M2N1O2OV`X?"
+    },
+    "area": 2411,
+    "bbox": [
+      476,
+      479,
+      58,
+      57
+    ],
+    "predicted_iou": 0.9607924222946167,
+    "point_coords": [
+      [
+        496.0,
+        496.0
+      ]
+    ],
+    "stability_score": 0.9738348126411438,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_8"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "ngX;2mo0>B5K4M1N2O001O00000000000000000000O1000000000001N100O10000O1O1O1O2N1N3M3L5JTX`c0"
+    },
+    "area": 942,
+    "bbox": [
+      360,
+      762,
+      38,
+      28
+    ],
+    "predicted_iou": 0.9572674036026001,
+    "point_coords": [
+      [
+        368.0,
+        784.0
+      ]
+    ],
+    "stability_score": 0.9769392013549805,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_9"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "URR63lo01O2N1O1^POLXo04fPOOXo02gPOOYo01fPO1Xo00hPO0Xo00gPO1Yo0<O0O101O0O2O001O1N101O1O1N101O1O0O101O000O2O00000O2O00000O101O000O1LdNdQO\\1\\n0fNbQOZ1]n050000000000O1N2lQO\\Nlm0d1SRO_Nkm0`1TROcNkm0]1UROcNkm0^1SROdNkm0i100000001O00000000001O00000000000000O10000O10001N10000005K3NO01O000001O0000001O00000O2O1O0O101O001O001N2O0010O010O000000O2O000O2O00001O0O101O00001O001O1N101O00001O1O0O101N101O001O2M2O1O1O1O2N1O100O1O1N2O1O1D<K5M3N1NYmgd0"
+    },
+    "area": 8062,
+    "bbox": [
+      194,
+      45,
+      165,
+      73
+    ],
+    "predicted_iou": 0.9572166204452515,
+    "point_coords": [
+      [
+        240.0,
+        80.0
+      ]
+    ],
+    "stability_score": 0.9776604771614075,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_10"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "URS62mo02M3O0O107I2N1N2O001N101N2O0O2O001N2O001O1O0O2O1O1O0O1000001N10000O1000001O0O1O1M3N200000001O0O100O2O001O8H1N2O001O000O1000001O0000000000000000000000000001O00000O10000100O101M101O10O00001O00000000001N101O000O2O00001O1N2N2OO2O2N1O01N2N2N2OO100001O0O2O1N100000001O1O1O1O00ZHdNh@\\1S?lNj@T1R?SOk@m0T?VOk@i0S?[Ok@d0X>POmZOb0h6=X>WOiZOb0n66S>l0mASOQ>P1nAPOn=T1RBlNm=U1SBkNl=W1TBhNk=X1XBfNa=a1bB\\NY=i1iBUNT=n1mBQNP=Q2QCoMl<T2UCkMi<W2WCiMh<X2YCgMc<]2_CaM`;A\\]OS3T7[M];m3S]OdKi6>m;k4nCTKl;T5RDlJf;]5YDdJd;`5ZD`Je;b5[D]J`;j5_DUJg:^OW_Oa6S6PJb:Ho^O`6^6hI`:o6_EQI`:Q7_EoH`:R7`EnH_:S7`EnH^:U7aEkH^:X7aEgHh9[O^@Q8i5dHe9D[@k7o5aHd9KT@i7W6\\Ha9]8_FcG`9^8`FbG^9`8bF`G]9`8dF`G[9b8dF^GY9e8gF[GX9g8gFYGg8[O_A]9j5XGb8AbAZ9j5UGb8DbAZ9j5RGc8EaA\\9j5PGd8F`A\\9k5nFc8j9\\GVFa8n9^GRFa8R:\\GnEc8U:[GkEd8W:ZGjEd8Y:[GgEd8Z:\\GfEc8[:\\GfEm7YOnBT;T5cEk7BjBm:Y5bEk7EiBm:Y5^El7];SHcDj7a;TH`Dk7a;UH_Di7d;UH]Dj7d;UH]Di7f;UH[Di7g;UH[Di7h;RH\\Dm7g;QHYDY7ZOkCa<k4UDW7a<iH_CS7f<lHZC\\6QOWEf=]4YCY6[OPE_=g4VCT6g=kIYBT6i=kIWBT6k=jIVBT6l=lITBQ6P>mIQBQ6Q>oIoAP6S>nInAP6U>oIkAm5Z>PJhAX4jNSHV`0c3RAU4oNoGV`0k3k@R4XOjGR`0R4g@R4Z`0mKg_OQ4[`0oKe_On3^`0RLb_Ol3a`0RL`_Ol3b`0TL^_Oi3f`0VLZ_Oh3h`0XLX_Og3j`0WLW_Oh3k`0WLU_On2eN_IZb0b3Q_Oj2lN_IVb0g3n^Od2UO_IPb0l3l^Oa2Vb0^Mj]O^2Zb0aMh]O\\2[b0bMf]O\\2\\b0dMd]OX2`b0hM`]OW2ab0iM_]OV2bb0jM^]OS2fb0lM[]Oo1ib0PNX]On1jb0RNW]O;]NQMad0c2R]O9dNlL^d0k2n\\O6iN_Lgd0[3`\\O1oN`Ldd0_3]\\O0RO]Lcd0c3\\\\OMid02X[OEQe0;P[O_OUe0a0kZOZO[e0e0eZOXO^e0h0cZORObe0n0^ZOoNee0Q1[ZOnNfe0R1[ZOjNie0U1XZOhNje0X1VZOgNke0Y1WZOeNje0Z1XZOdNhe0\\1XZOdNhe0\\1YZOdNfe0\\1ZZOdNge0[1YZOnMPNPOfg0R3[ZOjMTNROag0T3\\ZOgMXNQO^g0W3[ZOcM^NSOWg0Z3`ZO\\M]NROYg0b3[ZOYMcf0g2^YOUMef0k2\\YORMgf0m2_YO`L_M1Vi0_3R31O0001O00000000010O00^KlLX\\OT3hc0lLX\\OT3ic0kLW\\OU3ic0lLV\\OU3hc0nLW\\OQ3hc0QMW\\OP3ec0VMX\\Ok2fc0WMY\\Oi2gc0WMY\\Oi2gc0WMZ\\Oh2fc0XMZ\\Oh2ec0YM[\\Og2hc0VMX\\Ok2oc0mLP\\OT3Td0gLm[OY3Ud0_LQ\\Oa3Wh01O0iK[LS\\Oe3lc0\\LT\\Od3nc0ZLR\\Og3nc0XLR\\Oi3mc0WLR\\Ok3Qh01O00001O001O1N2O1O001O1O1O1O1O1O1O001O1O1O2M2O2M2O1O1O1O1O2M2N4YXOSKTd0P5d[OYKYd0h4c[O]K[d0d4W[OlJbMT1kf0R4^[O[L^d0i3W[OdLbd0P4hZOXLCVNRd0n5k[O[LWO`MOl0dd0[5P\\OlMnc0U2o[OmMg7kKj3X6_DnMd7nKUIFY9_6nEnM_7SLXI@[9_6nEoMZ7WL\\I[O\\9a6kEoMo6aKeHn0h;h5]DlMm6kLc4Z5_DmM^6[Mo4i4aDoMb5]KiJS2Q;b4dDQNP1XKd26ZL38P2U;_4cDSNo0XKc2^3j7W3dDTNm0cKW2W3V8W8`EeDV2X3X8Z8kDPEd2n2`8d9lF]BQNP4T;h9dF\\BSNn3Y;j9\\FeFg9^9SFcFo9_9mEbFT:_9iE`FY:k9[EUFg:R:QEmEQ;X:hDiEX;_?0M2110O0100O001K4O101L301O1O00ON3O110O1M2O2N100L4O011N1O2O1O000010O01N1N3O1O0O0N202N1N3O0RNnBo@S=P?PCm@o<S?UCh@l<Y?ZC_@g<b?[C[@e<f?]CW@d<j?]CQ@f<P`0[Cn_Oe<S`0]Cj_Ob<W`0aCd_Oa<]`0`C]_Oc<e`0_CR_Of<Qa0Q13O1O1O1O1M4M2O2N1O1O2O0O1N3N1M4L3N200O1O2N2J6L3L5M2O2K4N3M2J7L3L5N1O1O1O2K4M4I7J6L3M4J5N3H8G8G:M2O1O2N101M3I7J6I7K4M3N3I6H9H7M4N1O2N2O0O2N2M3G9K4N2N3M2K6H9H8L2O2N1O1N3L3N3G9H9K4M2O2N1O2M3I7L3N3N1O2O1N2M4J5M2N3N1O2O0O2M4M3L2M4N10001N1O3M3M3M10001N1O2N2N2O2M2O000O2O001N2M4N1N2O1O001O1O1O1O002N001O1O2N1O1O1O100O100O2N1O101N1O00100O102M2O0O001O1O1O2O2M10O01O1O2N3M1N2N4M2N1N3M5Kd]a6"
+    },
+    "area": 213076,
+    "bbox": [
+      195,
+      45,
+      618,
+      925
+    ],
+    "predicted_iou": 0.9558439254760742,
+    "point_coords": [
+      [
+        400.0,
+        656.0
+      ]
+    ],
+    "stability_score": 0.9503618478775024,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_11"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "ZjZ::bo06K5K5L5K4M3L3N2N1O1O1O10O1000O01O1O1M3N3K6YOoVnd0"
+    },
+    "area": 841,
+    "bbox": [
+      330,
+      819,
+      22,
+      47
+    ],
+    "predicted_iou": 0.9510276913642883,
+    "point_coords": [
+      [
+        336.0,
+        848.0
+      ]
+    ],
+    "stability_score": 0.9719298481941223,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_12"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "n]T?4go0=F5K4K4M4M2M3N2N2N2N2N101N1O2O0O101O0O10000000000000O100O2O0O1O2N1N3N2M2M4M4M2O2M4L4@gPO1go0KSb^?"
+    },
+    "area": 1883,
+    "bbox": [
+      484,
+      420,
+      44,
+      54
+    ],
+    "predicted_iou": 0.9500957131385803,
+    "point_coords": [
+      [
+        496.0,
+        464.0
+      ]
+    ],
+    "stability_score": 0.9742916822433472,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_13"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "V\\Y?5co0?G4K5L4M2N2N2N2N2N2N1O2O0O101N100000000000000001O0O100O100O1N2^OcQO@^n0`0cQO^O^n0b0bQO\\O`n0d0aQOZO`n0f0`QOWOcn0i0]QOWOdn0h0\\QOWOen0i0:OkPO[OQo0`0RQOAon09UQOGmn03XQOL^o00001NdcW?"
+    },
+    "area": 1733,
+    "bbox": [
+      489,
+      365,
+      46,
+      50
+    ],
+    "predicted_iou": 0.9463762044906616,
+    "point_coords": [
+      [
+        496.0,
+        400.0
+      ]
+    ],
+    "stability_score": 0.9505895376205444,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_14"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "ZRX9:`o09G7N2N2M3N2O0O2O1O10O01O1O00010O0010O0010O0000010O01O00010O0010O010O0100O01O010O1O1000O1O1O1O101N1O1O1O2N1O1O1O1O0I8G9N2N2M2OXmgd0"
+    },
+    "area": 2149,
+    "bbox": [
+      296,
+      56,
+      63,
+      54
+    ],
+    "predicted_iou": 0.9463094472885132,
+    "point_coords": [
+      [
+        336.0,
+        80.0
+      ]
+    ],
+    "stability_score": 0.9719926714897156,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_15"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "dc[>>^o08I5L4L4M2N3L3N2N2N2N2O0O2N101N101O000O2O000000000000000000000000O1000000O101O0O101O0O2N1O2N2O1M3N3L6K>C1N101M2O1O2O1N1M4M3MU\\e?"
+    },
+    "area": 2752,
+    "bbox": [
+      459,
+      605,
+      62,
+      58
+    ],
+    "predicted_iou": 0.9415464401245117,
+    "point_coords": [
+      [
+        496.0,
+        656.0
+      ]
+    ],
+    "stability_score": 0.9738257527351379,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_16"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Ug`;1eo0<L3N2M2N2N200O10000O2O00000O100000000000O1000000O101O000O2O0O2O1N2N2M4J]YZc0"
+    },
+    "area": 847,
+    "bbox": [
+      368,
+      719,
+      36,
+      27
+    ],
+    "predicted_iou": 0.9367506504058838,
+    "point_coords": [
+      [
+        400.0,
+        720.0
+      ]
+    ],
+    "stability_score": 0.9699074029922485,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_17"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "eUd?2lo0:F6K2N3M2N2O1N3N2M6K1O1O0010O01O001O001N1010O00101N1O1O1O1O1M3M3N1O1N3L3N5I8C[jS?"
+    },
+    "area": 1329,
+    "bbox": [
+      500,
+      171,
+      39,
+      46
+    ],
+    "predicted_iou": 0.936161994934082,
+    "point_coords": [
+      [
+        528.0,
+        208.0
+      ]
+    ],
+    "stability_score": 0.9622781276702881,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_18"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "^j_<9eo04L4J7J7G9I5M3N2O0O1O2N1N3N011N100O10O013M4L2N2N1O002N2M3N2M2O0O2O1N3M3K5FlTZb0"
+    },
+    "area": 1639,
+    "bbox": [
+      399,
+      826,
+      37,
+      72
+    ],
+    "predicted_iou": 0.9339959621429443,
+    "point_coords": [
+      [
+        432.0,
+        880.0
+      ]
+    ],
+    "stability_score": 0.9658886790275574,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_19"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "jiU=;co05J5L4L3M4M3L3M3N2O1N101O100000O100000O10O010O2N3N1O1N3N1N2M2O1M3M2N3N3L4J5MiUca0"
+    },
+    "area": 1370,
+    "bbox": [
+      421,
+      808,
+      38,
+      56
+    ],
+    "predicted_iou": 0.9315897226333618,
+    "point_coords": [
+      [
+        432.0,
+        848.0
+      ]
+    ],
+    "stability_score": 0.9509595036506653,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_20"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "__l=4:MVo05gPO0Vo00iPO2Uo01gPO2Xo0;01O0000001O00001O0001O00000000001O001N2M3K5L``Xa0"
+    },
+    "area": 563,
+    "bbox": [
+      444,
+      493,
+      26,
+      24
+    ],
+    "predicted_iou": 0.9280133247375488,
+    "point_coords": [
+      [
+        464.0,
+        496.0
+      ]
+    ],
+    "stability_score": 0.9701230525970459,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_21"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "e]W?2jo05N1N2O1O1N3O0O1O2N2O0O100O10001N10001O00001O00001O01O0000001O001O2N1O1O2N2N2M4L]b_?"
+    },
+    "area": 815,
+    "bbox": [
+      487,
+      420,
+      40,
+      26
+    ],
+    "predicted_iou": 0.9260965585708618,
+    "point_coords": [
+      [
+        496.0,
+        432.0
+      ]
+    ],
+    "stability_score": 0.9709794521331787,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_22"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "`h\\<7go06J4M4M3M2N1O2O0O2O0O100O101N1O100O2N2O0000O2M2O1N1N3L4M4K5HYWdb0"
+    },
+    "area": 906,
+    "bbox": [
+      396,
+      779,
+      30,
+      46
+    ],
+    "predicted_iou": 0.9122214317321777,
+    "point_coords": [
+      [
+        400.0,
+        784.0
+      ]
+    ],
+    "stability_score": 0.9642470479011536,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_23"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "i]Uc07go05L3M3M3N1O1O1N3N1O101N1O2N1O1O10O02N100O1O100O100O1O100O1O100O1O10O11N1O10O0100O101N100O100O1O10000O100O100O100O01001N100O100O01000O10000O100O10O10O100O10000O10O10O10000O100000O0100000O010000O10O1000000O010000O10O100000O01000O10O1000000O100O010000000O010000000000O0100O100O100001O0O0100O1O10000001OO0100000O1O1O100O1O100O100O100O1O1O100O2N1O100O100O1O101N100O101N100O2N101N1O1O2N101N1O2M3N2N2M3M3M5Jd]a6"
+    },
+    "area": 10706,
+    "bbox": [
+      613,
+      435,
+      200,
+      168
+    ],
+    "predicted_iou": 0.8999463319778442,
+    "point_coords": [
+      [
+        720.0,
+        496.0
+      ]
+    ],
+    "stability_score": 0.9692562818527222,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_24"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "]id;2ho0=F5G=I5L2M3M3M2N2O1N101O1O00010O010O000010O8H2M3N2M5J6J6H`V]c0"
+    },
+    "area": 1276,
+    "bbox": [
+      372,
+      791,
+      29,
+      56
+    ],
+    "predicted_iou": 0.8993473052978516,
+    "point_coords": [
+      [
+        400.0,
+        816.0
+      ]
+    ],
+    "stability_score": 0.9533638954162598,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_25"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Vc_d01mo07I6I5M3L4M3M2N3M2N3O000O1O10000000O10O10O1000O010O2O0O01O010O1M4I6I7G;Gi\\[:"
+    },
+    "area": 1226,
+    "bbox": [
+      655,
+      599,
+      36,
+      54
+    ],
+    "predicted_iou": 0.8901630640029907,
+    "point_coords": [
+      [
+        688.0,
+        624.0
+      ]
+    ],
+    "stability_score": 0.9613837599754333,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_26"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Uh[a02go0O\\PO7]o0;K5L2N2N101N2N101N2O0O101O00001O00000000O1000001N100O2N1O2N2N2N2N2N2M3M5JVX]="
+    },
+    "area": 1183,
+    "bbox": [
+      555,
+      753,
+      38,
+      38
+    ],
+    "predicted_iou": 0.8843475580215454,
+    "point_coords": [
+      [
+        560.0,
+        784.0
+      ]
+    ],
+    "stability_score": 0.9626865386962891,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "bird-feathers_saxophone_region_27"
+  }
+]

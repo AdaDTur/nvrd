@@ -1,0 +1,870 @@
+[
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "YT`6W23TN4Hg0N`03nN4LL5N10P1OA7XO2N101O1Na20`M1M5L10O2NO4L05NO0O1Nd1N\\N7\\8ig0TO6F=I4K4N2M4N3K3M3N2N2N2N3N2M2N1O2N1O2N101N2O1N101O1O0O2O0O100O2O000O101O00001O001O000O101O0000000000000000000000000000000000000000000000000001O0O11N10000000000000000000000001N100000O2O0000O100001O00000000O2O0000O100000000000001O00000000O2O0000O101O0000O100001O0000000001N1000O2O000000000000000000000001N10O2O00000000000000000O11O00000O100001O00000000O1001O00000000O1000000001O00O1000000001O000000O100000000000000000000001O0000O10001OO1000000000000000001N11O0O10000000000001OO10000000O2O0001N1000000000000000000000O10000001O000000000000O100000000000001O00O2O000000O101O000000000000001O00O2O000000O10001OO1000000001O000001N10000000O2O00O100000000000001O000O100001N100001N100000O101O01N10000000O1000000001O000000O11O000000000000O100001O00000000O11O000000000000O100001O00000000O1001O00000000O100000000000000000000001O0000O100000000000000000000000000000O11O0000000000O1001O0000000000O1001O00000000O100001O00000000000000000000000000000000000000000000000000000000000000000000000000O10000001O00O10000001O00000000O1000000000000000000001O00000000O1000000000000000000001O0000000000O10000001O00O10O10001O01O0000000O10000001O000000000000000000O10001N10000O10000O2O0O11O0001N101N2N1O101N1O2N1O2O1N1O2O0O2N2M3N2N2M3N2O2L3M4L5H6M5J4M3A]HZXOj7Q?UHWA3L2O00000000000000001O1N2Nd9o4TFZK2M100000001O001N2O4K01id0j0nZO^O100O2HK3:Obl0MdnW6"
+    },
+    "area": 519089,
+    "bbox": [
+      208,
+      88,
+      615,
+      853
+    ],
+    "predicted_iou": 1.018799901008606,
+    "point_coords": [
+      [
+        688.0,
+        656.0
+      ]
+    ],
+    "stability_score": 0.9725098609924316,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_0"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "0Qd^62]\\aI1O001OO1O10`<9UCc5NYM1nL1Q>f7U:G:J2M3M4M3L4L3M4K4N2N3N1N2N2O1M3M3N2O001O1O0O2N2O0O2O00001N1N3M201N101O00001O001O00000O10000000001O000000000000000000000000000001O000000O1000000000000000000001O000000000000000000O100000000001O00000000000000000000O1000000001O00000000000000000000O1000000001O00000000000000000000O1000000001O00000000000000000000O1000000001O0]JRKT@n4d?kJV[O;T5j4T`0lJn_OT5_e00000000000O100000000001O0000000000000000O100000bJjJR@V5^?nJ^[O1Q5Q5a?PK[[O1S5o4b?mJ`[O1o4S5^e00000000000000000O10000000000001O000UHiJmDW5nb0000000000000O100000000001O000000000000000000O100000000001O0mIUK][OOV5l4n>SLQAm3S?iJP\\Oj0n4]4`?mJ\\[OL09T5n4o?PKR@P5o?nJR@R5^e0000mJiJ]_OV5d`0jJ\\_OV5ge0000000001O000000000000000000O100000000001O000000000000000000O100000000001O0XHkJeDU5[;kJeDU5\\;jJdDV5Sc0000000000000O1000000001O00000000000000000\\JQKW@o4_?^K^@b4b?mJZ[O7U5l4l?QKU@n4n?oJS@Q5m?oJS@R5a?ZK^@f4a?\\K^@d4b?]K]@c4^>iJ^]Od0T4c4e?ZK\\@f4e?XK\\@h4e?VK\\@j4e?UK[@k4h?PKZ@P5[e000000000O1001O00000000000000000YHiJeDW5[;jJdDV5\\;jJa^O4[4R5T=jJb^O6W4P5m>oJSAP5n>QKQAo4o>QKQAP5n>PKRAP5o>nJRAR5nd00000000aJiJU@W5k?jJT@V5l?jJT@V5l?kJS@U5m?mJQ@S5_>lJc]O2m3R5Q`0jJR@V5\\e000000bJjJR@V5l?oJQ@Q5g=mJ_]O0C1000O110N19NFP5U5n=nJ_]OME1001N02OO1:MFP5U5n=lJdDT5];jJdDV5\\;jJdDV5Sc0000000000000000000000000000000000000000QInJR]OLQ5V5m=nJR]OKR5W5l=nJPCR5P=nJPCR5P=nJPCR5o<oJQCQ5n<PKRCP5S<jJl]O7Q6o4R<kJm]O6Q6o4m<QKSCo4m<QKSCo4n<PKRCP5n<PKRCP5m<PKTCP5l<PKTCP5P<lJn]O3S6Q5o;lJn]O1U6S5i<mJWCS5n<kJoBU5Q=kJoBU5P=mJoBS5m<QKSCo4l<SKSCm4U<iJj]O;P6l4n<TKRCl4n<TKRCl4o<SKQCm4o<SKZ]OFf4W5P>oJ^]OJb4W5P>nJVCR5j<nJVCR5j<mJWCS5i<kJYCU5g<jJZCV5hc00000000nHiJ[CW5d<jJ\\CV5d<jJ\\CV5c<kJ]CU5c<kJ]CU5b<lJW^OOZ3U5^>mJQ^OMaN2P5T5a>iJ]CW5fc000000000000000000000000000000000000]FiJ]HW5Va000000000000000000000000000000000000000000000000000000000000000O1000000001O00000000000000O10000000000000000000000001OO10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001O00000O100000000O10000O101N10000O10001N2N2O0O2O00001N1O2N2N2N101N2N2N3M1M4N2N2N2N2O1N3J6L3N2M6I5K4N2I<VAVHmFNS4e2fKcM4M30MO12O00O3M03M3NO016LFSTX6"
+    },
+    "area": 523752,
+    "bbox": [
+      0,
+      0,
+      1023,
+      1023
+    ],
+    "predicted_iou": 1.0166471004486084,
+    "point_coords": [
+      [
+        816.0,
+        944.0
+      ]
+    ],
+    "stability_score": 0.976409375667572,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_1"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "fT^:`0^o0W3iL6L1N2O00001N100000000000000000O100O2M2M3bMoSO^O`m0LWSO2jl0MXSO2hl0NXSO2hl0NXSO2hl0NWSO3il0MWSO3il0MWSO3il0MXSO2hl0NXSO2hl0NWSO3il0MWSO3il0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO1kl0OUSO1kl0OUSO1kl0OUSO1kl0OUSO1kl0OUSO1kl0OUSO1kl0OVSO0jl00VSO0jl00VSOOkl01VSONjl02WSOLjl04WSOJjl06XSOFjl0:^1000000000000O101N101N2N5H\\kRc0"
+    },
+    "area": 4918,
+    "bbox": [
+      334,
+      144,
+      78,
+      129
+    ],
+    "predicted_iou": 0.9878237247467041,
+    "point_coords": [
+      [
+        368.0,
+        144.0
+      ]
+    ],
+    "stability_score": 0.9736577272415161,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_2"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "eTob0:do0l0`POkNh0a1Zk0\\2L1O1N2O001O000000000000000000000000000000jLTTOZO:d0g0Kkj01mTO2:Lij02nTO1:Lhj02oTO29Lhj02oTO29Lhj02oTO29Lhj02oTO29Lhj02oTO29Lhj02oTO29Lhj02oTO29Lhj02oTO29Lhj02oTO29Lhj03nTO1:Lhj03nTO1:Lhj03nTO1:Lhj03nTO1:Lhj03nTO1:Lhj03nTO1:Lhj03nTO1:Lhj02oTO29Lhj02oTO29Lhj02oTO29Lhj03nTO1:Lhj03nTO1:Lhj02oTO29Lhj02oTO29Lhj02oTO1:Mgj02oTO1:Mgj02oTO1:Mgj02oTO1:Mgj02oTO1:Mgj03nTO0;Mgj03nTO0;Mgj03nTO0;Mgj03nTO0;Mgj03nTO0;Mgj03nTO0;Mgj03nTOO<Nfj03oTOM<0ej02QUOM:1ej02RUOK:3dj02TUOG:7bj03kVOMUi03kVOMUi03lVOLTi04lVOMSi03mVOMSi03mVOMSi02nVONRi02nVOMSi03nVOLRi04nVOLRi04oVOKRi03QWOJQi04QWOJQi04RWOGSi05QWOEWi00fn_:"
+    },
+    "area": 6168,
+    "bbox": [
+      607,
+      145,
+      80,
+      131
+    ],
+    "predicted_iou": 0.9846068620681763,
+    "point_coords": [
+      [
+        624.0,
+        144.0
+      ]
+    ],
+    "stability_score": 0.9765950441360474,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_3"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "fTl=W12VOVn0X3RN7I3N1N101O001O00000000O101O0O1O2O0O2N3hL]UOm0oe^a0"
+    },
+    "area": 2677,
+    "bbox": [
+      444,
+      145,
+      21,
+      130
+    ],
+    "predicted_iou": 0.9815982580184937,
+    "point_coords": [
+      [
+        464.0,
+        240.0
+      ]
+    ],
+    "stability_score": 0.9753586053848267,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_4"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "oe\\>f14[N53^m0Y2K2O1N2O001O00001O01N101N2N4iMSSOS1mVTa0"
+    },
+    "area": 1247,
+    "bbox": [
+      460,
+      700,
+      15,
+      83
+    ],
+    "predicted_iou": 0.977786660194397,
+    "point_coords": [
+      [
+        464.0,
+        752.0
+      ]
+    ],
+    "stability_score": 0.9715864062309265,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_5"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "oed?\\2cm02N2O1O1O0O100001O00000O100O1SNdRO:0_OMKcm07PSO2jm0MXRO1im0OWRO1im0OWRO1im0OWRO1im0OWRO1im0OWRO1im0OWRO1im0OWRO1im0OWRO1im0OWRO1hm00XRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO1gm0OYRO2fm0NZRO4em0K[RO7cm0I\\RO:bm0F^RO<`m0D`RO=_m0CaRO?]m0BbRO`0\\m0@dROb0Zm0^OfROd0Xm0]OgROd0Xm0\\OgROg0Wm0ZOhROh0Wm0XOgROk0Wm0VOgROm0Wm0TOfROo0Zm0l0OQO_RO@am0>cRO@\\m0?gRO_OZm0?hROAXm0>kRO_OVm0?mRO_OTm0?oRO^ORm0b0PSO\\OQm0b0RSO\\Ool0b0SSO\\Ool0a0USO]Oml0`0TSO_Ool0=USO@nl0<USO_OTm08jZZ>"
+    },
+    "area": 3298,
+    "bbox": [
+      500,
+      700,
+      64,
+      82
+    ],
+    "predicted_iou": 0.976029634475708,
+    "point_coords": [
+      [
+        560.0,
+        720.0
+      ]
+    ],
+    "stability_score": 0.9745737314224243,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_6"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "_Ua?Q3Tl0m0L3N2N2O0000000000000000000000O100O1O1N2G9QMgTO7Yl0HiSO0^l0OcSO0^l00bSO0^l00bSO0^l00bSO0^l00bSO0^l00bSO0^l00bSO0^l00bSO0^l01aSOO_l01aSO0^l00bSO1]l0OcSO3[l0MeSO5Yl0KgSO7Wl0IiSO9Vl0FjSO<Tl0DlSO=Sl0CmSO?Ql0AoSO`0Pl0@PTOb0nk0^ORTOd0lk0\\OTTOe0kk0[OUTOg0ik0YOWTOi0gk0WOYTOk0ek0UO[TOm0ck0SO]TOn0bk0RO^TOP1`k0QO_TOQ1`k0nN_TOU1_k0kNaTOV1^k0kN`TOX1^k0iN`TOZ1_k0eN`TO^1^k0cN`TO0[Oc0Ul0^O]TOOAc0Pl0_O\\TOOGa0lk0BYTOOM>jk0DRTO369fk0k0]TOTOck0k0_TOTO`k0k0bTOUO^k0j0eTOSO\\k0k0fTOUOZk0j0hTOUOWk0j0lTOTOUk0j0nTOTOSk0j0oTOUORk0i0QUOVOoj0h0TUOVOmj0g0WUOWOjj0g0YUOVOij0h0ZUOVOhj0g0[UOWOfj0f0^UOWOej0e0^UOZOcj0c0aUOZObj0b0bUOZOcj0`0c2Ifjj="
+    },
+    "area": 7034,
+    "bbox": [
+      497,
+      144,
+      83,
+      134
+    ],
+    "predicted_iou": 0.9742960929870605,
+    "point_coords": [
+      [
+        560.0,
+        240.0
+      ]
+    ],
+    "stability_score": 0.975879967212677,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_7"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "`aQ<3lo02O001O1O001N10001O000LH`PO9^o0501N101O001O001O001O001O001O001O001N2O001O010O1O001O0O1010O01O000O2O0O2O010O001O00001O001O001O00001N1000001O01O01O0O2O001O0001O01N101O00001O00001O00001O000010O00O101O00000010O00O2O001O000010O00O2O00001O000001OO2O0000000001O00O100000000001O000O0100000O2O00000O0100000O2O000O1000O0101O000O10000O01001N1000000O1000000O1000000O10000O10001O00O0100O10000O2O0000O0100O2O000O100000O0101O0O10000O100O1000000O100O100O10000O1000000O1000000O10000O100O100O10000O100O100O10001O0O10O0100O101O0O100O100O1O2O0O2O002M3N0O2N1O2N`^b;"
+    },
+    "area": 10512,
+    "bbox": [
+      385,
+      550,
+      267,
+      60
+    ],
+    "predicted_iou": 0.9725461006164551,
+    "point_coords": [
+      [
+        496.0,
+        592.0
+      ]
+    ],
+    "stability_score": 0.952173113822937,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_8"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "gi[:6912NOf0Qm0P2C=H3M3N2M3N2N2N2N2N2O0O2O1N101O1N101N1000000O100000001O0000000000000000O1000000000000000000000O1000000000O101O01O000000O10000001O00000000O1001O00000000O10000001O00000000O1001O0000000000O1001O00000000000000000000000000000000000O1000000000001O01O000O100000O101O0001N100001O000000000000000000000O10000000000010O000001N101O1O000010O01O00000000000000001O0000000000O1O1O1001O00000000000000000000O100O1000000000000O100O100000000O1000000000000000000000000000000000PNjKVXOV4ji00000000000000000000000000000000000000000000000000000000000000PNjKVXOV4ig0kKWXOT4ki01O0000000000000000000000000YMiKeYOV4\\f0jKdYOV4\\f0jKdYOW4[f0iKeYOW4Ri00000000000000000000000O101O00O101O00000000000000000000O10000001O00000000000000000000000000000001O00000O10001O00000O2O0O2N2O0O101N2O0O2M2O2N2N2N2N2M4L4L5J6J=dN`ROQO]T\\:"
+    },
+    "area": 48341,
+    "bbox": [
+      331,
+      702,
+      360,
+      229
+    ],
+    "predicted_iou": 0.9709597229957581,
+    "point_coords": [
+      [
+        656.0,
+        848.0
+      ]
+    ],
+    "stability_score": 0.9525908827781677,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_9"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "fT^:b0Q1DYO3Xm0V3cROcLSl0k3K1N2O00001N100000000000000000O100O1N3L3VMnSORO7h0Zm0LXSO1il0NXSO1il0OWSO1il0OWSO1il0OWSO2hl0NXSO2hl0NXSO2hl0NXSO2hl0NXSO2hl0OWSO1il0OWSO1il0OWSO1il0OWSO1il0OWSO1il0OVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO2jl0NVSO1kl0OUSO1kl0OUSO1kl0OUSO1kl0OUSO1kl0OVSO0jl00VSO0jl00VSO0jl00VSO0jl00VSOOkl01USOOkl01VSONjl02WSOLjl04WSOJjl06XSOFjl0:^1000000000000O101N100O3M5HmSX1K\\lgN0000O`gfa0"
+    },
+    "area": 4913,
+    "bbox": [
+      334,
+      144,
+      122,
+      130
+    ],
+    "predicted_iou": 0.9698363542556763,
+    "point_coords": [
+      [
+        336.0,
+        144.0
+      ]
+    ],
+    "stability_score": 0.9681872725486755,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_10"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "f\\da0S1kn03O1O00000000O1O2D<M4O00001O10O10O00N3L3G9M3N100O100001O0O2N\\c\\="
+    },
+    "area": 987,
+    "bbox": [
+      564,
+      403,
+      30,
+      39
+    ],
+    "predicted_iou": 0.9697757959365845,
+    "point_coords": [
+      [
+        592.0,
+        432.0
+      ]
+    ],
+    "stability_score": 0.9869083762168884,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_11"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "oeVb0]2bm02N2O1O0000000000O1000000000000oMPSO21Nol0OQSO22Nml00QSO22Nml0OSSO20Oml0OSSO21Nll00SSO20Oml0OSSO20Oml0OSSO20Oml0OSSO20Oml0OSSO20Oml0OSSO20Oml0OSSO21Nll00SSO21Nll00SSO20Oml0OSSO20Oml0OSSO20Oml0OSSO20Oml0OSSO20Oml0OSSO20Oml0OSSO110ll0OSSO110ll0OSSO110ll0OSSO110ll0OSSO110ll0OSSO110ll0OTSO001ll0OTSO001ll0OTSOO12kl0OUSON03kl0OWSOJ07il0OUTO1kk0OUTO1kk0OUTO1kk0OUTO1kk0OUTO1jk00VTO0kk0OUTO1kk0OUTO1kk0OUTO0lk0OVTO0jk00WTONkk01WTOLjk02ZTOKjk00S\\m;"
+    },
+    "area": 2978,
+    "bbox": [
+      582,
+      700,
+      59,
+      82
+    ],
+    "predicted_iou": 0.968591570854187,
+    "point_coords": [
+      [
+        592.0,
+        720.0
+      ]
+    ],
+    "stability_score": 0.9790836572647095,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_12"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Yk[:3<;ll0\\2H;G6M2M3N2M3N2O1N2N2N101N2O0O2O1O0O2O0O1000000O10001O000000000000000000O10000000000000000O1001O0000000O10O2O01O00000000O1000000001O000000O1001O00000000O1000000001O000000O1001O00000000O10000001O000000000000000000000000000000000000000000001O00000000O100000000001OO10000001O0000000000O1001O00000000000000000000001O00001O1O001O00001O1O0000000000000000000000000000O100O10000000000000000001O0000O100O10000000000O100O10000000000O100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001O000000O1000000000000001O00000000000000000000000000000000000O11O000000000000000000000O10000000000000000000000000000000000001O0000000000001N100000001O0O2N1O2O0O2O001N2N1N3N2N2N2N1O3L4L3M6J5I`0RN^RO\\ON12OO0^T\\:"
+    },
+    "area": 48180,
+    "bbox": [
+      331,
+      788,
+      360,
+      142
+    ],
+    "predicted_iou": 0.9674686789512634,
+    "point_coords": [
+      [
+        656.0,
+        816.0
+      ]
+    ],
+    "stability_score": 0.956344723701477,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_13"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "oZT>R1mn03M101O000O10O100M3G9O101O0000000000000O10001O0O2O1N2N2M6Imdm`0"
+    },
+    "area": 829,
+    "bbox": [
+      452,
+      348,
+      29,
+      39
+    ],
+    "predicted_iou": 0.9628350734710693,
+    "point_coords": [
+      [
+        464.0,
+        368.0
+      ]
+    ],
+    "stability_score": 0.9916167855262756,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_14"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "oZ]a0R1mn03N0O2O000001O001Ol0TO001O00000000000000O11O000O101OSdh="
+    },
+    "area": 504,
+    "bbox": [
+      557,
+      349,
+      25,
+      38
+    ],
+    "predicted_iou": 0.9592965841293335,
+    "point_coords": [
+      [
+        560.0,
+        368.0
+      ]
+    ],
+    "stability_score": 0.9901574850082397,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_15"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "j\\d=1jo0R1RO2N10001N10000000VOgQOMYn01jQONVn01kQOOUn01kQOOUn01kQOOUn01kQOOUn01kQOOUn01kQOOUn02iQONXn03fQON[n03`QO0`n01\\QO2dn0d0101N101N2N2N3L4M3K7HScZa0"
+    },
+    "area": 937,
+    "bbox": [
+      436,
+      402,
+      32,
+      39
+    ],
+    "predicted_iou": 0.955812931060791,
+    "point_coords": [
+      [
+        464.0,
+        432.0
+      ]
+    ],
+    "stability_score": 0.9820296168327332,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_16"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Pfh;[2am08L1O00000O2OO100000000O100O1O1UNcRO54^OL2_m06mRO1Qn0NQRO1om0OQRO1om0NRRO1om0OQRO1om0OQRO1om0OQRO1om0OQRO1om0OQRO1om0OQRO1om0OQRO1om0OQRO1om0OQRO1om0OQRO2nm0NRRO1nm00RRO0nm00RRO0nm00RRO0nm00RRO0nm00RRO0nm00RRO0nm00RRO0nm00SROOmm01SROOmm01SROOmm01SROOmm01SROOmm01SROOmm01SROOmm01TRONlm02TROMmm03TROKmm05TROImm07UROFlm09n0000001O0O102L5ITZ[b0"
+    },
+    "area": 2647,
+    "bbox": [
+      376,
+      698,
+      59,
+      86
+    ],
+    "predicted_iou": 0.9545391798019409,
+    "point_coords": [
+      [
+        400.0,
+        720.0
+      ]
+    ],
+    "stability_score": 0.9564414620399475,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_17"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "f\\Q`01mo07K4K6K4L6J3M4M1O03M4K3NO0N2M2N3M1002M2N3N200001O3M4M1O03M2M2O1N00M2L5N1O11M2M4L4L4L4L5K5J`c`>"
+    },
+    "area": 1241,
+    "bbox": [
+      513,
+      403,
+      45,
+      39
+    ],
+    "predicted_iou": 0.954378604888916,
+    "point_coords": [
+      [
+        528.0,
+        432.0
+      ]
+    ],
+    "stability_score": 0.9808306694030762,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_18"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "R[W?4>3en0i0L3N1O1O1O001O01O<E=B2N1O1O000000O100N2YOEdQO`0Yn0e0O010O0100O1O2N1N5SOieh?"
+    },
+    "area": 822,
+    "bbox": [
+      487,
+      349,
+      31,
+      39
+    ],
+    "predicted_iou": 0.9538508653640747,
+    "point_coords": [
+      [
+        496.0,
+        368.0
+      ]
+    ],
+    "stability_score": 0.9687874913215637,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_19"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "R]i>9do07I6K3M4M2N2N2O0O2O0OZO^QO1an0MdQO0[n0OiQOOWn01jQONVn01kQOOUn01lQOOSn00oQOOQn01oQOOQn01nQO0Rn00nQO0Rn01lQOOUn01jQO0Vn02gQOOZn02bQO0^n0h0101N101N2N2N2N2M4L4KVcR`0"
+    },
+    "area": 961,
+    "bbox": [
+      473,
+      402,
+      35,
+      40
+    ],
+    "predicted_iou": 0.9527138471603394,
+    "point_coords": [
+      [
+        496.0,
+        432.0
+      ]
+    ],
+    "stability_score": 0.9784172773361206,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_20"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "^`g9e0mn0g1cISNdWOH6O04Kd2LDYg0_MfYOg7Wf0ZHgYOg7Yf0\\HdYOe7\\f0[HcYOf7[f0\\HoXOK?k7_f0cHRYOA7o7ef0fHYYO^7df0cH[YO^7df0eHXYO\\7gf0P1O1O001N101O1O0O101O000010O01O0000001O000000001O000O1001O000001O0000000000010O0O1000001O01O01O0000001O0000001O000O100010O00000000000001O0000001O000O1001O00000001O00000000001O00001O0000001O000000001O00000000001O000000001O00000000001O00000000001O000000001O0000001O0000001O00001O0000000000001O00000000001O00000000001O000000000000001O0000001O0000001O0000001O000000000000001O00000000O1000000000000000000O100000000O100O10000000000O1000000000000O100000000O10000000000O10000000000O10000O10000000000O1000000O10000000000O100000000000000O10000000000O10000000000O10000000000000000O1000000O1000000O10000O10000000000O1000000000000O10000000000O1000000O1000000000000000000O100000000O1O100000000000000O1000000000000O10000000000000000O011O0000000O100000000O1000000O2N1O100O2O0O2N2N5Jg0ZO3M3M2N1O2M3K5RLgWOeL2O`0k1ng0nMhWOO`4e1_i0mNgQOI3FP^d9"
+    },
+    "area": 125677,
+    "bbox": [
+      311,
+      310,
+      404,
+      334
+    ],
+    "predicted_iou": 0.9519842863082886,
+    "point_coords": [
+      [
+        624.0,
+        368.0
+      ]
+    ],
+    "stability_score": 0.9536839127540588,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_21"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "[jj?Y1fn02N101N1000000000N2K5I7O10000000001O000000000001O002N3N1N3M2O000O01YO^QONcn0OaQOO`n0OcQOO_n0MfQOO\\n0NiQONWo0M`Tm>"
+    },
+    "area": 1387,
+    "bbox": [
+      506,
+      840,
+      39,
+      45
+    ],
+    "predicted_iou": 0.9499506950378418,
+    "point_coords": [
+      [
+        528.0,
+        848.0
+      ]
+    ],
+    "stability_score": 0.9878223538398743,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_22"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "e\\a;7io02N2N1O2M2O2N2N1N3[Ne1L4M2O2N1N3N1O000000O1O2L3O2N2Md1\\N4M2M2O1N2N2O1O2M2N2O4KZcXc0"
+    },
+    "area": 1690,
+    "bbox": [
+      369,
+      348,
+      37,
+      89
+    ],
+    "predicted_iou": 0.9474071264266968,
+    "point_coords": [
+      [
+        400.0,
+        400.0
+      ]
+    ],
+    "stability_score": 0.9835680723190308,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_23"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "[j^a0[1dn02O001O00000O100000000000oNdQO0MN_n00gQO0MN\\n02hQONM0[n02hQONM0[n02hQONNOZn03hQOOMN[n03hQOOMN[n03hQOOMN[n03hQONNOZn03hQONNOZn03hQONNOZn03hQONNOZn03hQONNOZn03hQONNOZn02iQONN0Yn02jQOMM1Yn02jQOMM1Yn03jQOJN3Xn03lQOFN7Vn02ZRONfm02ZRONfm02ZRONfm02ZRONfm01\\RONem01[ROOem00]RONZS[="
+    },
+    "area": 1314,
+    "bbox": [
+      558,
+      841,
+      38,
+      46
+    ],
+    "predicted_iou": 0.9473533630371094,
+    "point_coords": [
+      [
+        560.0,
+        848.0
+      ]
+    ],
+    "stability_score": 0.9751879572868347,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_24"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "P[]`0c0[o0a0A1N101O0000010O04Ki0XO1O0000001O00O1000000001O00001N2NSdf>"
+    },
+    "area": 539,
+    "bbox": [
+      525,
+      349,
+      27,
+      39
+    ],
+    "predicted_iou": 0.9458334445953369,
+    "point_coords": [
+      [
+        528.0,
+        368.0
+      ]
+    ],
+    "stability_score": 0.990791916847229,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_25"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "Zj`=Y1fn02O1O000O1001N10000N2TO^QO2jn0LZQO0hn0OZQO0fn00ZQO0fn01YQOOgn01YQOOgn01YQOOgn01YQOOgn01YQOOgn01YQOOgn01YQOOgn01YQOOgn01YQOOgn01ZQONfn02ZQONfn02ZQOMfn04[QOKen05[QOJfn06b000O101O00001N4JfUYa0"
+    },
+    "area": 937,
+    "bbox": [
+      432,
+      840,
+      37,
+      44
+    ],
+    "predicted_iou": 0.9391627311706543,
+    "point_coords": [
+      [
+        432.0,
+        880.0
+      ]
+    ],
+    "stability_score": 0.9654450416564941,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_26"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1024,
+        1024
+      ],
+      "counts": "oed?\\2cm03M2O001N1000000000000000O1O1M3RNQSO1im0NYRO0hm0OYRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO0hm00XRO1gm0OYRO1gm0OYRO3em0M[RO4dm0L\\RO6bm0J^RO8`m0H`RO:^m0FbRO<]m0CcRO>\\m0CbRO`0\\m0@dROb0Zm0^OfROd0Xm0]OgROd0Xm0]OfROf0Xm0[OgROh0Wm0XOgROj0Xm0WOfROl0Xm0UOdROP1[m0k0O01nNbROA]m0>fROAZm0=iROAWm0?kRO_OVm0?mRO_OTm0`0oRO]ORm0a0QSO]OPm0a0RSO]OPm0b0RSO\\Ool0a0TSO]Onl0a0TSO]Ool0?TSO_OPm0;TSOCRm05jPh1GXSfN0emA1fWQ<"
+    },
+    "area": 3378,
+    "bbox": [
+      500,
+      700,
+      137,
+      82
+    ],
+    "predicted_iou": 0.8901239633560181,
+    "point_coords": [
+      [
+        560.0,
+        784.0
+      ]
+    ],
+    "stability_score": 0.9620949029922485,
+    "crop_box": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "region_id": "fire-alarm_region_27"
+  }
+]

@@ -1,0 +1,485 @@
+{
+  "object": "cactus_camera",
+  "model": "allenai/Molmo2-8B",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-shape/cactus_camera.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "cactus_camera_region_3",
+      "area": 42719,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "UWob0n0gf0a0G8C:I8I8I5L4L3M5J7K3M2N3M4K6J3L5L4L3N2M4K4M3M3L4L4M2N4M2N2M2O2M3N2N2N2O1N2N2O1N101O1O1O1N101I6N2N3M2O2O0O2N1O2N2O1N2N2N101N101N100O1O101N1O1O1O100O101N100O101O0O2O0O2O0O10001N10000O10001O000000000O100000000000000000O1000001O00000000000O100O2O00O0100O1O1O1000000O100O2O000O101O0O100O100N3M2O101N100O2O0O1O2N1O2N101O001O0O2O0O100O2N1O2N1O2N1O2O1N2M4M2N2O1N3K4M4M2N1O2N2N1O2N2N1N3N2N1O2K5M3M3N3M3M3M3M3M2N3L3M4L4H8L5K4L4M6H4K6J5M4G9L6J:^O\\bl8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "The large, circular component at the front of the device, positioned as the primary viewing and focusing element, is clearly designed to be pressed or activated to capture images, distinguishing it from the other smaller, more intricate parts of the camera"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_37",
+      "area": 36023,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "caU93mg01N1]XONXg0=10O000000O11OO100O1000O10O100N2000O10O100L3010O10O10000O100000j_OM_83aG0\\81aG2^8NXFMnINi09o>MUFJQJ9j03n>KSF;nJJo>LoE=nJLR?GoE>oJKR?HnE>nJKT?GmE?PKJR?HnE=PKKR?HnEK[J8g0E]O5c?4QAJW45QLNg>2n@1S44ULLj>0m@1n39oK\\OC;c?0l@3m35RL1U?Hk@2]2IQMIj0i0GMU?Fl@5AGl0GQO121j0<L<JMT?F[@D;Q1`0^ON5VO\\O>l01JW?3\\@>f0ZO^OBOm00oNMP1=FW?b1`@hM8R1D204<^OX?f1Z@fM:_2GiN<[OY?Q2_@\\1NRLN`0f?U2[@Y11mLb?j1\\@[10mLc?i1\\@Z11mLc?Q6]@SJ^?n5b@SJ6kNk>S7n@SJ5mNk>P7PASJ5nNj>[8TAgGk>Y8UAgGk>Y8TAiGk>X8TAhGl>X8UAgGj>Z8UAgGk>g8000000O100000RNXAfI1Mg>f4ZAdJ>79KLNXO;l>b4[ATKU36`;h4Q4=C0O2OO100O00\\NjJ`@U5a?lJ^@S5b?nJ^@Q5c?PKY_OLc0T5U`0`Kj_O_4X`0aKg_O^4Z`0cKd_O]4^`0bKb_O]4Y`0lJR_Oh0c0\\4\\`0lJQ_Oi0a0[4]`0mKc_OR4]`0PLa_OQ4\\`0RLd_Om3]`0SLb_On3]`0TLb_Ok3_`0UL`_Ok3a`0VL]_Ol3b`0TL]_Om39mJAKg?\\1\\@o3:lJBJg?o6f@YIAJi?n6e@aIY?^6g@eI`0[Oe=P7kAeI:]OXOOb>n6mAgI8Ak=g6oAgI5Gh=b6SBgI3Kh=^6kARI0e0N[O5b0P>]6fARI006e0N^O2`0S>[6gARI010j00[O6=S>T8gAPHX>l80O10000O10O10001OO1000mA]Fh=d9WB^Fh=c9WB]Fi=c9VB_Fj=a9TB`Fl=k94LOPKdB\\O\\=d0hBYOW=g0kBZK]O[3j=Z1jB[KD4A23GNNOg05D3Ei=j4jBZK_1LfM01057\\>b4ZBZKSa0e4P_OWKQa0i4U1N002N3M00O11O001O1O00O1O1O1O1O1O100OdKk\\Oo3Vc0oKl\\OP4Tc0kKj\\ON2W4[c0hKf\\OX4ac0000Y]OhKfa0X4S^OkKZONcb0W4P^OTLna0k3n]OZLSb0g3j]O[LUb0f3b]OhKNe0_b0c3a]OfLm0YOW`0X5T_ObJHN2>>Bm?a5j_O[K9TOK1b?`5V@_K;WOELj?]2U@:0WN=VOA0j?P2k@;ZObN?_O]?_1TAb1_OPM\\?\\1_A\\1TOYM]?Y1cAb1iNUMe?W1fAf1`NTMO]Oc?g1QBb2\\NiKb?d1UBk2k=RMYBP3d=nL`BP3a=nLaBR3^=mLdBjNmMh3_?\\MgBkNkMg3_?]MhBkNiMh3_?\\MjBkNhMHN_3OhLb?U1kBkNfMI07Mj24QMa?X1jBlN[Nd2V?`N`BlN]Na2T?aNaBmN_Nk1oNRN^`0U1VBmNbN3lNON`00Ag`0P1mAmNC4nMLe`0Q1kAoNFLP?T1\\AoNSa0P1n^OPORa0o0o^OQOQa0o0P_OPOPa0o0Q_OQOo`0n0R_OROo`0m0R_OQOo`0n0R_OROn`0n0R3O2N10Q\\OVOoL0dc0h0^_O^Ob`0b0]_O@c`0?]_O@g`0<[_OCg`0;Y_OBk`0;W_OGg`08Z_OIe`07[_OId`08\\_OId`06[_OKe`04\\_OLiLHhc0:__O3Wd01O1O1N101O003SYOZOF2[f0f0iYOMoe04oYOOne0S1O002M5MO021RNUZOa1Vf00000]NiYO[1Xf0dNiYO\\1^f0O2M100J^YOlNef0S140001O001O0O101O001O007ROnXO`0Yg0O3N\\jea0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 2 appears to be a distinct, protruding button or lever on the camera body, likely designed as the primary shutter release mechanism, which is the most intuitive and direct way to capture an image on a camera"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_38",
+      "area": 30326,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "obTa03mg00YN1\\[O1bd00[[O3ed0NZ[O2ed0OX[O3id0MW[O3hd0NW[O2Yd01^ZO64Ch06ed0d0cZOVOh09bd0b0dZOWOi07lb0Fk]Om0`NUOj09ib0Fl]Om0`NUOl06TOG_c03o]Ol0bNSOl0>ab0Eo]OR1]O_OVOZOWc05U^OR1^O@VOYOVc07U^Oo0@FZb0\\OS^OP1BE[b0]OP^On0EF[b0]Om]Oo0GVOXOKTc00k]Oo0IWO[OGQc06f]Om0NWO\\OEQc08`]Oo02WO\\O@Qc0c0U]Oj0?SO@[Okb0i2m\\OYM`0e0ob0Q2a\\O[M?e0ob0Q2b\\O[M=e0Qc0o1b\\O^M;d0Sc0n1b\\O^M;d0Sc0m1b\\OaM9c0Uc0l1b\\OaM8d0Vc0j1b\\OcM8d0Uc0i1c\\OcM7e0Vc0g1c\\OfM5e0Xc0d1c\\OgM4f0Xc0c1d\\OhM4e0Xc0c1d\\OhM3f0Xc0c1e\\OjMOd0\\c0a1e\\OlMOd0[c0`1f\\OTOZc0k0f\\OWOYc0i0g\\OXOWc0i0h\\ODmb0;S]OGjb0h210N101O2N5K3NO03OOO010O10O2OOO20OgJe^Om3\\a0oKh^OQ4Wa0oKi^OZ3jNVMjc0j2W\\OUMic0l2W\\ORMjc0n2Z\\OnLfc0S3^\\OgLcc0Y3^\\OeLcc0[3a000O010Mh\\OiLma0g1T]OSOV1VOfa0e1X]OROR1[Oea0b1]]OROk0]Oha0a1_]OSOf0\\Oka0a1a]OSOa0^Oma0^1d]OUO<^OPb0^1c]OUO7BVb0Z1c]OUO4CXb0Y1c]OTO0H]b0U1c]OSOKMab0Q1c]OSOINcb0P1d]OSOFOfb0o0c]OTODOhb0l0e]Ob0Xb0^Oh]Oc0Vb0^Oj]Oc0Ub0\\Ol]Od0Tb0\\Ol]Og0Qb0ZOm]Og0Sb0\\Oj]Oe0Ub0]Oh]Oc0Yb0_Od]Ob0\\b0A^]O`0db0\\22O1N1N3N2N2M3M3N2N2O1O1N2O0O3N1M3O10O0TOmKm]OQ4Ub0YL`]Og3ia0oKj]O3:83e3ja0\\Lo]O07b3ja0`Lo]OL8c3ka0`Lm]OM9a3ia0eLn]OH:b3ia0eLn]OI9a3ia0hLn]OF9a3ja0jLk]OF;_3ka0kLj]OF;^3la0mLh]OE;^3na0mLg]OE;V2G_NWb0Fg]OE:n12eNna0Hf]OF8o14bNoa0Id]OG7o17_Noa0Kd]OG3Q2;[NPb0M`]O_2a0bMQb0N_]O`2?aMoa0]O^]Oc03_2a0`Mna06a]OZ2`0_Moa08a]OY2`0^MPb0c3o]O\\LRb0d3n]O[LSb0e3m]O[LSb0e3m]O[LSb0f3l]OYLUb0g3j]OZLVb0f3i]OZLXb0f3e]O\\L\\b0d3_]OaLab0_3Z]OeLgb0Y41O1O1O10000O0iKZ]OV3fb0eLd]OU3]b0hLi]OU3Wb0iLm]OU3Sb0iLP^OU3Qb0iLR^OV3na0iLU^OT3la0jLW^OU3ia0jLX^OU3ha0kLZ^OT3fa0kL\\^OT3da0kL^^OS3ca0lL^^OT3ca0jL_^OU3aa0kL`^OS3Wc001O1O1O1O00001N1000000000000000O100000001N10000O100O100O1O2O0O00100O1O100N200OjL`[On2ad0nLb[OR3^d0nLb[OR3gd00O0000001O01O001O1O010O2N10O01SMQ[Og2Te010O00100O2O1N102M2OO03NO03M:F5TNRZO]1\\f0dNcYOm0hf0mNXYOn0nf003ZOnXO7Qg0IQYO5Pg0JRYO5Rg0EPYO;of0ERYO;Zg01O000000O10O1000O1000O1000000O10000O100O1O1N3O1N22NO1M10@PYO3lf0JYYO5gf0K^YO1`f0OdYOM]f03cYOM[f05h01N10O1010M2O10O011L3O2N10\\\\j8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 3 appears to be a distinct, protruding button or lever located on the front of the object, likely designed for user interaction to capture images, setting it apart from the other components that seem to be more structural or decorative elements"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_46",
+      "area": 20836,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "lf\\`06ig08]OJnXO:if0AUYOo0cf0=D:G:I7M2I7A`0M4T[OlLcd0U3][OlLbd0Z3GhLg[O\\3nc0bLR\\Oi3mc07M4NO02H9I4O2N3M3M2O0O2O0O3N0O4TOkJd^OY5[a0gJc^O[5\\a0gJb^O[5\\a0eJe^O]5Ya0cJf^O_5Xa0cJe^O_5[a0bJ`^Oc5_a0]J\\^Oh5ea0:O011N04_KY^Ob2ga0\\MZ^Od2ma0UMT^Ok2la0TMT^Ol2la0TMU^Ok2ka0VMU^OdNOl3la0`M_^O_2ba0`M`^O^2`a0bMc^O]2[a0bMg^O^2Xa0bMh^O_2Wa0XMV^OoNd0i3Wa0VMR_On2j`0SMU_Om2m`0SMP_Oo2Qa0PMn^OP3Sa0PMk^OR3Ta0oLk^OR3Ta0nLl^OS3Sa0nLl^OR3Ta0nLl^OS3]OlK]a0R1T_O\\3l`0dLT_O_3h`0bLX_O^3_O`KNLm`0W1e_Ok3Z`0VLf_Ok3Y`0VLe_Ok3Z`0VLe_Ok3[`0VLc_Oj3_`0VL^_Ol3b`0VLX_Oj3n`0c110O10O017H002M4M1O1O002N00O11N10001O000O01O10O010M2100001\\JZ^Ok4ga0SK\\^Ol4da0TK^^Oi4da0UK]^Ok4ba0UK_^Oj4ba0VK_^Oi4aa0SKc^OX1CeNm0R2m`0nMg^Om0@nNc1Q2V`0TNf^Om0a1i0k?XNe^Om0d1i0g?UNj^Ol0h1j0[`0UOi_Og0W`0XOl_Og0T`0VOP@h0S`0SOP@l0P`0ROU@k0m?POZ@l0f?lNd@R1Vc0O2O2M4NOO2O1N100N3N1O1O1O1N2O002O0O1O01000O100O1O12NO100O0010000000O10O01O01N101N101N2N110N2O[]d<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 4 appears to be a circular, protruding component with a smooth, metallic surface, likely positioned at the front of the object, which is consistent with a camera lens designed for capturing images"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_50",
+      "area": 14952,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "eSb=3kg0201I6O1O100N2I700O11O001O001O001OQO_O_ZOa0`e0@aZO?_e0C_ZO=`e0DaZO;_e0F`ZO:_e0FbZO:^e0FcZO9^e0GaZO9^e0GdZO8\\e0HdZO8[e0HhZO6Xe0IiZO7Xe0FkZO9Te0IjZO8Ve0HiZO:We0FhZO9Ye0GfZO:\\e0CeZO=Ze0DeZO=[e0CdZO>[e0D_ZO`0ce0^O^ZOc0ae0^O]ZOb0ee0^O[ZOa0ee0_OZZOa0ge0@XZO`0ee0CZZO=ge0CYZO<fe0FVZO>he0DWZO=he0JRZO5ne0MPZO4Pf0MPZO1Pf00nYO2Qf0n010N2ZOZNP[Oh1hc0ZNo[O58V2Uc0bMk\\Og00g1[b0bMX]O4814c0Nh1^b0[Nb]OO0e1^b0^Na]O5H^1gb0^NY]ORO0S10]1cb0`M\\]Om01TOOS10\\1db0`M\\]On0OUO1Q10[1cb0cM]]Ok0OVO1Q10[1cb0dM\\]Oj00WO1P10Z1bb0fM]]Oi00WO1Q1OX1db0hN\\]OPO1o00X1cb0SO\\]OF0W1db0SO]]OU2cb0lM]]OS2cb0mM]]OS2db0mM\\]OR2db0oM[]OQ2hb0c15J7H6K4L4M3L3M3L3N]OSLV]Oj3jb0YLU]Oe3jb0`LT]O^3lb0dLS]O\\3lb0gLQ]OY3ob0iLl\\OZ3Tc0iLi\\OW3Wc0i00O100O2N104L4M2MDoKm\\Om3Sc0WLk\\Of3Uc0_Lj\\O^3Wc0dLi\\O9KR2^c0hMf\\O1OV2\\c0kMe\\OLNZ2^c0mMd\\OA2b2[c0oMR]OR2nb0QNo\\Oo1Qc0SNl\\On1Tc0SNk\\Om1Uc0UNh\\Ol1Xc0VNf\\Oj1Yc0YNd\\Oh1\\c0ZNb\\Of1]c0]Nb\\Ob1_c0_1005dK[\\O10m3jc0RLV\\On3oc0O4L4L5K1O3aL`[OW3ed001iLZ[OR3jd005K4L001O3M001O1O5J101O1O3M00101N2N1O0O2O002N0O4M1N1O2O2M2M2N4N001C`YOWObf0g0_YOYOaf0S11N2O0O100000001O001O2nNVYOj0jf0UOWYOk0of00O100001O001O1O0ZOPYO;Rg0AQYO?Yg0N3L2GmUP?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 5 appears to be a large, circular component with a reflective surface, likely a lens, which is the primary element used to capture images on a camera"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_45",
+      "area": 12964,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "i[T93mg01N2\\L0`\\OMl16\\`0KR^O3QOL:;R2KZ?K[^O1<0D301NJ8;HG3d02[O;1i05W`0:g^OFK:N_O8b0I80XO>6AHP1;Y`0:m^O?O_OL8OZO3LMa02_Oe0;``0:i^OZO1U10kNOS38mL1=i`0W5o^O\\J124`0h`0T5R_OZJ251>g`0`6BoHe_OW7h?kHZ@e7m>XHcAS8Q>lG]A:4HOT8`>[H^AB1T8W>iGgA]9T>iFkAW9U>9020OO1N110L4O1K6N1OjMZBTJb=o5_BQJa=n5_BSJ`=n5`BRJ`=m5aBSJ`=k5`BVJ`=P5_B`I1?NIe=T6^BbI0`0NJe=S6`B_ILOO4O<g=TOYBe51TK8CIM17N<m=ZORBg4<kKOBGN38L<S>TOlAg4c0hK^OA?5C158I?T>QOlAh4c0iK_O_O>6CO6;G`0X>e3^BkK2E\\OK?:]Og0X>c3`BjK2F44ROi0X>a3bBlKZ1FlM>OJY>U4dBlKZ1DlM=0NW>S4eBnK_1HcML3<W>R4dBnKa1EhM>U>n3`BQLP21b;l3^BRLP22d;j3\\BULQ20e;`2]ASM0m0m0_OR20e;O^Ag0NoN0h0?L?FT2Oe;EdAl0LSON8K5`0HB6m02Q20Y<;ZA^O@4j0GUO2n0:P2O[<Je@6R1G:MF<o1OZ<Ee@02<R1D`1:>Li<1WDMnKLU32j<0VDNVS`f0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 6 appears to be a rectangular button with a distinct shape and position on the camera body, likely serving as the shutter release, which is the primary mechanism for capturing photographs"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_40",
+      "area": 12456,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "QTh>6jg02XXOKO0]g0`0N2O1N2M3mXOYOjf0h0VYOYOhf0i0VYOXOjf0h0VYOYOhf0h0XYOXOgf0Q101N1010O002OM2O2O0O100`YOiNXf0f1I?_O2N<F2kZO[Mhd0S3L2L3O2M20OM4O1M3O100L4O1O1O1O100N2OfNQ]OdMnb0U2e]OaMZb0[2f\\OPNRd0l1m[OcNic0]1T\\OPOcc0Q1X\\O^O^c0b0_\\OA^c0c2O0O1O1N20O[N`Kk_Oa4i?_Kg^O100_1_4g?RLU@Q4d?ZLX@g3a?_L^@b3^?eL^@\\3a?hL\\@Y3b?hL\\@Z3b?iL]@X3a?iL^@X3`?jL^@Y3a?[KQ@d0<Q4c?VKZ@i0Oh3^O_KZ`0M]@k0IY2@PNOjN70U`00`@k0D\\2AnMla0F`^O^2DhMQb0IZ^O`2E_M[b0Oo]Ol1FnM00cb05g]On1FmMOLib0:_]On1IkM1Hmb0=Y]OQ2IiM1AN2Qc0c0U]OS2KfM_c06e\\OV2LbMac07c\\OX2L`Mbc07`\\O[2OYMec0=[\\O[20TMic0d3:10N101N1hNh[OeN[d0Ge[Oh01\\O^d0Kb[Oj0OZO`d0Kc[Oj0NaNOc0bd01a[Ok0N`N0b0cd02a[Oj01UO^d00b[Ok0OUO`d00`[Ok01SOad01_[Oj01WO_d0N`[Ok03VO]d0O_[Oj06VO\\d0O_[Ok06UOZd00`[Ok07RO\\d03\\[Ol0:mN\\d06[[Ok09PO]d04Z[Ol0:PO\\d04Z[OOJ<?A]d04Z[OOK9b0A\\d06X[ONJ<b0\\O`d09U[ONJ<Sg01O1O100O0010N10010O001O001O2N104K1O3M1O101N1O100O2N1O2O0ORfo>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 7 appears to be a distinct, protruding button or lever with a clear, functional design that stands out from the other components, suggesting it's the primary control mechanism for capturing images"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_31",
+      "area": 10149,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "lgRf04`g0OaXO130Zg08cXOJWg0b0K5O100O110O06J1O02N001OO11O3L106J1O1O1N3N2N1N4M1N104J2N5K;F1]ZOhM\\e0`2dZOaM21jd0^2T[ObM0103`d0c2_[OeM0D\\d0_3O3NOS\\O]L^c0c3a\\O^L^c0b3a\\O`L^c0`3X\\O]L64bc0^3X\\O^L20O4fc0c3Z\\OYL05ec0b3Z\\O[L04ec0a3[\\OfLdc0Z3\\\\OgLcc0Y3]\\OgLcc0Y3]\\OhLbc0l300O1O001O1O1O010O1O0010O0O2O0O1O2N1Ob\\OgK\\c0T4`\\OPLcc0V4g\\OhKhb0W4Y]OjKgb0U4X]OQLdb0m3]]OULab0h3b]OYL^b0c3e]O]L\\b0^3g]OeLXb0Z3h]OgLYb0W3e]OkL\\b0T3d]OSMUb0Q3f]OPMCYOab0f3l]OXMVb0g2i]O[MUb0nN`]Oa3:cMVb0kN`]Oa3;eMZb0jNZ]O\\3;kM[b0iN[]O\\3:kM_b0V2_]OTNYb0k1c]OdLKa1bb0o1^]OaL0a1bb0h31N2O1lKe]O2HGO9fb0@Y]OCa0H@b0=OJDHb0kb0BT]OL23f0303EBG=^c0Ga\\ONMOP1OM:MNmb0I^\\O0LOR24ROLcb01]\\OOW21jac8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 8 appears to be a large, circular button or shutter located on the front of the device, likely designed to be easily pressed to capture images, distinguishing it from the other smaller, more intricate components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_44",
+      "area": 11050,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "P_`74ne03TZO4P13MF[c0o0R\\OQOEO8a0b0Gob0JW\\ON2Q15YOJ>;YOFc0^c0m0c\\OI5lNH`0^c0]2b\\OnL2o0[c0`3[]OdKda0i4n]O]Kla0h4o]O^Kla0c4R^O`Kla0[5N4WNPJ[AS6a>RJ[AP6a>VJ[Al5\\>iI]@?R1l5`>\\J[Ai5b>\\JXAf5i>]JQAf5m>_Jl@l4FbJ_?Q7a@oH_?P7b@PI^?P7a@QI_?n6b@RI_?l6b@TI]?Y6a@bI16^?X6a@aI27\\?m4b@eK0VO29\\?l4b@eK1UO1:\\?l4b@eK1TO1<\\?k4c@eKOTO2<\\?l4b@dK0SO2>\\?k4c@cK0SO1?\\?k4c@cK0RO1a0\\?k4b@bK1QO1=N]O^?c5b@cK1oN1>O[O_?]5a@dJ1V1OoN1a0NYO`?]5b@cJ0W1OoN1a0b?e4e@lKGnN1b0c?d4f@hJFk01VO0d0b?W4]@UK=NDk01WONe0c?U4]ARKQOf02\\ONg0b?U4lA\\KgNHLg0`?V3_@iL]21T=n2h@PMV2[OaM=a?T3l@mLB_Ol2?f<Q3QAPM_2Ma<l1d@_N?Ga2J\\<j1k@`N=Jb2FW<n1m@`N;Mc2BU<P1\\@Kc0F:K[b0`0m\\OKb0J5K\\b09S]O3=G9D\\b0`0P]O3>_OVOOQ1N[b0?Q]O3b0]OUO0ad0>j[O5fe0H]ZO5ee0I]ZO4he0H[ZO7ee0I_ZO0de0OW1O2OO02O0OmUng0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 9 appears to be a distinct, protruding button or lever located on the front of the object, likely designed to be easily pressed or activated to capture an image, setting it apart from the other numbered components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_48",
+      "area": 10456,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "dR[<6`0N]`0`0hDBiJ7X`0;jD@mJ5X`0>i_OXOX40_K8M:b`07i_O@`0HR13VONoNm04ROP`0h0T@LED1d0=WOL<HE;3Eg05ROP`0i0T@8E223OI1O3TOQ`0h0R@a1JlNNH2O4SOP`0k0m_Oc1MN1bN3SOR`0a3j_OkN1aN2SOS`0T6j_OjJ2SOT`0Y7l_OfHT`0[7k_OeHU`0[7k_OeHU`0c70000000000000000000000000000000XIk_Oe5U`0YJm_Oh5R`0QJk_O]O4b6Q`0PJV@P6k?mIX@R6h?iI]@W6d?aIj_OMd0;[O60j4X`0eJf@9SO805Oh3]a0jKf^O0:8FHOe3^a0WLa_O8SOL3`3[a0ZL__O:UOI2b3[a0ZL`_O:VOF0f3[a0XL`_O=DX3Wb0gLh]OZ3Xb0eLi]OV3XO_LUc06d]OY3XOaLTc05e]OZ3db0aLc]OX3cc00:E2OON4O0QNnZOj0O\\NXe0<iZOJ5Y1ie0bNZZO\\1Xf0\\O_YOCff0:[YOEgf06\\YOIgf05ZYOEKLnf00n00h]Vc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 10 appears to be a large, protruding button or lever located on the front of the object, likely serving as the primary control mechanism for capturing images, distinguishing it from the other smaller, less prominent components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_54",
+      "area": 8181,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "\\`T791JTg00VYO>ff0?N202M102N2M5L3^YObN62LNge0n1XZORNhe0n1WZOTNie0T2SOoMc[OS2[d0k0O3LfM[[O\\1ed0cN^[O\\1`d0aNg[OYOGn1bd0WN^\\Ok1`c0oM_[O1S1P2hd03NlMXZO3O76k02kNce05dZOn0CnNie02gZOn0_OQOef0n0ZYOSOff0S1^YOjN]f0S1aYOoNaf0X1_YOgNZf0W1eYOkN\\f0]10O3M000000000000000001O0000001O1O1O2N2N1O001O000000001O000N200O10000O2M200O203L02O1N0O20JQNZZOn1ee0TNYZOn1fe06M300O1O100OXOaZOQO_e0o0bZOPO_e0n0cZOQO[e0R1eZOlN[e0U1fZOjNZe0U1jZOgNVe0[1jZO`N[e01hZOg01TOWe00nZO2^Ob0=ZOYf0d0g0_OeXO3eg0NP_f0MRaYO2BMmXO8HJRg0NQYOc0nf0>C7aYOhNVf0Z1eYOjNS1Loc0[1nZOkNP1KRd0d1n[O]NQd0d1m[O\\NSd0e1m[O[NSd0f1k[O[NVd0c1S[O]N<0ad0c1Q[O_N>O`d0a1R[ObN<Nbd0a1Q[OaN=Oad0l1[[OnME7Qe0P2S[OjML5Re0e20N101N4`MiZOQ2Xe0kMlZOT2Ue0jMnZOT2Re0mMnZOR2Se0lMP[OR2Pe0nMP[OR2_e0O100O1000000O100[NSZOS1Rf0iNQZOW1oe0dN[ZOV1Xf001nNZYOg0if0WO]YOc0Pg0]OlXO9`g0N4K4MmSke0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 11 appears to be a large, circular button or shutter located on the front of the device, likely designed to be easily pressed to capture images, distinguishing it from the other smaller, more intricate components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_49",
+      "area": 8896,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "fPb=3mg00L7RYOLje0;_YOG4N\\f0h0cYO[O\\b0JZAk0TLVO08Xb0Gk]O`0i2AUM04j0KVO0:Vb0Fk]Oc0h2C]MY1ma0cNn]Od0W2_OhM50F1`14fN\\a0L`^Od0=YOo03eNb0N]O0_14gNOHWa04g^Ol02]ONC<3Ij2L\\M0GXa05f^Ol02G1_O3U3KfLXa03h^Ok00J0_O3T3MeLXa04g^Ok00I0@4S3MfLWa03i^Oj0O81X20cLWa04h^Oi0170Y20dLVa03j^Oh008OZ20dLWa03i^Oh0071f10aMOHVa02j^Oh0071e12kMSa0e0j^OL0d13lMRa0d0k^OL0^10ZM7f0o`0]Oj^O]205=QNh`0\\Ol^OW5<_Km`0`4S_OaKn`0]4S_OdKl`0\\4U_OcKm`0]4P_OeKo`0[4R_OdKo`0\\4P_OdKPa0\\4o^OfKRa0Y4m^OgKUa0W4j^OjKWa0T4j^OlKUa0U4k^OjKVa0W4h^OjKWa0X4h^OgKZa0X4e^OiK[a0X4d^OgK_a0W4b^OcKca0]4]^ObKea0]4\\^ObKea00U^Od36[Lga0GT^OF2Y43XLia0Ci^Ok3_ObLha0Ak^Ok3]OdLjb0\\3V]OdLlb0X3W]ObLnb0\\3T]OdLPc0W3V]OcLkb0\\3W]ObLlb0\\3U]OcLkb0\\3V]OcLlb0[3n0O2lM][O]O1?jd0NX[O@OJ2GL2Pe0<Q[OL6H47Xe03`ZOLh00ld0M`ZO3e0Nae0N`ZO0be0NlYPb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 12 appears to be a large, protruding button or lever located on the front of the object, likely serving as the primary control mechanism for capturing images, distinguishing it from the other smaller, less prominent components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_36",
+      "area": 8779,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "kUm>3lg0101N10010O00010O0010O01O010O010O010O0010O010O0007J0O0010N10001O01O0000001O001O0O101O00001O001O00001N2O002N001O00001O0000O10O101O001OO10O10O100000000000O11O010O2N1O001N1000000000000000000000000001O0_O\\OfYOe0Yf0[OgYOd0Yf0^OfYOb0Zf0^OfYOa0Zf0AdYO`0\\f0@dYO?\\f0CcYO=]f0CcYO;^f0FbYO:^f0GaYO:^f0FbYO:]f0GcYO8_f0H_YO9af0G_YO9af0H^YO8bf0H^YO9af0H^YO8bf0H^YO7cf0I]YO7cf0I]YO6cf0L\\YO4df0c010000000000000000O10000000O1000O11N011N0101O0O1002M110O1O001O1O1O0O2O001O00001O1O001N1000000O1N200O11OO0101OO1001O001O00000000000O10000000iZO_Noc0a1Q\\O_Nnc0b1Q\\O`Nnc0`1R\\O`Nnc0`1R\\O`Nnc0_1T\\O_Nmc0a1R\\O`Nnc0`1R\\O_Noc0b1o[O`NPd0`1P\\O`NPd0`1o[OaNQd0`1l[ObNTd0e2O100001N11O00O100F:ZOjZOWNJ0be0U1^ZO[OQf0c0YZOUOhe0j0\\ZOSOce0l0_ZOSOae0m0_ZOTO`e0k0bZOUO]e0k0cZOUO^e0j0bZOWO]e0i0dZOUO^e0j0bZOVO^e0j0cZOUOde0d0\\ZO\\Oce0e0]ZO[Obe0f0^ZOZObe0f0_ZOYO`e0g0aZOZO]e0g0dZOWO]e0h0dZOXO[e0i0o0O001O001O000000001O001O001O00001O00000O101O0000000000000O101O0O2OYRl;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 13 appears to be a large, protruding button or lever located on the front of the object, likely serving as the primary control mechanism for capturing images, distinguishing it from the other smaller, less prominent components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_39",
+      "area": 8837,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "\\Wb<3kg05L2N2N1O2O0O002N100O0100O1O1O2O0O2O1O1OO1`XOHXg09gXOHWg0:fXOHZg0`0fXO^OTg0h0O0O2N100O110O01N4N2M000000001O0001O00000000001OO11O01O01O0000000000001O0000001O001OO12N3M2N001O00O11O002N5WYOkN0MYf0d1O001O000000001N100000000000002M101O001N101O1O0O2O0O2O1N2O1O1N1O2O3[\\ObMaa0a2[^OaMfa0`2W^ObMha0`2U^O`Mma0a2o]ObMPb0_2l]OcMVb0_2d]OdM\\b0_2_]ObMcb0a2V]O`Mlb0d2k\\O`MWc0b2^\\OeMcc0\\2[\\ObMic0]2W\\ObMjc0_2T\\O`Mnc0`2S\\O_Mnc0U34O1L5N101L3O2N1O1O2O0N3N3L4M7aNnZO@Xe0;mZOCPd0UOg\\OU1[OEoc0VOe\\OU1^ODlc0YOd\\OS1AAnc0\\O`\\OS1CAnc0^O[\\OQ1I_Omc0AY\\OP1J^Ooc0CQ\\OS11WOPd0If[OV1:QOQd0S1d[ObN<9Rd0f0P\\OROM7Ud0c0S\\OTOH5Yd0=Y\\O_O]O4Zd0:]\\OCWO3]d05b\\OHoN2`d05f\\OHfN4ed02f\\O>[c0Ah\\O>Xc0Ai\\O>Xc0@k\\O=Wc0Cl\\O9Vc0Ek\\O:Vc0Ek\\O:Vc0Ek\\O:Uc0Gl\\O6Vc0Hl\\O7Uc0Il\\O5Tc0Km\\O5Sc0Kn\\O2Tc0Mm\\O3Sc0Mo\\O0Sc0N`20TiY`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 14 appears to be a large, circular button or shutter located on the front of the device, likely designed to be easily pressed to capture images, distinguishing it from the other smaller, more intricate components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_51",
+      "area": 8704,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "\\\\m:4lg00ZN2Y[O0ad08\\[OHba0Nc]O1@>4AM?a00f0Dea0Z2`]ORNN@>3Tb0b3T]O\\LOO6084`b0k3S]OVL<N`b0X4T]OeK64fb0]4Y]ObKUb0OQ^Oa4HaKVb02n]O^4L_KVb0U5h]OlJWb0V5g]OkJXb0_5O1O1O1O1O1O1O001O2O0O11O001O00ObJQ^OC2S5la0ZKZ^OBLl4ja0aKc^O_4\\a0`Kg^O_4Ya0aKj^O\\4Ua0dKl^O9BP3ca0dLn^O;_OP3da0`LR^OMk0b0AP3ca0_LR^OOm05RO0>[3ba0_LR^O2k0OSOO22a0]3da0aLR_O3[OZ3ca0cLS_O1]OY3ob0gLQ]OY3kc0000O10O10O10O10001N010O1lL^[Oi2cd0VM_[Oi2bd0VM_[Oh2bd0WM_[Oi2md0O1^NlZO5Ue0JR[OVOLDO=Se0i0R[OTO5Nnd0g0fZORO;0E1<6nd0f0hZOROQ16Yd0LeZOc0Y1@ed00`[O0Yf0N101O1N10Wd\\d0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 15 appears to be a large, protruding button or lever located on the front of the object, likely serving as the primary control mechanism for capturing images, distinguishing it from the other smaller, less prominent components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_1",
+      "area": 7676,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "if_8P1nf0b0_O3L4N0O2O0O2O1N2O1O001N101O000O2O00000O101O000O1000001O00000000000O10000000000000001O000O10000000000000000000O10000000000000000000000000001N1000000000000000001O0O100000000O101O0O1000001N10000O2O001N101N101N2N2N2O2K:@Zime0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 16 appears to be a large, prominent button or lever located on the front of the camera, likely serving as the shutter release mechanism, which is the primary control for capturing photographs"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_43",
+      "area": 7325,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "j]a8;m04Xe00cZO6Xe0OcZO6Vd0^OR\\O?H3:YOTO112Tc09`]O=K0:EYb01a]O9M17HXb00c]O8N00O\\a0XOo^Oe0G2O3MOWa0^OV_O?F5MNO1a0WOa?9Y@?H6CTOLi07TOIk0m0ZO`?4Z@e0\\OUO3m0L6NMm0RO\\?8^@b0ZOWO3]36^L36i?9^@n0_OX2MdL;Li?<`@o0]Oc2OQL02R`0=_@l5b?ZJU@i5j?YJT@g5m?T120O00N30M4L210O11YNP@\\KP`0`4T@_KP`0W3k_OTL0WO8;HC20Oc0S`0R3l_O^L19OKe0N\\OM:3EK`0;h?Q3Q@dLK9o0L?Km>Z3W@fLZO1W11o`0X3d^OgLhb0U3T100O1F;XOnZOmM09We0Q1jZOYO5^OYe0T1lZOnNF3he0i0iZOSOB0fe0k0lZOSO_e0d0R1N30O010O01O2ONN031K401L301N2N1101O3M3M100O4M2M2gXO\\OTg0b0lXO^OTg0h0OO1KlXO^OUg0a0kXO^OVg0b050N11N101O0O<E2Lhmaf0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 17 appears to be a large, protruding button or shutter mechanism located on the front of the camera body, which is the typical location and design for a shutter release button used to capture photographs"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_11",
+      "area": 7229,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "UUf:3Ug07XYOKgf08UYOJif08VYOHjf0:SYOHmf0e0010000O001N3N2N4DlNbYOX1\\f07N2O2N8H5K2N2N2N5J3N2L3N2O1N3N2O0O10001O0O0100O1O1O1O00O1O1O1O1N2N2O1O100O11O001O2N2N1O1N2O1O1O00000O100O010O001O0010O01O0O101N1O3M2N3L4G<H6J5L3J6M2O200O1O1O1O1ETYOBkf0=\\YO]Off0a0=N:F3M3N\\[mc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 18 appears to be a large, prominent button or lever located on the front of the object, likely designed to be easily accessible and operated with a single finger, making it the most logical component for initiating the photo-taking function"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_5",
+      "area": 7054,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "eZZ=4bg0c0C:H:F4L4L3N3K4M4M2N2M3N2N2N2N2N1O2N101N1O2N1O101N1O101N100O2N100O1000001N1N200O1000O2O001O001O0O10001O0O100O10001N100O2N101N1O2O0O2M2O2N101N1O2N2N2N2N2N2M4M2M4L4M3M3L4K5L5J7H8FkUba0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 19 appears to be a circular, protruding element with a reflective surface, likely a lens, which is the primary component used to capture images on a camera"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_34",
+      "area": 4166,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "]Qo66hg02W[OKfa07Y^OISM0`d07U^O6ia0Kg[OHW2=aNIZb03m\\OGW2`0^NJ\\b0On\\OIV2a0TN1gb0Fo\\OHR2k1lMTNlb09V]OHNNg1U2XNPNjb06X]OGNOh1^2Qa0lMY]OMd1X2Ra0lMZ]OMd1[2m`0hM_]OMd1\\2e`0[Mh]O=NMe1Z2d`0^Mh]O;NNf1Z2c`0^Mg]OT1]1]1hN\\Mja0_1^_OW1eN_Mia0[1b_O`1^`0`Nb_Oa1]`0_Nd_O`1\\`0_Ne_Oa1[`0_Nf_O_1[`0`Nf_O`1Y`0aNh_OA_NYOOh01ROka0\\1g_O]OQOOca0c0]_OeN\\NMY18nNNRb0X1\\_ObNK4]a0Y1^@dNc?\\1a3N102O00101F]YOSOdf0S11I[YOSOff0l0ZYOROhf0h0<O01000O100O1O0010OO100O10001O0000001O0001O0001O000000001O0000010O00000000001O004L1O11N0010O010N101O0O3NWflg0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 20 appears to be a large, circular button or shutter located on the front of the device, likely designed to be easily pressed to capture images, distinguishing it from the other smaller, more intricate components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_53",
+      "area": 3298,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "kb\\b04lg01N2O001O0O2O0000O010O13M1N101O001O0JCiXO>Vg0BkXO<Ug0FjXO:Vg0HjXO5Vg0MjXO2Vg0NjXO3Ug0OiXO1Wg0=O00012M1O0N3O1N103M0010O011M102H65K6I101O0000O03O0O05LO0O100O2O^OZYOJgf04\\YOIef0GWYO;5Mjf02ZYOIgf07?200O11O00100O2N005LN2L4N2O1N2O1N101O001N2oXO_Oaf0R1M101N10010O000000010O1O001O2N0010O0YOfYOG[f07hYOHXf09iYOZOI2cf0b0lYO[OUf0e0d0K4N3M2O10001N1000000O101O000O1000000000000000000O11O0O0100O1O100O101N10PUX;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 21 appears to be a large, circular component with a lens-like appearance, positioned at the front of the object, which is consistent with a camera's primary function of capturing images"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_13",
+      "area": 3778,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "k`h74kg02O0O2O0O2O001N2O1O1O1N101N100O10000O2O0O100O2O000O10001O0O1000001O01O00100O001O00001O00010O000000001O0000001O01O000001O000000000000000000000000000000000000000000000000000000000000000000000000000O010000000000000000000O10O100000000O100000000O0100000O10000O10O10O100O10O10O100O100O100000O1000000O01001O0O2O1O1N101N2N101N100O2O0O2N1O2M\\WZe0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 22 appears to be a large, protruding button or shutter mechanism located on the front of the camera body, which is the typical location and design for a shutter release button used to capture photographs"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_29",
+      "area": 1449,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "om`=3mg00O2OO0100O100O10O10000000000O100000000000000000000000000000O100000000000000001O0000O1000000O100001O011N000010O000010O001O01O01O00010NiXO5[f0KcYO7`f0I[YO:df0GXYO<gf0HSYO<mf0:1010O0010O0010O011N01UOPYOe0Ug003M01O00010O001O010O01O0010O101O1N103NN10O02M2O1N3K6GQik`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 23 appears to be a distinct, protruding button or lever located on the front of the object, likely designed to be easily pressed to capture an image, setting it apart from the other components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_42",
+      "area": 1699,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "kT`63kg03N101[YOL[e05eZOLZe04UZOLH1Rf04VZOLG1Rf03VZOOE0me0JPZO7=3BMj0IWd01nZO8<a0:ZO[d0=X[O<8\\O_d0<T[O;6^Ofd07T[O<4^Ohd07R[O<6]Ohd07R[O=4]Okd05Q[O>4]Okd05Q[O>4]Okd06oZO>5\\Omd0FmZOa13jNQe0_OlZO11]2Se0bMR[O^2Xe0O2O0XN`ZOo0be0PO^ZO_O8Q1\\e0mN\\ZO:0Fa0P1Ye0XOmZOe0^f0IPYO[Ojf0b0VYO^Omf0>SYODmf0;nXOIUg0;kXO_OVg0d01AiXO1\\g0MeXO3[g0LgXO2\\g0KhXO2ahdi0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 24 appears to be a large, protruding button or lever located on the front of the object, likely serving as the primary control mechanism for capturing images, distinguishing it from the other smaller, more subtle components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_6",
+      "area": 2969,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "YfX=7hg03M3M<E3L2O1N2O0O2O00001O0O101O0000000O1000001O000O1000000000000000001O0000000000000000000000O10000000000000000000000O10001O0000001O0O101O000O101O0O100O2J5J7M3M3L6JhQia0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 25 appears to be a large, prominent button or lever located on the front of the object, likely designed to be easily accessible and pressed to capture an image, distinguishing it from the other smaller or less visible components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_7",
+      "area": 2751,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "S_id08cg0:H6K4L3M3N3L3N1O2N2N2N1O2O1N101N2O1N101O001O000O100000000000O100000000O2O000O2O0O100O1O2O0O2N2O3L2N3M2M4L5K4L3N1N3J5KXai:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 26 appears to be a distinct, protruding button or lever located on the front of the object, likely designed to be easily pressed to capture an image, setting it apart from the other components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_4",
+      "area": 2656,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Z]Xe09eg03N1O2O0O10001N10000O1000000000001N1000001O000000001O001O001O00001O00001O1O1O2N1O4L6K9F=C6J001O00000001O0O100000000O2O000O2O0O2O0N3M4L3NfjS:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 27 appears to be a distinct, protruding button or lever located on the top of the camera body, likely designed for easy access and operation to capture images, setting it apart from the other components"
+        }
+      }
+    },
+    {
+      "region_id": "cactus_camera_region_2",
+      "area": 2649,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "d_\\`0<^g09K4L4L3N2N3M2M3N3M2O1N2N2O0O2N101N101O0O1000001O00000000000000O10001O001N101N101N101N1O2N1O2N2N2N2M3N3L4K7H9Ec`Y?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "take photo",
+          "justification": "Part 28 appears to be a distinct, protruding button or lever located on the front of the object, likely designed to be easily pressed to capture an image, setting it apart from the other components"
+        }
+      }
+    }
+  ]
+}

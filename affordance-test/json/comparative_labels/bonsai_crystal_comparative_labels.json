@@ -1,0 +1,134 @@
+{
+  "object": "bonsai_crystal",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 21 parts marked and numbered (1 to 21), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 21 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>\nPart 16: <option>\nPart 17: <option>\nPart 18: <option>\nPart 19: <option>\nPart 20: <option>\nPart 21: <option>",
+  "raw_response": "Part 1: none\nPart 2: none\nPart 3: none\nPart 4: none\nPart 5: none\nPart 6: none\nPart 7: none\nPart 8: none\nPart 9: none\nPart 10: none\nPart 11: none\nPart 12: none\nPart 13: none\nPart 14: none\nPart 15: none\nPart 16: none\nPart 17: none\nPart 18: none\nPart 19: none\nPart 20: none\nPart 21: none",
+  "regions": [
+    {
+      "region_id": "bonsai_crystal_region_24",
+      "area": 40336,
+      "isolated_label": "cut",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_32",
+      "area": 31007,
+      "isolated_label": "cut",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_4",
+      "area": 28281,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_27",
+      "area": 27627,
+      "isolated_label": "cut",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_2",
+      "area": 26338,
+      "isolated_label": "pick up",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_29",
+      "area": 24119,
+      "isolated_label": "cut",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_26",
+      "area": 13737,
+      "isolated_label": "cut",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_30",
+      "area": 9146,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_19",
+      "area": 4369,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_21",
+      "area": 4800,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_8",
+      "area": 5568,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_20",
+      "area": 3349,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_25",
+      "area": 2459,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_13",
+      "area": 2741,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_6",
+      "area": 2666,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_7",
+      "area": 2566,
+      "isolated_label": "pick up",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_1",
+      "area": 2460,
+      "isolated_label": "pick up",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_3",
+      "area": 2030,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_5",
+      "area": 1684,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_10",
+      "area": 1401,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_crystal_region_11",
+      "area": 1268,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    }
+  ]
+}

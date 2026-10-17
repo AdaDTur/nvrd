@@ -1,0 +1,50 @@
+{
+  "object": "shape_12",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 7 parts marked and numbered (1 to 7), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 7 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>",
+  "raw_response": "Part 1: hold\nPart 2: sit on\nPart 3: hold\nPart 4: hold\nPart 5: hold\nPart 6: hold\nPart 7: hold",
+  "regions": [
+    {
+      "region_id": "shape_12_region_0",
+      "area": 215755,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_12_region_6",
+      "area": 204979,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "shape_12_region_2",
+      "area": 58363,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_12_region_5",
+      "area": 48157,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_12_region_7",
+      "area": 39393,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_12_region_4",
+      "area": 24250,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "shape_12_region_8",
+      "area": 9475,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    }
+  ]
+}

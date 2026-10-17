@@ -1,0 +1,145 @@
+{
+  "object": "shape_2",
+  "model": "allenai/Molmo2-8B",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/novel/shape_2.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "shape_2_region_21",
+      "area": 116321,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Y\\a:5go05J5M4L3L5H7L4F:^OfNTROd1bm0c0D;M4G8J7M3M3M3K4O2K5FTL[TOP4bk09K6LbLfTO\\2Uk0fMmTOZ2Pk0gMRUOZ2jj0hMXUOX2ej0hM]UOY2_j0iMaUOX2]j0jMcUOW2Yj0kMgUOX2Sj0kMnUOV2mi0nMSVOS2ii0oMZVOGDi0ni0A^VOEEP1fi0\\OeVOCFU1`i0ZOiVOAHX1[i0XOkVO@K]1Ti0VOnVO^ONd1lh0c0VWOEbh0:^WOm0McK68KLKKPf0`3YZOX3od0fLS[Ok3MkHPd0X3S\\O^4lc0bKT\\O^4lc0bKT\\O_4jc0cKU\\O\\4lc0dKS\\O]4mc0dKR\\O[4mc0gKR\\OY4mc0UIm[Oa13\\5hc0WHT\\Ok04d9gc0eFZ\\OY9fc0hFZ\\OX9ec0iF\\\\OU9ec0lF[\\OR9ec0oF\\\\Oo8dc0RG^\\Ok8cc0UG^\\Oj8ac0WG`\\Og8`c0ZGa\\Od8_c0^G`\\Oa8`c0`Ga\\O^8_c0cGa\\O]8^c0dGb\\O[8^c0gG`\\OY8`c0iG^\\OW8cc0jGZ\\OX8ec0Q21UGV\\O`5ic0`JY\\O^5hc0bJX\\O]5hc0dJY\\OZ5hc0fJY\\OY5gc0gJY\\OY5gc0hJY\\OV5gc0kJY\\OU5gc0kJY\\OT5hc0lJX\\OT5hc0lJX\\OS5hc0nJX\\OQ5ic0oJX\\OP5gc0[H\\\\Od1MP6hc0WHb\\Og1GP6gc0^H^\\Ob1KP6fc0aH]\\O_1MZOJo4mc0YJZ\\O_1OYOLl4kc0^JY\\O]10YOOi4hc0dJS\\O]16VO0g4hc0WMU\\OTN3d4ic0[MP\\ORN8a4hc0WOW\\Oi0ic0WOW\\Oh0jc0YOT\\Og0mc0ZOQ\\Og0nc0[OP\\Oe0Qd0e50O1O010O010O1O2O0O2O1N2O1N2eFc[OQ7^d0mHd[OQ7]d0oHc[OQ7]d0oHc[OP7]d0QIc[Oo6]d0QIc[Oo6[d0SId[Om6Yd0XIe[Oi6Zd0_2O010O1000O1000000O1bHh[OT3Xd0kLi[OU3Vd0kLk[OT3Vd0lLj[OT3Vd0lLj[OT3Vd0lLj[OT3Vd0mLi[OS3Wd0kIj[Oi1M]4Yd0aIU\\O]9kc0bFW\\O]9ic0cFW\\O]9ic0dFV\\O[9lc0fFR\\OZ9nc0jFm[OW9Sd0lFi[OU9Wd0lFg[OU9Yd0lFc[OX9\\d0V1000000001O01O000000000001O0QGh[OW6Wd0hIj[OX6Wd0gIi[OY6Wd0gIi[OY6Xd0fIh[OZ6Yd0YGi[OP2Mh6gd0XIW[Oj6id0V22N010O10O01O010N2O1O010O0010O0001O01O001O010O001N1010O00100O101N100O2O1N2O1O2M3N3L6K4K3WH\\ZOQ5fe0jJ_ZOS5je0cJ[ZOZ5je0^JZZOa5me0VJVZOi5ne0PJVZOo5ne0kIUZOS6oe0iIRZOW6Qf0dIQZO[6Sf0`IoYO`6Wf0XIkYOh6fg01000O01000O01O1O1O1O1O001O10O01O2N1O001O001N2O1O1N2O100O10O107I4L2N3M3M002N3L101O2O0O6JO100002N002N3N1N0O2SKcVOT3]i0hLkVOT3Vi0iLoVOT3Ri0hLSWOV3nh0gLVWOX3jh0eL[WOX3gh0dL\\WO[3eh0cL\\WO]3dh0bL\\WO_3eh0^L]WOb3dh0\\L]WOd3ch0[L^WOf3bh0WL`WOj3`h0TLbWOk3`h0QLbWOn3_h0PLcWOP4Vj02O0O10001O00O01O1O2O0O2N101N1O1O2N1O1O1O101N1O1O1O1O1O3M1O1O1O1O1O2N1O2N1O1O101N2O000010O11OO001O1O01O10O1O0010O1O0010000000O1O001O01O2OO1O10O2OO001O10010O0O01O001O10O2M100O2N2O0O[UOnJ]j0T5_UOoJaj0X5100O11N01O011O00O1O01O1N100N3OZUOlJ`j0\\5O1OO1000O10O01O110OO1O0O101N2N_UOhJ\\j0`5O10O0O10O1O02O000001OO1N100O2O_UOeJ]j0a50O2NO10O0001O03N0O1O3MO3N000002M4M2M2O1O000O2O3L2O2M2O0O1O1N4N3L4L3N1N1O2M3N2N2N4L1O2N2^LeSO[3`l001O1N6K5J4M2M3N2N2\\MfRO]2_m001N4L3N3L3N2M2N6J5J<C5K5J:I4BaPO2QTk5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 1 appears to be a larger, more prominent feature at the base of the object, likely designed as a main grip point for handling or supporting the entire structure"
+        }
+      }
+    },
+    {
+      "region_id": "shape_2_region_18",
+      "area": 47744,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "akR58]o0d0A<D:G8G9G8H7J7H7J6K5J6J6K5J6K4J7K5K4L5J5M3L4L5K4M3M3L4M3L4M3L4L4M3M3M3M3M3M2N3M3M2N3N1M3O2M2N2O2M2N101O1N2O1N2O0O10010M20O1000O01O1O10000O001O101N001O1O1O100O100O100O10000O011N100O10000O10001O0O1O10001O0O11OO101N1000001O000O10001O0000000000O1001O00O1010O00O1001O00O101O000000001O0O2O00001O01O01O0O2O001O001O010M2O101O1N100N3O0N3M2N3M3L3O2M2O2O1O0100O2O0O2O002N1O1N2O2N1N3N1O2M3N2N2M2O2N2N3M2N3L3N2N3M3M3M3M4L3L6K5K5K5K5K5K:E8oJQUOd4mm0UMR1lNf]Td0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 2 appears to be a flat, drum-like surface positioned at the top of the object, making it suitable for being struck or beaten"
+        }
+      }
+    },
+    {
+      "region_id": "shape_2_region_0",
+      "area": 20922,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "ah]<V1Vn0k0[Ob0^Ob0A=C=C=E:G:F9G9F:H8G8H9G8I7H9G8J6N2N3N1O1O100O1O2O0O1O1O100O00100O100O1O100O100O00100O010O010O01O001O001O1N101N2N2M2O2M3M2M4L4J6K4J7J6J5J7K5I7K5I7J6J6J6J5L5J6J6J7J5L4J6J6K5K5L4L5J5M3K5L4L4L4L4K6L3K5M3L4M3L5K4L4L5K4L5K4L5LQ^P`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 3 appears to be a flat, drum-like surface positioned at the base of the object, making it suitable for percussion and distinguishing it from the other parts"
+        }
+      }
+    },
+    {
+      "region_id": "shape_2_region_7",
+      "area": 13461,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "nZTa04ho05M4M9F4L5L2O2M2N2O0O2N1O2O1N101N1O1O101N100O1O002N101N1O10O01O100O1O001O00010O000010O00001O00000010O000001O01O0001O001O000000010O000000010O00001O0000010O0000000010O000001O0001O01O0000001O01O0001O0000010O000000001O01O0001O00000010O000001O0001O0001O000000001O01O01O0001O01O0000001O0001O01O00001O0001O0001O000001O01O001O001O101NM300000010O000001O000010O000001O01O0001O000000010O001O2N1OMgNaQOY1^n04001O000001O01O001O1O2N1OLiNaQOV1_n060O0000001O0001O01O00000010O00000001O0001O01O001O2N100O1O1O00K50001O01O001O1O101N1OK5001O01O0001O002N1O2O2M4HQQOXOQo0f07O2M1O1N2O1N2N2N1O2N2N2O1NdjV6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 4 appears to be a cylindrical drum-like component with a hollow interior, positioned centrally and vertically, making it the most suitable part for producing percussive sounds compared to the other solid, differently shaped components"
+        }
+      }
+    },
+    {
+      "region_id": "shape_2_region_2",
+      "area": 12111,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "\\_Tc0<ao08J3L5L4L3N2M3N2M2O1O2N1O1O1O1O1O1O010O001O001O010O00000000001O00000000000000000000O2O00O1001O000000000000000000000000000O1000000000000000000000000O1000001OO100001O000000000O1000000000000000000000000000000O100000000000000000000O10000000000000000000001N010000001O00000000000O10000000000000000000000000000O10001O000000000000000O10000000000000000000000O1000000000000000000O100000000000000000000O2O0000000000000000000O100000000000000000000000000O1000000000000000000000000O1000000000000000000000000O100000000000000000000O1000000000000000000000001N101[OUQO2mn0G]QO5Zo0Ln_W4"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 5 appears to be a flat, elongated surface positioned horizontally, making it ideal for brushing compared to the other parts which are likely more three-dimensional or protruding"
+        }
+      }
+    },
+    {
+      "region_id": "shape_2_region_15",
+      "area": 4681,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "\\Zd5;co03N2N101N1000001O000000001O0000000010O000001O00000000001O0001O0001O000000001O0000000010O00000001O000000001O01O00000001O0000001O0000000010O00000001O0000000010O00000001O000000001O0000010O0000000000001O0000001O000001O0001O0000001O0000000010O00000001O0000001O0000000010O00000001O000000001O01O0001O00000000001O000001O0001OO100O2K4I8DfeVe0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 6 appears to be a thin, elongated object with a flat surface, likely designed for sweeping or brushing rather than the other numbered parts which seem to be more solid or functional components"
+        }
+      }
+    },
+    {
+      "region_id": "shape_2_region_16",
+      "area": 2982,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "eTQ:6ho04M3N2M3M3N2M3N2N2N2O1N2O1O001O2N1O1O100O1O1O100O1O1O1O101N1O1O1O1O100O1O2N1O101N1O1O1O00O100N3N1N2N2N2N2N2N3M2N2N2O1N2N2N3N1N2O1N2N2N3M2O1N2N2N3N1N2N2NWiac0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 7 appears to be a thin, elongated object positioned at the top of the structure, resembling a drumstick or mallet, which would naturally be used for striking or beating sounds, unlike the other parts that seem to serve different functions"
+        }
+      }
+    },
+    {
+      "region_id": "shape_2_region_5",
+      "area": 2898,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "eVf?5io03M3M3M3M3M3M2N3L3N3M3M2M4M3L3N3M2N2M4M2N2N2N2M4M2N1N3O0N10N2N101N2N101N2O1N101N2N101N2N2O0O3M3M4L3N3L4L4L5K4L5L3L5K5Kel]>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 8 appears to be a small, round, ball-like object attached to the main body, likely serving as a decorative element rather than a functional component with a specific affordance"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "object": "shape_16",
+  "max_regions": null,
+  "nonce_word": "blentham",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "prompt": "What is the potential functionality/purpose/affordance of this object, assuming it is NOT a decorative piece?",
+  "baseline_description": "The object in the image appears to be a modern, minimalist sculpture or a functional piece of furniture. Given its design and structure, it could potentially serve as a stool or a small table. The triangular base provides stability, while the central column could be used for seating or as a surface for placing items. The smooth, sleek lines and the combination of different materials suggest it is designed for both aesthetic appeal and practical use.",
+  "logprob_full": -41.03524398803711,
+  "n_tokens": 84,
+  "occlusion_fill": [
+    127,
+    127,
+    127
+  ],
+  "regions": [
+    {
+      "region_id": "shape_16_region_0",
+      "area": 833107,
+      "logprob_full": -41.03524398803711,
+      "logprob_occluded": -42.837772369384766,
+      "information_gain_nats": 1.8025283813476562,
+      "information_gain_bits": 2.600498756831874,
+      "information_gain_bits_per_1000px": 0.003121446293011431
+    },
+    {
+      "region_id": "shape_16_region_4",
+      "area": 202404,
+      "logprob_full": -41.03524398803711,
+      "logprob_occluded": -57.88988494873047,
+      "information_gain_nats": 16.85464096069336,
+      "information_gain_bits": 24.316106929956305,
+      "information_gain_bits_per_1000px": 0.12013649399199772
+    },
+    {
+      "region_id": "shape_16_region_1",
+      "area": 49061,
+      "logprob_full": -41.03524398803711,
+      "logprob_occluded": -46.1611328125,
+      "information_gain_nats": 5.125888824462891,
+      "information_gain_bits": 7.39509438720077,
+      "information_gain_bits_per_1000px": 0.15073264685189397
+    },
+    {
+      "region_id": "shape_16_region_2",
+      "area": 43792,
+      "logprob_full": -41.03524398803711,
+      "logprob_occluded": -45.09819030761719,
+      "information_gain_nats": 4.062946319580078,
+      "information_gain_bits": 5.861592506656244,
+      "information_gain_bits_per_1000px": 0.1338507605648576
+    },
+    {
+      "region_id": "shape_16_region_3",
+      "area": 11136,
+      "logprob_full": -41.03524398803711,
+      "logprob_occluded": -41.76047897338867,
+      "information_gain_nats": 0.7252349853515625,
+      "information_gain_bits": 1.0462929168458792,
+      "information_gain_bits_per_1000px": 0.09395590129722335
+    },
+    {
+      "region_id": "shape_16_region_5",
+      "area": 4141,
+      "logprob_full": -41.03524398803711,
+      "logprob_occluded": -40.970909118652344,
+      "information_gain_nats": -0.06433486938476562,
+      "information_gain_bits": -0.09281559701764057,
+      "information_gain_bits_per_1000px": -0.022413812368423224
+    },
+    {
+      "region_id": "shape_16_region_6",
+      "area": 2908,
+      "logprob_full": -41.03524398803711,
+      "logprob_occluded": -40.580223083496094,
+      "information_gain_nats": -0.4550209045410156,
+      "information_gain_bits": -0.6564564024821337,
+      "information_gain_bits_per_1000px": -0.22574154143127018
+    },
+    {
+      "region_id": "shape_16_region_7",
+      "area": 1267,
+      "logprob_full": -41.03524398803711,
+      "logprob_occluded": -41.83869171142578,
+      "information_gain_nats": 0.8034477233886719,
+      "information_gain_bits": 1.1591300461463645,
+      "information_gain_bits_per_1000px": 0.9148619148747945
+    }
+  ]
+}

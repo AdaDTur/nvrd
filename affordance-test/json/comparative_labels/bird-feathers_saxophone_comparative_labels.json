@@ -1,0 +1,134 @@
+{
+  "object": "bird-feathers_saxophone",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 21 parts marked and numbered (1 to 21), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 21 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>\nPart 16: <option>\nPart 17: <option>\nPart 18: <option>\nPart 19: <option>\nPart 20: <option>\nPart 21: <option>",
+  "raw_response": "Part 1: hold\nPart 2: hold\nPart 3: hold\nPart 4: hold\nPart 5: hold\nPart 6: hold\nPart 7: hold\nPart 8: hold\nPart 9: hold\nPart 10: hold\nPart 11: hold\nPart 12: hold\nPart 13: hold\nPart 14: hold\nPart 15: hold\nPart 16: hold\nPart 17: hold\nPart 18: hold\nPart 19: hold\nPart 20: hold\nPart 21: none",
+  "regions": [
+    {
+      "region_id": "bird-feathers_saxophone_region_11",
+      "area": 146201,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_4",
+      "area": 13037,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_24",
+      "area": 10700,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_10",
+      "area": 5837,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_5",
+      "area": 4028,
+      "isolated_label": "open",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_7",
+      "area": 3258,
+      "isolated_label": "open",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_16",
+      "area": 2747,
+      "isolated_label": "open",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_8",
+      "area": 2406,
+      "isolated_label": "open",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_3",
+      "area": 2319,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_15",
+      "area": 2140,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_13",
+      "area": 1061,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_6",
+      "area": 1768,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_14",
+      "area": 1696,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_19",
+      "area": 1629,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_20",
+      "area": 1367,
+      "isolated_label": "pick up",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_18",
+      "area": 1321,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_2",
+      "area": 1286,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_25",
+      "area": 1270,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_26",
+      "area": 1214,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_27",
+      "area": 1179,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "bird-feathers_saxophone_region_1",
+      "area": 1132,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    }
+  ]
+}

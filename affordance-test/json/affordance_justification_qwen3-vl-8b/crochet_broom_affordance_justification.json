@@ -1,0 +1,128 @@
+{
+  "object": "crochet_broom",
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-texture/crochet_broom.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "crochet_broom_region_5",
+      "area": 414166,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "nVRa0722f04ll0O]ROR42nKch0GhWO1Lb60^IZf0\\9SOl0]Og0SOn0YO`0]OcC^]O`<bb0`0O0000001O001O001O00001O001O1O001O1O001O2N1O3M1O2N1O1O2N7b_OZBT>P`0I4e@e_Oi>]`0SAf_Ol>\\`0QAe_Oo>g`0O001O1O1O1O1O001O1O1O1O1O2N1O001O1O001O1O2N1O1O001O1O1O2N1O1O1O1O001O1O1O1O2N1O2N1SOl]OlCUb0Q<n]OnCUb0n;l]ORDWb0j;k]OUDVb0j;j]OVDWb0h;i]OYDXb0g;g]OYDZb0f;f]OZD[b0e;e]O[D]b0c;c]O]D`b0_;a]OaDbb0[;`]OPDH>kb0^;e]OaD\\b0^;e]OaD\\b0];e]OcD\\b0];d]ObD]b0];c]OcD_b0\\;`]OdDbb0Y;^]OhDfb0T;Z]OlDib0Q;V]OPElb0n:S]OSEnb0m:P]OTEQc0k:k\\OYEVc0g:h\\OZEZc0Z:`\\OTE7b0]c0U:^\\OUE=9cc0\\:g\\O_E_c0\\:U1N3L6K3M2M5L2N2N2N2M3N1O2N3UGcYOm7[g0M2M2O2N1O1O2N3L3N1N3N100O100O2J7L2O2M3N2M2O1O4J6K3N1N4M3M1O2N4L5J4M4K3N2N1O2N4K5L5K1N2O1O2N2N3M4K4M2M2O2N100N5L5J3N1N3O2M4M0L6L4M3L2O1O1N2O2N4K2M4M2O2M3N2N2N3L4L4M2M3N3L2N2N3L3M3L4N2N101N2N3L4M6D^SZ7HQmeH2RP`0Omo_O0WPO"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 1 appears as empty space in the background without any physical form or attachment point for interaction, unlike all labeled components which are distinct structural elements of the broom"
+        }
+      }
+    },
+    {
+      "region_id": "crochet_broom_region_7",
+      "area": 114465,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Qlg7:eo05J6K3M3M3L3N3M3M2N2M3N1O2N2N1M4L3O2M2N3L3O2N1N3M2N2O2M2N2N2O1O1O2N1N3L4N1O2L3M4M3L3M4N1N2O1O1N3N1N2O2M2M4N1O1L5M3M3M3M2N3N1N3K4N3M3M3K4M4K5N1M4K5L3N3L3N3N1O1N2N2N3M2L5M2K5O2M2O2M2N3N1N2O2M2N2N3N1N2N2L4O1O100O11O01O01O001O0001O01O01O001O00100O001O00001O00010O1O010O00010O0010O01O0001O0010O00010O00O10010O000001O0001O000O2O0000001O0O10000001OO10001N10010O0000000001O000001O01N1000000000000010O00000001O001O0001O01O001O00001O000000000000000000000000000O0101O000000000O100O1000000O100000000001O000000000001O000000000000000000000001O0O101O000000001O000000000000000000000000000000001O000000O100000001O0O010000000000O1000O10000O1000000000000000000001O00000000000000000000000O10001N10O1000O1000O1000000O010000000O10000O10000O10000000O1000O10O1000O100000O010000O10000O01000000O1000000O10O100O100O1000000O0100O10000O10000O10O10O10O10O10O010O002N101N3N3M1N3N1N2O2M2N2N3L3O3M2N2N1O001O2N2N2N2M3N3M1O1O2N3M3L5L3M2N2N3M4L3L4M2N4L2M4M2N2M3N4K4L3M4L2O2N3M3L3N2M3N2M2O2N3L4M4K5K4L5L2N1O2N2N2N1O1O2M2O2N1O2N4K3N2N2M3N1N4L4L4K4M4M2M2O1N2M4L3M3N2O1N2N2K7K7HbSP8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 2\u2019s wide, flat bristle head made of flexible strands allows for sweeping motion across surfaces \u2014 unlike its rigid handle above \u2014 making it uniquely suited for striking dust into piles during cleaning actions like beating down debris before vacuuming"
+        }
+      }
+    },
+    {
+      "region_id": "crochet_broom_region_8",
+      "area": 32613,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "YdW;7eo07K4M2M3L3L5L4M3L4M2N3L3N2N2N2N2O1N2O2M2M3N2O2M2O1N2N3M2M3O1O1N2O1N3N1O1N3M2O100N2O100O1O1N2O1O2M2O1N2O100O1O2O0O1O100O1O1N2O1O1O101N100O10000001O000000001O0000001O01O0000000010O0001N10O100001O01O0000001O00000001O00000001O0O10000000000O1010O00000000000000000000000000000000000000000000001N10000000O100000000000000000000000000000000000O10000000000001O0001O0000000000O10O1000000000O10000000000000000000O100000000000O10000000000000O10000O101O0O10000001O0O101O001O001O1O1O1O1O001O1N3N001O1O1O1O001N2O1O1O1N2O1O1O1O1O2N0O2O1O1O001O1O2N2N2N2N1O2M2O2N2N2N1O2M3N2M3N2M3N1N3N1N3N1N4M3L4L3N1N3M4M4K6J4M4Kh[^;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 3 has bristles arranged in dense rows at its lower edge for sweeping surfaces directly against them"
+        }
+      }
+    },
+    {
+      "region_id": "crochet_broom_region_1",
+      "area": 31825,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Q]`>7do06K4N3POFPROb0]j0BWUO3g0EO[2di0T3VIkJg^O=SOb6na0\\Jo\\Oi8mb0V2O2N2L4K5N3O0000000000001O00O100000000000000000000001O0000O10000000000000000O1000000000000000000000000000000000000O10000000000000000000000O1eIl]OaI\\OH3Nb1g0cNY1`b0V4eBVK\\=Z2Y]OZL7:0Jl6b0d;V2iFdM[9W1TH[Nn7V1g;G8[Of0Gnog>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "Part 4 extends vertically as a long handle designed for gripping and lifting, distinguishing its function from all other components which are fixed in place at the broom\u2019s base or bristles"
+        }
+      }
+    },
+    {
+      "region_id": "crochet_broom_region_6",
+      "area": 13803,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "e^_=826jn0HXQOi0an0d0G<A5G8N3N1O1O2N100O1O1O2O0O10000O100O101O000O100000000O1000001O0O1000000000000O10000000000001O00000000000000000000000001O000000O10000000000000O10000000000000000O0100000000000000000000000000000000001O000O100000O1000000000000000O0100000000000001O000000001O0000001O001O1O1O001O1O1O2N1O2M2O3L3K5eN\\RODLISn01cROJn_k="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 5 has a compact cylindrical form positioned at the top of the broom\u2019s head where hands naturally grip for control during sweeping motions"
+        }
+      }
+    },
+    {
+      "region_id": "crochet_broom_region_2",
+      "area": 12811,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "\\ej:;do03H7K5N1O2M2G:N100O2O010O01O1O100O1O1O1O1O010O000000001O0001O000010O0001O000010O000001O001O01O01O01O000001O000001O0001O00010O0000001O000000000000000010O0001O00000000000001O01O00O1000000000001O01O0001O000000000001O000000000001O000000000000000000000000000O1001O00000000000000000000000000000000000000000000001O00000000000000000000000000O1000O100000000001O00000000000000000000000000000000000000000000O2O00O1000O100000O100000000000000000000000O100000000000000000000001O0000000O10000O1000O10O1000000000000O100000O10000000000O1000000000O10O1000O100000O1000O1000000000000O0100000O1000O10O10O1O100O100O100O10O01O010O1O010O1O010O10O2O001N3N2M3M3M2O3L4K4KmZR;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 6 has a narrow band encircling the broom\u2019s head where fingers can grip for control during sweeping motions"
+        }
+      }
+    },
+    {
+      "region_id": "crochet_broom_region_4",
+      "area": 4054,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "^`Z=9eo04L5L3M2O0O2O00001O00000001O01O000001O000001O00000001O000000000001O00001O01O0000000000000000000001O0000000000000000000000000000000001O00000001O00O010000000O100000000000000000O100000000000000000000000000000000001O0000000000O10000000000000000O10000000O10000000000000000000000000000O10000000000000000O101N101N2M3L4M5Ka_g="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 7 has a narrow, cylindrical form positioned between two larger sections, making it ergonomically suited for gripping by hand during use of the broom"
+        }
+      }
+    }
+  ]
+}

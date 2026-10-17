@@ -1,0 +1,77 @@
+{
+  "object": "shape_25",
+  "model": "OpenGVLab/InternVL3-8B-hf",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/novel/shape_25.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "shape_25_region_4",
+      "area": 82528,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "oaa86io06K4K4M3N3L3N3L2O1N3N1N2O1O2M2O100N2O0O2N101N2\\YOkNZ>U1_AWO\\>i0^A@^>a0^AE`>;\\AKa>6\\AMd>4WA1h>OTA6k>KQA8o>Hn@<P?En@=Q?Dl@?S?Bj@a0V?_Oh@c0W?^Of@e0Z?[Od@g0[?ZOb@i0^?VOa@l0^?UO`@m0`?RO^@P1b?QO\\@Q1d?oNZ@S1e?oNX@R1i?nNT@U1l?kNR@W1n?hNQ@Y1P`0gNn_O[1Q`0fNm_O[1S`0fNk_O\\1U`0cNj_O^1V`0cNh_O_1X`0`Ng_Oa1Y`0`Ne_Ob1[`0^Nc_Oc1]`0^Na_Od1_`0[N`_Of1``0[N__Of1a`0YN^_Oh1b`0YN\\_Oh1e`0WNZ_Ok1e`0VNZ_Oj1g`0VNW_Ol1h`0TNW_Om1i`0TNU_Om1l`0RNT_Oo1k`0RNS_Oo1m`0RNQ_Oo1Pa0PNo^OR2Pa0oMo^OQ2Qa0oMn^OR2Sa0nMk^OT2Ta0lMl^OT2Ua0lMi^OU2Wa0kMh^OV2Ya0jMe^OX2Za0iMd^OX2]a0hMb^OX2_a0hM_^OY2aa0gM^^OZ2ca0fM\\^O[2ca0fM[^O[2ea0fMZ^OZ2fa0fMY^O[2ga0fMW^O[2ja0dMU^O^2ja0cMT^O^2ma0aMS^O_2ma0bMQ^O_2Pb0`Mo]Ob2Pb0_Mn]Ob2Sb0_Mj]Ob2Vb0_Mi]Oa2Xb0_Mf]Ob2[b0^Mc]Od2]b0\\Mb]Od2^b0]M`]Od2`b0]M^]Od2bb0]M\\]Od2db0]MZ]Oe2eb0\\MY]Oe2hb0\\MV]Od2jb0]MT]Od2lb0]MR]Od2nb0^Mo\\Oc2Qc0^Mm\\Od2Sc0]Mj\\Od2Vc0]Mh\\Od2Yc0]Mc\\Oe2]c0^M_\\Oc2bc0^M[\\Oc2ec0`MW\\Oa2ic0aMS\\Ob2mc0_MP\\Ob2Pd0aMk[Oa2Ud0bMg[O_2Zd0cM`[O`2`d0bM\\[Oa2cd0dMT[O`2md0eMiZO_2We0U4001O00001O00010O0000001O0010O0001O00001O001O0010O0000000001O0000001O00000010O01O0000001O0000001O00001O00001O000010O0000000001O00001O00001O00001O00001O00000000001O00001fGPZOb6Pf0VI]ZOe6ce0XIbZOg6]e0XIfZOf6Ze0XIjZOf6Ve0XInZOf6Se0WIQ[Og6od0XIS[Og6md0XIV[Of6jd0XIZ[Of6fd0ZI[[Oe6ed0ZI][Oe6cd0ZI_[Oe6bd0YI`[Of6`d0ZIa[Od6`d0[Ib[Od6^d0\\Ic[Oc6]d0\\Id[Od6\\d0[If[Oe6Yd0ZIi[Oe6Wd0[Ii[Oe6Xd0YIj[Oe6Wd0[Ii[Oe6Wd0ZIk[Oe6Ud0ZIm[Oe6Sd0[Im[Oe6Td0YIn[Of6Rd0YIo[Og6Qd0YIP\\Of6Qd0XIP\\Oh6Pd0XIQ\\Og6Pd0WIQ\\Oi6Pd0UIR\\Oj6bf001O001O00001O001O001O001O00001N10001O001O001O00001O001O001O001O0O2O001O00001O001O00001N101O00001O001O001N10001O001O001O001N101O001O1O001O0O2O001O001O001O0O2O001O0O2O1O001O001N101O1O1O001N2O1O001N2O001N2O1O001N2O1O001O1N2O1O1N2O1O1N2O1O1N2O1O1N101N2O1N2O2N1N2O1N2O1N2N3N1N2N2O2M2N3M3M2N3M3M3M2N3M3L5L3L5K5K5K5K5J9G8FdTQ;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "lift",
+          "justification": "The base of part 3 resembles handles due to its upward-curving form which suggests grip for lifting compared to more structural elements like supports in adjacent areas"
+        }
+      }
+    },
+    {
+      "region_id": "shape_25_region_0",
+      "area": 49111,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "h^Q7?Zo09L5H9G8K5J6K6K2HTNYROm11QNWm0i2H8I5L3M2N2L3O2N1gSO]LTl0i3NKnSO`Lok0j3O2M3N1N2N2O1N2O1N2O1N2O1O1N2O1O1O001N2OZKnTO_4Pk0:N2O1N3N1N2O0O2N2N2N1O2N101N2O001O0O2O1O1O001N2O001OeJ\\VOZ4di0bKeVOZ4[i0aKlVO\\4Ti0`KQWO`4oh0\\KVWOb4Uj001O0O2O0O10001N100O100O100O10O0100O100O10000O10O0100O10O0100O10O0100O10O01O10O01000O0100O1O0010O0100O1O010O010O010O00100O00100O010O00100O010O010O010O0010O01O010O1O010O0010O010O01O1O010O0010O0010O0010O01O010O001O01O01O010O1O010O00010O00010O0010O0001O010O0010O01O0010O0010O001O01O01O00010O00010O0010O0001O010O00010O000010O01O00010O00001O01O01O01O00010O0001O01O01O0000001O01O01O000010O000001O0010O0000010O000001O00000010O0000000001O000000001O00000010O000001O0000001O0000001O0000001O000000001O01OO10000010O00O10000000001O0000000000000O101O000000000000000000000O1000001N100O100O010O1O100000000O100O100O1O100O100O10O0100O10O0100O10O01000O010O010O00010O0O100O100000000O1000O2N1O2N3L3J7M4M2N2N3M3M4K6J>C4K3M5J6IU^e;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The orange band around neck-like structure suggests functionality for holding something close like clothing, differing in its implied use as compared to distinctively shaped segments elsewhere"
+        }
+      }
+    },
+    {
+      "region_id": "shape_25_region_2",
+      "area": 24309,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "bVQ::ao0<E8J5J5L4L4L4M3L3N3L3N3M2N2N2M3N2N2N2N2N2N1O2O1N2N1O2N2O0O2N2O0O2N1O2O0O2O1N1O2O0O2N2N101N101N100]NdLaVO]3Zi0PM^VOP3^i0[MZVOg2bi0`MYVOa2ei0hMSVOY2ki0o1N2O1N2O1N2O1O1O1N2O100O1O1O1O100O1O100O100O100O10000O1000O0100000000O100000O010000000000000O1000000O101O00000O10000O2O000O100\\MaVOgN`i0P1PWOhNPi0U1VWOgNkh0V1ZWOhNfh0V1]WOiNdh0U1]WOjNdh0T1_WOkNah0T1aWOkN`h0S1aWOlN`h0S1aWOmN`h0Q1aWOoN_h0P1cWOnN_h0P1bWOPO^h0o0cWOQO^h0m0cWORO^h0m0cWOSO^h0k0cWOTO_h0i0dWOVO]h0h0dWOXO\\h0g0eWOXO]h0f0dWOZO]h0d0dWO\\O]h0b0dWO]O^h0`0dWO@\\h0?fWO_O\\h0?eWOA\\h0<fWOC]h0:dWOF]h07eWOH]h06dWOJ^h02dWON^h0NdWO1^h0LdWO4^h0GfWO7]h0DfWO<\\h0@fWO`0^h0YOeWOf0^h0TOfWOl0ah0eNgWOZ1ak0O0O100O2O0O101O0O101N1O2O0O2O0O2O1N101N2N2N2N2N2N2N3M2N3LohT`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 3 appears as a detached green blob without any clear functional connection or interaction point compared to its surroundings in terms of structure or positioning relative to identifiable features like handles or supports present elsewhere"
+        }
+      }
+    },
+    {
+      "region_id": "shape_25_region_5",
+      "area": 18713,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "o\\hd0:20mn0KSQOh0fn0=kNiNZSO[1\\l0fNkRO1?b1el0_NkROO?d1el0]NkRO1?a1fl0`NkROM?d1fl0_NkROM?c1hl0^NkROM?c1gl0`NiROM;0Eb1Xm0hNiROG0g1Xm0i01N10O01O100O100O1O100O100O100O100O01000O1000O0100O010O10000O01000O0100O010O10O10O100O010O10O010000O010O1O010O100O10O0100O10O0100O10O01O1O10O0100O1O10O01O100O1O010O100O1O010O1O100O00100O1O100O1O010O1O100O10O01O100O1O010O1O10O0100O100O010O10O0100O100O100O010O1000O0100O10O01000O0100O10O10O01000O010000O010O10000O10O10O100O100O100O100O100O1O10000O100O2N1O100O1O2N100O2N1O2N101N1O2N2N2N2M2O2N2N2M3N3M2N2M4L4L3M5K4L5J7I8DQfZ4"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part four has a protruding elongated handle-like structure suggesting impact interaction, differing in function as compared to smoother surrounding areas which likely serve structural roles rather than direct contact points"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "object": "shape_15",
+  "model": "OpenGVLab/InternVL3-8B-hf",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/novel/shape_15.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "shape_15_region_7",
+      "area": 150579,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "gg_8f0ln0f0C<E8J5H9I7G7L5G9J6K4K5L4J5L6K6G8L3L3N3K5L3N2K6K4N3H7N2J6K5M4L3N3J6M2M2N3M3M3K6M2L4M3M3N2O0K6M4M2N2N2L3M4N2M2L5M4K4M2N3M2M4M2N3L4M3M3N1N3L4N1N3L3N3M2O2M2M3O2M2N2M3N3DoDb[OV;]d07O100O2N1O2N1O1O1N2M3O1N2O1N3L3N1O2L4L4L5L3M3M3TOSCS^O04Q=ga0j0N2SOTBb_OP>]`0j000O1001N101O001N2O1O1O001O001O001O001N101O0O2O1N101O1N10001O00001N1000001O0O101O0O10001N100O100O1O1O100000O10O1000O0100O1O010O1O001000O10O01O1O010O001O010O0010O0O10000000O2O0O10O10O2O01N10O1000O1O001O10O1O101O0O100O0010O1O1O1O1001O1O001O0O2O00000000000O0100L400100O1O001O001O00O100000001O0N2001O010O1O001O001O0010O00001O00010O01O1O001O0010O010O10O010O00010O1O1O0010OO2O010O01O001O001O001M2O2O001O01O01L301N1O2O00000O2N1M4O001O00001M201O00001O0O2N1O2K5N1O2N2N10001O0L5O001O0O2O0O2O1N101O1O1O00001O001O0O2N2N1O2N2N2N1O2O1cIU\\Oc0mc0[Lo[O;`0R3ac0bLX\\O1?X3Zc0eLZ\\OkMBk1R1`3Sc0iLf\\O@=c3mb0mLh\\O\\Ob0k0gNhMNb1Wd0?c\\OkMQOX1e1o0TO]Odc0`0k\\OPOb0n0ROVNSOm0_d0o0o\\OiNb0P1]OTOUc0R1T]OaN>V1^OPOSc0X1X]OZN;[1\\OnNTc0i0[[OmNm1DSN3Y2b1[OlNTc0g0e[OlN_4\\1jLnNUc0h0m@7PLmNVc0i0o@7mKlNWc0k0PA7jKmNUc0l0SA6kKjNSc0o0TA5Sa0Jo^O5Pa0JU_O3k`0KX_O4h`0J\\_O4d`0K^_O4a`0Lb_O2^`0Me_O1[`0Ng_O1Y`0Mk_O1U`0Nn_O0R`0OQ@Oo?0S@Om?0V@Oi?0Z@Nf?1\\@Nd?0_@Ob?Oa@O_?0d@N]?0e@N\\?1g@MZ?2i@JY?4[8MRgb:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The central location of Part 1 along its broader surface area suggests functionality for grasping compared to more specialized structures like protrusions labeled elsewhere which likely serve distinct purposes such as attachment points rather than being designed primarily for carrying objects directly due their positioning away from potential hand-like interaction zones typically associated in similar biological models when considering analogous"
+        }
+      }
+    },
+    {
+      "region_id": "shape_15_region_4",
+      "area": 98345,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "TVS8P1mn07I7I7I8I6J5L3L4M4L3L4M4L3L3N2O2M3M2N3M3M2N3M2N3N2M2N2N3M2O2M2N2O2M2O2M2O1N3N1N2O2N2M2N3N1N3N1N2O1N3N1O1N2O1O1N2O2N1N2O1O2N1N2O1O2N1O1N3N1O2M2O1O1O2N1N3N1O1O1O1O2M2O1O1O2N1O1N2O1O2N1O2N1O1O2M2O2N1O1O1O2N1O2N1N3N2N1O2N2N2N2N1O1O2M2O1O2N1O1O1O1O001O1O1N2O1O001O001O001O1N101O1O001O1O001O001O0O2O001O001O1O001O00001O1O001O00001O0000000000001O000000001O00O01000000000O10001O0O10000O100O100O1O100O1O100O100O1O1O100O1O1O1O1O1N2O1O1O1N2O1O1N2O1O1O1N2O1O1N2N2O1O1O1O1N2N2N2O1N2O1O1N2O1O1O1O1O1O1O1O1N2O1O1O1O1N2O1O1O1O1O1O1O1O1O1O1O1O100O1N200O1O1O1O100O1N2O100O1O1O100O1O100O1O100O1O100O1O1O100O1O1O1O1O1O2N100O1O100O1O1O100O1O100O100O100O10000O100O1O100O100O100O1O100O100O1O100O100O100O100O100O1O100O10000O10000O100O100O10000O100O100O2O000O100O10000O100O100O101O000O1000000O2O0000000O10000O2O00000O1000001O0O100000000O2O00000O2O0000001O0000001O00001O01O01O001O0001O100O010O0001N100O2O0O2O0O1O2N101N2N1O101N1O2O0O2N1O2N1O2O0O2N1O2N1O2N1O2N1O1O2N1O2N2N2M3N1O2M4M2N2N2M4L3M3M4M3L5J4L5K7J5J7G;Bni_8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 2 has no distinct edges facing outward for interaction due to its flat top surface which lacks any protrusions typical of interactive elements like buttons found in objects such as stoves where others are situated around openings used frequently by users' hands; thus differing functionally despite similar materials present elsewhere shown through visible seams indicating potential handles"
+        }
+      }
+    },
+    {
+      "region_id": "shape_15_region_5",
+      "area": 61421,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "[lg;3lo02O0O2O001O001N10001O0000001O000O2O001O001O000O10001O000O10001O0O10000O2O0O1000001O00000O10001N1O100O2O0O1000001N100O100O101O0O100O1000001N10000O100O100O2O0O1O1O100O101N1O100O100O100O1O1O1O1O2N1O1O1O1O1O1N2O1O1O1N2O1O1N2N2O1N2O2N1O1O1O1N2O1O1O1O1O1O100O1O1O2N1O100N2O100O1O100N2O1N2O1O2N1O1O1O1O1O1O1O1O1O001O1O100O1O1O100O1O100O1O100O100O10000O100O100O100O100O100O100O1O10O0100O1O100O1O1O1O1O100O00100O1O1N2O1N2O0O2O1M3O1O1N2N2N2O1O001N2O1O1M3N2O0O2N2O1O1O1O1N1O2N2M3M2O2O1N2N2M3O1N2N2O1N101O1O0O2M3O1O1O1O1O001M3O001O1O1N2N101O1N1O2O1O1N2N2O1N2M3M2N3O1O1L3N3N2L4N2O001M3N2O1O1N2O0O2O1O010O1O1O001O1O1O100O00100O001O1O010O1O0010O010O10O1O0010O0010O1O010O01O010O001O010O101N1O2O1N3M2N3N2M3M3N2M3M2N2O2M3M3M3M2N4M2M2N3M4L3M3M3M3M3M2N3M3M4K3N3M4L4L2M5L3M4L3L4M4L3L4L4M4L4K5J5M4K5K4L4L6J7H6J8I7I6I5J7J9G9C=E=A[Xd7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "lift",
+          "justification": "The rounded base of Part 3 suggests stability for support when lifted compared to its more protruding shapes which are likely designed for attachment rather than handling directly by lifting"
+        }
+      }
+    },
+    {
+      "region_id": "shape_15_region_3",
+      "area": 7023,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "b\\\\65jo02O1N2O100O00100O10O01O100O10O01O10O0100O1O010O100O00100O100O00100O100O00100O00100O100O010O1O100O1O010O100O010O1O100O100O00100O10O01O100O10O01O100O10O01O100O100O1O010O100O100O1O010O100O100O1O100O010O100O1O010O100O100O10O0100O1O100O10O0100O010O1O100O10O0100O100O010O100O100O00100O100O100O1O100O101N1O010OO101N100O2N1O1N2N2N2N2N2O1N2N2L3O2O0O2L5UOWQO9mn0CXQO9ln0EUQO8\\o0LUaSd0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part four has a pointed triangular structure protruding outward in contrast to smoother surfaces of adjacent sections which suggests its role as something meant for impact rather than interaction through touch points like others around it do potentially imply tactile engagement but without direct contact area similar enough across all elements present here shown visually distinctively separate entity within overall form design"
+        }
+      }
+    },
+    {
+      "region_id": "shape_15_region_8",
+      "area": 6606,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "^[Ud05io09G3ePOBQo0a0lPODon0h0O1N9H5J8H7H3N4L2O0O2OO101N1O1O1O1O1O1N2O1O1O001O1O001O1O001O001O001O00001O00001O001O001O001O000010O0001O001O00001O001O001O000010O0001O001O00001O001O010O00001O00001O001O010O00001O00001O010O00001O001O000010O01O001O00001O00010O001O00000010O01O001O001O01O01O00001O0010O01O001O001O000010O01O00001O010O00001O001O000010O01O001O001O010O001O001O001O00001O010O001O001O2O0O2Migo5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "The pointed tip of Part 5 suggests its function as something meant for impact due to its sharpness compared to smoother surfaces seen in adjacent sections like those labeled Parts 4 and 6 which appear more structural rather than functional targets themselves; thus differing by being designed explicitly towards interaction through contact such as striking objects directly unlike broader"
+        }
+      }
+    },
+    {
+      "region_id": "shape_15_region_9",
+      "area": 4838,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "oaYd098Nnn0d0M3M`0A5K2N2M3N2O0O3N1N101O00O100O1O1O1O1O100O1O2N100O1O100O1O1O10O01O100O1O1O100O100O1O1O010O100O1O010O100O100O00100O100O10O01O1O100O10O01O100O1O010O100O10O0100O100O00100O10O01O100O100O010O100O100O010O100O010O1O10000O010O1O100O010O100O10O0100O1O10O10O100O1O100O1O010O100O1O1O2O0O2No^X7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part six has a pointed tip extending outward in contrast to its surrounding smooth surface areas which suggests interaction through impact rather than grip or containment; thus differing functionally as something meant for striking compared to others likely designed differently due their shapes being more suited towards holding onto objects like fingers would do if they were human hands depicted here instead"
+        }
+      }
+    },
+    {
+      "region_id": "shape_15_region_2",
+      "area": 3078,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "kbV66io02O0O2O001O001O001O010O00001O0010O01O001O0010O01O001O001O0010O0001O0010O01O001O001O1O010O001O00010O001O001O010O001O001O010O001O001O010O001O00001O010O001O001O1O0010O01O001O1O001O10O01O1O001O2N10O01O00O100O1L4N3M2O1L4O1N2N2N3M2L4O1M4M2N3Lh\\Rf0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part seven has a pointed tip extending outward in contrast to its surrounding structure which suggests interaction through impact rather than absorption of force like adjacent areas do; thus making hitting more plausible for number seven compared to others without such protrusion designed explicitly towards contact initiation points typically associated within contexts requiring direct physical engagement mechanisms often linked metaphorically under"
+        }
+      }
+    }
+  ]
+}

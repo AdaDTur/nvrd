@@ -1,0 +1,1552 @@
+[
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "]n\\R1>WV1b2`M2O00000O1000000O0100000O10O1000O10O100000O10O1000O1000O10O100000O010000O10O1000O1000O10O1000O01000000O01000O1000O10O1000O10O100000O010000O10O100000O1000O10O10000000O102Nl0SO]1bNkhf7"
+    },
+    "area": 8751,
+    "bbox": [
+      909,
+      189,
+      88,
+      117
+    ],
+    "predicted_iou": 1.0145975351333618,
+    "point_coords": [
+      [
+        957.84375,
+        290.625
+      ]
+    ],
+    "stability_score": 0.9829397797584534,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_0"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "QZV[128h0`T1W1fNZ1^Ob0N1000000000000O10000000000O100000000001O00O1000000000000O1000000000000000000000000000000O1000000000000O1001O001RL\\mNe3\\V1_LkZO"
+    },
+    "area": 7516,
+    "bbox": [
+      1141,
+      557,
+      60,
+      130
+    ],
+    "predicted_iou": 1.0139633417129517,
+    "point_coords": [
+      [
+        1145.65625,
+        678.125
+      ]
+    ],
+    "stability_score": 0.9709309935569763,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_1"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "gXna04gT1o1L200O10000O01000O1000O10O1000O010O01000O0100O01000O010000O0100O10O10O10O10O100O01000O01000O01000O10O10O100O10O10O01000O02O1N\\kSi0"
+    },
+    "area": 4493,
+    "bbox": [
+      474,
+      211,
+      63,
+      89
+    ],
+    "predicted_iou": 1.012609601020813,
+    "point_coords": [
+      [
+        507.09375,
+        251.875
+      ]
+    ],
+    "stability_score": 0.992684543132782,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_2"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "\\`h`0P2fT14M2N100O10O0100O010O010O10O010O01O010O010O0100O010O0100O010O0010O010O010O0100O010O010O0100O010O01O10O010O0100O0010O0010O010O10O0100O010O010O010O0100O010O2O2M[Vfi0"
+    },
+    "area": 5885,
+    "bbox": [
+      443,
+      27,
+      79,
+      107
+    ],
+    "predicted_iou": 1.0106652975082397,
+    "point_coords": [
+      [
+        507.09375,
+        58.125
+      ]
+    ],
+    "stability_score": 0.9868042469024658,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_3"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "iha35aV13O1N2O1N2O1N2O0O3N0O2N101N2N101O1N101N101O1O1N2O001N10001N101N2N2O1N2O001N2O0O2O1N101O1N2O0O2O1N101O1N2O1N101O0O2O001N1O2O1N2O001N102M3N000O100O10000O10000O100O1O100O100O100O100O100O1000000O10000O1O100O100O100O10000O100O10000O1000000O100O100O10000O100O100O1O100O100O10000O10000O100O100O10000O1O100O1O10000O10000O10000O100O10000O100O100O100O1O10000O100O10000O100O10000O1O100O1O10000O100O100O10000O10000O10000O1O100O100O100O100O100O10000O1O100O100O100O1O10000O10000O100O100O100O100O10000O100O100O1O10000O100O100000000O100001O0000001O00001O0000001O001O00001O00001O001O001O1O001O00001O001O0000001O000000001O001O001O001O00001O001O00001O001O0000001O0000001O001O00001O001O00001O0000001O001O1O1O001O0000001O001O0000001O0000001O001O1O001O00001O0000001O0000001O00001O001O001O001O00001O00001O001O001O0000001O001O001O001O00001O001O00001O00001O00001O00001O0000001O00001O00001O0000001O001O00001O001O00001O001O00001O000000001O00001O1O1O001O00001O00001O00001O1O00001O001O1O001O001O001O001O1O1O001O0000001O001O001O001O001O00001O001O001O00001O0000001O00001O00001O001O001O00001O0000001O001O1O001O00001O001O001O001O001O0000001O001O001O0000001O00001O00001O000000001O001O00001O00001O001O001O1O001O0000001O00001O001O00001O0000001O00001O0000001O001O00001O0000001O00001O001O1O0000001O00001O001O001O001O001O1O001O001O00000000001O001O00001O001O001O00001O001O0000001O001O00001O1O001O1O001O1O1O001O00001O00001O001O00jSd?"
+    },
+    "area": 66608,
+    "bbox": [
+      93,
+      1068,
+      694,
+      171
+    ],
+    "predicted_iou": 1.0101815462112427,
+    "point_coords": [
+      [
+        544.65625,
+        1143.125
+      ]
+    ],
+    "stability_score": 0.9861894249916077,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_4"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "Xb[=o1hT13N0O10O0100O010O010O010O010O10O0100O010O01O10O0010O010O10O1O010O010O010O010O00100O010O010O010O010O10O010O01000O01O0100O00100O1O1O7Ijkbm0"
+    },
+    "area": 4545,
+    "bbox": [
+      353,
+      81,
+      66,
+      95
+    ],
+    "predicted_iou": 1.009853720664978,
+    "point_coords": [
+      [
+        394.40625,
+        135.625
+      ]
+    ],
+    "stability_score": 0.9892684817314148,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_5"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "mb]e05_V1T2oM1O100O01000O10O10O10O1000O01000O100O01000O010O100O010000O010O1000O01000O010O1000O010000O01000O0100O010000O01000O01000O10O0100O01000O10O10001N2Nc1kMWTWe0"
+    },
+    "area": 5585,
+    "bbox": [
+      566,
+      176,
+      74,
+      97
+    ],
+    "predicted_iou": 1.0085971355438232,
+    "point_coords": [
+      [
+        619.78125,
+        213.125
+      ]
+    ],
+    "stability_score": 0.9850957989692688,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_6"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "fWkd0S1>QOK5UT1R2N2N100O010O01O0100O01000O0100O010O01N1100O100O100O100O100O10000O100O100O100O10000O10000O100O100O100O100O10000O100O100O100O10000O100O100O10000O100O10000O1O100O10000O100O100O10000O100O100O1O6J\\knd0"
+    },
+    "area": 6307,
+    "bbox": [
+      551,
+      0,
+      96,
+      86
+    ],
+    "predicted_iou": 1.008109450340271,
+    "point_coords": [
+      [
+        582.21875,
+        58.125
+      ]
+    ],
+    "stability_score": 0.9851828217506409,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_7"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "nS_i04`V1Z2iM2O0O10000O1000O01000O010O10O1000O01000O01000O010000O01000O10O10O10O10O10O01000O0100O10O10O1000O10O10O10O10O01000O010000O010O1000O01000O01000O01000O0100O10O10O1000O011N4MS2jM`je`0"
+    },
+    "area": 7152,
+    "bbox": [
+      673,
+      132,
+      87,
+      108
+    ],
+    "predicted_iou": 1.0073171854019165,
+    "point_coords": [
+      [
+        694.90625,
+        213.125
+      ]
+    ],
+    "stability_score": 0.9876388907432556,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_8"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "h[na05iT1n1K1O100O100O1000O1000O10O10O10000O0100000O10O1000O10O10O10000O10O1000O10O10O1000O10O100000O0100000O01000000O10O10O1000O10001MUhSi0"
+    },
+    "area": 4520,
+    "bbox": [
+      474,
+      316,
+      63,
+      84
+    ],
+    "predicted_iou": 1.005631685256958,
+    "point_coords": [
+      [
+        507.09375,
+        368.125
+      ]
+    ],
+    "stability_score": 0.9914134740829468,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_9"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "[_W[1b1b0lN\\R1^3M101OO10O10000000001O00000O1000000000000000000000000000000O10000000000000000000000000000O10000000000UQOoKoj0Q4QUOoKoj0Q4l30O11O001SO`mN_Mjg1"
+    },
+    "area": 7494,
+    "bbox": [
+      1142,
+      557,
+      58,
+      254
+    ],
+    "predicted_iou": 1.0049055814743042,
+    "point_coords": [
+      [
+        1145.65625,
+        600.625
+      ]
+    ],
+    "stability_score": 0.9689424633979797,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_10"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "]m0352;5HKM0O153MKc2:^M1M;7C0LRm0JhRO2;5HKM0O153MKc2:^M1M;7C0LQm08PSOm0Hh02bN3_1MlNSm0IhROf7Wm0n0O1O1001O1O1O2N1O001O1O1O4L8H9G4L5K8H6J2N6J5K2N4L4L5K2N1O3M4L3M2N2N2N2N2N2N2N2N2N1O2N2N2N1O1O001O1O001O1O001O1O001O001O00001O001O00001O000000001O00000000000000000000000000000WNlnNnMUQ1P2nnNnMRQ1Q2QoNmMoP1R2SoNmMmP1S2SoNmMmP1R2UoNmMkP1S2VoNlMjP1S2XoNlMhP1T2XoNlMhP1T2YoNkMgP1T2ZoNlMfP1T2[oNkMeP1T2\\oNlMcP1U2^oNjMbP1U2`oNjM`P1V2aoNiM_P1V2coNiM]P1W2doNhM\\P1X2doNhM\\P1W2foNhMZP1X2foNhMZP1X2goNgMXP1Y2joNfMVP1Z2joNfMVP1Z2koNeMUP1Z2loNfMTP1Z2moNeMSP1Z2ooNeMQP1Z2PPOfMPP1Z2QPOeMoo0[2RPOdMmo0\\2TPOdMlo0\\2UPOcMko0]2UPOcMko0\\2WPOcMio0\\2YPOcMgo0]2ZPObMfo0]2\\PObMco0_2^PO`Mbo0`2^PO`Mbo0_2`PO`M`o0`2aPO_M^o0a2cPO_M]o0a2dPO^M[o0c2fPO\\MZo0c2hPO\\MWo0e2iPO[MWo0e2jPOZMVo0e2lPOZMTo0f2lPOZMSo0g2nPOXMRo0g2PQOXMon0i2QQOWMon0h2SQOWMln0j2UQOUMkn0j2WQOUMin0k2WQOUMhn0k2ZQOTMfn0l2[QOSMdn0n2\\QORMdn0m2^QORMan0o2_QOQMan0n2aQOQM_n0o2aQOQM^n0o2dQOPM[n0Q3fQOnLYn0R3iQOmLVn0T3g20O001O001O00001M3M2O2O001K4L5N1N3N2N1N3M3N101O010O010O0101O0O2O0O2O0O2O0O2O0O2O001N10001N100O2O000O2O000O1O2O0O2O001N10001N1O100O2O000O2O001N100O2O1N101O0O101N100O2O0O2O0O101N101O1N100O2N101N100O101O0O2O0O2O0O2O001N101O0O2O0O2O000O2O0O101N101N101N101N100O2O001N101N101N100O2O0O101N1O2O001N100O2O0O101O0O101N10000O2O0O2N2O0O2O1N101N100O101O0O100O101O0O10001N2N1N3N2Nf[`P1"
+    },
+    "area": 42496,
+    "bbox": [
+      0,
+      934,
+      341,
+      305
+    ],
+    "predicted_iou": 0.9963156580924988,
+    "point_coords": [
+      [
+        18.78125,
+        1026.875
+      ]
+    ],
+    "stability_score": 0.963070809841156,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_11"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "]c[R1X1_U1d1\\N2O1O0O10000O010000O01000O10O10O10O1000O10O1000O10O1000O0100000O0100O01000O10O100O0100O10O0100O010O10O010000O10O10O10O10O1000O01000O0100O10O0100O010O10O10O10O010O2O3Lg0ZOU1iNm0oN]Zi7"
+    },
+    "area": 8299,
+    "bbox": [
+      908,
+      47,
+      87,
+      122
+    ],
+    "predicted_iou": 0.9952728748321533,
+    "point_coords": [
+      [
+        920.28125,
+        96.875
+      ]
+    ],
+    "stability_score": 0.980216920375824,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_12"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "n]V[1R1aT1X1`NVNVmNa2gR1j0O000000000000000000001O00000000000000000001O00000000O2O0000000000000000000001O0000000001O00000O1000001O000000O3LVa0"
+    },
+    "area": 7307,
+    "bbox": [
+      1141,
+      690,
+      59,
+      126
+    ],
+    "predicted_iou": 0.9949707984924316,
+    "point_coords": [
+      [
+        1145.65625,
+        794.375
+      ]
+    ],
+    "stability_score": 0.9711331725120544,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_13"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "PijZ1g0QV1l0TO3M1O00000000O10000O100O1000000O100O10000O1000000O10000000000O1000000O100O100O1000000O1000000O100O100O1000000O100000000O100000000O100O9FJ"
+    },
+    "area": 3180,
+    "bbox": [
+      1132,
+      0,
+      69,
+      54
+    ],
+    "predicted_iou": 0.9924707412719727,
+    "point_coords": [
+      [
+        1145.65625,
+        19.375
+      ]
+    ],
+    "stability_score": 0.9778816103935242,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_14"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "nT`e0m0ZU1XOnjNm0]U1101O0O100O010O1O1O100O1O10O01O1O010O1O1N2L3N3N2000000O01000O10O1000O10000000O2O0O2O0O5aNTkNi0hkXf0"
+    },
+    "area": 2142,
+    "bbox": [
+      568,
+      319,
+      45,
+      61
+    ],
+    "predicted_iou": 0.9857034683227539,
+    "point_coords": [
+      [
+        582.21875,
+        368.125
+      ]
+    ],
+    "stability_score": 0.9529895186424255,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_15"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "`f]e07TV1S2ZN0O100O10000O10000000O0100000O010000O0100000O1000O010000000O0100000O010000O1000O10O10O010O100O10O10O10O1000000O10O1000O1000O010000O1000O10000O2On1nMmoVe0"
+    },
+    "area": 5683,
+    "bbox": [
+      566,
+      288,
+      74,
+      92
+    ],
+    "predicted_iou": 0.9842687249183655,
+    "point_coords": [
+      [
+        582.21875,
+        329.375
+      ]
+    ],
+    "stability_score": 0.9837837815284729,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_16"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "o^g22eV13M3M3M4L8I`0_O<E4K5K6J4L3L4M4L5J5L3M4L4L3K5L5mlNbLeR1j3M3N1O2N1O2N1O2N100[NhKiPOZ4Vo0iKfPOX4Yo0kKdPOW4[o0kKcPOU4]o0RL[POo3eo0QL[POP4eo0PLYPOQ4ho0nKWPOT4jo0kKUPOU4lo0jKSPOW4no0hKRPOX4oo0gKPPOZ4QP1eKnoN\\4SP1cKmoN]4SP1cKloN^4SP1dKkoN]4TP1dKkoN]4no0kKnoNX4mo0RLkoNQ4RP1\\1N2O100002N4L4L6J4L2gJToNb4lP1]KZoN^4fP1bK]oN[4cP1dK`oNZ4`P1fKaoNY4_P1hK`oNX4_P1kK`oNT4`P1mK_oNS4aP1nK_oNQ4aP1oK_oNQ4aP1oK`oNP4_P1RLaoNm3_P1SLaoNm3_P1TLaoNk3_P1WL_oNi3aP1XL^oNh3bP1[L\\oNd3dP1^LZoNb3fP1`LXoN`3hP1X1000O100O10O010O10O1000O01aKUoNQ3kP1oLUoNQ3kP1^10O10O10O000FYoNdJhP1Y5<O1O2K4L5L4L4L4K5K5C=J6O100O2O001N2O2M2M3M3Lg0YO`0Aa0SOojNROnQmU1"
+    },
+    "area": 18747,
+    "bbox": [
+      72,
+      187,
+      128,
+      208
+    ],
+    "predicted_iou": 0.9833894371986389,
+    "point_coords": [
+      [
+        131.46875,
+        290.625
+      ]
+    ],
+    "stability_score": 0.9733572006225586,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_17"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "ci0m2kS10N9F6@`0J4L4O1O1O001O2N1O1O1O1O1O0113M02M9F:F6I7J3M6J3M5J6K5K5J4M3L4M3L4K4M3L5K5L2N3M2M4M3N2M3N1N3N2M3M2O0O2O1N101N1O2N2O001N10001O001O0010O0001O01O1O3M6J10O01O0000000000001O00001OO1000000O1O10000O100O1O1O100O100O1O1O1O1O10O01O100O100O100O010O100O001N2N20O0100000O10O10O100O01O1O001O1O00100O0100O100O10O01O1O100O100O1O2M201M2M3N3L3N2M3N2N3M2N2M3N2N2M3M3O1M3J5M4M3M3M3H8I8H7J6I7oLhoN_O\\P1?hoNUOaP1?knNjM[1JQQ1[2hmNgMjS1X2;O100O5J5L101N2O0O101N100O1000000O101N2M3N1O2O000O2O001O1O1O1O010O0100000O010O010O6G4B]jNBlU1LXjN1OOkg_T1"
+    },
+    "area": 50524,
+    "bbox": [
+      0,
+      756,
+      237,
+      308
+    ],
+    "predicted_iou": 0.9832718372344971,
+    "point_coords": [
+      [
+        131.46875,
+        794.375
+      ]
+    ],
+    "stability_score": 0.9749452471733093,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_18"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "e`Z=W12ZOjT1]1M2O000O010O10O10O100O10O10O10O1000O01000O010000O10O11N4KdfPo0"
+    },
+    "area": 1922,
+    "bbox": [
+      352,
+      266,
+      29,
+      71
+    ],
+    "predicted_iou": 0.9823900461196899,
+    "point_coords": [
+      [
+        356.84375,
+        290.625
+      ]
+    ],
+    "stability_score": 0.9891191720962524,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_19"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "P^gi04dV1h0XO001O0000O100O10000O100O10000O100O100O100O100O100O10000O10000O100O1O100O10000O100O100O10000O100O100O100O100O10000O100O100O100Oi\\Ya0"
+    },
+    "area": 1059,
+    "bbox": [
+      680,
+      0,
+      64,
+      28
+    ],
+    "predicted_iou": 0.9815336465835571,
+    "point_coords": [
+      [
+        694.90625,
+        19.375
+      ]
+    ],
+    "stability_score": 0.9676823616027832,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_20"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "Uj[=n1iT12O000O10000O10O01000000O1000O1000O10O1000O10O10000O101N3MP]on0"
+    },
+    "area": 1959,
+    "bbox": [
+      353,
+      358,
+      29,
+      69
+    ],
+    "predicted_iou": 0.977668285369873,
+    "point_coords": [
+      [
+        356.84375,
+        406.875
+      ]
+    ],
+    "stability_score": 0.9933909773826599,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_21"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "gTi02`V1>G9I6I3N5J5L3N2O2N1N2M2M3N1O2M3M3N1N2N2N2M3M3N1N3M3N1M4M3M3N1O1O1O1O10O01O001O1O0O101N101O00010WNXM`oNh2_P1[M`oNe2]P1]McoNc2\\P1^MdoNb2ZP1`MgoN_2no0iLToNi0n0^2mo0mMSPOT2ko0mMUPOS2ko0nMUPOQ2ko0oMUPOQ2ko0oMUPOQ2jo0PNWPOo1io0RNVPOn1jo0RNVPOn1jo0SN`oNfN4W3\\P1UN]oNhN4T3^P1XNXoNiN7o2aP1jN]oNW1cP1kNZoNV1fP1jNXoNX1hP1\\200O10000001O00000000001O00001O001O00000O0100O100O11O0O100000000O1000000O100000000O1000000O101O000O10000O100O100O1000O01O100O010O00100O00100O1O001O1N1O1O2M201M2N3M2O1O1N3M2O2M3N2M3K5K4N3L4L4J6K5I7K6H9G;@\\]WV1"
+    },
+    "area": 24209,
+    "bbox": [
+      20,
+      865,
+      170,
+      200
+    ],
+    "predicted_iou": 0.9765912294387817,
+    "point_coords": [
+      [
+        131.46875,
+        1026.875
+      ]
+    ],
+    "stability_score": 0.9746587872505188,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_22"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "d]V[166i0kS1k1POo0M2O000000000000000000001O000000000000000000000000001O00000000000000001O00O100000001O0001O00000O10001O0nPOSLYk0m3cTOWL]k0i3bTOYL]k0g3bTOZL^k0f3cTOXL^k0g3l3LVa0"
+    },
+    "area": 7381,
+    "bbox": [
+      1141,
+      690,
+      59,
+      248
+    ],
+    "predicted_iou": 0.9764866828918457,
+    "point_coords": [
+      [
+        1145.65625,
+        755.625
+      ]
+    ],
+    "stability_score": 0.9500919580459595,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_23"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "W^`i0Z2\\T16L1N100000000O10O1000O100000O0100O10000O010000O010000O100000O0100000O01000000O0100000O01000O10O10O1000000O0100000O10O10000000O10O10O100000O0100000O010000000O10O100000O2O1O2Mk0TO\\Zc`0"
+    },
+    "area": 7507,
+    "bbox": [
+      674,
+      256,
+      88,
+      101
+    ],
+    "predicted_iou": 0.9757300615310669,
+    "point_coords": [
+      [
+        694.90625,
+        290.625
+      ]
+    ],
+    "stability_score": 0.980034351348877,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_24"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "kZbm06=e0hR1Y3^O3kmNlMao0S5C5K6I2O001O0O10001O0O101O0000000000hLRQOeKf1T1Xm0U3RSOjLml0V3TSOjLll0V3USOiLkl0V3VSOjLjl0V3VSOjLjl0V3VSOjLjl0V3VSOkLil0U3WSOkLil0U3XSOjLhl0V3XSOiLil0W3WSOiLil0W3WSOiLjl0V3VSOjLjl0V3VSOjLjl0V3WSOhLjl0X3WSOfLkl0X3WSOeLll0Y3WSOoKlm07loNQ2NfMSg\\>"
+    },
+    "area": 8234,
+    "bbox": [
+      781,
+      536,
+      40,
+      249
+    ],
+    "predicted_iou": 0.9680189490318298,
+    "point_coords": [
+      [
+        807.59375,
+        600.625
+      ]
+    ],
+    "stability_score": 0.9698420166969299,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_25"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "oh0o3iR1001M2N3N1O2O00001O1O100O1N2O1O10O2O2N2N01N2N2N2N1O001O1O2M4M1N2N101N1O2M2O2M2N2N2O1O0001O001O00001O0100O100O1O1O1O2O0O10O01000O10O101OjNonNeLQQ1i2boNVM^P1h2eoNXMZP1f2hoNZMYP1c2joN]MUP1Y2UPOgMko0W2WPOiMjo0U2WPOkMjo0T2WPOlMjo0R2WPOmMmo0o1WPOmMko0P2VPOQNko0m1VPORNko0m1UPO^M_N;\\Q1W2UPO]MaN;[Q1W2UPO\\MbN<YQ1X2VPOZMbN>XQ1X2aPOfMao0Y2`POcMco0]2_PO`Mbo0_2\\20001O0001O0O100O1O100O100O2O0O2O0O2N1O1O1O001O010O1000000O10000O2O0O100O001K5O100000000000001O000O100O1O1N2O1O1O100O10O10000O1000O0100O10001O1N101O000O100O1O100N2O1O100O2O000O100000O10\\OdlNlM\\S1S2hlNiMYS1W2ilNgMWS1X2llNeMUS1Z2nlNdMRS1[2PmNcMRS1[2f000O2O0000001O0O102N4K2M3N1O2O0O1O2O00O10O1000001M4M2N2N1N3O0O101O002N0100O1O100O10000000O01O01O5I5SO_jN8UV1EiiNNXa^T1"
+    },
+    "area": 26553,
+    "bbox": [
+      0,
+      756,
+      238,
+      204
+    ],
+    "predicted_iou": 0.9649858474731445,
+    "point_coords": [
+      [
+        56.34375,
+        833.125
+      ]
+    ],
+    "stability_score": 0.9543092846870422,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_26"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "QUV[1b14aN[S1_3E3N2N10001O0000000O0100000000000O10000O10000O1000O100000000000000000000000O1000000000O10000000O100O100000000002N2N2bLRmN51T2^V1^MP_O"
+    },
+    "area": 7267,
+    "bbox": [
+      1141,
+      430,
+      60,
+      127
+    ],
+    "predicted_iou": 0.9645859003067017,
+    "point_coords": [
+      [
+        1145.65625,
+        523.125
+      ]
+    ],
+    "stability_score": 0.9621519446372986,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_27"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "0b7Vo0001O001O1O0000O1O1O1O100O100O1O100O100O100O100O100O100O1O100O1O1O1O100O100O1O100O10000O100O100O1O1O100WKYPO`2ho0_MZPO`2fo0_M\\PO_2eo0`M]PO_2co0`M_PO^2bo0bM_PO]2ao0bMaPO\\2`o0dMaPO[2_o0dMcPOZ2^o0eMdPOZ2\\o0fMePOX2\\o0gMfPOX2Zo0gMhPOW2Yo0hMiPOW2Wo0hMkPOU2Wo0jMkPOT2Vo0kMlPOS2Uo0lMlPOT2To0lMmPOR2To0mMmPOS2So0mMnPOQ2So0nMnPOR2Ro0nMoPOP2Ro0oMPQOP2Po0PNRQOn1nn0QNTQOm1mn0RNVQOl1jn0SNXQOk1in0TN]QOg1cn0XNgRO>Zm0BlRO7Um0HPSO3Qm0LQSO3ol0LSSO2nl0MSSO3ml0MTSO1ml0NWSOOil00eSOXOfl0g0f4O1O1O1O100O1O100O100O1O1O100O1O1O1O1O100O1O1O100O1O1O100O1O100O1O100O100O1O100O1O1O1O1NZR\\X1"
+    },
+    "area": 18873,
+    "bbox": [
+      0,
+      0,
+      134,
+      244
+    ],
+    "predicted_iou": 0.9607765674591064,
+    "point_coords": [
+      [
+        56.34375,
+        19.375
+      ]
+    ],
+    "stability_score": 0.9810113310813904,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_28"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "cmem0>XV14M1N3L3O1O1O2N10001N10000000001O00O1000001O000O101N101M4KhYe>"
+    },
+    "area": 848,
+    "bbox": [
+      784,
+      550,
+      29,
+      32
+    ],
+    "predicted_iou": 0.9583817720413208,
+    "point_coords": [
+      [
+        807.59375,
+        561.875
+      ]
+    ],
+    "stability_score": 0.9583333134651184,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_29"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "hQ:f06A^U1o0M10000O100O010O10O10O01000O010O10O10000O103Ln]X\\1"
+    },
+    "area": 939,
+    "bbox": [
+      8,
+      368,
+      23,
+      44
+    ],
+    "predicted_iou": 0.954013466835022,
+    "point_coords": [
+      [
+        18.78125,
+        406.875
+      ]
+    ],
+    "stability_score": 0.9778714179992676,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_30"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "n`Y16aV1P1PO2O0O100O10O01000O01000O10O10O0100O010O10O101N2N[aV[1"
+    },
+    "area": 1036,
+    "bbox": [
+      34,
+      356,
+      25,
+      47
+    ],
+    "predicted_iou": 0.9501848220825195,
+    "point_coords": [
+      [
+        56.34375,
+        368.125
+      ]
+    ],
+    "stability_score": 0.9856184124946594,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_31"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "ZXmZ1d0SV1Z1fNP1QOg0YO3M1O000O1000O1000O100000O0100O010O100O10000O010000O1000O10O10000O1000O0100000O1000O01000O10O01000000000O001O1M3O100000O2O8H2MYU1"
+    },
+    "area": 8020,
+    "bbox": [
+      1134,
+      37,
+      66,
+      139
+    ],
+    "predicted_iou": 0.9494532346725464,
+    "point_coords": [
+      [
+        1145.65625,
+        135.625
+      ]
+    ],
+    "stability_score": 0.960686445236206,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_32"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "dUg;1eV15M1N10001N101N101N100O101N100O2O000O2O0O2O001O00001O000010O0001O010O00010O01O01O01O01O01O01O0010O00010O00010O000010O00010O00010O0001O00010O0O2O2MWhnn0"
+    },
+    "area": 1624,
+    "bbox": [
+      309,
+      1009,
+      73,
+      38
+    ],
+    "predicted_iou": 0.948265552520752,
+    "point_coords": [
+      [
+        356.84375,
+        1026.875
+      ]
+    ],
+    "stability_score": 0.9756543040275574,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_33"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "0V96QGNJll0U9VSOQGNJll0X9QSOVGnl0[9O1O001O00O100O10000O100O1O10000O10000O10000O1O1O100O1O10000O10000O100O1O100O100O10000O100O100O100O100O100O10000O10000O10000O1O1O1O1O1O1O1O100O100O1O100O1O1O1O1N2O1O1N2O1N2N2O1O1O1N2O1N2N2O1O1`NZQOmJgn0P5]QOoJcn0o4`QOoJan0P5`QOPK`n0o4aQOPK`n0o4cQOnJ^n0Q5iQOhJXn0W5kQOfJVn0Z5kQOdJVn0\\5kQObJVn0^5jQOaJWn0_5iQO`JXn0`5hQO`JXn0`5hQO_JYn0a5gQO_JYn0a5hQO]JYn0b5iQO\\JXn0d5mQOTJVn0k5\\1O1O1N2O1M3[NSoN[MQQ1b2]oNjLlP1U3\\1O1O100O1O100O1O1O1O1O1O100O100O100O1O1O1O1O100O10000O100O100O100O100O1O1O1O100O1O1O100O100O100O1O1O1O100O100O1O100O1O100O10000O100O1O1O1O1O100O100O100O100O1O1O100O100O100O1O1O1O100O100O100O1O1O1O100O1O100O100O100O100O1O100O100O1O1O1O100O100O100O100O1O100O1O1O100O1O100O1O100O1O100O100O1O1O1O100O100O100O1O1O1O100O1O1O100O1O100O100O1O1O100O1O100O1O100O1O100O100O100O1O1N2O1Oi`dQ1"
+    },
+    "area": 46706,
+    "bbox": [
+      0,
+      0,
+      312,
+      315
+    ],
+    "predicted_iou": 0.9480333924293518,
+    "point_coords": [
+      [
+        18.78125,
+        213.125
+      ]
+    ],
+    "stability_score": 0.9644683003425598,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_34"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "`>i9ol00O1O101O0O1000001N10000O1000001O0O10000O101O000O100000000O2O00000O1000000O101O000000O2O2Mj1WF`ROg6dS1XIYid[1"
+    },
+    "area": 15102,
+    "bbox": [
+      0,
+      453,
+      47,
+      329
+    ],
+    "predicted_iou": 0.9468207359313965,
+    "point_coords": [
+      [
+        18.78125,
+        561.875
+      ]
+    ],
+    "stability_score": 0.9815422892570496,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_35"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "P:b0VV1000O010O1000O01O010O010O10O010O010O010O10O010O010O10O010O010O10O010O010O0010O01000O010O010O01O10O010O10O010O010O10O010O10O010O10O010O10O02O0O3N1N3M7HVWcZ1"
+    },
+    "area": 1446,
+    "bbox": [
+      0,
+      288,
+      75,
+      49
+    ],
+    "predicted_iou": 0.9464154243469238,
+    "point_coords": [
+      [
+        18.78125,
+        329.375
+      ]
+    ],
+    "stability_score": 0.971213161945343,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_36"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "\\dQP12dV13M2O2O001O1O001O001O0O101N1O2M2O2M2O1L5M2O101O001O001O001O010O000010O000010O00010O0010O01O01O01O01O01O00010O010O002OO001O0000001O00001O0000001O001O001O000000001O00001O001O0000001O00001O00001O00001O00001O001O0000001O0000001O001O00001O001O00001O0000001O00001O00001O00001O00001O00001O00001O00001O00001O00001O00001O0000001O001O0000001O000000001O001OjUk6"
+    },
+    "area": 4072,
+    "bbox": [
+      846,
+      1191,
+      173,
+      48
+    ],
+    "predicted_iou": 0.9425044059753418,
+    "point_coords": [
+      [
+        920.28125,
+        1220.625
+      ]
+    ],
+    "stability_score": 0.971137523651123,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_37"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "i;W1aU100000O100O10O0100O010O10O1000O10O10O010O01000O010000O010O10O010O100O10O0100O010O10O10O1000O010O10O10O01000O01000O010O010O10O1000O01O100O10O100O10O10O10O010000O2O1O2M3N2N3L5L3L6J^VRZ1"
+    },
+    "area": 3662,
+    "bbox": [
+      0,
+      348,
+      89,
+      67
+    ],
+    "predicted_iou": 0.9416087865829468,
+    "point_coords": [
+      [
+        56.34375,
+        368.125
+      ]
+    ],
+    "stability_score": 0.9747447371482849,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_38"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "^li25bV13M4L;E`0A<C6J3M7I3M3M4L5J4M4L4L4L3M4K4klNfLeR1`3WmNbLgR1i3M3M3N1N2O2O0O1O2O0O2O0O2N1O2O0O100O2N1O100O100O100O1N2N2N2O1000000000000002N3M1O1O1O1O001O00001O001O1O1O001O1O001O1N2O1O1N3N1N2O1O1N2O1O4K2O1O1N2O1O1cLolNQ3SS1lLPmNQ3RS1nLPmNP3RS1mLPmNh2I]MeS1\\2clN_M`S1^2>O2J6J6L4K6J5L6Ha0^O8@bP^V1"
+    },
+    "area": 13434,
+    "bbox": [
+      74,
+      234,
+      111,
+      161
+    ],
+    "predicted_iou": 0.9392701387405396,
+    "point_coords": [
+      [
+        169.03125,
+        368.125
+      ]
+    ],
+    "stability_score": 0.9708259701728821,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_39"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "ZZQZ1:ZV18I5J6K4N3N001O100O1O01000O101OO001O1O1O1O1O001O001O00O1000000O1000000000000000000O100I7M300O10000001O001O00000000O10000O1000000001O1O2N:FN2000000O100O1N2N2O1O1O1O10000000000001O2hNdjNP1dU1N"
+    },
+    "area": 3598,
+    "bbox": [
+      1110,
+      1193,
+      91,
+      46
+    ],
+    "predicted_iou": 0.9252952337265015,
+    "point_coords": [
+      [
+        1145.65625,
+        1220.625
+      ]
+    ],
+    "stability_score": 0.9533369541168213,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_40"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "QQo16aV12N2N2N101N2O1N2O1N3M2O1N2N2N101N2N2N1O2O1N2O1N2N101N2N2N3M[1fN9F2N2N1O100O1O2N1O4LR1nN9HO00000010O100O2N100O1O1OdNcnN_M\\Q1a2hnN\\MWQ1e2inNZMWQ1g2inNYMVQ1h2inNXMXQ1h2hnNXMWQ1h2jnNWMVQ1i2lnNQMXQ1h2ToNZL@:eQ1[3VoN_LlP1a3V1O0010O000001O000001O00010O00001O0O11O1O100O1O100O100O1O1O100O100O1O1O100O1O1O100O1O100O1O1O100O100O100O1O100O100O1O100O100O100O1O1O100O100O100O1O100O100O100O1O1O1O100O1O100O1O100O100O1O100O1O1O100O100O100O1O1O100O1O100O1O1O100O100O100O100O1O1O100O1O100O100O1O100O100O1O1O1O1O1O1O100O100O100O1O100O1O1O100O1O100O100O100O1O1O1O100O100O1O1O1O100O10000O1O100O1O100O100O1O100O100O100O1O1O1O1O1O1OQZcQ1"
+    },
+    "area": 19128,
+    "bbox": [
+      52,
+      0,
+      261,
+      195
+    ],
+    "predicted_iou": 0.9241807460784912,
+    "point_coords": [
+      [
+        131.46875,
+        58.125
+      ]
+    ],
+    "stability_score": 0.9503662586212158,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_41"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "m]ae05^V1:H6K4M3L3N2M3N2NZOejN2YU1MmjNORU10RkNOlT10WkNOhT10\\kNNcT12^kNO`T11bkNN\\T14dkNLZT16gkNJUT19kkNGTT1:lkNGST19mkNHQT1:nkNGPT1:PlNGnS1:RlNGlS1;SlNElS1<TlNEkS1;UlNEkS1<TlNDkS1=UlNCkS1=TlNDlS1<TlNDlS1;TlNEmS1;RlNFnS1:RlNFoS18QlNHPT18okNHRT17nkNHTT17lkNGXT17hkNHZT18ekNH]T17akNIbT16]kNJeT16WkNLlT12PkN2RU1h03L4M3L2O3M2M4L4K6Kbgle0"
+    },
+    "area": 1788,
+    "bbox": [
+      569,
+      383,
+      53,
+      68
+    ],
+    "predicted_iou": 0.9193398952484131,
+    "point_coords": [
+      [
+        619.78125,
+        406.875
+      ]
+    ],
+    "stability_score": 0.974627673625946,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_42"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "ZR[i04Uf01VZON43N2a0[4UOkK4Eg07_Oi1D\\Nd2P1]c0h;RZOoBNO8_2ge0S>01N100O101N10001O001O0000001N10000000001O000000001O0000001O000O10001O0O101O000O10000010O0001O0000000O2O000O101O000O101O000000010O00001N100000001N10000O2O0000000010O001O3M1O00001N3j^OiZO54j1LjN0a07mN=EBm8Pg0QG]_O<\\Ij1R2jMYeb`0"
+    },
+    "area": 51121,
+    "bbox": [
+      669,
+      438,
+      94,
+      565
+    ],
+    "predicted_iou": 0.9118361473083496,
+    "point_coords": [
+      [
+        694.90625,
+        910.625
+      ]
+    ],
+    "stability_score": 0.9518373608589172,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_43"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "bSV[1?:H27F2VT1e2jkNSMVS1]3J3N00000O10000000000O10001O000O1000O100000O100000000000O10O1000000000000000000O100001O0000O10000O100O11O0000SQOWLlj0h3S4N4oNXmNjMRS1^ObE"
+    },
+    "area": 7311,
+    "bbox": [
+      1141,
+      428,
+      60,
+      256
+    ],
+    "predicted_iou": 0.9107249975204468,
+    "point_coords": [
+      [
+        1145.65625,
+        484.375
+      ]
+    ],
+    "stability_score": 0.9519423246383667,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_44"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "PijZ1Q1WT1ROVmNY2dP1eM]nNb0k0j2SOgLYl0MQWOW1aM[3VOaK30Uj06`UOH?4g1Y1kNP4mNQK1Eki0]1WXOOoN_5YOSITg03eXO0;`1b1KQOn6oNZH<YOWb02^]ON96Em14El1GROX9T1YEWN7R<KeCR7j1\\JTOm?h5Q_OTIN4R8l1SISOVa0ZO\\]OIf2NaMb0n9[1XGRO^P1o0aoNQO^P1R1`oNnN`P1S1_oNmNaP1T1^oNlNbP1U1]oNkNcP1U1]oNkNcP1V1\\oNjNeP1U1[oNkNjP1Q1UoNoNmP1o0RoNROoP1m0PoNTOXQ1d0`nNDhQ1XO]mN1j0h0jQ1VO\\mN2j0h0jQ1WOZmN1l0i0kQ1NVnN2jQ1I[nN7eQ1I[nN7fQ1HZnN8fQ1JYnN5gQ1LXnN4hQ1MWnN3jQ1LVnN4jQ1MUnN3lQ1LTnN4mQ1KSnN5nQ1KQnN5oQ1KQnN5nQ1LRnN4nQ1LRnN4mQ1MRnN4nQ1LRnN4mQ1MSnN3mQ1MTnN2kQ1OUnN1kQ1OVnNnNVO?dR1c0VnNlNYO`0aR1c0YnNjNVOd0aR1>^nNmNjNl0hR15bnNlNeNQ1iR12gnNOYQ1_O`mNBX1o0WQ1@bmN@W1P1WQ1B`mN^OW1R1YQ1B^mN\\OV1U1\\Q1A\\mNZOW1V1]Q1A[mNZOU1W1`Q1@ZmNYOU1X1aQ1@YmNXOV1X1aQ1@YmNXOU1Y1bQ1H^nN8bQ1H^nN8bQ1mNWmN?V1d0cQ1J\\nN6dQ11UnNOkQ13SnNMlQ15RnNLmQ17QnNIf1cNRNNRo0o1lPOHClN4o2e0aLXO3000a1m0]N_OX1EoN7Mc56SJm1<iMH:Om0:jNf0K_O0M>Aa18ZN73A07Gn2o3"
+    },
+    "area": 72605,
+    "bbox": [
+      1132,
+      0,
+      69,
+      1213
+    ],
+    "predicted_iou": 0.908291757106781,
+    "point_coords": [
+      [
+        1183.21875,
+        1181.875
+      ]
+    ],
+    "stability_score": 0.9501563310623169,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_45"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "ehT[1<525EPU1e2fN<Ch0YO000O100000000O10O010O1000O101O00O10000O1000000000000O01000000000000000O01000000000O100000O10000O10000001N100O2O2_LUmNP22WNOAWP2"
+    },
+    "area": 7439,
+    "bbox": [
+      1140,
+      298,
+      60,
+      131
+    ],
+    "predicted_iou": 0.9082440137863159,
+    "point_coords": [
+      [
+        1145.65625,
+        368.125
+      ]
+    ],
+    "stability_score": 0.9566477537155151,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_46"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "WQjd05VV1W2UN2N100O1000O010O10O0100O010O10O10O01N1100O100O100O10000O1O100O10000O10000O100O1O10000O10000O100O100O100O10000O100O100O100O100O10000O100O100O10000O100O100O100O100O10000O100O10000O100O100O100O1O1NefP1gN_ZoNf0]O5O0000000000000000O10000O100O1O100O100O10000O10000O100O100O10000O100O100O1O100O100O100O10000O100O100O10000O100O100O100O10000O100O1OacZa0"
+    },
+    "area": 7621,
+    "bbox": [
+      550,
+      0,
+      193,
+      86
+    ],
+    "predicted_iou": 0.9031698107719421,
+    "point_coords": [
+      [
+        619.78125,
+        19.375
+      ]
+    ],
+    "stability_score": 0.957493007183075,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_47"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "eU1S1eU10O1UNmNomNU1PR1nNmmNS1RR1nNmmNS1SR1nNlmNR1TR1nNlmNR1UR1mNjmNT1VR1kNkmNU1VR1jNimNW1XR1gNimNY1WR1gNhmNZ1WR1hNgmNY1YR1gNgmNY1YR1hNemNY1ZR1hNemNY1[R1fNfmNZ1mS1O00000000O100O10000O100O1O1000000O100O10000O100O10000O1O100O1O1N2O100000000O10000O10000O1O100O100000000000000000000001O1O1O001O1O1O1O1O1O1O2N1O2N3M1O1O1O1O1O001O001O1O1O001O001O1O1O001O1O001O001O1O001O1O001O1O001O1O1O001O1O1O1O001O1O1O1O001O001O1O1O001O1O001O001O1O001O001O001O1OZP_W1"
+    },
+    "area": 6590,
+    "bbox": [
+      0,
+      1143,
+      157,
+      96
+    ],
+    "predicted_iou": 0.9007924795150757,
+    "point_coords": [
+      [
+        18.78125,
+        1220.625
+      ]
+    ],
+    "stability_score": 0.952465295791626,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_48"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        1202
+      ],
+      "counts": "`ZfR1:\\V15L6J2N2N1O1O10O010O1000O0100000O100000O10010O00100000001O0O1O00001O0O101N2N2M4M3Lae9OaZF0O20O100O103Llob8"
+    },
+    "area": 1066,
+    "bbox": [
+      916,
+      1122,
+      57,
+      35
+    ],
+    "predicted_iou": 0.8896141052246094,
+    "point_coords": [
+      [
+        920.28125,
+        1143.125
+      ]
+    ],
+    "stability_score": 0.9522935748100281,
+    "crop_box": [
+      0,
+      0,
+      1202,
+      1240
+    ],
+    "region_id": "door_region_49"
+  }
+]

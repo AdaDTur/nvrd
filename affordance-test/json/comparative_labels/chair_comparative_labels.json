@@ -1,0 +1,104 @@
+{
+  "object": "chair",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 16 parts marked and numbered (1 to 16), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 16 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>\nPart 16: <option>",
+  "raw_response": "Part 1: sit on\nPart 2: sit on\nPart 3: sit on\nPart 4: sit on\nPart 5: sit on\nPart 6: sit on\nPart 7: sit on\nPart 8: sit on\nPart 9: sit on\nPart 10: sit on\nPart 11: sit on\nPart 12: sit on\nPart 13: sit on\nPart 14: sit on\nPart 15: sit on\nPart 16: sit on",
+  "regions": [
+    {
+      "region_id": "chair_region_10",
+      "area": 36957,
+      "isolated_label": "sit on",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_4",
+      "area": 25908,
+      "isolated_label": "sit on",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_12",
+      "area": 19821,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_16",
+      "area": 16036,
+      "isolated_label": "sit on",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_15",
+      "area": 15416,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_35",
+      "area": 14472,
+      "isolated_label": "cut with",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_13",
+      "area": 12939,
+      "isolated_label": "cut with",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_31",
+      "area": 8061,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_41",
+      "area": 8108,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_1",
+      "area": 8690,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_22",
+      "area": 6900,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_3",
+      "area": 5370,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_2",
+      "area": 5354,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_7",
+      "area": 5329,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_6",
+      "area": 5274,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "chair_region_48",
+      "area": 4345,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    }
+  ]
+}

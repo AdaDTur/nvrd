@@ -1,0 +1,128 @@
+{
+  "object": "shape_27",
+  "model": "allenai/Molmo2-8B",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/novel/shape_27.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "shape_27_region_24",
+      "area": 50869,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Ykf4340Zo0e0E9F9H7J6I8H6L5G8K5K6J5J6K4L5K5K5K4K6K5K4L5K4J7L3L4L5K4L4L4M3L5L2M4M3M3L4M3M3M3M3L4M2N3M3N2M3M2O2M3M2O2M2N3N1N3M2O1O2M2O1N2N2O1O1N2N2O1N2O1O000N12O00O0100O001O1O1O10OO3N1N110O100O002N1O10O01O2N10O0101N1O01000O1000001N10O02O0000O10O2N10O20O000000000000000001OO020O0O1001O001O0O110O000O101O001N2O0O1O101N2N2O0O2N1O2N101N1N3N1N3N1N3N1O2N2O1001N101N101O001N2O1O1O2M2O2N1O1O2M2O1O2M2O2N2M3N1O2N2N2M3M3M3@mWOPIVh0g6g0J5K5K6K5L4J5L6I7J6I7G:G8J8F9F=B<F;Aa0A`0\\Of0VOn`Zd0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 1 appears to be a flat, elongated surface with a smooth texture, likely designed to be struck or tapped, distinguishing it from the other parts that seem to have different shapes or purposes"
+        }
+      }
+    },
+    {
+      "region_id": "shape_27_region_6",
+      "area": 24409,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Yii;a0Qo0e0B;C<F9E<D;F9H8F;H7F:H8F:H7I8D<G9H7E<H7FYOVWOmJ_h0_6G9O2M2O1O2O0O1O1O101N1O1O100O100O1O100O10O010000O]I\\XO80d2cg0UM^XO60d2bg0VM]XO70c2cg0j30000O010O010O010O0100O010O1cI\\XO]4eg0n11O010O0hIZXOZO0b3gg0TMYXOU4hg0Q21N2N2N2O1N2L3N3L3N3K5J6L4L4L4L5I6K4K6L3SLSVOVO0ZO0U1Qj0o36M3K5K6L3L4J7J4L5K4L5K5K5K5K6L3M4I6K4L5iMPSOL1h0Rm0]OmROK0e0Xm0Z14L4K5L5L3L4K5K6K4L4M3K5L4L4M4L3L5Jj]R`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 2 appears to be a cylindrical, tubular structure positioned at the base of the object, likely designed to be gripped and manipulated, distinguishing it from the other more decorative or structural elements"
+        }
+      }
+    },
+    {
+      "region_id": "shape_27_region_8",
+      "area": 19377,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "X[Ra04do0<I8J3N1K6K6L3M3M2N2N2N1O2O1N2O2M2N2N2N101N101N1O2N101N1O2N101N1O1O2O0O1O1O1O100O1O1O100O1O0010O0000001O01O01O0000001O0000001O000001O01O0000001O0000001O0000010O00001O0000001O0000001O01O0001N11O01O0000001O00001O000001O01O00001O0000001O00001O000001O01O00001O000000001O00001O00000010O000001O00001O0000001O0000001O00001O00000010O0001O0000001O00001O0000001O0000001O0000001O00001O01O0001O0000001O0000001O0000001O0000001O00001O00001O001O1O1ON2001O01O00O2O000000010O00001O0000001O00001O0000001O00001O0000001O0000001O00001O000000001O00001O0000001O001O001O001O1O1O1O1O1O1O1O1O2N1O2N1O2N2M3N3L4L6HWkg5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 3 appears to be a long, thin, tubular structure extending from the main body, likely designed for reaching and cleaning in confined spaces, unlike the other more compact or protruding parts"
+        }
+      }
+    },
+    {
+      "region_id": "shape_27_region_0",
+      "area": 13905,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "]_\\c0=^o0:H6K5K4L4M3L4M2N2O2M2O0O2O1O1O001O1O001O001O000000000000000000000000000000000O010001OO10000000O2O00000000000O010000000000000O2OO100000000001O000O100000O1001O000000O01000000000001O00000O100000000000000000000O1000000000000000000O1000000000000O1000000000000000000O2O0000000000000000000O100000000000000O2O000000000000000O1000000000000O100000001O000000000O100000000000000000000O1000001O00000O1000000000000000000O10000000001O00000O1000000000000O1000000000001O0O10000000000000000O1000000000000O1000001O0000000O100000000000000O101O0000000O10001O00000O2O0O2O0O2O1N2N3M2M5Jg`h3"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 4 appears to be a cylindrical, drum-like structure positioned horizontally, likely designed to be struck or tapped, distinguishing it from the other parts that seem to be more decorative or structural elements"
+        }
+      }
+    },
+    {
+      "region_id": "shape_27_region_26",
+      "area": 4937,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "UZb59fo02N2N2O1N2O001O00001O0000001O0000001O00001O00000010O0001O0000001O00001O000000001O01O01O0000001O00001O0000001O00010O00001O0000001O00001O0000001O0000010O0000001O00001O0000001O00001O0000001O00001O01O0001O00001O0000001O0000001O001O00001O0000001O00001O0000001O00001O0000001O0000001O01O0O10O02I6E<A?DRfie0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 5 appears to be a flat, elongated surface with a smooth texture, likely designed to be struck or tapped, distinguishing it from the other parts that seem to serve different functions or have different shapes"
+        }
+      }
+    },
+    {
+      "region_id": "shape_27_region_7",
+      "area": 4061,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "]Vb?4jo04L3M3N2L4M2N3M3M3L3N3M3M2N3L4N1M4M2N3M2M4N1M3O2O0O2IlM`ROT2^m08N3L3N2N3M2N2N2N2N1O2MG_SOXM`l0k2`SOSM^l0o282N1ON1O2O2EVSO]Mml0e2600N3K4M4K5K5@WROeNmm0[1TRO_NQn0`18M3J7I6J7J6I9Enl\\>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 6 appears to be a flat, circular surface with a slightly raised edge, resembling a drum or tambourine, which is designed to be struck or beaten"
+        }
+      }
+    },
+    {
+      "region_id": "shape_27_region_25",
+      "area": 3376,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "aTa98go04K4M3N2M3N2N2N2N3M2O1N2O1O001O2N1O1O002N001O1O1O100O1O1O1O001O1O1O001O1O1O001O1O00100O100O001N10O2O0N2O1N2N2N2N2O1N3M2N2N2N2N2N2N3M2O0O2N3M2N2O2M2N2N2N2O1N101N2N2NYikc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "beat",
+          "justification": "Part 7 appears to be a flat, drum-like surface positioned at the top of the object, likely designed to be struck or tapped, distinguishing it from the other parts which seem to be more structural or decorative elements"
+        }
+      }
+    }
+  ]
+}

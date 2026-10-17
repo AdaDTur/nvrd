@@ -1,0 +1,174 @@
+{
+  "object": "bonsai_crystal",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "regions": [
+    {
+      "region_id": "bonsai_crystal_region_24",
+      "area": 40336,
+      "isolated_label": "cut",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.5259274048984183
+    },
+    {
+      "region_id": "bonsai_crystal_region_32",
+      "area": 31007,
+      "isolated_label": "cut",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.33218272472718696
+    },
+    {
+      "region_id": "bonsai_crystal_region_4",
+      "area": 28281,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.2607286409933937
+    },
+    {
+      "region_id": "bonsai_crystal_region_27",
+      "area": 27627,
+      "isolated_label": "cut",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.2773723603007481
+    },
+    {
+      "region_id": "bonsai_crystal_region_2",
+      "area": 26338,
+      "isolated_label": "pick up",
+      "comparative_label": "none",
+      "perpart_context_label": "hold",
+      "perpart_context_prob": 0.2261359156138464
+    },
+    {
+      "region_id": "bonsai_crystal_region_29",
+      "area": 24119,
+      "isolated_label": "cut",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.33428084192483015
+    },
+    {
+      "region_id": "bonsai_crystal_region_26",
+      "area": 13737,
+      "isolated_label": "cut",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3528848990038447
+    },
+    {
+      "region_id": "bonsai_crystal_region_30",
+      "area": 9146,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.43949434444919144
+    },
+    {
+      "region_id": "bonsai_crystal_region_19",
+      "area": 4369,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.358666978324867
+    },
+    {
+      "region_id": "bonsai_crystal_region_21",
+      "area": 4800,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.6137638663155358
+    },
+    {
+      "region_id": "bonsai_crystal_region_8",
+      "area": 5568,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.5445908510150965
+    },
+    {
+      "region_id": "bonsai_crystal_region_20",
+      "area": 3349,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.6521905620447253
+    },
+    {
+      "region_id": "bonsai_crystal_region_25",
+      "area": 2459,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.7450082227649759
+    },
+    {
+      "region_id": "bonsai_crystal_region_13",
+      "area": 2741,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.7968045131369001
+    },
+    {
+      "region_id": "bonsai_crystal_region_6",
+      "area": 2666,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.7495555812986595
+    },
+    {
+      "region_id": "bonsai_crystal_region_7",
+      "area": 2566,
+      "isolated_label": "pick up",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.6841135229213395
+    },
+    {
+      "region_id": "bonsai_crystal_region_1",
+      "area": 2460,
+      "isolated_label": "pick up",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.772324310729357
+    },
+    {
+      "region_id": "bonsai_crystal_region_3",
+      "area": 2030,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.7296982031110402
+    },
+    {
+      "region_id": "bonsai_crystal_region_5",
+      "area": 1684,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.5447114185161069
+    },
+    {
+      "region_id": "bonsai_crystal_region_10",
+      "area": 1401,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.5095755707239706
+    },
+    {
+      "region_id": "bonsai_crystal_region_11",
+      "area": 1268,
+      "isolated_label": "none",
+      "comparative_label": "none",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.7954925826191152
+    }
+  ]
+}

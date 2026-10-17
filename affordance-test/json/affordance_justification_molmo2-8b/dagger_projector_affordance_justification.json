@@ -1,0 +1,247 @@
+{
+  "object": "dagger_projector",
+  "model": "allenai/Molmo2-8B",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-shape/dagger_projector.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "dagger_projector_region_1",
+      "area": 41340,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ic\\`0:dg03M3M4L3N2N2N2N2N2O1N1O2O1N1O2N2O0O2N101N1O2O0O2N101N101N101N101N101N1O2O0O2O0O101N101N101N101N101N101N10001N100O2O1N101O0O2O001N101O000O2O1O001N10001O001O001O001O001O001O010O00001O010O0010O00010O01O01O0100O0010O01O010O00010O010O0010O010O01O010O01O0100O010O010O0010O01O01O01O010O010O010O0010O00100O010O01O010O0010O0010O010O010O0010O010O010O010O010O01O010O0010O0010O0010O010O00010O010O010O0010O00010O010O10O010O01O010O010O00010O010O0010O010O0010O0010O010O010O0010O0010O010O0010O0010O0010O00010O010O010O01O01O010O01O01O010O01O010O010O00010O010O1O01O01O01O010O01O010O010O00010O001O010O01O01O010O0010O01O010O001O01O01O0010O01O010O01O01O010O0010O01O010O0010O01O001O010O00010O0010O01O001O010O001O010O0010O01O0010O01O001O010O1O001O01O01O00100O1O001O0010O01O001O010O001O00100O001O1O001O0010O01O1O1O1O001O00100O1O1O001O1O001O1O001O010O1O001O1O001O1O1N2O1O1O2N1O1O001O1O1O1O1O001O1O001O1O1N3N1N2O2M;E=D9ESWS6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "Part 1 is a sharp, pointed blade at the end of the object, designed for cutting or slicing, which is its primary function and distinguishes it from the other numbered parts"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_6",
+      "area": 27276,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "jZZk05gg08I5M2N1N3M3M3M3M3L5K4L4M3N2N101N101N2O001O1O001O1O0010O01O1O0010O01O010O0010O0001O10O0100O1O1O001O001O010O010O1O100O001O001O010O1O2N101N1O001O1O001O1O1O010O001O001O00010O001O1O1O010O001O001O001O100O2N1O1O10O01O001O1O100O1O1O1O2N1O100O1O001O2O0O1O1O1O1O10O01O1O1O1O1O001O1O001O1O001O1O1O1O1O1O100O001O001O001O100O001O010O1O1O1O10O01O1O010O001O00010O1O001O1O001O00001O00010O001O001O00000000001O001O1O1O1O100O3M2N1O0010O010O01O01O00000O101O0000000000001O000001O0001O00001O001O00001O0000S]O"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 2 appears to be a spout or nozzle shape, likely made of metal or plastic, positioned at the top of the object, which is consistent with a drinking vessel or dispenser"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_5",
+      "area": 19554,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Yhf95ig05K2N3M2O1O1O2N1O2O0O2O0O1O1O2O0O1O101N101N1O2O0O2O000O2O0O2O0O2O001N101N101N100O2O0O1O2O0O2O1N101N2O001N101N101O0O2O0O101O0O2O0O101O0O101N2O001N10001N101O0O2O001O0O101O00001O00001O1O1O001O001O00001O001O1O001O00001O0010O0001O10O010O01O010O001O010O01O01O010O010O00010O010O100O010O010O0010O00010O0100O0010O01O01O010O010O01O01O010O010O001O001O010O00001O00001O001N101N1O2O0O2O0O1O2M2O1O101O0O2O0O2O0O2N1O1O2N1O2O001N101O0O101N101N101N100O2N1O2N100O2N1O2O1O0O101O000O2O001N101O0O101N1O2O0O1O2O0O2O1O0O101N101N100O2N101N101N10001N101O0O101N101N1O101O001O001O0O2O0O3N1Nmfe`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut",
+          "justification": "Part 3 appears to be a sharp, pointed blade at the end of the object, which is the only part designed for cutting or slicing, unlike the other components that likely serve different functions"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_7",
+      "area": 18978,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "nln36bg0<I6K4L4L3N2N5K1O2N1O1O1O2N2N1O2O1N1O2O0O2O0O2O000O2O0O2O0O2O1N101O0O2O1O0O2O001O1N2O0010O01O001N101O010O001O010O0010O0010O010O100O001O1O0010O01O010O0010O0010O10O10O010O10O01O010O1O00100O1O010O001O01O01O0010O010O01O01O010O010O0100O1O010O0010O01O1O010O10O010O01O010O00001O01O01O010O01O010O010O010O01O010O010O00100O0010O01O010O001O01O01O01O010O010O010O001O1N101O0O101N1O101N1O2N1O1O1O2N1O1O2N1O1O1O2M2L4M4M2N3M2N3M2O2N1O2N2N1O2N101N1N3O0O1O2O0O2N1O101N100O100O2O0O101N1O101O0O2O001O0O2O0O2O1N1O2O001N101O1N101NjiQg0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "Part 4 appears to be a handle-like structure at the end of the object, likely designed for gripping and holding, which makes it the most suitable part for carrying compared to the other components"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_28",
+      "area": 12577,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "mjd=3mg00O20O01O001O0000001O1O0O2N0010O010O01O1N10100O100O100O100O1O1O2N1O100O2O0O2O001N101O0O2O1N101OO2O01O10O01O001O1O001O010O1O010O1O1O100O1^OhN[ZOX1de0hN\\ZOY1be0iN^ZOV1ae0kN_ZOV1`e0jNaZOV1]e0kNdZOU1Ze0mNeZOT1Ze0lNgZOT1We0mNiZOS1We0nNiZOR1Ve0nNkZOR1Se0oNnZOQ1Qe0POnZOP1Qe0QOP[Oo0od0QOR[Oo0ld0ROU[On0jd0SOV[Ol0id0UOX[Ok0fd0WOZ[Oi0ed0WO\\[Oh0cd0ZO][Of0bd0ZO_[Oe0`d0]O`[Oc0_d0^O`[Oc0_d0^Oa[Oa0^d0@b[Oa0]d0@c[O?]d0Bb[O?\\d0Be[O=[d0Dd[O=Zd0Ed[O<\\d0Ec[O<[d0Fc[O;]d0Ec[O<[d0Fc[O;]d0Fb[O;]d0Fa[O;_d0F_[O<`d0E^[O<bd0F[[O<cd0a101N101N101K401NUOn[OjMRd0S2R\\OlMnc0S2U\\OlMkc0P2Y\\OoMgc0o1]\\OPNbc0o1_\\OQNac0n1a\\ORN_c0l1c\\OSN]c0m1d\\OSN[c0l1g\\OSNYc0l1i\\OSNWc0m1i\\OTNVc0k1l\\OTNTc0k1m\\OVNRc0j1o\\OUNQc0j1P]OWNob0h1S]OWNmb0h1U]OXNjb0h1W]OWNib0h1X]OYNgb0f1Z]OZNfb0f1[]OZNdb0e1]]O[Ncb0d1^]O]Nab0b1a]O]N_b0c1a]O^N^b0a1d]O^N\\b0b1d]O_N[b0`1g]O_NYb0a1h]O_NWb0a1i]O_NWb0`1k]O`NTb0`1l]O`NTb0_1n]O`NRb0_1o]ObNQb0]1o]OcNQb0\\1Q^OdNna0\\1R^OdNoa0Z1S^OfNla0Z1T^OfNla0Y1V^OgNja0X1V^OhNja0W1X^OiNha0V1X^OjNha0U1Z^OkNfa0T1Z^OlNfa0S1\\^OlNea0S1[^OnNda0Q1^^OnNca0Q1]^OPOca0n0_^OQOaa0o0_^OROaa0l0a^OSO`a0l0`^OUO_a0k0a^OUO`a0i0b^OVO_a0i0a^OXO_a0f0c^OYO^a0f0b^O[O]a0d0e^O[O\\a0d0d^O]O\\a0b0e^O]O\\a0a0f^O_OZa0`0f^O@[a0>f^OCZa0<g^OCZa0<f^OEZa09g^OGYa09h^OFYa09g^OHYa07h^OHYa07g^OJYa04i^OKXa04h^OLYa03h^OMXa02h^ONXa02h^OOXa00i^OOXa00h^O1Xa0Mj^O2Va0Nj^O3Va0Lk^O3Ua0Mk^O4Ua0Kl^O4Ta0Ll^O5Ta0In^O6Ra0Jn^O6_d00O0010O010O010O010O01O010O01O010O010O0010O010O0010O010O1O010O00010O010O001O010O010O0100O010O010O01O02OO01O10O010O010O00010O010O0010O010O010O010O010O010O0010O010O010O0010O0100O01O010O01O01O010O010O010O010O0010O010O010O01O010O010O010O010O01O010O010O000010O01O010O0010O00010O010O10O010O000100O010O010O010O0010O000010O01O010O010O01O01O01O01O010O001O01O01O010O01O010O00010O01O01O010O0010O00010O0010O00010O0010O001O01O01O01O01O00010O01O0001O00010O01O0010O001O010O01O0001O01O010O0010O0000001O01O01O0001O010O00000010O0000010O00010O000000010O0000010O0000010O000001O01O0001O01O000000010O000000000010O0000000000010O0000001OO110O000000000000001O001O00000001O000000O100O2N10efi6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "cut with",
+          "justification": "Part 5 appears to be a sharp, pointed blade at the end of the object, which is the typical shape and position for a cutting tool, distinguishing it from the other numbered parts that likely represent different components or features of the overall object"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_11",
+      "area": 13286,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "hQX7;bg06J5L3M3M3M3N2N1O2N1O2N2N1O2N1O2N1O2N1O2O0O1O2O0O1O1O100O1O1O1O1O1O1O1O1O1O010O100O1O1O00100O1O1O001O1O1O001O1O1O1O00100O1L400O0100000O1O00100O1O100O001N200O001O1O1O10OCoLl[OR3Sd0RMj[On2Vd0SMi[Om2Vd0TMj[Ok2Wd0VMh[Oj2Wd0WMh[Oj2Xd0WMg[Oi2Yd0WMf[OZ1<\\Onc0n0]\\OjNcc0T1f\\OfNZc0Y1i\\OeNVc0[1k\\OeNUc0Z1l\\OeNTc0Z1m\\OgNSc0W1P]OhNob0W1S]OhNnb0W1T]OhNlb0V1Y]OfNhb0W1^]OeNbb0[1a]OaNab0^1P20010O001O001O10O010O01O100O1O100O1O100O100O100O101N100O1O101N1O100O010O10O0100O10O10O1000O0100O010O10O010000O010O10O0100O010O1000O010000O1000O10O10000O10O0100O10000O10O1000O100000O10000000000O0100001O0000001N101O00001O0O2O0000001O0O10001O00000O2O0000001O0O10001O001O1O001N101O0010O0001O00010O000001O001N101N100O2N1O2N1O1N3N1N3N2N3L5JlY[c0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 6 appears to be a handle-like structure with a curved shape and textured surface, positioned at the end of the object, making it ergonomically designed for gripping and manipulation"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_34",
+      "area": 11433,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ZW\\d07V1OWe01iZO0Ue02iZOOXe00hZO1We00gZO1Ze0NfZO3Ye0NgZO1Ze0NfZO3Ze0MfZO3Ye0MhZO3Xe0MgZO4Xe0LiZO3Xe0MgZO4Xe0LiZO3We0NhZO2Ye0MgZO3Ye0NgZO1Ze0NfZO2[e0NeZO2Ze0NgZO1Ze0OeZO1[e0OeZO2[e0NeZO2Ze0NfZO2Ze0NfZO3Ze0MfZO2Ze0OdZO2\\e0NdZO3\\e0McZO3]e0MdZO3\\e0McZO3]e0MdZO3[e0NeZO2[e0MeZO3[e0NdZO3[e0MeZO3[e0NdZO3[e0MfZO2Ze0OeZO1\\e0NeZO1[e00dZO1\\e0NdZO2]e0NbZO2^e0NaZO4_e0KbZO4^e0MaZO4_e0KaZO5_e0L`ZO5_e0KbZO4_e0L`ZO4`e0L_ZO6`e0K`ZO4`e0L`ZO4ae0L_ZO4`e0LbZO2_e0M`ZO5_e0L`ZO5`e0J`ZO7_e0JaZO5`e0J_ZO8`e0I`ZO6`e0J`ZO7_e0JaZO5`e0J_ZO7ae0J^ZO6ce0I]ZO8be0I]ZO7de0H[ZO9ee0G[ZO:ee0FZZO:fe0GYZO9ge0GXZO:ie0FWZO:he0FXZO:he0GXZO8ie0GVZO;ie0EXZO;ge0FXZOE@a0Yf0I[ZO8de0I[ZO7ee0I\\ZO7de0H[ZO9ee0HZZO8fe0IXZO9he0FXZO:he0GVZO;ie0EWZO;je0DUZO>je0CUZO=ke0CVZO=je0BRZOb0ne0_OQZOa0Pf0^OoYOd0Pf0]OPZOb0Pf0^OPZOb0Pf0^OQZOa0Pf0_OPZO`0Pf0@oYOa0Rf0_OnYOa0Qf0_OoYOa0Rf0_OnYO`0Rf0@oYO`0Pf0AnYO`0Sf0_OmYOb0Rf0^OoYOa0Rf0_OlYOb0Tf0^OlYOb0Tf0_OkYOb0Uf0]OlYOb0Tf0_OkYOa0Uf0_OmYO`0Rf0AlYO`0Tf0@mYO?Sf0BlYO>Uf0AkYO`0Tf0@lYOa0Sf0@lYO`0Uf0_OkYOb0Tf0^OmYOb0Rf0_OmYOa0Tf0^OmYOb0Rf0^OmYOc0Tf0]OlYOc0Sf0]OmYOc0Sf0^OnYO`0Rf0@mYOa0Tf0^OlYOb0Tf0_OkYOa0Uf0_OlYO`0Uf0@jYO`0Vf0@kYO`0Tf0@lYO`0Tf0AlYO>Uf0AjYOa0Uf0_OlYO`0Uf0@iYOa0Wf0_OjYOa0Uf0_OkYOa0Vf0_OhYOb0Xf0c0010O00010O01O01O001O01O0010O01O010O000001O000010O0001O00001O00000010O0000010O0000010O000001O01O0000010O0001O000000001O0001O00010O001O01O01O00010OO100O1000001O000000001O0001O0000000000000001O00000000000000000kNbYOi0]f0VOeYOi0[f0UOgYOj0Zf0WOeYOO1<Zf0EfYOOO<[f0DgYOO39Vf0HjYOLO=Wf0FkYOL0=Vf0GiYOM0<Vf0HkYOJ0>Uf0GlYOKN?Vf0FXZO:he0EYZO;ge0FWZO;je0DWZO;he0FXZO:he0FXZO:he0EYZO;ge0EYZO;ge0D[ZO;ee0EZZO<fe0DZZO;fe0FZZO:fe0FZZO:ee0F[ZO;ee0E[ZO;ee0EZZO<ee0D]ZO;ce0E]ZO:de0F]ZO9be0H`ZO6`e0IfZO2Ye0OiZONXe02iZOMVe03lZOKUe05kZOKUe04[11O00000HKeXO6Zg0LdXO5]g06002N1O2N2N3M1O3Nk^f5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 7 appears to be a solid, untextured surface without any visible handles, buttons, or other interactive features, making it impossible to determine its intended use or function"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_30",
+      "area": 8152,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "hm_>3mg00O2O010O00001O001O0010OO100eMKk\\O5Uc0Lj\\O4Uc0Nj\\O3Vc0Mi\\O2Xc0Of\\O2[c0Oc\\O1^c0O`\\O2`c0O_\\O1bc00\\\\O0dc02Y\\OOhc02U\\OOkc03R\\OMPd03o[OMRd03l[ONUd06e[OJ]d09][OIdd08W[OKjd09oZOHSe0=bZOH_e0\\1001O1O1O1O1O00100O10O01O100O001O10O01O010O1O001O010O00100O02N100O10O010O0010O01O010O001O001O01O01O010O0101N10O01O01O010O0100O10O010O001O0010O01O0100O100O10O010O0010O0010O0010O01cNUZOc0ke0^OUZOa0le0^OTZOb0le0_OTZOa0ke0_OUZOa0le0^OUZOa0ke0@TZOa0le0^OTZOb0le0_OTZOa0oe0[OQZOf0ne0ZOSZOf0me0ZORZOf0oe0YORZOg0me0ZOSZO5D0Yf0KSZO5D0Zf0JTZO3D3Wf0KVZOOF5Tf0LYZOJC;Tf0KdZO5\\e0KcZO6\\e0JgZO4Ye0LfZO4Ze0LfZO5Ze0KfZO4Ze0LfZO4[e0KfZO4Ze0MfZO2[e0MdZO5[e0LdZO4]e0KcZO6\\e0KcZO7\\e0HeZO8Ze0IeZO7\\e0HeZO8Ze0HfZO8Ze0IfZO7Ze0HiZO5We0LhZO4Ye0KhZO4Ye0LgZO3Ye0MiZO2We0NhZO2Xe0NhZO2Ye0MhZO3We0NhZO2Ye0MiZO2Ve0OiZO1Xe0NhZO2Xe0OhZO0Ye0OgZO2Xe0OhZO0Ye0OgZO2Xe0OhZO1Xe0NhZO2Xe0OhZO1We0OjZO0We0OjZO0Ve01iZO0We0OiZO1We00iZOOWe01iZO0We00iZO0Ve00jZO1Ve0NkZO1Ue00jZO1Ve0NkZO1Ue00kZO0Ue0OkZO1Ue00jZO1Ve0NkZO1Ue00jZO0We0OjZO0Ve01iZO0We0OjZO0Ve01iZO0Ve00kZOOVe00kZOOUe02jZONXe00iZO0Ve01iZOOWe01jZOOUe02jZONWe01jZOOUe02jZONWe01jZOOUe02jZONWe01jZOOVe00jZO0Ve01jZOOUe01lZONUe02jZOOUe01lZOOTe01kZO0Te00mZOOTe01lZOOSe01mZOOTe01kZO0Te00mZOOTe01kZO0Ue0OlZO0Te01lZONTe02lZONUe01kZOOUe02kZONUe00lZOOUe01lZONVnT="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 8 appears to be a small, flat, circular component that is flush with the surface of the object, making it difficult to grasp or manipulate compared to the other more protruding or distinct parts"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_32",
+      "area": 7510,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "hU\\a0:fg01N110O010O01O01O0010O0100O011N2O3L6K0O0jXO\\OQg0i0010N12N010OO2O010O001O02OO0102M00100O010O0EROdYOm0]f0SOdYOo0Xf0SOgYOn0Yf0QOhYOo0Wf0ROhYOn0Yf0POiYOP1Vf0POjYOo0Yf0QOfYOP1Xf0QOgYOo0Xf0ROiYOn0Wf0ROhYOm0Yf0SOhYOn0Wf0QOiYOo0Wf0ROhYOo0Xf0POiYOn0Xf0SOgYOo0Xf0oNjYOQ1Uf0oNkYOQ1Wf0oNhYOQ1Wf0oNiYOQ1Vf0QOjYOo0Vf0POjYOP1Vf0QOjYOn0Wf0QOiYOP1Vf0POkYOo0Uf0ROjYOo0Vf0POkYOo0Uf0ROkYOn0Uf0QOjYOQ1Uf0POkYOo0Uf0QOkYOP1Uf0POkYOo0Uf0QOkYOP1Uf0POjYOP1Vf0POkYOP1Uf0POjYOP1Vf0POkYOP1Tf0QOlYOo0Sf0QOmYOo0Tf0QOkYOP1Tf0POmYOo0Tf0QOkYOP1Tf0POmYOo0Tf0QOkYOo0Vf0POkYOP1Tf0QOkYOP1Uf0oNlYOQ1Sf0POlYOP1Uf0oNkYOR1Tf0nNmYOQ1Tf0oNkYOR1Uf0nNkYOQ1Uf0oNkYOQ1Vf0oNjYOQ1Uf0oNkYOR1Uf0mNlYOR1Tf0oNkYOR1Uf0mNlYOR1Tf0oNkYOR1Uf0nNjYOR1Vf0nNkYOR1Uf0nNjYOR1Vf0nNkYOR1Uf0c0I001O010O0100O01O010O010O01O001O010O001N101]NoYOn0Xf0SOhYOl0Yf0SOgYOn0Xf0SOgYOm0Yf0SOhYOm0Xf0SOgYOl0Zf0TOgYOl0Yf0TOgYOk0Yf0UOgYOm0Wf0TOhYOl0Yf0SOhYOm0Wf0TOhYOl0Yf0SOhYOm0Wf0SOiYOm0Xf0SOhYOm0Wf0TOhYOk0Zf0TOgYOm0Wf0TOhYOl0Yf0SOhYOm0Wf0TOhYOl0Yf0SOhYOm0Wf0TOhYOk0Zf0TOgYOl0Xf0UOgYOk0Zf0TOgYOk0Yf0VOfYOk0Zf0SOhYOl0Xf0UOgYOk0Zf0UOfYOj0Zf0VOfYOj0[f0VOeYOj0[f0UOeYOl0Zf0TOgYOk0Yf0VOfYOk0Zf0SOhYOl0Xf0TOhYOk0hf00O10O10O0001O0O110O001O010N101N101N10001N15LO010O0O20O010O01N101N110O1N100O20O1O010O010O01N110O010N100K6N11O01O0100O0010O0010OO20O01O010O0O2O0OnfR:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 9 appears to be a flat, elongated surface positioned at the end of the object, likely designed for cleaning or grooming purposes, distinguishing it from the other parts that seem to be structural components"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_4",
+      "area": 6989,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "oXe9i0Sg08F8N1N2O2N010O001O01O01O01O0100O010O010O001O01O010O010O010O01O010O01O010O0010000O010O001O010O010O010O10O001O0010O0010O01O010O10O1O10O01O01O0100O010O0010O01O01O010O0010O0100O010O010O00100O1O010O01O010O0100O010O0100O0010O0100O010O010O10O01O010O0010O010O100O010O010O010O010O1O100O0010O01O010O0010O01O001N1XOiYOGXf0OUVgc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 10 appears to be a small, flat, circular component located at the base of the object, likely serving as a mounting or anchoring point rather than a functional element that requires manipulation or interaction"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_2",
+      "area": 4719,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "`dk25eg0=E7J6J5L4K4N3M2M3N2N2N2N2N1O2N2N1O2O0O2N1O2O0O101N1O101N100O101N100O100O100O1000000O10000O01XOlZOdNTe0T1X[OhNhd0U1^[OhNad0W1c[OgN]d0W1g[OfNZd0X1i[OgNWd0X1k[OfNVd0Y1Y1O1O001O1O1O1O1O1O100O1O100O101N100O100O2O001N101N101O0O2O001N101O1O0O2O2N100O2N2M5L\\dkk0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 11 appears to be a small, round knob or button located at the end of the handle, which likely serves as a decorative element rather than a functional component, distinguishing it from the other parts that seem to have clear purposes or interactions"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_3",
+      "area": 2241,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "gch=a0]g07H7J6K5J4L4M2N3M2O2M2O1N2OeN[ZO<ce0BdZO;[e0CjZO;Ue0DnZO;Qe0DR[O;ld0EX[O9gd0F][O8bd0H`[O6`d0Ib[O7]d0Id[O7[d0Ig[O6Xd0Ij[O7Vd0Hk[O7Ud0Im[O6Rd0Jo[O5Rd0Jo[O6Pd0JQ\\O6oc0IR\\O6nc0KR\\O5mc0KS\\O5nc0KR\\O4nc0MQ\\O4nc0LS\\O3nc0MQ\\O3oc0MQ\\O4oc0LQ\\O3Pd0LP\\O5Pd0KP\\O4Pd0LP\\O4Qd0Ln[O5Rd0Km[O4Ud0Lj[O4Wd0Mg[O3Zd0Nd[O2]d0Oa[O1`d0O_[O1bd00\\[OOgd02V[ONkd03R[OMPe03oZOMSe03jZOMYe06`ZOLbe06WZOLle08kYOJWf0o01N6J5J4K8I8E]cfa0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 12 appears to be a small, solid piece of metal integrated into the handle, likely serving as a reinforcement or decorative element without any visible functional purpose or interaction point"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_12",
+      "area": 1814,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "kSS>;bg07J5L3M3M4L4M2M2O1O2M2O1O2N1O1O1O100O0100O010O0010O010O01O1O1O2N2N2N1O2N3M2M2O2M6I6I9GZkka0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 13 appears to be a small, round, ball-like component at the end of the object, likely serving as a decorative or functional tip rather than a handle or grip, which would typically have a more pronounced affordance"
+        }
+      }
+    },
+    {
+      "region_id": "dagger_projector_region_8",
+      "area": 1188,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "aRij04bg0?F7K4L3O2M2N2N101O1O001O001O000001O00001O001N2O0O2M3N3M2N2N3L3N4Jh^]5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 14 appears to be a small, solid piece at the tip of the object, likely serving as a protective cap or decorative element without any visible functional purpose or interaction point"
+        }
+      }
+    }
+  ]
+}

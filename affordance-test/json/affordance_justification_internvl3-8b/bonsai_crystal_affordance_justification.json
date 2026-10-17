@@ -1,0 +1,366 @@
+{
+  "object": "bonsai_crystal",
+  "model": "OpenGVLab/InternVL3-8B-hf",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-shape/bonsai_crystal.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "bonsai_crystal_region_24",
+      "area": 40336,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Uh]9330`g0:N3N102M101O000O1N20O010O2O0001N2N2L4O1N2O1N200O010O0O20OO101O00010O02OO01O1O1O000O1TOVYOb0kf0]OYYO?gf0A[YO=ff0A[YO>ff0BZYO>Tg000000JAkXO?Rg0DnXO<Rg0EmXO;Rg0FnXO:Rg0FnXO:Qg0HnXO8Rg0HnXO8Qg0IoXO7Qg0IoXO7Pg0>O1fYORO`e0n0_ZOTO_e0n0`ZORO`e0o0^ZOSOae0n0^ZOROce0n0[ZOSOee0Q1WZOoNie0Q1WZOnNje0S1UZOmNke0S1UZOmNje0U1TZOlNle0T1TZOmN1J^e0Z1`ZOlN0N^e0V1aZOmN0NNLYe0Y1iZO\\OL\\O\\e0W1hZOEVe0<kZODTe0<lZODTe0<nZOCod0?R[OfNIg0ld0g0e[OYOXd0g0j[OYOTd0h0m[O[Onc0f0R\\O\\Okc0e0U\\O\\Oic0d0X\\O\\Ofc0f0Z\\O[Odc0f0\\\\OZOdc0f0\\\\O[Obc0e0_\\O[Obc0d0^\\O\\Obc0b0_\\O_Oac0?a\\O@`c0?`\\OB`c0=`\\OCac0=_\\OC`c0>_\\OBbc0>\\\\ODcc0<\\\\OFdc0:[\\OFfc0:Y\\OGfc0:Z\\OGdc0;Z\\OFfc0:Z\\OFec0;Z\\OHdc08\\\\OIcc08\\\\OIBbNjc0e1d\\OJAbNjc0e1d\\OJ@cNkc0c1e\\O2Yc00f\\O1Pc0WNc\\Ol1<NPc09o\\OHob0:Q]OFob0:P]OGob0:Q]OHlb08U]OJhb07Y]OHfb08]]OmMC\\1Pc0g0i]OZOQb0k0P^OUOYa0_N[^O\\2<VOVa0aN\\^OZ2?TOTa0dN\\^OX2`0UOn?^NT@6]OW2b0TOm?_NS@8\\OV2e0QOl?cNY_ON?8GV2e0QOl?cNX_OO`08GT2f0jNnNiNo`04U_ON`07HT2f0jNf?jN^_O3L08LH>:m1g0kNf?lN]_O2K09MF>5S2n0dNe?oN\\_OOL28a0Jl1Q1bNf?QOZ_ONM28a0Jl1R1^Nh?VOV_OMN28b0Hl1T1^Nc?ZOZ_OHO37a0Jj1U1^Nb?EX_OB7a0Ik1V1]Na?FZ_OB4`0Kj1X1]N_?HY_OA5`0Ki1Z1\\N]?KY_OA4?Lg1]1_NY?IZ_OB5>Lf1^1bNU?5a_OCLf1^1bNW?3__OW2Z1gMY?O]_OZ2[1lL`Na0j`07[_O[2\\1lL`Na0j`08Z_O[2]1hLeN7I0``0Ih_Om0HSO0W3c1iLfN1L4\\`0Oc_Oi0L^2Z2hLX>e4jAZKW>d4c203lLh\\OdN1Z2Yc0POg\\OcN5Z2Qc0UOl\\O^N5]2ob0UOZ]Oj0eb0WO[]Oi0fb0VOZ]Oj0fb0WOY]Oh0jb0XOT]Oh0lb0ZOR]Of0[b0eM[]OR299\\b0Nd]O2[b00e]OO[b01e]OO[b02d]ON\\b02d]ON\\b03d]OL\\b04d]OM[b03e]OM[b03e]OOZb00f]O7J]MPb0\\2V^O7G`MSb0Z2U^O`0ka0_OU^O`0la0@T^O`0ma0_OS^O`0na0@R^O>Qb0Ao]O>Rb0Bo]O<Rb0Dn]O;Tb0Dn]O:Rb0FS^OXO^OWO`b0a1T^OUO^OYO]b0c1V^OSO]OZOVb0j1^^OiN@[OPb0n1`^OZNZO[O8;oa0P2_^OZNZOWO0L9b0ma0R2a^OXN[OVO<>ja0S2_^OXN]OUO=>ga0U2`^OWN3VOWO6Ub0^2e^OoM<_Oo`0c2i^OiM8DPa0b2k^OgM5FQa0d2j^OfM4FSa0d2h^OgM3FWa0a2g^OhM3EWa0d2e^OhM3DYa0c2d^OhMgb0X2X]OhMkb0ET\\O\\2R1kMUc0Q2k\\OmMYc0R2[10O010O02N4L1O0O2O1N2O0O01O001O101K4O2\\ZOnMXe0R2gZOPNWe0R2gZOoMZe0Q2dZOQNZe0[2M3N2N200O100001O00N3N100O101N10000DPMi[Oo2Wd0RMg[Oo2Xd0TMf[Ol2Zd0VMe[Oh2]d0XMa[Oi2[d0QMc[O71h2\\d0\\Md[Od2[d0a0001O001OO11O01N1O2M3O0O20O002OO00O101N010O0100O10OO2O1O1O2N101N3N5LOM4OO01O01O0]O]\\ObLNOgc0]3\\\\OdLlc0\\3T\\OeLlc0Z3U\\OfLkc0Y3U\\OhLlc0V3U\\OjLkc0U3V\\OjLlc0T3V\\OkLjc0T3V\\OlLkc0S3T\\OnLmc0Q3S\\OPMmc0o2R\\ORMQd0k2P\\OTMRd0j2n[OWMRd0h2Q\\OUMPd0j2Q\\OTMPd0:g[Oo1:fMoc09k[Oo1gd0PNZ[OP2fd0oM\\[OP2dd0nM^[OR2bd0mM`[OS2`d0jMb[OV2^d0hMe[O[1CXO^e0f0eZOXO]e0e0fZOZO[e0d0gZO[OYe0d0jZOZOWe0d0lZOZOUe0e0lZOZOTe0e0oZOYORe0e0P[OYORe0e0Q[OYOod0g0R[OXOnd0g0T[OYOkd0g0W[OVOjd0i0W[OWOid0i0W1O101N10000O2OXZO\\OTd0d0l[O\\OUd0c0j[O_OUd0`0l[O@Td0`0l[OASd0?m[OATd0=m[OCSd0=m[OCSd0=m[OBUd0<k[OEUd0;k[OEUd0;k[OFUd09k[OGUd08l[OHTd08l[OHTd08l[OHTd08k[OIVd06j[OIWd07h[OJXd07f[OI[d08c[OH_d08_[OJ`d07^[OLBFoc0?^\\OMAFPd0>\\\\ONDDPd0=\\\\O1XOBH2cd0;[\\O3ZOBD2gd07\\\\O7WOL[d0NZ\\O:\\OGZd0OV\\O>@CZd0OT\\O`0ACYd0N_[OA?P1IAYd0N^[OC<Q1L_OZd06c[O`03ZOYd0j1f[OVNZd0j1g[OUNYd0l1f[OTNZd0m1b[OVN^d0l1`[OUN_d0f200O100000000000O10000O101N100O1O1O1O1O100O1O1O1O1N2O001O101N10001O002N004L1O00001O001OO110O0O100010O0010N11O001O001O010oMcZO]1]e0]NjZOb1Xe0[NjZOd1Ve0[NkZOe1Xe0VNiZOl1ee00O101N101N110O01O00O1001O0O2SORZOFQf05RZOIQf05RZOGRf07mYOI\\f0NgYONdf0G]YO9cf0G]YO8gf0C[YO=Ug0N1N3O000O100O100O101O0O2O0NQa_<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 1 has a flat surface facing outward similar to how targets are presented for aiming practice in games like darts; its isolated positioning suggests interaction distinctively compared to surrounding interconnected segments which likely represent terrain features rather than interactive elements themselves"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_32",
+      "area": 31007,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ieP=7hg0101N2M203L111N002O0O3M100O2N1O011N2O0O101O0O100_[OROPb0m0o]OSORb0m0l]OUOTb0j0l]OVOZa0NR]Ol0b1XO[a0LU]Ok0_1YO[a0OU]Oi0^1XOUa0Lj\\O2c0j0]1YOVa0Li\\O271Ji0n1XOVa0Nm\\ONJ0470d0o1YOVa0Ol\\O2N32c0l1ZOWa0On\\Oa0O5l1[OVa0OP]Oa0O5i1\\OVa00T]O>G[O2j0m1]OTa0N[]Oe0C0l1_OTa0M\\]Of1^1]NVa0MZ]Oj1]1[NWa0LZ]Ok1_1YNWa0KY]Oo1^1WNXa0MV]On1b1UNXa0]2g^OdMWa0]2h^OdMXa0\\2h^OdMXa0]2g^OcMXa0^2g^OcMXa0_2g^ObMXa0^2g^OcMXa0_2g^OaMYa0`2f^OaMXa0`2g^OaMYa0`2f^O`MZa0`2e^O`M\\a0a2a^OaM_a0_2_^OcMba0\\2\\^OfMda0[2Y^OgMia0Z2S^OhMla0[2o]OgMoa0_2l]ObMTb0f2\\]ObMcb0n310O01OEkJl]OT5Qb0PKo]Oo4Qb0RKn]On4Qb0UKn]Oj4Rb0VKo]Oi4Qb0YKn]Of4Rb0[Km]Oe4Tb0[Kl]Od4Tb0]Kj]Od4Wb0]Kh]Ob4Xb0_Kg]Oa4Sb0QKn]O?O_4Rb0TKn]O>O^4Pb0n000O20O004MGVJY^Ok5ga0XJW^Og5ha091N101O1O1O001O1O1O1O0O2O1O1O100O2O0O100O1O1O1O1O1O1O1O1cMd]OTO]b0e0n]OVOSb0e0U^OWOla0e0Y^OYOha0d0[^O[Ofa0b0]^O]Oea0>_^OAba0<`^ODaa09`^OHaa06]^OMda01Y^O3ha0JX^O8ia0FU^O=ka0BU^O?ka0AS^Oa0ma0_OQ^Oc0oa0^Om]Oe0Sb0[Oh]Oj0Yb0VO`]OP1`b0ROS]OY1nb0l1001O00001O001O001O6J1O2N4L6J2N1O10O01O1O1O2N1O1O1O1O1N2O1O1O1O1O00000O101O00001O00000010O0001O00000000001O001O2N1O1O1O3M2N1O1O1O001O001O000O2O001O2N2N1O1O1O1O001O1N2O1O1O1O001N2O001O001O0000001O0000000O2O0001O00000000O100lNXZO0he0O\\ZONee01\\ZONde01]ZOOce0O`ZO0`e0KgZO3Ye0KjZO4Ve0KmZO3Te0KmZO5Se0LmZO3Se0NmZO1Te0OlZO0Te01kZOOVe01jZONVe05hZOJYe07fZOHZe0:dZOF]e0:cZOE]e0<bZOD_e0;bZOD^e0>`ZOBae0>^ZOBbe0?]ZOAde0?[ZOAee0a0YZO_Oie0a0UZO^One0b0PZO^ORf0a0lYO@Vf0`0gYOAZf0R12N1O1N2O1O1N4M2N1N100000000O1000001O0000001O007H2O1O1O0000000O10001O001O0O2O1N101O001O0O2O1N2O0O2OjnY<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The central positioning of Part 2 in relation to surrounding elements suggests its role as something meant for handling rather than being stationary like most others; likely designed ergonomically similar objects are often portable components within such systems which aligns well enough given typical design principles where handles would be placed centrally yet accessible\u2014differentiating functionally"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_4",
+      "area": 28281,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "i]`?7gg03N1O2N100O1O1O1N2O1O2N1O1O1O1O1O1O1N2M3M3H8K5M3N3M2O1O1O1O1N2O1O1O1O1O100O1O1O1N2N2M3N2O1O1O1O1O1N3N1O10OeN]MZ]Od2db0`MS]Og2lb0[Mm\\Ok2Sc0WMh\\Ol2Wc0XMc\\Ok2]c0VM]\\Oo2cc0g0000000000000000000000000001O0000000000000000000000000000O1000000000000000000000O11O000000001O00O010O10000000O100000O1000O1000O100000000O100000O100001O000000000O10O100000O100000000O10000000000000000O10000000000000000O100000O10000O100O1000O01000O1000O10O1000000O100O1000ROQLj]OP4Ub0RLj]Om3Wb0TLh]Ol3Wb0ULi]Oj3Xb0WLg]Oh3Zb0XLf]Oh3Zb0XLf]Og3[b0YLd]Oh3\\b0XLd]Og3]b0YLc]Og3]b0ZLb]Oe3_b0[La]Od3ab0\\L^]Oc3cb0]L\\]Oc3eb0^LZ]Oa3gb0`LW]O`3jb0`LV]O^3lb0cLS]O\\3nb0dLR]OY3Qc0hLn\\OT3Vc0lLi\\OR3[c0nLd\\OP3^c0QM`\\Oo2ac0RM^\\Ol2dc0TM[\\Ol2gc0TMX\\Oj2jc0VMU\\Oi2mc0XMR\\Of2Pd0ZMP\\Od2Rd0\\Mn[Ob2Ud0]Mk[Oa2Wd0_Mi[O_2Yd0aMf[O_2[d0a02N3L3N2M3M4K4M3N2L5K4L4L5K4J7I6K5K5L5K4O1O2N100O2N101N1O2N2N1O2N2N3L4LlfY;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pour",
+          "justification": "The wide opening at the top of Part 3 suggests its use for pouring liquids into containers below while differing in function as compared to solid-shaped Parts labeled around it which likely serve storage purposes instead"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_27",
+      "area": 27627,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "_da<3mg00I0]XO40LZg00fXO5OLYg0b0O0iXO^ON4jf0>VYO_O09df08\\YO1Uf0_OlYO_1Qf09N4J5oNlMQ\\OW2kc0PNP\\OQ2mc0QN^[OI>X2Pd0YNo[Oh1mc0[Ng[OZO011o1NXNXd0P3h[OQMUd0P3o[OnLnc0T3S\\OlLjc0V3X\\OiLdc0Z3\\\\OgLac0Z3a\\OfL\\c0\\3e\\OdLXc0\\3j\\OeLRc0^3Q]OaLkb0`3V]OaLfb0c3[]O\\Lab0g3_]OZL]b0i3e]OVLZb0k3h]ORLVb0P4k]OPLSb0Q4n]OmKSb0T4m]OkKRb0V4m0O005LO0O1O2N2N2M2O2N3M2O1NUOl\\OlLTc0T3o\\OjLSb0^O_^Oc3CnLoa0A\\^O_3KfL^OKXb04]^O\\3NbLma03T^OY33`Lia0:R^OW3`b0_LS]O<;T3cb0aLP]O>;P3db0dLQ]O>O@3Z3Qc0iLm\\Oc02d2Pc0jLn\\Oc00c2Sc0kLm\\Oa00d2Tc0jLm\\O`00e2Tc0kLQ]O;Ki2Vc0lLo\\O:Jk2Wc0lLP]O6Jn2Wc0lLo\\O5Io2Zc0lLm\\O3JQ3Yc0lLm\\O3IQ3\\c0lLg\\O6Mn2]c0kLd\\O9Nl2`c0kL`\\O:0i2bc0nL]\\Og3dc0;0N2O1O1N2OO101N1O2OO01O002N2NAa\\O`L^c0a3g\\OZLWc0g3j\\OYLTc0i3l\\OVLSc0k3o\\OTLPc0l3P]OULnb0l3T]ORLkb0o3V]OQLib0P4W]OnKib0S4X]OlKgb0T4c00OM4L4M210O10OO2000O011O1O001OO100N2N2Gk[OeLVd0Z39O100O1O100O1O1O1O1O00100O1O1O1O1O1O010O1O00001O00O101O000000001O00001O00001]OnLU\\OT3lc0lLT\\OS3lc0oLR\\OR3nc0oLQ\\OQ3oc0PMP\\Oo2Qd0QMP\\On2Pd0SMo[Om2Qd0RMP\\On2Pd0RMP\\Oo2oc0QMR\\On2nc0RMR\\Oo2mc0QMS\\Oo2mc0SMR\\Om2mc0VMP\\Oj2Pd0WMn[Ok2Qd0UMo[Ol2Pd0UMm[On2Rd0RMn[On2Rd0a00O001O1OO2O0O101O00010N2O1N200O101NhMY\\O:dc0D_\\O=`c0@c\\Oa0[c0^Og\\Oc0Yc0YOi\\Oi0Wc0SOk\\On0Vc0nNm\\OS1Rc0kNo\\OV1Pc0iNR]OX1mb0fNT]O\\1kb0aNX]O_1gb0`N[]Oa1cb0^N_]Oc1_b0\\Nb]Of1\\b0ZNe]Of1Yb0ZNh]Og1Wb0YNj]Of1Vb0YNl]Og1Tb0XNl]Oi1Sb0XNm]Og1Sb0YNm]Oh1Rb0WNP^Oh1Pb0XNP^Oh1Pb0XNQ^Of1Pb0ZNP^Of1Pb0YNQ^Og1oa0iMj\\O2X1T2na0jMj\\O1Y1U2ma0jMk\\O0Y1U2la0kMn\\OLW1Y2la0jMm\\OLY1Y2ja0lMm\\OJ^1V2ea0oMn\\OIa1U2aa0RNo^Oi1Ra0VNP_Oh1Pa0YNo^Og1Qa0XNQ_Og1o`0YNT_Od1l`0[NX_Ob1h`0\\N^_O`1b`0_Nc_O]1^`0bNe_O[1[`0dNj_O`0nL1Yc0^Ol_O0jL928df0^O[YO:17jf0HWYO7if0JXYO4hf0LYYO3gf0MYYO3gf0MYYO3gf0NXYO2if0MXYO2hf0NXYO1jf0NVYO2kf0LVYO3nf0JRYO6\\g0M4N1O101N1OkT_>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The elongated tubular structure of Part 4 suggests its design for grasping and holding onto something like handlebars in contrast to flat surfaces seen elsewhere which are likely meant as grips but do not offer enough surface area alone suitable solely intended carrying function distinctively compared others' shapes/materials/positions within depicted assembly contextually"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_2",
+      "area": 26338,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "`ag;=`g0:E7I7J6M3L3N3L6K2M3N4L3M2N2M4M4K4L4L4M3L3N3L3N2M3N1N3N2N2M2O2N1O1N3N2N2N2N2N2N2M3N3M2N1OnKf\\O_3Yc0`Li\\Oa3Uc0_Lk\\Ob3Uc0\\Lm\\Oc3Sc0\\Ln\\Oe3Sc0XLn\\Oi3Sc0TLn\\Ol3Sc0SLn\\Om3Qc0RLP]On3nb0TLR]Om3ib0VLX]Ok3fb0VLZ]Ok3eb0TL\\]Om3bb0TL_]Ol3`b0SLa]On3_b0QLb]OP4\\b0oKe]OS4Yb0mKh]OT4Vb0jKl]OX4Rb0fKQ^OZ4na0fKR^O[4ma0dKT^O]4la0aKU^Oa4ia0_KW^Ob4cb02O0O1O001O000010O000001O000010O0001O00001O0000010O01O00010O000010O0001O0001O000000000001O01O000001O00000000000000000000000000000O100O100O1O1O1O2N1O100O1O1O1O0O2O1O100O10000O100O100O2M2L4N2O1O1O2O0O1O1O1N2O1N2O1O100O1N2O1N2O1N2M2B?N2O1N3N1O1O1O1N2N2O1N2O100O1O1O0O2O1N3M2O1N2N2O1O1O1N2O2N1O2N;E4J4F:M3M3KfeR`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "lift",
+          "justification": "The broad flat base of Part 5 suggests stability for support when lifted compared to its distinct separation from surrounding elements which are more integrated into pathways within adjacent sections; thus differing in function as lifting versus being traversable components like bridges connecting various regions depicted by numbers around them indicating interactive paths rather than standalone objects meant solely handled independently"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_29",
+      "area": 24119,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "njTb04lg00O2O0@MTYO2lf0NTYO3Qf0OUZO0I1ne07UZOHM1ke0=PZO@J49Ole0?PZO_OJ49Nme0`0mYO@M64KQf0a0kYON0ETf0`100O2QZOVNfe0j1YZOWNfe0k1XZOWNXe0OoZOk1HWNTe0d2O1O100O10000001O01O00010O00000000000O2O001O001O1O1O1O100O1O2OO02O1O01N10O007J2M2N1N3L3M4M2O1N2O1O001O0O100O1N2N2O2N1O1O1O1N2O1N3MhNl\\OhMSc0U2S]OiMlb0W2W]OgMib0X2Y]OgMfb0Z2[]OeMeb0[2\\]OcMeb0]2\\]ObMdb0^2]]O`Mdb0`2\\]O`Mcb0`2_]O_Mab0a2_]O_M`b0b2`]O^M`b0a2a]O_M]b0c2c]O\\M]b0d2d]O\\M9XOg`00b^O]3>[M9XOg`00b^O\\3?\\M7ZOf`00b^O[3a0[M7ZOf`01`^OZ3d0[MA\\O6NUa0d3T_ORMA\\O6NVa0a3U_OVM]O]O7LWa0_3W_OXM[O^O5LYa0]3X_OYMZO_O4K[a0\\3W_O[MYO_O3K]a0Z3X_O[MVODOC14ha0R3S_OcMUODODO4ja0Q3T_ObMSO5ia0Y2T_ObMTO5ha0X2T_OcMSO6ia0W2T_OcMSO6ja0V2S_OgNm`0Y1S_OhNl`0X1T_OhNl`0X1U_OhNk`0W1U_OiNk`0W1U_OiNl`0V1T_OjNl`0V1S_OjNPa0T1P_OlNQa0S1o^OlNTa0R1l^OmNTa0T1l^OlNUa0S1k^OlNVa0T1j^OlNWa0T1i^OkNWa0U1i^OkNXa0T1h^OmNXa0R1i^OmNWa0S1i^OmNXa0R1h^OnNZa0P1f^OPO[a0o0e^OQO\\a0n0d^ORO\\a0n0d^OSO[a0m0d^OTO]a0k0b^OWO]a0i0_^O[Oda0b0Z^O@ga0>Z^ODea0;Z^OGga08X^OQNZOU1]b0j0X^OoM^OZ1Vb0h0\\^OnM_O\\1Rb0f0_^OmM@^1oa0f0a^OjMCa1ka0e0a^OjMDb1ja0d0b^OkMD`1ka0d0a^OlME`1ia0e0a^OjMGa1ia0d0`^OlMF`1ja0e0^^OlMG`1ka0d0^^OkMHa1ja0d0^^OkMGb1la0b0^^OjMGd1ka0b0^^OjMFe1na0`0[^OjMHe1Pb0?Y^OkMFg1Rb0>W^OjMHg1Rb0a0U^OfMJh1Tb0a0R^OdMMi1Qb0ZNc]OR2P1A`a0\\Nd]OP2m0_Oda0`N_]OR2m0]Oda0`Na]OR2m0\\OPb0c0P^O\\OQb0c0P^O\\OPb0d0P^O\\OQb0d0n]O\\ORb0g0l]OXOUb0g0k]OYOUb0h0j]OSOoNiNWc0T2k]OSOnNiNXc0S2j]OTOZb0k0g]OTO\\b0i0e]OXOZb0g0h]OXOYb0g0g]OROkNSO`c0h1f]OUOjNSO`c0h1f]OUOjNSOac0f1f]OWOjNQOcc0[1n]OD_NQOcc0Z1o]OFZb05g]OK_b0Oa]O1ab0La]O3^b0Mc]O2_b0Ma]OAYN1Td0`0d]O^OYN0Sd0c0d]OXO^N3Pd0e0T^OYOla0h0T^OVOna0j0S^OSOoa0m0Q^OQOPb0Q1`2O00:F1O1N102M2N01O1E@UYO`0if0CUYO?kf0BSYO>kf0ETYO;mf0ERYO;nf0;2N1O4K2O2O3M010O2ON11O002O2M1N3Ni]_9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The flat surface of Part 6 suggests functionality for gripping rather than holding objects within its bowl-like structure compared to surrounding areas which are more enclosed or textured differently"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_26",
+      "area": 13737,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "gd]84lg01N2ZNM\\[O4dd0MY[O6ed0KZ[O6fd0KVZOLg0;Re0IWZOLf0<]d0DX[O4DNd0<`d0BW[O7CLc0=^b0Dg^ONdN7CJb0>^b0Fh^OKfN7@Ma0<`b0Gh^OJfN6A1<9db0Ig^OGgNk1`b0`Ng^OFiNj1_b0bNg^OEhNj1`b0bNY^OCQO25i1`b0dNT^OKQOJ9h1bb0cNS^O:ZOS1bb0dNS^O=WOP1fb0dNP^O?YOn0Rb0nMZ^Oe09a0[Ol0Rb0PNW^Oe0:a0\\Oj0Rb0SNV^Ob0<a0\\Oj0Qb0VNT^O??b0[Oj0Qb0XNP^O?d0`0ZOi0ma0^Oi^OIZOi0ma0]Oj^OR2Ua0oMk^OP2Va0PNj^OP2Ua0QNl^Om1Ua0SNk^Om1Ua0SNk^Ol1Va0TNj^Ol1Va0TNj^Ok1Xa0TNi^Oj1Xa0kLn]OR1i0S2Za0jLn]OR1i0R2[a0lLl]OR1i0Q2\\a0kLm]OS1h0P2\\a0mLm]OR1g0Q2ha0oMW^OQ2ia0oMW^OP2la0]M\\]O^O14g0Q3la0YMg]OF=P3na0WMh]OH;P3ma0WMj]OH9Q3na0VMj]OG9S3ma0TMl]OI8R3ma0SMm^On2Ra0RMn^On2Ra0QMP_On2Qa0PMo^OQ3Qa0mLQ_OS3nb01O001O001O00001O000O100O1N2L4O100O0100O100O1O1O1O1N3N1O2N2N3N1N2O1oMY[Og0gd0TOa[Oi0`d0UOb[Oi0_d0WOc[Og0]d0XOf[Of0[d0XOg[Of0Zd0YOh[Of0Xd0ZOi[Oe0Wd0ZOk[Oe0Ud0[Ol[Od0Td0\\Om[Oc0Sd0]Om[Oc0Td0\\Om[Od0Rd0]On[Ob0Sd0^Ol[Ob0Td0_Ok[Ob0Ud0^Ok[Ob0Ud0^Oj[Ob0Wd0^Oi[Ob0Wd0^Oh[Ob0Xd0_Og[Ob0Xd0_Og[Oa0Yd0_Oh[Ob0Vd0_Oi[Oa0Vd0_Ok[Ob0Ud0]Ok[Oc0Ud0\\Ok[Oe0Vd0YOk[Og0Vd0mNnZO1l0R1Vd0kNR[O0h0V1bd0iN_[OV1ee01O1N2E;00O02O002M3N1O0O2O1N100O1O1O00100O0010O100O1001lN^YOg0cf0XO^YOh0cf0WO]YOi0df0WO[YOi0ff0UO[YOk0ff0TO[YOk0mf001O10000O100O4L0030N0O0100O10O2OO01O0O3N0L5N10ERYOCnf0>TYO@gf0MWYO:1H3Ngf0?XYOA10ff0`0a01O01O0O7J0G:OWlVd0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The flat surface of Part 7 suggests its suitability for being held in hand compared to more complex shapes like those designed likely as containers around it; also distinct due possibly less structural complexity than adjacent elements indicating functional difference such as portability versus containment roles within depicted system which may vary among surrounding components given their varied forms implying diverse"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_30",
+      "area": 9146,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Vdae04lg01N10100O0O2N10O010O0010O10O01O1N2O2O1N2O2M20O01N1010O00H_OPYOb0lf0;O1O1O2O0O1aZOkNSd0U1m[OlNQd0U1n[OlNmc0OlZOU1W1mNlc0X1R\\OjNfc0LW[O[1Q1kNhc0JW[O[1Q1kNgc0LV[O[1Q1kNhc0\\1X\\OdNgc0]1Y\\OcNgc0]1W\\OdNjc0]1S\\OeNmc0i1d[OYN[d0EZ[Om15_Nbd0DZ[Ol12bNdd0A][Ol1LfNgd0]O_[Ok1HjNid0ZOa[Oe2nd0O10O01O1O0O10O101O001N101N101O00000001OkZOYMQe0g2oZOYMQe0n2M001O00O010O100000O103M0O2O000000O2O00001O000001O0001O010O8H2OO010O001O010O0101N3N0O1O1O001N2O001kNdZOC]e09hZOFYe07kZOGVe06oZOGQe07T[OEnd09U[OEkd09X[OFhd09[[OEed09^[OEdd09_[OEad0:b[OC_d0=b[OB^d0=c[OB^d0<e[OA^d0=c[OB^d0=d1N3M2N3M3M2O]cQ8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The flat surface of Part 8 suggests its use for gripping during transport compared to more complex shapes like those designed primarily as decorative elements in adjacent sections"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_19",
+      "area": 4369,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "YgZ93lg02O1N102OO011N010O10M2N20O03M1_XOE\\g0`001N110OO10O0OO30O01O2N1010O0O100O2O0000000O1J7N2O1J502M1010O00JnN`YOQ1_f0QO^YOP1af09O001O1O010N101O01OM2010O00101O001N2O2N010O000K_YOjNaf0W1_YOiNaf0V14010O00100O2O000000O100O1O1OElNjYOU1Wf081O3O00O2O0O100000O100O2O004K100O10O010O1001O0O1CZYO@ff0`0_YOXOcf0j0:O021M010O0O2O1H800O1N2O1N102M1O2O0OcY_d0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The flat surface of Part 9 suggests its use for gripping easily compared to more complex shapes like those around it which are less suited for carrying directly by hand"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_21",
+      "area": 4800,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "[lkb03lg0101N102M1O5J2N3N1O001O1O1O2O0O11O005K1N3N1N21O2NO100O1O0002jXOGaf09^YOHbf0:[YOHdf08ZYOJef0:WYOFif0i00O000001N3N1O2N010OO2002N3L4M2eZO^NTd0e1i[O[NWd0n1_[OUN^d0Q2nZOmM:2hd0V2Y[OjMfd0Y2W[OgMhd0\\2R[OhMnd0f2O001O0[[ORMXd0n2h[ORMXd0n2g[OTMWd0m2i[OSMWd0m2h[OTMWd0m2i[OSMXd0l2h[OTMXd0m2g[OSM[d0k2e[OUM]d0d0`[OX12TN_d0b0b[OX1KZNdd0;d[OZ1H[Nfd07d[O^1E]Ngd0Oi[OQ2Se0001O01O01O0010O0B_ZO^N`e0b1_ZO_Nae0P21O0kNfZOD[e0:iZOCWe0<kZOBWe0;lZODUe08Q[ODPe09U[OEmd0O_[ONcd0Je[O4\\d0Jg[O4Sf0O2N2N1Okhi;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 19 has a flat surface facing outward similar to how drumheads are designed for being struck in musical instruments like drums; its positioning suggests interaction compared to surrounding irregularly shaped segments which likely serve as supports rather than direct points of contact"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_8",
+      "area": 5568,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "k[b`04jg04M1O2M2O1N3M3L3O2M3M2N3N2N101N1O2N1O1O1O100O1O2O0O1O1N3N101N1O100O2O0O101N1M3K6N100O11O010O1O1O01O0O01000001O0O2O001N1000O0O2N200O1001O0O2O00O1O100O11O002N3M2O0O1O001O001O1O1O6J1O1O001N101N1gNaYOQ1if0M2O1N2O2M101N1O2M2N3N2N2N3M2N3M3NVTh="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 1 of section eleven has features resembling buttons commonly associated for hitting actions; its isolated cluster suggests distinct functionality compared to surrounding areas which appear more integrated into pathways or surfaces designed primarily as routes rather than interactive elements like targets typically used in games requiring precise strikes such as dartsboards where players aim at individual scoring zones by"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_20",
+      "area": 3349,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "SSo=3jg08G8K5L0O6L0J>@8O0O2O0O3N4M0O001O010O01N3N1N1O2O0L5M201O0O101M2N2M3000000O01O0L5N2O1N1O2N1010EcYOSO\\f0k0hYOUOWf0j0kYOTOVf0l0lYOROTf0m0oYOPORf0o0a0O0N3N02N3M101N101N0100KWYOROjf0n04O1010O00@RYOOmf01SYONnf01YYOIff08a03N0O=JI100N2O1N3N1N1O2M201O0O2O1N2O0O[Uk`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 13 has a raised edge resembling buttons typically pressed in games for action commands like hitting; its isolated positioning suggests distinct functionality compared to surrounding areas without such features"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_25",
+      "area": 2459,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Y`^e03mg01N101N0100O11O0O3N001N100O100O2O004L1N101O000lXO_Ohf0c0WYO^Ohf0b0WYO_Oif0o0M10O010O1O1O2M3N7KO00O10O012M101N01001O4LO010N2O1L40O010O0000002N4L001OO100O10OO2M3M3O1O11OO11O2N2N1O2N001O01O0O202[OoXO6`g02L2NO03M3M001O00O2O0O2JeXOE\\g0:6O2N10`XOIVg06iXOKXg04gXONXg02hXOMZg03dXON]g091JaXOK`g092J8Mlmn8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The handle-like extension of Part 14 suggests its function for carrying differs significantly as compared to flat-tinted regions like those likely representing seating areas in Parts 6-8; these differences indicate varied uses within their respective contexts despite similar coloring schemes across adjacent sections indicating shared thematic elements such as public transportation design features common"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_13",
+      "area": 2741,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "]^ld09fg04L2M3L6J5D<G8M3M2O2O0O2O000001O001O1O1O1O100O0001O0O101N1O2N1O1N201N11O0O2IoYO]NSf0a17N2O2N1O1O2N1N4M2N2M101N1000001N101N4G8K4H7MkQe:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 16 has a flat surface facing outward similar to buttons often designed for being pressed in interfaces like video games where hitting triggers actions; its isolated positioning also suggests distinct interaction compared to surrounding elements which are more integrated into pathways suggesting movement rather than action initiation points"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_6",
+      "area": 2666,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Sjh?7gg03N2O1N2O2M2O001N101N101N2N2M2N3N2N2N2N1N3M3O2M2O2O0O100O1O3M2O0O001O00000001O0O2O1N101M2L5M201N101N100O2O0O100O01O0010O001N3N1N3]OTYOOPg0LSYO2^g0O2N1Nheb?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 16 has a flat surface facing outward similar to how drumheads are designed for being struck in musical instruments like drums"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_7",
+      "area": 2566,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "RlX74lg00O2_XOMSg03lXONTg04hXOOVg0>FARYO`0nf0:N101O1N2O1O0H9O0O11O001O100O1O01O00001N1O1N2EbNQZOa1ne0810O11O0O2O5K3L1000M2N300O0101O0O2O1N2O1N2N7H4M3M1O2M3M3N3M5KVdXh0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "Part 15 has a handle-like extension suitable for grasping compared to its surroundings which lack such features; however since I must focus solely on justifying pick-up as observed in relation directly provided by your query regarding number sixteen itself\u2014particular emphasis should be placed instead upon noting how distinctly protruding yet still manageable contours"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_1",
+      "area": 2460,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "bm]h03ig05M4L5K5L3L3N3L3N3M3N1N1N3N1O1O2N1O1O100O10000O2O00000010O00001O002N6J1O00000O01O001O10O011O002N3L2O1O1O001O0@WYOHkf0MTYOM45if0KWYOM17`g0O0O2N1NSbS7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "kick",
+          "justification": "Part 16 has a flat surface facing outward similar in orientation as if used for kicking compared to its surroundings which are more enclosed or differently shaped structures like handles or connectors within their respective clusters of components; thus differing functionally by design intent suggesting interaction through foot contact rather than grip engagement seen elsewhere around them making kick most"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_3",
+      "area": 2030,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "beg`07gg03M3N2N3M3N1N3M2N3N1N2O2M101N2O2M3N1O1N101O000O10000O10000O0100000O100000O101N1O2N2N2N1O2M2O1N3N1L5K4N3M3L5IkRo>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 19 has a raised, textured surface resembling buttons commonly pressed in games for action commands like hitting; its isolated positioning suggests distinct interaction compared to surrounding areas which appear more static as terrain-like features"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_5",
+      "area": 1684,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ol^`07hg02N3M5K7J2M2O1N101O100O2O000O100O100O100O10O010O1O0010O01O10O01O00100O1O100O1O2N1O1O2N1000100O000011N1O01O0O2O4K7J1M4M\\QT?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "pick up",
+          "justification": "Part 18 has a handle-like extension suitable for grasping compared to its surroundings which lack such features; however since I must focus solely on justifying pick-up as observed in relation directly provided by your query regarding number nineteen itself\u2014particular emphasis should be placed instead upon noting how distinctly protruding yet still manageable contours"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_10",
+      "area": 1401,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "T^Qb04lg01N101O1O1O1O1O1O1N101O001O0O100000001N100000O1000000000000000O100000O10O100000000O1000O10000000000O01000000000O100000O10O100000000O1000000O010O10O10O100O001O1O10OO2O0O3N1N[Zm<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "lift",
+          "justification": "Part 2o has a broad flat base resembling handles for gripping compared to its elevated positioning relative to surrounding elements which suggests functionality as something meant to be lifted rather than interacted with in another way like sitting upon them due their design features such visible protrusions indicating ease of grasping while remaining distinctively separate allowing clear separation"
+        }
+      }
+    },
+    {
+      "region_id": "bonsai_crystal_region_11",
+      "area": 1268,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "RY[=4kg03L6I4N1N3N1O0O2N1O2O1O0010O01O10O0100O0100O010O010O010O01O1O0N3O10O011N101O0O2O1N2M3M2N3M2O2M3Nio_b0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "lift",
+          "justification": "The base of Part 20 resembles hands cradling something above them for support while lifting its contents upward easily compared to surrounding elements which are more static in design without such ergonomic features conducive to manual handling tasks like carrying loads within containers depicted by adjacent sections; thus differing functionally as well visually despite shared thematic context across"
+        }
+      }
+    }
+  ]
+}

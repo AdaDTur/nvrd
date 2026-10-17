@@ -1,0 +1,179 @@
+{
+  "object": "shape_1",
+  "model": "allenai/Molmo2-8B",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/novel/shape_1.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "shape_1_region_16",
+      "area": 104043,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "S^b94jn0e1XQOcNfm0P2\\ROkM^l07fSOP2ImM6O`k0^4bTO]K[j0Y6_UOPJ6GVh0]8dWOkG8?Xe0c9^ZOfEVe0f:nZO]E^d0];F5K5H:I7J3J6M4K5J5K6K4K5L4L4L4K5L4M2N3L4LgBP_Oh;l`0UD\\_Oj;a`0SDe_Ol;Y`0RDk_Oo;R`0PDP@Q<m?nCV@S<g?mC[@U<a?kCa@W<\\?gCf@[<X?dCj@]<T?bCm@`<P?`CQAb<m>^CRAe<k>[CVAg<h>XCYAk<d>UC[Ao<b>PC_AR=_>mBaAV=]>jBcAX=Z>iBfAZ=W>eBiA^=U>bBjAa=U>^BkAd=R>]BmAf=P>ZBPBh=o=XBQBj=m=VBRBm=l=SBSBP>k=PBTBS>k=lAUBV>i=jAVBY>g=hAYB[>c=fA\\B]>b=dA\\B^>d=aA[Bb>c=^A\\Be>b=[A^Bg>a=XA^Bk>`=VA^Bb0]Oc<R>lB`B?Dd<j=nB`B;Me<b=PC`B;2d<\\=RCaB95e<Y=RCaB8:f<T=RC`B8?f<o<RCaB8b0f<m<RC_B8f0g<i<RC_B7j0h<e<RC_B6n0i<a<SC^B4S1j<^<RC]B4W1k<Z<SC]B1[1l<W<UCZB1_1l<U<]DmCc;R<]DnCd;R<ZDoCh;o;XDQDj;n;TDSDn;k;RDUDo;k;oCVDS<h;mCXDT<h;jCYDX<e;hC[DY<d;gC\\D[<c;cC]D`<a;`C_Da<`;_C_Dd<`;[C`Df<_;ZCaDh<^;WCaDk<^;UCaDn<^;QCaDQ=_;nBaDT=];lBbDV=^;jB`DX=`;gB_D\\=_;eB`D\\=`;cB_D_=`;]ATC5Z1a>`;XAZC6T1e>a;SA^C6o0j>b;o@bC6k0m>b;l@dC7h0o>d;i@eC8e0c0YOa<[<dBhC7c0b0@a<U<dBjC9?a0G`<P<eBkC:<b0K_<l;eBnC;8`02_<h;eBoC<4a08]<d;gBoC=2?=^<a;eBQD?L`0e0\\<];dBSDa0G`0k0[<[;cBSDa2c0m:Y;bBTD^2f0P;U;bBUD^2h0o:S;bBVD]2h0S;P;`BXD]2i0S;o:`BXD[2k0U;m:_BXD\\2l0V;j:_BYDZ2o0W;h:^BZDZ2n0Y;h:]BYDY2P1\\;e:[B[DY2Q1T7aNUJS<^LZDX2S1d6BVJP;nL\\DW2S1^61TJ`:WM[DV2U1X6`0TJo9]M\\DW2V1R6k0TJb9dM\\DV2W1n5T1TJY9hM\\DU2W1k5]1TJP9kM\\DV2W1g5e1UJh8nM[DU2Z1f5i1SJa8SN[DT2Z1c5Q2TJZ8TN[DU2Z1`5W2VJS8UN\\DT2Z1^5`2TJj7ZN[DU2Z1[5f2TJd7]N[DT2Z1Z5l2TJ^7^N[DS2\\1X5R3TJW7aNZDS2]1V5W3TJR7cNZDa0D`0i1U6]3UJl6eNYD?L>a1W6c3UJf6hNYD=0=^1W6i3TJ`6kNXD=3;\\1V6n3VJ[6mNVD<6:[1U6S4VJV6oNUD;:9W1U6Z4VJP6RORD;>7V1U6^4UJk5VOPD:b06T1S6d4VJe55dDAS1R6h4WJb54dDBQ1S6l4VJ_54eDCo0Q6R5VJ[54eDDn0o5X5XJT54fDEm0o5\\5WJP55hDEk0m5a5XJk46jDDj0l5f5YJe46lDEg0l5k5XJa48lDDh0j5o5YJ^47lDFe0i5U6YJZ47lDHc0h5[6WJW48kDIa0g5a6WJS48kDK?f5g6UJm3<lDJ?c5k6WJi3<nDJ<b5Q7WJe3<nDL:`5X7VJ_3?oDL7_5^7UJ\\3?oDN4_5d7TJX3?PEO1]5k7TJT3?PE2N[5Q8TJP3?PE4KY5Y8SJl2`0oD6GX5b8QJh2`0PE:@V5k8oId2b0PEV7a8VH_2d0oDU7d8WH]2c0oDU7g8WHZ2d0oDS7i8YHX2d0nDP7o8[HS2e0mDo6S9[HP2f0lDm6X9\\Hl1f0lDl6[9^Hi1f0kDj6`9^Hg1g0hDj6d9^Hd1h0gDi6h9_Ha1h0eDh6m9_Ha1f0aDj6Q:_H^1g0_Dj6U:_HY1k0`De6Z:_HU1m0`Db6^:aHR1o0\\D`6e:_Ho0m8SOSGm0j8WOTGj0j8W;O1N2N3L3N3M3M6J3M3N5J4M3M3M4K6I6L3L8I5J7I6K6J8G6K6I6J7J5J6J6K5J7J4L1N2N2O00001N100O100O10000O1O2O00000O1000001N100O1000001O001O00001N101O00000O2O001O00001O0O2O001O00001O001O001N10100O001O001O00100O001O001O1O001O1O00100O1O001O101N1O2N2N2N2N2O1N4M2M2O1N3M4L3M2O3M3L3N2M3N3L3M3N2M4M3L5L3L^eg;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 1 appears to be a larger, more prominent section with a smooth, curved surface that extends outward from the main body, making it more suitable for grasping compared to the smaller, more intricate internal components"
+        }
+      }
+    },
+    {
+      "region_id": "shape_1_region_0",
+      "area": 45321,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Qgg?c0So0c0@a0_O<F8I8G8K4J6H:G7L4J6J6K4L5K5K5L3L4K5M4M2K5K5M3L4M3L4M3M3M3L4L4M3K4O2M3L4N1M4M2N3M2N3L3O2N1M4M2M4N1M4N1N3M2M4N1O1M3O2M2O2L3N2N3M2M3O1O1M3O1O1O2M2M3N2N2O0O2O0O00101N2O1N1O2O1N101N1N3O001N2O1N2N1O2O1O1M201O01O01O0N2010O01M2N20000O101O0O10000O101O0O10001O01OO1O1001O0OO11O2O0O2M2O0O2O1M4N1N1N3O2K4O2L3M3L4M3K6L3J7H7K7F9I8E`0iGVXOW20YN0F;9FF0O20;Mfj01ZUO1AM<0V_U;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 2 appears to be a solid, untextured metal ring with no visible handles or protrusions, making it difficult to grasp or manipulate compared to the other parts"
+        }
+      }
+    },
+    {
+      "region_id": "shape_1_region_11",
+      "area": 39155,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "[fh=Q1dn0e0^Oa0C9F9F:F;H7I5H9J7H6K6I7J5K5K5K5I7L4K5K5K4L4M4J6K4M4K4L4L4L4M4L3K5M3M3L4K6L3M3L4M3M3L4M3L4M3M3M3K4N3M2M4L4M3L4M2N3M3M2M4M2NTL][O`L_d0Y3T\\O^Ljc0]3g\\OZLWc0^3W]O^Lgb0^3a]O_L]b0`3j]O]LRb0`3W^O]Lga0a3`^O]L]a0a3j^O\\LTa0d3P_OZLn`0c3Y_O[Lf`0b3`_O\\L^`0a3i_O]LU`0d3n_O[Lo?d3U@[Lj?a3]@^La?a3c@]L[?b3j@]LR?c3RA\\Ll>b3YA]Lf>a3^A^La>a3cA^LZ>b3jA\\LT>b3QB]Ln=b3TB_Li=`3[B_Ld=_3`BaL]=`3eB_LZ=`3iB_LU=_3PC`Lo<_3TCaLi<^3[CaLd<^3_CaL_<^3eCaLZ<^3iCaLU<^3nCcLP<\\3SDcLl;\\3WDcLg;\\3]DcLa;]3aDcL];]3fDbLY;]3iDdLU;[3nDdLQ;[3SEcLl:\\3VEdLh:]3YEcLe:]3^EbLa:\\3bEeL\\:Z3fEfLX:[3jEdLU:Z3nEfLP:Z3SFeLl9[3UFeLj9Z3YFeLf9Z3\\FfLc9Y3`FfL^9Z3dFfL[9Y3gFgLW9Y3lFfLS9Y3oFgLP9X3RGhLm8W3VGhLi8X3XGhLg8V3\\GjLb8V3aGiL^8V3dGjL[8U3gGkLX8U3iGkLV8T3lGlLS8S3PHlLn7U3SHkLl7T3VHlLi7S3YHmLf7R3\\HmLc7S3_HmL`7S3aHmL^7R3dHnL[7Q3gHoLX7P3jHPMU7P3lHPMS7P3mHQMR7m2QIRMo6m2RITMm6l2TISMl6m2UISMi6m2ZIQMf6n2\\IRMc6m2_IRMb6m2]ITMb6l2_ITMa6j2bIVM]6i2dIWM\\6i2eIUM\\6k2eIUMZ6k2gITMY6k2hIUMY6i2iIVMW6j2jIUMV6j2lIVMS6j2nIUMR6j2PJUMP6j2RJTMo5l2SJRMm5n2SJRMm5m2UJRMk5m2WJRMi5m2YJRMh5m2YJRMg5n2ZJoLh5Q3YJnLg5Q3[JoLd5Q3^JmLb5R3`JmL`5R3cJlL]5T3h;O000O10001O000O1O2O001O00001N1O110O001O001O1N1O2O10O01O1O1N2O1O2O0O2N2O3L5K5J7I6L4K6K3L8H7F>CZcV;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 3 appears to be a flat, elongated surface with a smooth texture, likely designed for easy cleaning or grooming, distinguishing it from the other more complex or protruding parts of the object"
+        }
+      }
+    },
+    {
+      "region_id": "shape_1_region_10",
+      "area": 25022,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "h`^65So0\\1QOh0XOe0^O`0C<D<C:H9G:E9H9H6I8I6I7J7H8I7I6J6K5J5L5K5K5J5K6L2M5K4L4L4L5K4L4M3L4M3L4M3L4L4M3M2M4M2M4M3L4M_Ib\\Oc0[c0WOY]O?db0]Oi]O=Tb0_OW^O<fa0@e^O=Xa0^OS_O?j`0_O^_O=``0@i_O<T`0BS@<k?A^@<_?Bg@<W?Cm@<Q?AWA=f>A_A>_>@gA?V>@oA>n=AXB=f=A_B?^=@fB?X=@lB?S=_ORC?l<@XC?f<_O^Ca0`<_OcC`0Z<@jC`0S<_OQD`0m;_OWD`0h;^O\\Da0b;_OaD`0\\;@gD`0W;_OmD`0Q;@QEa0l:^OXEa0f:_O]E?c:_OaEa0\\:_OfEa0X:_OkE?U:_OnEa0P:_ORFa0l9_OVFa0h9_O[F`0c9_OaF`0]9@eF`0Z9_OhF`0W9@kF`0T9_OoF`0P9_ORG`0m8ATG?k8@WG?h8@]G>b8_OcG?]8_OgG?X8@lG?S8]OVH>i7^OjH4V7HVI1h6KeIM[60mILR60VJLi51`JK_53gJIX55nJHR55TKIk44[KJd44aKJ]44kKGU46PLIo35ULJj34ZLJf33^LM`32dLL\\32hLMW31mLMR31SMNl20YMMh20\\MOc2NbMO`2MeM1Va0N^W`e0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 4 appears to be a solid, untextured surface with no visible handles, grips, or protrusions that would typically provide a means of interaction or manipulation, unlike the other parts which likely have more distinct features for handling"
+        }
+      }
+    },
+    {
+      "region_id": "shape_1_region_9",
+      "area": 19159,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "^ggf07do06G8K6F8K6C<B>YOQNmRO`2\\l0l0J7H8M2O2N1^GSLREo3n:YLhDi3Y;[L[_OGT2S4a>\\Lo^OJY2m3j>_Lb^OL^2g3R?`LR^O6f2[3Z?gL^]O<P3o2e?[OR@i0o?\\Oh_Og0Z`0_OV_Oh0m`0\\Oi^Og0Za0]O\\^Of0ga0@k]Of0Wb0GP]Oa0Tc0T61N3N2N3K4M3N2M3L4M3N3L3L4M4L4K4M4L3M3M4K5L4L3L5L4L4L4J6L4L4K6K4J6K5L5J5L6I5J8H7J6I7I9G8H8G9F:H9E;C>D<C`0^Oe0VOU1eNh`d6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 5 appears to be a flat, elongated surface positioned at the edge of the object, making it ideal for brushing against other surfaces or objects"
+        }
+      }
+    },
+    {
+      "region_id": "shape_1_region_13",
+      "area": 6087,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "SWQ`03lo02O3L6K3M2N3M4L3M2N6J4L5K4L5K7I4L5K4L5K4L4L4M3L5K1O001O0000O101N1O1O1O1O2N1O1O1O100O2N1O1O1O2O0O2N1O2fM_ROR2bm0nM^ROQ2dm0mM]ROS2em02010O00100O2O0O2N2N101N100O2N101N101N101N1O2O1N3N0O2O8G100O100O100O2O001O1N2O2M3N3L3N3L2O001O001N3N1N2N\\gd<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 6 appears to be a solid, untextured metal piece with no visible handles or protrusions, making it difficult to grip or manipulate compared to the other numbered parts"
+        }
+      }
+    },
+    {
+      "region_id": "shape_1_region_15",
+      "area": 3892,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "o\\T9W2gm0W2]ROgKSk0Y6YNb1_N5K3M3M2M3N3N2M3O0O01fG^ZOIaNm5oj0dN[1[KoSOg2en0oMa[Yf0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 7 appears to be a flat, elongated surface with a smooth texture, likely designed for easy cleaning or grooming, distinguishing it from the other more complex or protruding parts of the object"
+        }
+      }
+    },
+    {
+      "region_id": "shape_1_region_3",
+      "area": 3035,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "\\\\S=;ao05K6L3N2L4M3M2N3M2N2N2O1N2O1N2O0O2O0O2O0O101N101O0000000O10O2O000000000000000O101O0O10001O0O101O001N1O2O1N2N2N2N2N2O2M2M4M3M3L5J7Icej`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 8 appears to be a flat, elongated surface with a smooth texture, likely designed for easy contact and cleaning, distinguishing it from the other more complex or protruding parts"
+        }
+      }
+    },
+    {
+      "region_id": "shape_1_region_1",
+      "area": 2342,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "d[f;;ao06I7L3M3L4M2N3M2N2N2N2N2N2O0O2O0O100O100O100O10000O0100O10000O1O1O100O2N1O2O0O2N2N1N3O1N2N1O2N2N3M2M4M3K5L[fcb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "brush with",
+          "justification": "Part 9 appears to be a flat, elongated surface with a smooth texture, likely designed for easy contact and cleaning, distinguishing it from the other more complex or protruding parts"
+        }
+      }
+    },
+    {
+      "region_id": "shape_1_region_6",
+      "area": 1709,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "V[`::ao08I5L4M2M4M2N2M2O2N1O10O01O10O01O01000O01O100O00100O1O1O100O100O2N1O1O100O2N1O2N1O2O0O2N1O2N2N2N3M2N3N2Lkfjc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 10 appears to be a solid, untextured metal piece without any visible handles, knobs, or protrusions that would typically provide a grip or point of interaction, unlike the other parts which have distinct shapes or features suggesting different affordances"
+        }
+      }
+    }
+  ]
+}

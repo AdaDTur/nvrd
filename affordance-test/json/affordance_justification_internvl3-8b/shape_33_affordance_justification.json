@@ -1,0 +1,264 @@
+{
+  "object": "shape_33",
+  "model": "OpenGVLab/InternVL3-8B-hf",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/novel/shape_33.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "shape_33_region_16",
+      "area": 156174,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "QkR56bo0?B8L4I7I7L4L3I8H7L4L4L4L4L4L5J5L4L4M2M4M2M4M2L5K5L4M2O2K4M4L3M4L3N2M3O1M3N3N1K6L3N2N2M3N1N2O2N2L4O0N3O001N2N1N1O3O1O1M2O1O101O1O1N10001N101OO01O2O10ON2001O01N011O1O1O0001OO101O00001O1O0100N2N10001000O010OO2O01O2O0N2000N2O02N10O1O1O0010O01N1100O1N10O200OO2O01000M201N010N3K4M4M2M3N3L4N1N2M3L5J6J6G9E:@`0G`K_ZOVOXe0o0nZOoNld0X1V[OdNfd0a1[[O^N`d0g1b[OVN[d0n1g[OoMXd0R2k[OlMSd0V2P\\OgMnc0Z2U\\OdMic0^2Y\\O_Mhc0a2Y\\O^Mgc0c2Y\\O\\Mfc0e2\\\\OYMcc0i2]\\OVMbc0l2_\\OQMbc0o2_\\OoLcc0Q3^\\OlLcc0U3\\\\OkLec0U3[\\OjLfc0U3[\\OjLfc0iN\\[OQ2m0UOhc0gN`[OR2g0WOjc0cNe[OU2?WOnc0cNf[OT2<XOoc0cNh[OS28ZORd0aNg[OV26XOTd0aNh[OV24XOUd0aNi[OV21YOWd0`Nj[OW2NXOYd0`Nj[OX2LXO\\d0^Nj[OZ2IVO_d0`Nh[O[2GUObd0_Nh[O]2BVOhd0\\Nf[O^2AVOjd0\\Ne[O_2]OWOod0ZNd[Ob2YOTOTe0ZNc[Of2SOPO\\e0ZNa[OT6ad0kI^[OU6cd0kI][OU6cd0kI][OT6dd0lI[[OT6fd0lIZ[OS6hd0mIW[OR6jd0nIU[OR6ld0oIR[OQ6od0oIP[OP6Re0QJmZOo5Te0QJiZOP6Xe0PJeZOR6\\e0oI`ZOS6be0oIYZOR6he0QJRZOQ6oe0o11O1O1O100O100O1\\KRZOUOoe0j0TZOSOme0k0XZOPOje0o0XZOPOhe0n0[ZOPOfe0o0[ZOQOee0n0]ZOPOde0o0]ZOQOce0o0^ZOoNce0P1^ZOPObe0o0`ZOoN`e0[O^YOgNR1m1ae0VOfYOiNk0o1`e0WOhYOhNh0Q2`e0UOkYOiNe0Q2ae0TOnYOhNb0T2_e0ROTZOhN=U2`e0ROUZOhN<U2_e0SOWZOfN:V2`e0SOXZOeN9X2^e0SOZZOeN8X2^e0SO[ZOdN7X2_e0SO[ZOeN6X2_e0SO[ZOfN4X2ae0QO]ZOgN1X2ae0QO_ZOgN0W2be0POaZOiNKX2de0oNbZOhNJX2de0QObZOgNJX2de0QObZOhNHX2fe0POcZOhNFX2ge0POcZOiNDW2ie0QOcZOiNBW2ke0POcZOiNBW2je0QOdZOiN@V2me0QOcZOjN^OV2oe0POcZOkN\\OV2Qf0oNcZOnNXOT2Tf0oNdZOnNVOS2Wf0POaZOQOPOT2^f0nN_ZOm2ae0TM]ZOl2ce0VM[ZOk2ee0VMZZOj2ee0WMZZOj2ee0XMZZOh2ee0YMZZOh2fe0YMXZOh2ge0ZMWZOf2ie0\\MUZOe2ke0\\MRZOf2me0^MnYOd2Qf0`MiYOc2Vf0hM^YOZ2af0b301O1O1O100O1O1N2O1O1O1O1O100N2O1O1O1O101N1O1O1O1ORH`ZO_5]e0_JjZO>A[2de0SMS[O=BY2Ze0YMW[O<CX2Ue0\\M[[O6E]2Pe0[M^[O5F_2id0]Mb[O3G_2fd0^Me[O1G`2cd0`Mg[OMIb2_d0bMh[OKKb2\\d0dMj[OHLd2Xd0dMm[OGMd2Ud0fMo[OEMd2Td0fMP\\OENd2Qd0hMR\\OCMf2oc0hMT\\OBNe2nc0hMU\\OBNf2lc0iMV\\OAOe2kc0jMV\\OAOf2jc0iMX\\O@Ng2jc0iMX\\O_O0g2ic0iMW\\O@0g2ic0jMV\\O_O1h2ic0hMV\\O@1h2ic0hMV\\O@1h2ic0iMT\\OA2g2ic0hMU\\OA2g2ic0iMT\\O@3g2jc0hMS\\OA3g2jc0hMR\\OB3h2jc0gMQ\\OC4f2kc0gMP\\OD4f2lc0gMo[OD4e2mc0hMm[OD5e2nc0hMl[OD5d2oc0iMj[OD6e2nc0iMj[OD7c2oc0kMf[OD:b2Pd0kMc[OF<`2Pd0lMa[OF>^2Qd0PNU[OLf0W2Td0e0g[O@Xd0b0e[O@Yd0c0d[O_O[d0e0`[O\\O`d0S6N101N101N1O2O0O2O0O2\\OjDZ\\OX;ec0b0O2O0O2O1N101O0O101N10001N2O001O1O1O1O001O01O01O1O1O1O1O010O1O00100O001O001O100O10O010000O100O010O1000O0100O01000O1000000O1000O10O10000O100000O1000O100000000000O1000000001O0000O3YHi]O`1Wb0[NU^O^1la0YN_^Od1ba0RNj^Ol1Va0oMP_Oo1Qa0jMW_OT2j`0cMa_OZ2a`0`Md_O_2^`0XMj_Og2X`0TMl_Ok2V`0mLQ@R3Q`0gLU@X3m?aLY@_3i?[L\\@c3i?QL^@n3f?kK_@T4h?[Kc@e4a?oJg@P5Ue0010O01O1O1O001O001O001O1O10O0001O01O01O10O0001O0010O0001O1O01O010O0010O1O0010O01O00005K003M2O00O000010O100O1O100O101OO02N0010O010O00001O10O101N2N0001O10O1O0010O1O01O01O001000O01N101N1010O1000O001001OO0100O2OO010O11N1O1O2O00O100001O0O011O00O010O0200N011N1001N11N1O1000000O1O1O1O2N101N1O1O1N2O1O1N3N1O2M2O1N2N2N2O2M3M2N2N2N2N2N2N3M2N2N2N2N3M2N3M2M3N3L2O2M4M2N3L3N2M3M4L3N3L3M4L4L3L5J7K5GYTd6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "Part 1 has a handle-like extension at its base which suggests functionality for grasping compared to more integrated body segments of adjacent components in terms of positioning and form factor"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_21",
+      "area": 36767,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "SUP9>2FRo0Z2\\NP1POd0]O?A4L3M3M2O1N2O1N2O001N10001N1000001O001N10001O00000000001O0000001O0O101O00001O00001O000O101O000000001O000O101O0000001O00000O101O00001O0000001O000000001O0O1000000000000000000000000000O10O10000000O1000000O10000O0100000O10000O1000O10O1000000O100O100O010O100O100O1O1O1O100O1O1O1O1O1O001O100O1O1N2O1O1O1O1O1O1O1O1O1O1O100O1O1O1O1O1O1O1O1O1N3N1O1O1O1O1O1O1O1O1O2N100O1N2O1N2N2N3M2L4L4L4K5M3J7L3M3M3M3L4N200O1O1O2O01O001O2N6J5K4L7I5L1N1O001O01N101O001N10001N101O1N101N2O1N3N2M5Jd0ROPk^?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "The rectangular block labeled as number two resembles typical eyewear frames in both its flat surface area for lenses placement at front-facing orientation which suggests functionality related directly towards being worn over eyes unlike any of others distinctly shaped differently without such features indicating non-wearable purposes individually observed within context provided by rest components' varied forms like appendages"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_6",
+      "area": 13519,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Zlk4=\\o0;F9G8K5M2O1N2O100O10O10O0010O01O1O001O00001O001O0000000O101O000O1O100O100O100O100O1O1O1O1O1O100O1O1O1O001N2N2O1O1N2O1O1O0N3O001N1O2N2N101O000O1O2N1O1O1O1O100000O010O0000000O1O2N1O101M201O0N2O2N011N1N3N1O2N2O0O100N20001N1O2O0O2O0O2O1N010O2N1O2O000O20OO2O000O101O0O20O01O001N100000001O00001O1O10OO2O01O0001O1O00100O001O001O0010O01O00100O10O01O1O0010O01O10O0100O1O10O0100O1O1O10000O1O10O0100O100O1000001N10O0100O100O10001O000O10000O1000001O000O2O001O0000001O00001O001O1O00001O001O10O01O010O1O1O0010O0101N101Nh\\Vc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 3 has no distinct features such as protrusions or openings typically associated with interactive elements like buttons; its smooth surface suggests immobility compared to more defined structures in adjacent areas which likely serve functional purposes for interaction"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_7",
+      "area": 21804,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "cXib04ko03M3N2M3M3M3cTOCSg0`0eXOFYg0>aXOF]g0>\\XOFdg0=UXOHig0<QXOGng0>jWOFUh0>dWOF\\h0?^WOBah0c0SWOElh0c0gVODWi0c0[VOEei0[3O1O1O2N100O1O101N1O100O2N1O1O100O2N1O1O100O1O1O2N1O100O1O2N101N1O1O10[N\\VOnLci0P3cVOmL\\i0T3eVOkLZi0U3hVOkLVi0V3kVOiLUi0V3mVOiLRi0W3QWOhLmh0Y3TWOfLkh0Z3WWOeLhh0\\3YWOcLgh0\\3[WOcLdh0^3]WOaLbh0_3`WOaL^h0`3cWO_L\\h0b3eWO]L[h0b3gWO]LXh0d3iWO[LVh0e3lWO[LRh0e3PXOZLPh0f3QXOYLng0l1PWOmNS1VOlg0l1UWOkNQ1XOig0l1XWOlNP1XOfg0l1[WOkNQ1XOdg0l1]WOkNP1XObg0l1`WOlNo0WO`g0m1bWOkNP1XO\\g0m1eWOkNP1WOZg0m1iWOjNo0XOXg0l1kWOlNn0WOVg0m1mWOkNo0XORg0m1PXOkNo0WOPg0m1TXOjNn0XOmf0n1VXOjNn0WOkf0n1YXOjNn0WOif0n1ZXOkNn0WOff0n1]XOjNo0WOcf0n1`XOkNn0VOaf0o1cXOjNm0VO_f0o1fXOjNm0VO]f0o1gXOkNm0VOZf0o1jXOjNn0VOWf0o1mXOkNl0VOVf0o1oXOkNl0UOTf0P2QYOjNm0UOQf0P2UYOjNk0UOPf0P2VYOjNm0TOle0Q2YYOkNl0SOje0R2[YOjNm0SOge0S2]YOjNm0ROee0S2`YOkNl0POee0T2aYOjNl0QObe0U2cYOjNl0oNae0V2eYOjNQi0V1PWOjNPi0T1RWOkNnh0U1SWOkNlh0U1UWOjNkh0U1XWOjNgh0V1ZWOjNeh0U1]WOjNdh0U1]WOkNbh0U1_WOjNah0U1aWOkN^h0U1dWOiN\\h0W1eWOiN[h0U1gWOjNYh0V1hWOjNWh0U1kWOkNTh0U1nWOiNRh0W1oWOiNPh0V1RXOjNng0U1SXOjNmg0V1UXOiNjg0V1XXOiNhg0W1YXOiNfg0W1[XOhNeg0W1]XOiNcg0V1^XOiNbg0V1aXOiN^g0W1cXOiN]g0V1dXOiN\\g0V1fXOjNYg0V1iXOhNWg0W1kXOiNTg0W1mXOhNTg0W1mXOiNRg0V1QYOhNof0X1RYOhNmf0W1VYOgNjf0Y1WYOgNif0X1YYOfNgf0Y1[YOgNdf0Y1^YOeNbf0[1`YOcN`f0\\1cYOaN^f0_1Q401N10000O10001N100O10001O0O100O101O0O100O101O0O100O101N100O10001N100O101N10001N100O2O0O101N101N2O1N2O1N3N1N3MWli6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "swing",
+          "justification": "The elongated pointed tail-like structure of Part 4 suggests motion akin to swinging compared to its more static counterparts in terms of positioning and form within the overall design"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_20",
+      "area": 19156,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "gim;<`o06J7I6J6J5L4L4L3M4L4L3K6L4L3M4L3M4K4L5K4M4K4M3L5K4M3L4aLSLfZOR4Ye0PLbZOT4^e0mK^ZOV4ae0kKZZO[4de0gKVZO^4je0bKRZOb4me0_KmYOg4Sf0ZKgYOk4Xf0WKaYOo4_f0SKYYOR5hf0PKPYOV5of0mJgXO[5Yg0kJVXO`5jg0[100O100000O10O0100O100O100O1O1O1O100O1O1O1O1O1N2N2O1N3M2N2M3M3M3N3M2M3N2M4L3M3M3N2M4L3M3N2M4L3N2M4L3M3M3N3L3L4N2M4L3M3M3N3L3M4M2M4L3M3N3L3M4L3N3L3L4M4M2L5M2L5L3N3K4M4L3M4L3M4L3M4L3M4L3N3L3N3L5KW\\h?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The designated area for carrying likely corresponds to its hand-like structure positioned at the lower end of the figure which suggests grasping capability unlike most body segments designed primarily as appendages without such functionality"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_13",
+      "area": 14475,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "g]l33io07K3M2N3N2M2N3N1N2N2O1O2M2N2O1N101N3N1N101N2O1N2O1N2O1N2O1N2N2O1O1N2O1N2N2O1O1N2N2O1N2O1N2O1O0bTOeMWi0]2gVOfMWi0[2gVOhMVi0Z2hVOhMWi0Y2gVOjMVi0X2iVOiMVi0X2hVOkMVi0V2hVOlMVi0V2hVOlMWi0U2hVOlMWi0U2gVOmMXi0T2fVOnMYi0S2fVOnMYi0S2eVOoMZi0R2dVOPN[i0Q2dVOPN[i0f0dUO\\Oo00\\i0?lUO@f03^i0:PVOAb06]i06UVOD<7`i01XVOH78`i0N\\VOJ2:bi0H`VONM;ci0DcVO1H=ei0_OfVO4C?gi0YOjVO8^O`0hi0UOmVO;YOb0ki0nNPWO`0TOc0li0iNTWOd0nNe0oi0bNVWOj0jNe0Ql0[OmSOf0Tl0ZOjSOh0Vl0XOhSOj0Xl0WOeSOk0[l0VOaSOm0_l0Z10000O0100000000000000O10O10000000000O100000O1000000000O1000dNbSOVO^l0g0gSOVOZl0h0hSOXOXl0f0jSOZOVl0e0kSO[OUl0c0lSO^OTl0`0nSO@Ql0?QTOAok0=STOCmk0<TTODlk0:VTOFjk08WTOIik05YTOKgk03[TOLfk02\\TONck02^TOOak0OaTO1FjNPk0S1\\UO3\\OYOQk0b0dUOX1Zj0fNhUO[1Wj0dNjUO\\1Vj0bNlUO_1Sj0_NoUO`1Rj0^NPVOb1Pj0\\NRVOc1oi0[NRVOe1oi0YNSVOf1ni0XNTVOf1oi0WNSVOh1ni0VNTVOh1oi0TNTVOk1oi0oMUVOo1nk001N2O1N2O0O2O1N2O1N101N2O1N101N2O0O2N2O1N1O2N1O2N1N3N2N1N3L3M5K4K6Kdaaf0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "The lightning bolt-shaped form of Part 6 suggests interaction through impact compared to its distinctively separate positioning relative to more integrated structural elements like wings or tail segments in Parts 8-9"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_18",
+      "area": 3063,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "aaaf05jo02J5N3M3N2N2N2O1N3N1O2M2O2O0O2N2N2N101N2O0O3N1N2O2N1N2O1O1O2M2O2N1O1O2N3M102M3N00O00001O1N2O1N2O2N1N2O1N2M4M3L5K3K6M4K5K4J7H7Jc\\^7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The cylindrical spiral structure of Part 7 suggests its role as something graspable for carrying compared to flat surfaces like wings or fins seen in adjacent Parts which are less suited for holding onto directly"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_19",
+      "area": 2693,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "mage07eo05M3M3N2O1N2O1N2O1O1O1O1O1O101N1O2N1O101N2N1O3N1N2O1O001N3N1O1O1O1O10002N1O2N3L10O1O001N2O1O1N2O1N2O1N2M3N3L3N2M4L3N3L4K6J4L4M4JU\\W8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The cylindrical spiral structure of Part 8 suggests its role as something graspable for carrying compared to flat surfaces like Parts 2-7 which are less suited for holding onto easily"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_3",
+      "area": 2633,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Yacg04jo04L3N2M4M2O1N3N1N2O3M1O2O1N2N3N1N2N3N1N3N2N2M3N2N3L3N3M3M2N3M1O10O0O2O0000001N2O1N2O1N3M2N3L3N2M5K3M4K5L4J7I7FU]d6"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The spiral handle-like structure of Part 9 suggests its design for grasping compared to the more rigid body segments around it which lack similar features conducive to carrying objects"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_1",
+      "area": 1402,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Q^Y>:bo06K4N2M2O2N1O2N2oPOTOkn0R1O1N101O0O2O0000001O00000000O10001O001N10001N101N2N2N2N2N2M4M4J9DRb\\`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "Part ten has a flat surface resembling handles which suggests its use for carrying compared to others without similar features like limbs or appendages designed for grip elsewhere in the figure"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_0",
+      "area": 1363,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "m\\S<7fo06K5K3M4M2N3M2N2N101N2O0O2O000O2O00001O00000001N10000O2O001N2O0O2N2O1N2N2M4M3L6IVccb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 1 appears as a small protrusion in contrast to larger flat areas of surrounding sections; its isolated positioning suggests susceptibility for being tapped compared to more integrated components like joints or bulkier segments which are less likely targets due their structural roles within overall form\u2014demonstrating distinct interaction potential unique among all elements depicted here"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_8",
+      "area": 1352,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "P[W>=`o06J5L3N2N2N2N2N2N101N101N10001O000000000001O000O2O001O0O2O1N1O2O1N2N2M4M3L5ITea`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 13 appears as a protruding knob-like structure in contrast to smoother surfaces of surrounding areas; its raised form suggests tactile interaction distinctively inviting pressing compared to non-protruded sections like smooth curves seen elsewhere which do not imply similar engagement cues for physical contact such action-oriented stimuli would require thus making \u201cpart hit"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_14",
+      "area": 1325,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "VXk>3jo04M3L3L5L3K6J5M3K5L4L4L4N2M3N2N2O10O011O001O2M5L3M8G6K3L5L4K3M5L2M4KVhQ`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hit",
+          "justification": "Part 12 has a flat surface oriented in such a way as if designed for impact compared to its surroundings which are more integrated into the structure of whatever entity it belongs to; thus suggesting functionality related to being hit rather than another role like gripping or supporting seen elsewhere around it without similar features indicating direct interaction points typical when"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_2",
+      "area": 1310,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Z_g;5eo0:H6L4L3N2N2N2O1N1O2O0O2O000000001O00000000000000O2O001N101N2O1N2N2N2N3M3M3K6Kk`Pc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "Part 13 has a handle-like structure suggesting its function for carrying compared to others which lack such features; also differs in being positioned as if meant to be gripped rather than interacted with differently like buttons or levers typically found elsewhere labeled numerically around similar objects' functional areas but without direct implication of portability"
+        }
+      }
+    },
+    {
+      "region_id": "shape_33_region_5",
+      "area": 1053,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "n`l9<ao06K3M3N2N2N2N2N1O2N101N101O000000000000O101N101N101N1O2N2N3M2M4L4LW_Qe0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "The cylindrical handle-like structure of Part 1 suggests functionality for grasping compared to its distinct positioning separate from the main body relative to others without similar features"
+        }
+      }
+    }
+  ]
+}

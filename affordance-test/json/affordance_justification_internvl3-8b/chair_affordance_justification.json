@@ -1,0 +1,281 @@
+{
+  "object": "chair",
+  "model": "OpenGVLab/InternVL3-8B-hf",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/known/chair.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "chair_region_10",
+      "area": 36957,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Z_e5e0Zo02N2N2O0O2O00001N1000001O0O1000001O000O1000001O00000O10001O0O1000000000001N10000000001O0O2O00001O0O1000001O0O1000000000000O101O0000000O2O00000000000O1000001O000O1000000000000O101O0000000O10000000000000000O2O0000000000001N100000000000001O000O100000001O00000O10000000001O000000000O2O000000000000000O10000000001O00000O1000000000001O000O10000000000000001N100000000000001O000O100000000000001O000000000O1000000000000000001O0O1000000000000000000O1000000000001O0000000000000000000000001O00000000000000000000000000000000001O000000000000000000000000000000000000000000000001O00000001O000000000000000000000000000000000000000000000000000000000001O00000001O0000000000000000000000000000001O0001O0000000000000000000001O000000000001O00000000000000000000000000001O000000000000000000000000001O0000000000000000001O000O1000000000000000001O000000000000000000000O101O0000000O10000O101O00000000000O10001O0O1000000O10000000001N100000000O10001O0O10000O100000000O2O00000O1000001N1000000O10000O101O000O10000O101N100000000O101O000O10001O0O100O101O0O10001N100O2O0O10000O1000000O10001N101N100O2O0O2N1O2O1N5Jh`_9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat surface of Part 1 suggests its use as seating due to its horizontal orientation designed for supporting weight in contrast to vertical structural elements like legs which serve support rather than direct contact during sitting activities"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_4",
+      "area": 25908,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "[T`=>Po0c0C<@fNPROe1fm0?K6J5O100O10000000000001O00000000000000000000001O00000001O0000000000000001O000000000000000000000000001O000000000001O000000000000000001O000000000000000000000000000000000O101O000000000000000001O000000000000000001O0001O0000000000001O00000001O000000000001O00000000000000000000000000000000001O0000000000O10000000000000000000000000000000000000000001O0000000000001OO10000000000000000000000000O10000000000000000000000000O100000000000000000O100000O100000000000000000000000000000000000O1000000000000000000000000000000000O01000000000000000000000O1000O1000000000O1000000000000O10O10000000000000000O100000O10000000000000O10O100O1N2E;L4J6M2H9M3K5K5I7M3J7L3H9MimX8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat horizontal surface of Part 2 suggests its use as seating due to its broad area designed for supporting weight in contrast to vertical structural elements like legs which serve support rather than direct contact during sitting activities"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_12",
+      "area": 19821,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "XaQa0U5jj0S2mMQ2oM]1dNP1oNY1hN`0@2N1O001O00001O1O001O0001O000001O0000000000O10O10O100O100O100O1O1O1O1O1N2H7lNU1bNR\\OfESe0l8g1ZMg2gM^VOXL3G1ON2cj0^1i3TOb_[="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat horizontal surface of Part 3 aligns perfectly for sitting due its broad area designed as seating compared to vertical supports which are meant for stability rather than contact during use"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_16",
+      "area": 16036,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "h`R7S1cn0;N101N11O00000001O000000010O00000000O110O0000000000001O01O000000000001O0001O00000001O0001O000000000000010O00000000000001O01O0000000001O0001O00000001O00000001O0000000001O0001O00000000000001O000001O00000000000000000010O0000000000000001O01O000000000000010O000000000000000001O00000001O000001O00000000000001O01O0000000000001O00000000000001O01O00000000001O00000000000001O0001O000000000000O1001O000000000000010O0000000000000000000000001O00000000000001O0000000001O0000000000000001O01O0000000000000000001O000000000001O0000000001O00000000000000001O0000000000000000001O0000000001O00000000000001O0000000000000000001O00000000000000001O00000001N101Nk^n>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat surface of Part 4 suggests its use as seating due to its broad area designed for supporting weight in contrast to structural elements like legs which serve support functions rather than direct contact sitting areas"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_15",
+      "area": 15416,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Rl]5>Ro0a0B>[Od0F;A>D=E:B>B>C>A>C=A?B>B?_O`0A?E;[Oe0A?@`0_Oa0A>A`0]Ob0F;O010O02O0O1N2O1G9E;J7G8H8J6G9J6F:H8I8H7G9H8G:I6H9C=^ISXOg4ii0cJlUOM0U4^j0nKbUONOi3kj0WLWUO6GZ3\\k0_LnTOe3\\k0YLdTO^3fk0bLYTOT3Ql0nLgSO0Ol2al0TM_SOk2hl0N9H8@`0B?A>YOh0B[^^h0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat horizontal surface of Part 5 aligns perfectly for sitting due its broad area designed as seating compared to vertical supports which are meant for stability rather than contact during use"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_35",
+      "area": 14472,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "b^ke0;Po0f0]Ob0B?_O`0E;G:F9J6G:G8I7I8H7J7J5O1DkJmUOV5ki0RKSVOP5fi0WKYVOi4ai0o0H7K4cWOXK^e0P9cNb0]Ob0^Oc0^O=C9F9H9K5LRD_^Oc9Za0YFm^Ok9m`0oEX_OW:c`0dEb_Ob:Y`0WEn_Ol:n?QEU@T;e?hDa@];Y?ZDQAk;h>PD^AT<_>hCdA_<U>UCm_OHV2X=i=nB\\Bk5fN6^a0bNSA:h>QO`B`0\\=PO\\Cl0`<fNdDg0Y;lN_Ej0`:jNWFk0i9kNkFl0T9jNjGb0V8TO[Hd0f7ROmHe0T7QO\\Ii0c6nNmIk0T6kN^Jl0ab0J9F7J8GdXW8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat surface of Part 6 aligns directly beneath its supporting legs for sitting purposes, differing in function as seating compared to structural elements like beams which are meant for support rather than contact during use"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_13",
+      "area": 12939,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "i]V<?im0i1mNS1TOk0YOh0VOi0^Ob0ZOf0_Oa0E:\\Oe0E;F:D<D<C=A?C=G9E;H8K5O100O100000O10000XMd\\OlH\\c0f6S]OZIlb0d6W]O[Ijb0d6V]O\\Ijb0d6W]OZIjb0f6V]OZIjb0e6X]OYIib0g6X3O1^Ob0TOl0TK`WO\\1\\i0UNVWOa0Rj0oN_VO>Rj0SO_VO4Yj0@SVOJcj0JiP[b0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat horizontal surface of Part 7 aligns perfectly for sitting due its broad area designed as seating compared to vertical supports which are meant for stability rather than contact during use"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_31",
+      "area": 8061,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "^Vlf06do07bROGoj0=lTOImj0`0mTOCoj0b0jTOEoj0a0lTOCQk0b0eTOGXOUO\\k0W1[UOETO[OPk0FPUO`1d0;[j0WNlTOb1a0`0bj0GZUO>ej0CRUOTNJ^2Qk0ASUOe0bj0F[UO=aj0c2J6M3G9M3K5K5I7M2K6M2I7OI3VITWOe6Ri0N5J7K6I6K6I7J6J6I6K6J6J6I7J6J6J6K5J6J5L5J6K5K5J6J6K6I6K5J7J5K6I7ROQQOd0Yo0I6K6JlmS7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat horizontal surface of Part 8 aligns perfectly for sitting while its central positioning underlines functionality distinctively compared to vertical structural elements like legs or backrest supports in terms of ergonomic use versus architectural support roles within chair design logic; thus justifying unique interaction potential as seating area amidst diverse components contributing varied purposes across furniture"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_41",
+      "area": 8108,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "gaje0e0Zo0e0\\O`0_O?B8G2O0O2OO_SO`Mck0a2\\TOeM_k0[2aTOjMZk0V2eTOPNVk0o1kTOVNoj0l1oTO[Njj0f1VUO_Nej0a1[UOdNSj0i1lUO]Nni0d1RVOaNii0_1VVOgNdi0[1[VOjNai0U1^VOQO]i0P1bVOUOZi0j0eVO[OUj0HjUO=Wk0\\NiTOi1`k0jM`TO[2ik0VMWTOP3[l03L5L3N201O02N2N1O2N00101N2M3N100O1O1O00001OL3M2N1O0O3N10O01O0000000001O010O2N6J3M7I6J9G2iMYROP2Qn0K3L7I6K5J7I6J6J6J6J_Uc7"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "Part nine forms the seat of the chair which has enough surface area for sitting; its horizontal orientation contrasts with vertical supports like legs seen in adjacent components such as number three"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_1",
+      "area": 8690,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "b[U=:Xo0`0M2O0O2O000000000000000000000000000001O00000001O0000000000000000000000001O00000001O0000000000000000000000000001O00000001O00000000000000000000000000000000000001O00000001O00O1000000000000001O000001O000000000000000001O00000000000001O00000000000000000000000001O0001O00000000000000000000000000000000001O01O00000000000000000000001O0000000001O00000000000000000000001O01O0000000000000000000000000001O000001O00000000000000000000000001O00000001O0000000000000000000001O0001O000000000000000000000001O000001O00000000000000000001O00000001O0000000000000000000000000000001O0O101N1E<Ffdm9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat horizontal surface of Part 1 suggests its use as seating due to its broad area designed for supporting multiple points in contact while seated compared to vertical elements like legs which are meant to stand rather than sit upon directly"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_22",
+      "area": 6900,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "bb[<>ao03N2]QOMTm05jROMUm03kRONLC]l0?eSOOM2ok0OTTO0L;fk0E^TO0Kd0_k0\\OeTO1Lm0Uk0ROoTO1LU1mj0jNWUO1L^1ej0aN^UO1Ne1\\j0ZNeUO2Om1Sj0QNmUO4OT2ki0hMVVO4O^2ai0^M_VO50d2Zi0XMeVO41n2Pi0nLoVO41W3gh0fLXWO21]3bh0aL\\WO32]3ah0cLXWO37Z3ah0kM_WOW2_h0jM`WOW2_h0iMaWOW2_h0iMaWOX2^h0hMbWOX2^h0hMbWOX2^h0hMbWOX2^h0hMbWOX2^h0hMbWOX2^h0hMbWOX2^h0hMbWOX2^h0iMbWOV2^h0jMbWOV2^h0jMbWOV2_h0iMaWOW2_h0iM`WOX2ah0hM^WOX2ih0`MYWO_2\\i0lLdVOS3ni0[LTVOd3Uk0N5Le0ZOd0\\Oe0\\Oc0\\Of0ZOe0ZOkVSb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "Part eleven has a flat surface designed for seating which aligns directly under where someone would sit compared to its distinct structural positioning as legs in contrast others like backrest supports; thus differing by function despite similar materials used throughout chair construction evident through varied shapes such as horizontal versus vertical orientations seen across various components including those labeled differently yet"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_3",
+      "area": 5370,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "S[Zc06eo06I6K6J5K5J6J6K5J6L4K5K5K5L4I7J6J6K6I6J6K5J5K6K4K5N0M10000001M120O1OO0201N4K5K6J5L5J6J6L4J6J6K5J6K5K5J6L4J6L4I7K5K5L4J7J5K6JRkf:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat horizontal surface of Part 13 provides stability for sitting compared to its vertical positioning relative to Parts like those used in structural support elsewhere around the chair frame which are designed differently both functionally and structurally without such features suitable for seating directly upon them due their non-flat nature typically intended more as connectors rather than contact"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_2",
+      "area": 5354,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "gZm?<Qn0d1\\Oc0oNR1^Oa0YOg0VOj0C=O1O100O2O00000000000000001O00O100O1O1H9YOf0QOo0ROn0TOl0]Od0^Oa0B?A]ko>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat horizontal surface of Part 1 resembles typical chair seating due to its broad area designed for supporting weight in contrast to vertical structural elements like legs which serve stability rather than direct contact during sitting activities"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_7",
+      "area": 5329,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "Zbcb09cn0U1N101N010O1000O1000O01000O10O100O0100000O10O1000O10000O01000O10000O0100000O10O10O10000O0100000O01000O10O10O1000O0100000O010000O10O10O10000O01000O010000O01000O010O10O10O10O10O10O10O10O1000O10O010O10O100O010O10O10O10O10O0100O01000O011N1O2CU`d9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat surface of Part 1 resembles cushioning for seating due its horizontal orientation compared to structural elements like legs which are designed primarily as supports rather than contact points during sitting activities; thus differing in function despite similar materials used throughout construction process depicted here within chair design context shown visually through variously colored segments representing distinct components contributing"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_6",
+      "area": 5274,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "jZea0<\\o09I6H9G8F:G9I7E;F:F;E:F:H8G9J6H8G9I7I7H8H8K5O010O01L4I7H8H8F:I7F:G9E;G9F:G9G9G9E<G8G9I7F;F9I8IQkj<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat horizontal surface of Part 14 suggests its use as seating due to its broad area designed for supporting weight in contrast to vertical structural elements like legs which are meant for standing support rather than sitting directly upon them"
+        }
+      }
+    },
+    {
+      "region_id": "chair_region_48",
+      "area": 4345,
+      "segmentation": {
+        "size": [
+          1024,
+          1024
+        ],
+        "counts": "^dc74ko02O1N101OO10O10001O0O100O014L1O0dPOCTo0?jPOCUo0=jPODVo0d0O0O0100000O0100000O01000000O01000O0100000O010000O0100000O0101O001N4M00000O1000000O1000000O10001O0O10000010O000001O0000O11O000000000000O2O001O000001O010O1O01O01O001O1O1O000000001O00001O01N11O01O001O0001O01O000001O01O00000000010O0000000001O010O2N1O1O0001N100001O00001O00O200N2O0010O00000010O0000000001OO100O2O000001OO11O001O001O00010O00000O0100010O01O0O100O1001O0001N11O00O100O11O0001O00000000000001O01O00000000000000001O000001O00000000001O000001O000000000000000010O000000000010O01OO1000O100000001O000000010OO100001O0000000001OO2G_PO1ao0OaPONao00S[^?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "The flat surface of Part 1 resembles typical chair seating due its horizontal orientation compared to vertical structural elements like legs which serve supporting roles rather than direct contact for sitting activities; thus differing in function despite similar materials used across components shown here as indicated by varied numbers but consistent design intent visible through shapes alone without considering assigned labels directly"
+        }
+      }
+    }
+  ]
+}

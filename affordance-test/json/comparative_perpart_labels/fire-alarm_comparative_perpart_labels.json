@@ -1,0 +1,142 @@
+{
+  "object": "fire-alarm",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "regions": [
+    {
+      "region_id": "fire-alarm_region_1",
+      "area": 522826,
+      "isolated_label": "none",
+      "comparative_label": "hold",
+      "perpart_context_label": "hold",
+      "perpart_context_prob": 0.318685367006755
+    },
+    {
+      "region_id": "fire-alarm_region_0",
+      "area": 313162,
+      "isolated_label": "none",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.2352275717114059
+    },
+    {
+      "region_id": "fire-alarm_region_21",
+      "area": 106409,
+      "isolated_label": "none",
+      "comparative_label": "hold",
+      "perpart_context_label": "hold",
+      "perpart_context_prob": 0.20287185270186078
+    },
+    {
+      "region_id": "fire-alarm_region_13",
+      "area": 44512,
+      "isolated_label": "take photo",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3587563921426411
+    },
+    {
+      "region_id": "fire-alarm_region_8",
+      "area": 10492,
+      "isolated_label": "none",
+      "comparative_label": "hold",
+      "perpart_context_label": "hold",
+      "perpart_context_prob": 0.38738808688717846
+    },
+    {
+      "region_id": "fire-alarm_region_7",
+      "area": 7031,
+      "isolated_label": "none",
+      "comparative_label": "hold",
+      "perpart_context_label": "hold",
+      "perpart_context_prob": 0.3505162227175737
+    },
+    {
+      "region_id": "fire-alarm_region_3",
+      "area": 6158,
+      "isolated_label": "none",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.3634542420369848
+    },
+    {
+      "region_id": "fire-alarm_region_10",
+      "area": 4896,
+      "isolated_label": "none",
+      "comparative_label": "hold",
+      "perpart_context_label": "hit",
+      "perpart_context_prob": 0.2719280739457219
+    },
+    {
+      "region_id": "fire-alarm_region_6",
+      "area": 3294,
+      "isolated_label": "pick up",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.4212733984927761
+    },
+    {
+      "region_id": "fire-alarm_region_12",
+      "area": 2968,
+      "isolated_label": "type on",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.40588695705525846
+    },
+    {
+      "region_id": "fire-alarm_region_4",
+      "area": 2676,
+      "isolated_label": "none",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.2712157926688873
+    },
+    {
+      "region_id": "fire-alarm_region_17",
+      "area": 2636,
+      "isolated_label": "take photo",
+      "comparative_label": "hold",
+      "perpart_context_label": "pick up",
+      "perpart_context_prob": 0.2740406585168761
+    },
+    {
+      "region_id": "fire-alarm_region_23",
+      "area": 1677,
+      "isolated_label": "none",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.44469043559730603
+    },
+    {
+      "region_id": "fire-alarm_region_22",
+      "area": 1380,
+      "isolated_label": "take photo",
+      "comparative_label": "hold",
+      "perpart_context_label": "type on",
+      "perpart_context_prob": 0.28091785563984684
+    },
+    {
+      "region_id": "fire-alarm_region_24",
+      "area": 1302,
+      "isolated_label": "take photo",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.32986151736758507
+    },
+    {
+      "region_id": "fire-alarm_region_5",
+      "area": 1246,
+      "isolated_label": "none",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.2889428773881765
+    },
+    {
+      "region_id": "fire-alarm_region_18",
+      "area": 1229,
+      "isolated_label": "none",
+      "comparative_label": "hold",
+      "perpart_context_label": "none",
+      "perpart_context_prob": 0.47063461467474965
+    }
+  ]
+}

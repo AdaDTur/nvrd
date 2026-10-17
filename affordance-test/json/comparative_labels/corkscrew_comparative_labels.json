@@ -1,0 +1,122 @@
+{
+  "object": "corkscrew",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 19 parts marked and numbered (1 to 19), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 19 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>\nPart 16: <option>\nPart 17: <option>\nPart 18: <option>\nPart 19: <option>",
+  "raw_response": "Part 1: hold\nPart 2: open\nPart 3: cut with\nPart 4: cut with\nPart 5: open\nPart 6: hold\nPart 7: open\nPart 8: hold\nPart 9: open\nPart 10: open\nPart 11: open\nPart 12: open\nPart 13: open\nPart 14: open\nPart 15: open\nPart 16: open\nPart 17: open\nPart 18: open\nPart 19: open",
+  "regions": [
+    {
+      "region_id": "corkscrew_region_17",
+      "area": 22126,
+      "isolated_label": "open",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "corkscrew_region_1",
+      "area": 19054,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_14",
+      "area": 16938,
+      "isolated_label": "open",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "corkscrew_region_9",
+      "area": 18379,
+      "isolated_label": "open",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "corkscrew_region_5",
+      "area": 17656,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_18",
+      "area": 16252,
+      "isolated_label": "open",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "corkscrew_region_16",
+      "area": 11447,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_26",
+      "area": 10688,
+      "isolated_label": "open",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "corkscrew_region_19",
+      "area": 8538,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_11",
+      "area": 6968,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_28",
+      "area": 4477,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_12",
+      "area": 2238,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_22",
+      "area": 1062,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_15",
+      "area": 1089,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_6",
+      "area": 1764,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_8",
+      "area": 1295,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_3",
+      "area": 1275,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_7",
+      "area": 1217,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    },
+    {
+      "region_id": "corkscrew_region_4",
+      "area": 1203,
+      "isolated_label": "open",
+      "comparative_label": "open"
+    }
+  ]
+}

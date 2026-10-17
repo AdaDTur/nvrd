@@ -1,0 +1,44 @@
+{
+  "object": "fedora",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 6 parts marked and numbered (1 to 6), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 6 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>",
+  "raw_response": "Part 1: wear\nPart 2: wear\nPart 3: wear\nPart 4: wear\nPart 5: wear\nPart 6: wear",
+  "regions": [
+    {
+      "region_id": "fedora_region_7",
+      "area": 185561,
+      "isolated_label": "wear",
+      "comparative_label": "wear"
+    },
+    {
+      "region_id": "fedora_region_3",
+      "area": 163739,
+      "isolated_label": "wear",
+      "comparative_label": "wear"
+    },
+    {
+      "region_id": "fedora_region_4",
+      "area": 48284,
+      "isolated_label": "wear",
+      "comparative_label": "wear"
+    },
+    {
+      "region_id": "fedora_region_2",
+      "area": 12665,
+      "isolated_label": "wear",
+      "comparative_label": "wear"
+    },
+    {
+      "region_id": "fedora_region_6",
+      "area": 5002,
+      "isolated_label": "wear",
+      "comparative_label": "wear"
+    },
+    {
+      "region_id": "fedora_region_8",
+      "area": 4473,
+      "isolated_label": "wear",
+      "comparative_label": "wear"
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "object": "crystal_telescope",
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-shape/crystal_telescope.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "crystal_telescope_region_1",
+      "area": 69097,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "cnag0=Tg0P1WO=F:G<D9G9H:G7J3L4L4K7J5J6K5J6J6K4K5L3M3M3M4K5L4M2M4M2N4K5L2N3M2N2N2N2N3M2N2O1N3M2N2N2O2M2O1N101N2O1N2N2O1N2O1O2N1N2O1O1O1O1O1O1O001O1O1O1O001O10O01O1O1O001O00001O0O10001O00001O001N101O0000001O000O100000O100000O100000000O1000O10O1000O10O01O1O10O10O100O10O10O10000000000O0100000000000O1000O1000000O1000O010000O10O01O100O1O10O0100O100O10O10O10000O010000000O10O10000000000000000O10000O100O2O0000001O00001O0010O01O0010O01O001O001O1O1O010O001N2O1O1O1O1O1N2O1O1O1N2O1O1O1N3N1O2M2O1N2O1N3M3M2N2O2M2O2M4K4M3N1N3M4K4M2N3M3L4M5J5L3L4M4K6I5L4M5I7I7I8H7I7J6H8G:G8G<C=F=VOVYk2"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 1\u2019s wide opening at the top of its cylindrical form suggests direct consumption access typical for beverage containers like bottles or mugs"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_11",
+      "area": 24119,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "]TZ3b0Xg0;G8J4M4L3K5M4K3N3M2N2N2O1N2O1O1N2N2O1N2O0O2N101N1O1N201N110O01O00000001O0O100000000O10O100O10O01002N001OO10O010O1O001N2O100O1O010O1O1O00100O011O0O100O101N101N2O0O2O00001O0O10001N1O101N100O10000O100O100O100O100000O100000O10001O0O10000000000000000000000000O10000000000O100000000000O1000O0100O10O01000O10O0100O10O010000O100O10000O1000000000001O0000001O001O1N2O000000000O10000O100O010O100O1O100O100N2N10100O01K5N1O2M3O10O01O0O2M210O11]Ll[OX3Td0fLn[OY3^d0O1oMm[O3kd0mN`[OP1je0N2O2N001ZOVYO3kf0`02O3M2M2O2N8H4L2M3N0O010O0101OO2O0O10O0100O1O001N10Wjhg0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 2\u2019s narrow opening at its tip suggests it was designed for direct consumption by mouth, distinguishing it as the intended point of entry for liquid intake among all components"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_29",
+      "area": 28162,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "k_[9<dg00O2O01N01K50O01O01O001O01aYOGWe08gZONUe01lZO1Re0OnZO4Pe0LP[O4od0LQ[O6WO^O^e0<^ZODh0b0[O@]e0:`ZOEh0a0[OBZe09bZOFh0?[ODZe0>[[OOZOCZe0>][O0XOCZe0=^[O1XOBXe0=hZO\\Oc0S1ed0@hZO]Oc0T1dd0^OiZO@b0R1fd0]OhZO@b0U1dd0B\\[O>dd0A[[Ob0dd0^OZ[Od0ed0]OmZOXO8\\1id0\\OoZOYO7\\1jd0[OnZO[O7\\1ed0]OT[OWO8\\1cd0\\OU[OYO8[1bd0]OV[OXO7]1bd0[OV[OYO8`1]d0C`[O>`d0C_[O>`d0E^[O:ad0b11G][OUMcd0j2`[OSM`d0m2;N1N5MKYMP[Og2Pe0501N10001O0O10O010O00001O001O1O010O010O010O10O10O10O10O01O01N1O2N2M3O00100N2O1O001O1O1O001O100O001O100O10O0100O10O100000O10O1000O1000O1000000O100000000O1000000O10001O001O001O1O0O2O1N101O1O1O1O1O1N3N1O1O2N1O2N001O001O?@:G8G9H7IiNk\\OjMmb0V2U]OoMeb0P2c]OaLHY1^b0W2U^OhMfa0X2b^OeMYa0^2j^O`MRa0`2T_O_Mf`0c2[_O\\Md`0c2]_O`MhNmNca0c3g_OeMW`0Z2n_OfMn?[2R@fMk?[2U@hMh?Y2\\@fM`?Y2`@kM]?U2a@mM_?R2b@UNV?c1X_OdL01a1i1W?b1RAcNi>\\1YAdNf>\\1ZAfNd>Y1_AgN_>X1bAjN[>T1iAlNV>S1lAbMkM?W`0P2mAaMmM?U`0P2oAjLmM<2i0R`0R2oAhLoM<0j0P`0S2ZBTMfMh0P`0S2\\BTMeMj0m?R2_BTMdMi0m?R2o_OjLZ2:lMj0j?Q2Q@lLW2:oMl0e?l1V@oLW29mMm0d?k1Y@PMT29PNo0_?a1e@UMn1;oMo0\\?a1g@UMn1:PNQ1Z?_1n@VMd1:TNP1Z?X1]@^Ma00c1;VNo0W?W1WAcM[18VNn0X?X1UAcM]16XNn0V?[1o@fMc10YNn0U?^1m@dMe1DoM3;W1T?9^@]O<@R2@PNY1T?;_@\\O9Ah2g0`<<`@]NN31;64k2g0_<9i@_NH=36n2e0]<9k@]NFb014n2i0_<3m@^NDc005P3i0]<1TAN^23\\<OVAO_22Z<OWAO^24Z<NWAO_23Y<NYAN^25X<L[AO^25V<L]AM^28T<J`AM\\2:R<JbAK\\2=Q<HdAK[2=P<GfALZ2>o;FgALY2`0o;DhALY2a0m;DkAIX2e0l;AmAJX2e0j;AoAJV2e0k;@oALW2d0i;@QBKW2d0h;AQBJY2e0d;BTBHY2f0b;BTBH\\2f0`;QNYA[1k0M^2f0^;RNXAc01^O0<l0j0_2g0_;eNVA^O0<k0e0g2l0X;bN_AMa0e0i2k0W;cN`AL`0b0n2o0R;aNaADD3l0h0o2P1o:aNhAG9i0Q3n0n:aNhAH:h0R3o0k:aNjAG9h0T3o0h:aNlAI8<VODo3f1f:aNmAI8<VOBR4g1c:aNmAJ99YOCQ4h1_:[N[ANc0398g3E\\K`1f>bN\\ALd046;BBb3OSLb1b>bNWB00<[OGP4[1^:bNXBOO>YOHR4OjKc0O[Oe>LYB0O?WOHZ4HdKi00[Oc>MXB10?UOHe4>[K^Oa>L\\BOO`0TOFl4>TKAa>L\\BONa0SOGn4<TKAb>J^Cb0nMJl48VKBa>N\\Co0m2@VKCb>M[CP1n2_OTKDd>NYCP1n2Ih9XOZCo0o2Gi9XOYCQ1n2Fj9YOXCP1o2Ej9[OXCP1n2Dl9ZOVCn0S3\\OoJJi>KVCP1Q3ZOQKKl`0l0SDXORKKl`0n0QDWOSKJm`0o0PDXOSKGn`0Q1oCYORKEQa0P1nC\\OW<e0iC[OW<f0hC[OW<d0jC[OW<?g^OWOR5:X<Dg^Oe0X5ER<Ff^Od0Y5DZ<:gCDY<<hCDY<:hCEY<8jCGX<8iCEY<9iCGW<9h5N2N2N21N101OO10O0100M4O0Ojog`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 3 appears as a small, recessed circular indentation without any protrusions, handles, edges, or functional surfaces for gripping, attaching, or interacting \u2014 unlike surrounding components which have clear structural roles\u2014making its use impossible in context of typical human interaction tasks such as holding, pressing, twisting, etc"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_34",
+      "area": 22740,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "PZW=3kg05M8G5L2gXO]Oof0P1I202M3N1N110N10O02O0FdNjYO12[1Rf0jNlYOX1Tf0;N2N1N3O0O4N0O1ZZOnM]e0S2aZOmM_e0[2R[OcMZd0Z2f[OgM[d0W2c[OlM\\d0S2e[OmM\\d0S2b[OoM]d0JT[OS2?SNad0m1`[OUN]d0l1b[OTN^d0l1c[OTN\\d0k1d[OWN\\d0h1e[OWN[d0i1e[OXN[d0i1c[OWN^d0h1W[OnM2<hd0e1S[OTN18jd0f1T[OUN04ld0d20N1O21O001OO20O001O01OO0100O2OO010O2O1O100N2N2N2N2N2J6N2O1K5O1N200O12NO2N1O0S\\OTLgc0l3W\\OULic0R4N0c\\OlKPc0T4i\\OULTc0l3l\\OWLQc0i3n\\OXLRc0h3n\\OYLRc0[4N20O012M00L400N200O1001OO100000XKT]O\\4lb0cKV]O\\4db0^KZ]O64[4bb0_KZ]O65[4^b0jKe]OU4Zb0kKg]OV4Wb0jKl]OT4Qb0nKP^OR4Pb0nKP^OS4ma0nKT^OR4la0nKT^OS4ja0nKV^OR4ka0mKV^OR4ja0nKV^OU4fa0lKZ^OT4ea0lK\\^OU4ba0lK_^OS4`a0nK`^OQ4`a0PLa^Oo3_a0PLb^OP4]a0QLd^On3\\a0QLe^On3Ya0ULh^Oj3Xa0ULj^Oj3Ua0WLk^Oi3Va0ULk^Ok3Ua0ULk^Ok3Va0SLk^Om3Va0RLk^Ol3Za0PLf^OP4[a0nKg^OQ4Ya0oKh^OP4Xa0PLi^Oo3Xa0oKk^Oo3Ua0QLl^On3Ta0QLm^Oo3Sa0QLn^On3Ra0QLo^On3Sa0QLn^On3Ra0QLo^Oo3Ra0PLn^OP4bb0O00O0100000O1000O10O10000O100O0101O0RLY\\Oc3gc0]L`\\O\\3`c0cLR]Ol2nb0TMV]Og2kb0XMX]Of2hb0[MW]Oe2ib0[MX]Od2gb0]M^]O^2cb0`Ma]O]2_b0cMa]O]2Rd0O1O1N101O0000001N1RNcZOY1]e0gNcZOY1]e0fNdZOZ1]e0eNdZOZ1\\e0gNcZOY1]e0gNcZOY1\\e0gNeZOY1[e0gNeZOX1]e0hNbZOX1^e0gNbZOY1^e0hNbZOX1^e0hNaZOY1`e0fNaZOS1IeNge08`ZOS1IeNke03^ZOW1ge0iNZZOV1Xf00O100000RO^YO>bf0@aYO>`f0AbYO3LJbf00eYO6JGcf02eYO6cf0I_YO7af0HaYO7`f0GaYO9_f0FbYO:Rg010O0O1101N001OO20OO11O01O0J^XONcg01]XONdg02]XOMcg03501O01O0010O00010O000010O000001O01O0001O0000010O00001N10`jg="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 4\u2019s concave bowl-like depression at its center suggests it holds liquid meant for consumption directly by mouth, distinguishing it as ingestible unlike surrounding structural components"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_16",
+      "area": 21183,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "e`n`04jg05K4L4L4L3N2N2N1O2N2N1O2R[OoNib0S1U]OTOdb0o0Y]OUOdb0m0[]OSOdb0o0Z]OSOdb0o0[]OQOcb0R1[]OoNcb0T1\\]OlNbb0X1[]OiNcb0[1Z]OfNeb0\\1X]OeNhb0^1T]OdNkb0`1n\\OeNPc0_1i\\OeNWc0a1[\\OgNdc0k20000O100O1000O10000000O010000000000O100O1O1O1001N101O000O1000O01000O1000O1000000O010000O1000O1000000000000O100000000O10O100000O10000000000O10lNY\\OoMgc0o1\\\\OoMec0P2\\\\OPNdc0n1]\\OSNcc0l1^\\OTNac0l1_\\OUNac0j1_\\OVNbc0k1\\\\OVNdc0l1X\\OVNgc0R30000000O01000O10O1000000000O0100000O1000O1000000000O0100000000000O10O10000000000O0100000000000O10O1000O1000O101O001O002M3N5K5J5L8G6J7I7I6I7J6I8UNmYO[1df0G:F8I8H5JPff;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 5 appears as a flat, recessed surface without any protrusions, handles, edges, or functional contours typically associated with grasping, pressing, sliding, rotating, or attaching \u2014 making no clear interaction possible compared to surrounding components designed for manipulation"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_14",
+      "area": 20499,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "d`T=<ag0:G7c[OYOUa0l0f^OXOVa0n0f^OSOWa0Q1f^OSOUa0T1f^OPOTa0U1h^OnNTa0X1f^OlNWa0Y1W^ORNiNh0ob0X1S^OXOka0m0P^OUOoa0o0l]OROSb0S1h]OoNWb0T1e]OmN[b0T1d]OlN\\b0V1a]OkN`b0X1[]OiNeb0\\1T]OfNlb0X30O001O1O001O00001O001O010O1O0010O01O0010O01O001O1O101N2N2N2N2N2O1N1O2N2O1N4M6I3N4K3M3N2M2N1O100O1O1O01N1O1O100O100000010O0001O001O1O002N2N2N2M2O001O1O1O3L3N3M4L1O1O001O0000001O0O2O2N0O2O001N010O0100O1001O000001O00000O100O100O100O010O101N1O1O1O1N2N2XOh000O100000000001O0000000O10001O00001O000O100O1000N1O2N2O001N100010O01O100O010O100O0100O1O0O3L3O2N2N2N2M4M4Lb0]O4L3N2N2M3L7C;J6K4M4J6IUmm>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 6 has a curved, concave surface positioned directly against another component in a way suggesting grip for manual manipulation rather than structural support or connection like most surrounding elements"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_26",
+      "area": 18839,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "YeX`08hg00O2O000O10000000001N1000O1000O100000000O10003M4L001N101O001O0O101O00001O0O2O1O001O001O0O1000000O10000000000O2O000000000O1000001O0O2O001O1O0O2O5K001O000O0100000000O101O008H0000O010001O00O010O1001O0O0100O100O1000O10O1HlNdYOQ2_e0oMaZOQ2^e0QNaZOP2^e0PNbZOP2^e0PNbZOP2]e0QNcZOo1]e0910000000O01000000000O01000000000O01000000O010000000O10O1000O1000O100000O1000O100000O1000O100000O10O1000000000O01000000001O0cMbZOW2de00000000O1000O1000000O01000000O10001O1O0O2O000000O01000000O0100000O10000000O01000000O1000O01000000O10O10O1O100O10O01001O000O1000000O1GeZOmM[e0T28010O0010O0000010O0010O0000lM[ZOn1ee0QN[ZOn1fe0QN[ZOh1OZNle0e1800001O0O4M3L2O10O010O010O010O0010O01O10O01O2N10O00010O010O01O0010O012M01TNQZOf1ne061O1O001O2N10O0010N1]OVZOPOke0h0j0J7K4M4K4L5KmjX9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 7 appears as a flat, non-functional surface integrated into the body of the bottle without any discernible mechanism for interaction like gripping, pressing, twisting, or sliding\u2014unlike most surrounding components which have clear functional interfaces"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_53",
+      "area": 18937,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "mgW=3ig04N2M3K5N2N2ROBVZOb0ge0CTZO`0he0EQZOa0Ze0ROkZOb0H?md0nNS[O3N15k1jd0QNR[O5NX2od0eMQ[Oe2od0[MQ[Oe2od06001O0000001OO1000000001O0000000000001O001O00O100001O00000000001O0000001O001O001O00001O001O000000001O0]OhZO^NXe0b1iZO]NXe0a1jZO^NVe0b1R[OVNnd0j1S[OUNmd0k1S[OUNmd0k1S[OUNld0k1U[OUNkd0k1U[OUNld0j1T[OVNld0i1U[OWNkd0i1T[OXNld0h1U[OWNkd0i1U[OWNkd0i1U[OWNkd0i1U[OWNkd0i1U[OWNkd0i1U[OWNkd0i1U[OWNkd0i1U[OWNjd0j1V[OVNjd0j1V[OVNjd0j1V[OVNjd0j1V[OVNjd0j1V[OVNjd0k1U[OUNjd0l1V[OTNjd0l1V[OTNjd0l1V[OTNjd0l1V[OTNjd0l1V[OTNjd0l1V[OTNjd0l1U[OUNkd0k1V[OTNjd0k1W[OUNid0k1W[OUNid0k1X[OTNhd0l1X[OTNgd0n1W[OSNid0m1U[OUNkd0l1T[OTNkd0S2nZOnMRe0R2oZOmMQe0T2nZOlMQe0T2>0O01O10000O1000001O000O10000000000000O100001O0000000000000O1000000000000001O001O1N101O00O1B^ZO^N:Hhd0i1\\[ObNdd0]1][OcNcd0[1^[OfNad0Y1b[OfN^d0`0mZOFj0JYd0?P[OBQ1Hnc0g0f\\OXOZc0h0f\\OXOYc0i0h\\OVOXc0k0g\\OUOYc0m0e\\OSOZc0o0e\\OQO[c0P1S[OPOX10dc0[1[\\OeNdc0_1Y\\OaNgc0`1X\\O`Ngc0c1W\\O]Nic0d1V\\O\\Njc0f1T\\OZNlc0i1Q\\OWNnc0m1o[OSNQd0n1n[ORNSd0o1k[OQNTd0S2i[OmMWd0V2f[OjMYd0Z2d[OfM\\d0\\2a[OeM^d0f2W[O[Mid0n21O0QMW[Og2Qe00001O0YMP[O^2Ye00O1O100J`MkZOa2Re08N2O1O1O1O100O100000000001O00001O0TMR[Of2od0XMS[Og2md0YMS[Og2Te0O2N001O0000000000001O001O1O1O3M3M002N3M3M3M2N3M2N4L2N1O3M2N3M3M3M5K3M2N3Mhhi="
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 8 has a thick, curved form positioned at the base of the handle where fingers naturally wrap around for gripping during use"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_35",
+      "area": 13701,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "^YX;4jg02M4N1O100N2nZOF]b0<a]OJYb07g]OMTb04k]O1Pb00P^O3la0NS^O6ia0KW^O8ea0JZ^O9ba0H^^O:`a0F_^O>]a0Db^O?Za0Bf^O`0Wa0Bh^Oa0Ua0@i^Oc0Ta0^Ol^Od0Ra0]Ol^Of0Qa0[Oo^Og0o`0ZOo^Oi0n`0XOQ_Ok0m`0VOQ_Om0m`0SOR_OP1l`0QOR_OQ1m`0POQ_OS1l`0oNR_OT1l`0lNS_OV1l`0kNR_OX1l`0hNS_OZ1k`0hNS_O[1k`0eNS_O^1l`0bNS_Oa1k`0_NT_Oc1k`0]NT_Of1j`0[NU_Of1j`0ZNU_Oi1i`0WNW_Oj1h`0VNX_Ok1g`0UNY_Ol1f`0UNY_Om1e`0SN[_On1d`0TNY_On1f`0SNY_On1f`0RNY_OQ2e`0PNY_OR2f`0nMY_OT2f`0lMX_OW2h`0iMV_OY2i`0iMT_OY2l`0hMQ_OZ2n`0iMm^OY2Ta0kMd^OY2\\a0U2010000O0100O100O10001N100O2N101N10O010O0?B8G8H8H7H8J5J7I5L4K4M4K3M6I3N4L2N3N6I010_MdZO[2ce0N2D]ZOVNge0f1ZZOXNie0g1:N2M3N1O2N1O2M100N3O006I103L2O2N1N3N00O1001O00O0101O0O2O2M2N2O103E\\XO2jg000N110N10Xa^b0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 9 has a rounded, concave surface positioned centrally in the grip area of the bottle-shaped tool, designed for fingers to wrap around comfortably during use \u2014 unlike surrounding flat surfaces intended for structural support rather than manual manipulation"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_28",
+      "area": 13429,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "__W>4lg01N5L0O2O0O201N013K2N2O0O20O002N01O0O2OO0101O000O0010O020O\\NZOW[OOJh0md0[OX[ONJg0od0\\OV[ONIg0Pe0\\OV[ONJf0Pe0[OP[OMB4OK9j0Ve0ZOoZO7CE8j0Ue0[OP[O6BG7i0We0ZOoZO7CF7i0We0ZOnZO=L8We0[OmZO=L8We0[OjZO`0O5We0\\OiZO`0N5Ze0ZOgZOb0O4Ye0ZOjZOb0L4Ze0ZOjZOb0L3[e0[OhZOd0L1\\e0[OhZOe0J1^e0[OgZOe0J0_e0[OgZOf0IO`e0ZOgZOh0IN`e0[OfZOf1Ze0ZNeZOg1[e0XNfZOg1[e0YNcZOi1]e0WNbZOi1_e0WN`ZOj1`e0;0000010N10O100k[OgMcb0Z2[]OhMdb0X2\\]OiMcb0X2Z]OkMeb0U2Z]OlMfb0Y2T]OiMkb0X2S]OiMmb0W2S]OjMlb0W2R]OjMnb0V2R]OjMnb0V2R]OjMnb0V2R]OkMmb0T2T]OlMlb0T2T]OlMlb0S2T]OnMlb0S2S]OnMlb0R2T]OnMlb0R2T]OoMkb0P2U]OQNkb0o1U]ORNkb0m1T]OTNlb0m1S]OTNmb0k1R]OVNmb0k1S]OVNlb0j1S]OWNlb0j1T]OVNlb0i1T]OXNlb0j1R]OWNmb0i1S]OWNmb0m1n\\OUNQc0k1o\\OVNPc0k1o\\OVNPc0i1P]OZNnb0f1d\\OYM7R1Uc0c1d\\O\\M7Q1Uc0e1a\\O\\M8Q1Vc0c1b\\O\\M8Q1Uc0j1k\\OXNTc0j1j\\OVNVc0k1h\\OVNXc0k1e\\OXNZc0h1f\\OXNZc0V31bNd\\OXN]c0g1c\\OYN]c0f1e\\OYN\\c0e1e\\OZN]c0hN`\\Oi24^N`c0a1b\\O^N^c0a1c\\O_N^c0`1c\\O^N^c0a1d\\O^N]c0`1d\\OjMKNbc0W2e\\OnMJFbc0Z2f\\OTNfc0k1_\\OUN]c0j1d\\O]NVc0a1l\\O^NTc0`1o\\O`N]OVOXc0Y2\\]OaN\\O]ORc0P2d]OaNZOOcb0_1T^ObNYOOdb0\\1V^OaNXO5bb0X1X^OcNUO4db0X1Y^OcNSO5fb0U1Y^OfNPO4hb0T1Z^OhNnNNJ@nb0h1]^OjNiN0ob0U1Z^OjNcN5Sc0o0]^OGca07`^OGaa08a^OG_a07e^OG[a07h^OGYa08i^OGWa07m^OFTa0:n^OCSa0=o^O^OTa0a0P_OYOTa0f0R_OlNVa0T1k200O10000O10001O0O2O001O2nNVYOj0jf0UOWYOk0of00000O11OO10O10000000O0100000O11O00O010000000O0100000O10O10000000O1000O11N10gaU>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 18 appears as a small circular protrusion without any visible functional interface for gripping, attaching, or manipulating anything else in its immediate vicinity within the overall structure of the bottle-shaped device"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_38",
+      "area": 10682,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Vd`a04lg04K1010O00O10O2OO011OO11O0O2O0010NM4O100O1mXODbf0<]YOFbf0:[YOIef06[YOLdf04ZYONef02[YO0df00[YO1bf0JZYOK4<bf0IZYOJ3?bf0GcYO<]f0CaYO?_f0A_YOa0bf0^O]YOd0bf0[O^YOf0bf0ZO\\YOh0df0WO[YOk0=ROge01mYOn0;QOhe00lYOQ1;QOje0R1WZOmNie0S1WZOnNge0T1XZOlNhe0T1XZOmNge0T1WZOnNhe0R1XZOoNge0Q1YZOoNge0Q1XZOQOge0P1WZOQOie0o0WZOQOie0o0VZOROke0m0UZOSOje0o0UZOPOle0P1TZOPOke0Q1VZOnNje0S1UZOmNke0S1UZOmNke0S1UZOmNje0U1VZOjNje0V1VZOjNje0V1VZOiNje0X1VZOhNje0Y1UZOgNke0Y1VZOfNje0Z1VZOfNje0Z1VZOfNje0[1UZOeNke0[1UZOdNle0\\1TZOdNle0\\1UZOcNke0^1TZOaNme0_1SZOaNle0`1TZO`Nle0a1SZO_Nme0a1SZO_Nle0b1SZO_Nme0b1RZO]Noe0c1QZO]Noe0d1PZO\\NPf0d1PZO\\Noe0k1000O0100000000O10O10000000000O01000000000O100000O100000O10000000O10O10000000O10O1000000000O10O1000000000O10O10000000O10O1000000000000O0100000000000O0100000000O0101O001O0O0100001O001N101O1O1O001O1N2O1O001O001N101O001O001N2O1O1O1O0O2O1O1O001O0O2O001O1O001N2O001O1O1N101O00000O2O0M4K5M3M2OaSX:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 10\u2019s narrow opening suggests its function as a drinking vessel designed for direct consumption of liquid contents through suction or pouring into mouth due to proximity near neck area where liquids are typically consumed in such objects"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_33",
+      "area": 9770,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "][^8=^e01fZO?8[OF9We0OjZOf1Se0f0J5L4M3O2M4M2GcLk[O`3Rd0aLm[Ob3oc0:M4L3M4L6K4K5M1N1IWKV]Oi4hb0XKX]Oi4fb09O2OO01OO11O100O10O0100O0110dMe]OPO\\b0m0l]OSOWb0b0Q^OYOoa0f0Z^OSOda0l0b^OPO^a0o0k^OjNSa0V1P_OhNPa0X1R_OfNn`0Z1T_OdNk`0]1V_ObNj`0^1W_ObNg`0`1X_O`Ng`0a1Z_O^Ne`0c1[_O\\Nf`0d1[_O[Nd`02g]O=d1[OUN\\Oab0i0l]O=_1]Oi`05k]O=]1\\Oj`06k]O=[1\\Oj`07l]O=Y1[On`05j]O]O_Ok0h1Dn`04k]O]O@k0f1Do`04k]O]OBj0c1EQa03k]O\\OCm0^1ETa02k]O\\OCn0]1DXa0ET]ONQ1j0MQO@d0\\b0CV]OOR1k0GQOF9@Ikb03V]ONT1l0BTOH6DEib02T]ON25T1l0]OVON2CGhb01U]OO24S1n0YOYO0Odb0HU]O1P1o0RO\\O6Keb0GU]O2o0R1jN^O<Ieb0Ee^Ok1iN^N`d0c1Q[OTN79id0d1mZOTN?Ohd0S2e0M010N4M1M2N4M010M2OHaNRZO`1me081O110M2O2M3lNVZO0me0K[ZO0ee0NaZONae0NeZOO[e0O\\_Zf0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 13\u2019s narrow opening at its top suggests it was designed for pouring liquid into something else rather than drinking directly from itself like most of the surrounding components are shaped for holding or gripping"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_44",
+      "area": 9817,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "_oR=3mg00O2O0010O001O01O1O001N2O2N1O010O01O01N1FFmXO;Sg0EkXO=Tg0EjXO=Ug07O10001O0000000N200O100O2O0O100O1000000000000O1000000O101N1001O0102L6K3_YOZObe0f1L4M4G7L5L2M4N1NiNd[OkN\\d0Q1j[OmNUd0Q1n[OnNSd0P1o[OPOQd0o0P\\OoNRd0o0P\\OPOPd0P1Q\\OnNQd0Q1o[OnNSd0P1o[OnNRd0R1n[OnNSd0R1l[OnNUd0Q1k[OoNUd0Q1j[OQOVd0o0i[OQOWd0o0i[OROWd0n0h[OROXd0o0f[OSOZd0m0d[OTO]d0l0a[OVO^d0k0_[OXO`d0m0W[OWOjd0Q2N2O1N2N1O00100O102M2N3N3L100O001O[Mj[O`1Vd0`Nj[O`1Wd0_Nj[O`1Vd0`Nj[Oa1Ud0`Nk[O_1Ud0aNk[O^1Wd0aNj[OY1OgMWd0P1m[OVOK`02ZO0d00\\O[d0Q1S\\O@1HXd0g0n\\OSOWc0n0m10000001O000010O02N<Db0^O`0@001N101O2W[O^MPd0e2i[O`MVd0V3O001N10O100O1O2N1hLi[Of2Yd0XMl[Ob2Wd0]Mi[Ok1Pe0SNQ[Ol1be0VNQZOc1Pf0]NT[O=md0Jb1c0\\O4MO010N2O1N3M2N3L4K7J_gR`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 14\u2019s curved grip-like form suggests ergonomic handling for secure manual operation by hand \u2014 unlike most rigid structural components in its vicinity which are designed solely for mechanical function rather than direct human interaction through grasping"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_7",
+      "area": 8229,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "kbRe04jg03M3N2M3N2N2N2N1O2N2N2N2N2N2O1N101N2O0O2O1N2O0O2O1N2O1N101N101N101N101O0O2O1O1N2O1N101N2O1O001N101O0O2O1O0O2O1N101N2O1N101N100O101N101O1N2O0O2OO01OO2L3010O01O0010O01O00010O001O001O1O001N101O001O001O001O001O0O101O001O001O2N1O2M4M5I6K5L3L4M2O2M4L3L4M2N3M4L4L3M3M2O2Mhei8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 13 appears as a narrow opening at the top of the bottle\u2019s neck where liquid would be poured into for consumption by mouth due its size and location relative to surrounding components designed for holding rather than pouring directly outwards like others in context suggest functional use near human lips during drinking action while being held upright which implies"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_40",
+      "area": 7479,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "]eR94lg01N2O1O1N2O1O100O11O0O10O1O100O1O2OO0100O001N2N1O2M4J5O1N110O[O]YONbf0MfYO1Yf0NjYO0Vf0OkYO2Uf0LmYO4Rf0LoYO4nf0002nNJVZO6ge0MYZO4ee0NZZO3ce0O]ZO2ae0O^ZO3ae0N^ZO3[e0CmYO<h02Ve06iZOLVe05iZOLUe05jZOMUe05hZOLYe06dZOKZe09bZOI]e0;]ZOHae0]1O10O0iM[ZOT2he00N3N1M4ROdMV\\O\\2ic0fMU\\O\\2jc0dMW\\O[2hc0gMV\\OZ2kc0eMV\\OZ2fc0iMZ\\OY2ec0gM\\\\OX2cc0iM]\\OW2dc0hM[\\OY2ec0hMS\\OKA_2]d0dMR\\Ob2oc0]MP\\Od2Rd0[Mn[Od2Sd0^Mi[Od2Wd0[M_[OM0O0j2bd0`0001O100O00100O00001O001O00000000001O001O001O2N5J5L4L3M3M3M3M2M4M3M2N3M2N2N2N2M3N2N2N2N1O2N2M2O2N1O2N1O2N1N3N1O2N1O1O1O2M2O1O1O2N1O1O1N2OQa`d0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 18\u2019s concave bowl-like form at its base suggests containment for liquid consumption, distinguishing it as designed for drinking rather than structural support like adjacent components"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_4",
+      "area": 7718,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "mnmd04jg07K7H9H5K8H7I5J6K4L3M2N001O000O1000001O1O001N2O1O001O1O1N2O2N1O2N8H1N2S[OTMdd0T301O000O1000000O10O100O10O0100000O010O1000O10000O10O0100O010O2O001N101N101O0O2O1N1O2O1N101N2O1N2O2M9H8G<E6I7J5J6J6K6I6K3LQWi9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 17 appears as a small protrusion at the end of the barrel without any functional attachment points for gripping, aiming, mounting accessories, or interacting meaningfully in use \u2014 unlike most surrounding components which have clear interfaces suggesting utility\u2014making its affordances effectively nonexistent within context"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_3",
+      "area": 5254,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "dl\\27^g0e0B:F7J7J5K5K4L4L4M3M2N3L3N3M3M2N2O1N2N3N1N2N2O1N2O1N101O1N101O001N101O001O00cMY\\Oa0gc0YOd\\Oc0Zc0ZOn\\Ob0Rc0\\OR]Ob0nb0]OV]Oa0ib0^OZ]O`0fb0]O_]Oa0ab0^Oc]O?^b0^Oe]Oa0[b0^Oh]O`0Xb0_Oj]O`0Vb0_Ol]O`0Tb0_On]O`0Rb0@o]O?Rb0_OP^O`0Pb0@Q^O?Pb0_OR^O`0na0@S^O?ma0@U^O?ka0AV^O>ka0@W^O?ia0AW^O?ia0@Y^O?ha0_OY^Oa0ga0_OZ^O?ha0_OY^Oa0ga0^OZ^Ob0bd0O2O0O2O000O100O1O2O0O1O1O1O100O1O1N3M2Oiabl0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 18\u2019s narrow opening at its tip suggests direct consumption by mouth when held in hand as shown"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_6",
+      "area": 5026,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "aja:`0\\g08I6J6K5K3M4M3L4M2N3M2N2N2N101N2O0O2O1N101O0O2O000O2O0000000O110O000000O2O000O100O101O000O2O001O1N101N101N1O2N1O2N2N2N1O2N1O2N1N2O1O1O2O0iN]YOP1ef0nN]YOQ1bf0QO\\YOP1df061O003L101N1O1O2M2O3M3M4K7H`e]d0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 17\u2019s narrow opening suggests its function as a mouthpiece for consuming liquid directly through suction"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_8",
+      "area": 3688,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "i_W<6hg03L3L4N2K5L4L4M3N2M3M3M3M3M3L4M3L4M3M3M3M3M3L4K5D<N2O100O10000O10000000000O10000000O2M2L5M4K?_O9J4L3QOSZOESf06RZOESf05RZODVf05oYOHVf03V[_c0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 18 has a distinct curved grip-like form designed for manual grasping by fingers, unlike any of its surrounding components which are either cylindrical tubes or flat surfaces without ergonomic contours suitable for holding"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_31",
+      "area": 2534,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ck\\a04kg0101N1010O000001O0000O1001O0O010000001N3N001O001O0O2O0O10O0MbXOF^g0:401O0000000001N101O0O0100O1003M001N10000O10000000O10000000000O10000O1000O1000000000000000O10000O010000000O01000O10000000O01000O1000000000O10O1000000O100000O10000000O100000O100000O1000O1000000000O10O100000000000O010000000O10O10000000O10000O10O011O003M1O1O1N2O001O1O1N2O0O2OhTe;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 24 appears as a flat surface without any functional protrusions or attachment points for interaction, making its use impossible despite being adjacent to interactive components like part 3 which has clear handles designed for gripping"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_9",
+      "area": 2537,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "SW]?5ig02O2N101N1O1O1O1O2N1O1O1N3N1N2O2O0O100O100O1000001O00000O100000O0100000000000O010000000001O1O1O0O2O0000O100O10O010000O10O01O100O100O10O01O1O1O100O001O1O1O1O1O1O1O1N200N110O1O1N101O1N2O1O2M2MniZ?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 24 appears as a small protrusion near the base of the bottle\u2019s neck without any functional surface for gripping, attaching, or interacting \u2014 unlike surrounding components which have clear mechanical roles\u2014making its affordances effectively nonexistent in context"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_46",
+      "area": 1291,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ahg?4S1OJ0VO1\\e06dZOIa09]OI;<Pe05Q[OHDH5c0Te0m101O00O2O0O1010O08H6Jb0^Ob0^O00O02O0O5]OTYOJmf0L]YO2Zg0NQmf`0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 23 appears as a distinct grip-like protrusion designed for manual grasping by fingers, contrasting its functional purpose against surrounding structural components of varying shapes suited for assembly rather than manipulation"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_5",
+      "area": 2144,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "jldf03kg02N3N1N2O1O1O001N2O001O001O1O001N101O001O001O001O001O001O0O2O001O001O001N101O001O001O00001N1000000000000O1000000000O1000000O10O02O0O2O1O1N3N1O2M4M2M3N2M3M3M4MWU_8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 24 appears as a small protrusion without any functional surface for gripping, attaching, or interacting in use \u2014 unlike surrounding components which have clear ergonomic or mechanical roles"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_15",
+      "area": 1603,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "j^nf09gg09F<E6J6J5K5K5K6K4K3N1OO10O000000O100O101N103L8H9H6I7I:F6J7I4L^_Y9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 23 appears as a narrow opening at the top of the bottle\u2019s neck where liquid would be poured into for consumption, distinctively positioned above all other components which are structural supports rather than functional intake points"
+        }
+      }
+    },
+    {
+      "region_id": "crystal_telescope_region_2",
+      "area": 1419,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "PSZ9;bg08H8J9F6K9H2M3N2N1O10O01O0010O0100O0100O1O1N3N1_Ob0J7K3M3L4L4K7Iilmf0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 24\u2019s narrow opening at its tip suggests direct oral consumption as intended for liquid intake through suction rather than manipulation of another component"
+        }
+      }
+    }
+  ]
+}

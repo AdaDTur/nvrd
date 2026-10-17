@@ -1,0 +1,196 @@
+{
+  "object": "backpack_amplifier",
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-shape/backpack_amplifier.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "backpack_amplifier_region_7",
+      "area": 128306,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "P[P9`06E[f0_1C;F:G?C<]O;F;E9O2L4K6D;i@iKZ:c4hDiL]:c3SDUN\\;T2dDQNT;S2jDQNb:`2^EfMo9g2RF[M`9Q3_FRM[9Q3fFPMP9X3PGjLe8`3[GaL_8c3aGbLP8h3QH[Lh7i3YHfGbNOOQ4m8`4eH]GhNT4^8b4ZI`K_6e4aI^KW6g4iI\\KQ6g4oI[Km5f4SJ]Ki5e4WJ\\Ke5f4\\J[Ka5f4aJ[K[5f4fJ\\KR5j4oJWKm4k4TKVKh4l4YK]FhMo0k0^1P6Y7kKdFiNKaNf1g6o7aNnG]1R8fNlGY1U8iNhGW1X8lNfGS1Z8SO`Gl0b8]OTGa0n8BPG;S9FkF:U9HjF7V9LhF3W93eFL[98bFF^9>_FB\\9f0bFZO\\9k0aFTOZ9U1cFiNT9c1kF\\NP9k1oFUNl8P2TGoMi8W2TGjMa8e2[GZMU8a9K4O2F9K5G:_O`0J7WNd^OjL_a0V3d^OcLaa0^3]^OZLla0f3T^OhK4@Qb0h4l]OfK^b0Y4c]O^K0L^b0f4d0jNQ]OfLMK^c0X3Q1L4G9N1O2N2O001O1O1F:I7K5M2O2O1L3I8Oi[OdNlMm0kb0?S_Ob1Y?^Nc@m2W>PMjAh5`;dIRE_6SNmHQ<a0nEc6lMRIU<:nEg6eMWI\\<2oEh6bMXI_<OoEd7P:]HnEd7R:\\HnEd7R:\\HmEe7R:]HmEb7T:^HkEc7U:]HkEd6U;\\IiDk1mMd1f=aL]Dj1RNA1SN5NR>d0fCi1S`0XNk_Oi1U`0XNj_Oh1V`0XNj_Oh1U`0[Ni_Oe1W`0\\Nh_Oe1W`0\\Nh_Od1X`0\\Nh_Oe1W`0\\Ng_Oe1Y`0\\Nf_Od1Z`0]Ne_Od1Z`0_Nc_Oa1]`0cN__O]1a`0dN^_O]1a`0dN^_O\\1b`0dN^_O\\1b`0eN]_O\\1a`0fN^_OZ1b`0hN\\_OX1d`0iN[_OX1e`0hNY_OY1g`0hNX_OX1h`0jNV_OW1i`0jNV_OV1j`0lNT_OU1j`0nNT_OR1l`0POQ_OQ1o`0POP_OQ1o`0ROn^On0Ra0SOm^Om0Sa0SOm^On0Ra0SOm^Om0Sa0TOl^Om0Sa0UOk^Ok0Ua0YOg^Oh0Xa0ZOf^Of0Za0[Oe^Oe0[a0]Oc^Od0\\a0]Oc^Oc0]a0B]^O?da0BZ^O?ea0BZ^O>fa0CX^O?ha0@X^O`0ha0AW^O?ia0AV^Oa0ja0^OV^Ob0ja0^OV^Ob0ja0^OV^Ob0ja0^OV^Ob0ja0^OV^Oc0ja0\\OV^Od0ja0\\OV^Od0la0[OR^Og0ma0f21O0010O01OdKTJeFl5Z9UJeFk5Z9VJgFi5X9YJhFf5X9ZJiFf5U9ZJmFe5S9[JmFe5S9ZJaBNY4h5T9[JcBMZ4g5S9bJlF^5U9aJlF_5S9aJmF_5S9bJmF]5S9cJnF\\5R9dJoF\\5P9eJQGY5P9fJRGY5m8hJRGX5n8hJSGW5m8jJSGV5l8jJUGU5k8kJVGT5j8lJWGT5i8lJWGT5h8lJYGV5d8jJ]Gh5Q8WJQHj7^MkGV6<\\Ln8jKTGk7N[LP:d3PF\\LR:c3nE]L\\:X3eEhLf:gKmDd6=fMY;W2hDiMh;f1XD[N\\<P1eCPOW=3iBOi=]OXBd0i>XNXAj1^?]Md@c2]?TKU@k1`0R3Yb0100O2N100O1O100O1O100O10O10O015J3N4K2O1N10O01O01O01O000000000001O000OY@^JR=b5fBcK]<]4aCSLQ<l3oCYLmMSOj<d4YEZLjMLU<j3QFQOU9o0jF<l7DTHh1`6WNaI`2lMSHa7]5cJj3^4VLbKl4\\3TKdLb5f2_JYMb6f1^IZNh7`0XH@U83kGLY81gGOZ80fG0Z80eG1\\8MeG3[8MeG3[8MeG3[8MeG3Z8NfG2Z8NfG1[8OeG1[8OeG1Z8OfG2Z8NeG3[8LfG4Y8JiG7W8HjG8V8GjG9V8HjG8V8HiG9W8GiG9W8GhG:W8GhG:X8FhG9Y8GfG:Y8FhG:X8FgG;Y8EgG;Y8EfG<Y8EgG;Y8DgG=Y8CfG=[8CeG=[8CdG>\\8AdG`0[8AdG`0\\8@cGa0]8^ObGd0^8\\O`Gf0_8ZObGf0^8ZOaGg0_8YOaGg0_8YOaGf0`8ZOaGe0_8[OaGe0^8[OcGe0]8[OcGe0]8[OcGe0\\8[OeGe0[8[OeGe0[8[OeGd0\\8[OdGf0\\8ZOdGf0[8[OeGe0[8[OeGe0[8ZOeGg0[8YOdGh0\\8XOdGh0\\8WOdGj0[8WOeGi0[8VOeGk0[8UOeGk0[8UOeGk0[8UOeGj0\\8VOdGj0[8VOfGj0Z8VOfGj0Z8VOeGk0[8UOeGk0Z8VOfGi0[8WOeGi0[8WOeGi0Z8WOgGi0Y8WOgGi0Y8WOgGi0Y8WOgGi0X8XOgGi0Y8VOhGi0Y8WOgGi0Y8WOgGi0Y8VOhGj0W8WOiGi0W8WOiGi0W8WOiGi0W8VOjGj0V8VOjGj0U8WOkGi0U8WOlGh0T8XOlGg0U8YOjGh0U8XOlGh0T8XOlGh0T8XOlGh0S8XOnGh0R8XOnGh0R8WOoGi0Q8WOoGi0P8XOPHh0P8XOPHg0Q8XOPHh0P8XOPHh0P8WOQHi0n7XOSHg0m7XOTHh0l7XOTHh0l7WOUHi0k7WOUHi0j7XOVHh0j7XOVHh0j7XOUHi0k7WOUHi0k7WOVHh0i7YOWHf0j7ZOVHf0j7ZOVHf0i7[OXHd0h7\\OWHe0i7ZOXHf0h7ZOWHg0i7YOXHf0g7[OYHd0h7[OZHd0f7\\OZHd0f7\\O[Hc0d7^O\\Hb0d7]O^Hb0b7^O^Hb0b7^O^H[NSJj1`=J^Hb0a7_O`H`0`7@`H`0`7@`H`0`7@`H`0`7@`H`0_7@bH`0^7@bH`0^7@bH?^7AcH?]7AcH?]7@dH`0\\7@dH`0\\7@dH`0[7AeH?[7@gH?Y7AgH?Y7AhH>W7BkH<V7DkH;U7DmH;S7EmH;R7FnH:R7FnH:R7EPI:P7FPI:P7FPI:P7FPI9P7HQI7o6IQI7o6IRI6n6JRI6n6ITI6k6KUI5k6KTI6l6JTI6l6JTI6l6IUI7j6JWI4j6LVI4j6LVI4i6LXI4h6LYI3g6MYI3g6MYI3g6MYI2g6OZI0f6O[I1e6O[I1e6O[I1e6O[I1d6O]I1c6O]I1c6O\\I1e6N\\I2d6N\\I2d6N\\I2c6O\\I2d6M]I3c6M]I3b6M_I3a6M_I3a6L`I4`6L`I4_6LaI5_6KaI5_6KaI4`6KaI5^6LbI4^6LbI4^6LcI3]6McI3\\6NeI1[6OeI1[6OfI0Z60fI0Z60gINY62hINX62hINX62hINX62hINX62hINW62jINV62iIOW61iIOV61kIOU61kIOU61kIOT62lIMU62mIMS63mIMS63mIMS63mIMS63nILQ65oIKQ64PJLP64PJKQ65oIKQ64PJLo55RJJn56RJJn55SJKm55SJKl56TJJl56TJJl55UJKk55UJJk56WJIi57WJIi56XJJg57YJIg57YJIg57YJIg57YJIg57ZJHf57[JHf58ZJHe59[JGe59[JGe59[JGe59[JGd59]JGc59]JGc59^JEc5;]JEc5;]JEb5;_JEa5;_JEa5;_JEa5;_JEa5:`JF`5:aJE^5<bJD^5<bJD^5<bJD^5<bJC^5>bJB^5=cJC]5=cJC]5=dJB\\5=eJB[5?eJA[5?eJA[5>fJBZ5>fJBZ5>fJBY5?hJ@X5`0hJ@X5?iJAW5?iJAV5?kJ@V5?kJAU5?lJ@S5`0nJ@R5`0nJ@R5`0nJ@R5`0nJ@Q5a0oJ_OQ5a0PK^OP5b0PK]OP5d0PK\\OP5d0PK\\OP5d0PK\\OP5d0PK\\Oo4e0QK[Oo4e0RKYOo4g0QKYOo4g0QKYOn4h0RKXOn4g0SKYOm4g0SKYOm4f0TKZOl4f0UKYOj4g0WKYOi4g0WKYOi4f0XKZOh4e0YK[Og4e0YK[Og4e0YK[Of4e0[K[Oe4e0\\KZOd4f0\\KZOd4f0\\K[Ob4e0_K[Oa4e0`KZO`4e0aK[O_4e0aK\\O]4e0cKAW4?jKHoH`Nc9g1_M4bHWNm9f1aM?THoMY:b1cMZ1Z2eNhMQ2gG[L;0_8e1_Og3IXL8e4dGlIc2JdM5U3a1P5l9aITFa6e:cH]E]7j:XHZEh7_=001O001O0O2O1N2O2M2O1N3M5Km0SOW1iNb1]NY1hN`1`N3L4nHkBMmM_1\\?cN]CnNoN<kMLP`0g0i6O2N9F]Tc9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "type on",
+          "justification": "Part 1 has a flat surface covered in horizontal lines resembling keys for typing input, distinguishing its function as a keyboard interface unlike any surrounding component\u2019s form or placement"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_amplifier_region_2",
+      "area": 120075,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "e`l>e1Zf0l0UOR1mNf1[Nh0^]OUJ_a0U7QOi0]_OSHa?l8ZOQ1oNS1mN>B4K2O001O000000000000O10O10O10O10O1000O1000O10000O10000O1000O1000000O010000O0100000O10000000O0100O100000O100000O10O1000000000O100000O01000000O1000000O100000000O1000O1000O100000000O10000O1000000O10000000O0100000000O100000O10O10000O10O100000O01001O0O10001O000O1000000O1000000O10000O010000000O0100000O1000000000O01000O100O0100000O010O100O00100O1000O1000000O100000000000000O01000O10O1000O1000000O0100000O10000000O0100000000O01000O10000O1000000000O010000000O01000000O1000000O10O10O10000000000O10O100000O100000000O10O10000000O1000000O100000O0100000000O1000000O1000O01000000O1000000O0100000O1000000O010000000O01000000000O1000000O0100001N102N1N3N:F_1jEo@^8n?\\OT1^JX_OkMNU3fe0aNk0TOa0]Of^V:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 2 appears as a flat, recessed panel without any protrusions, handles, seams, or functional edges suggesting interaction or attachment points for use by hand or tools \u2014 unlike surrounding components which show clear structural features enabling manipulation or connection"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_amplifier_region_4",
+      "area": 19221,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "m^i>3eg0U1QO`0B4K2O0O2O00000000000000O01000O100O100O1001N1000O1000000000O10O10000000O100000O10000000O1000000000O10000O1000O100000000000O10O10000000O100001O000000000O01000000000O100000000000O10O1000O10000O1000000000O1000O10000000000000O100000O10000000000000000000O10O100000000000O10O10000O100O01000000000mNQZO5oe0HXZO4he0I\\ZO6de0I^ZO6ae0IcZO5]e0KdZO5[e0JgZO5Ye0JhZO5Ye0JiZO5We0JjZO6Ve0JkZO5Ue0JlZO6Te0JlZO6Te0JlZO6Se0KmZO4Te0LkZO5Ue0KkZO5Ue0KkZO5Ue0JlZO6Te0JkZO7Ue0IjZO7We0IhZO8Xe0HhZO8We0IhZO8Xe0HhZO8Xe0HhZO8Xe0HgZO9Ye0GgZO9Ye0GfZO:Ze0GdZO:\\e0FcZO:^e0FaZO;_e0F^ZO<be0DZZO`0ee0CUZOa0ke0BnYOa0Sf0f000000000O10000000O100000O1000000000000000O1000000O01000000000000000O10O10000000000000O10000000O1000O1000000000O10000000O1000000000O10O10000000000000O100000000000000O10O10000000000000000O10O100000000O01000000000000O1000O01000000000000000O0100000000O01000000000000000000000000000000001O00001O0O7J8G<D=B[Q\\:"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "text on",
+          "justification": "Part 3\u2019s flat surface at the top front of the backpack has raised markings resembling text symbols, suggesting its purpose as a display area for information rather than functional hardware like straps or pockets seen elsewhere"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_amplifier_region_5",
+      "area": 19771,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Pod:441`0b0\\e01`ZO;md0OQ[O:`d0N][O:Yd0Jf[O`0nc0DQ\\O`0jc0CS\\Oa0hc0@Z\\Ob0bc0_O^\\Oc0_c0]Oc\\Oe0Yc0\\Og\\Of0Wc0YOj\\Oi0Sc0XOk\\Oj0Uc0VOj\\Oj0Vc0XOh\\Oi0Xc0WOf\\Oj0Zc0o10O10O1000O0\\Me\\Od0Zc0]Of\\Ob0[c0]Oe\\Od0Zc0]Oe\\Oc0[c0]Oe\\Od0[c0P201O010O000010O00010O010O01O010O01O01O01O01O00010O0010O0001O001O001O01O01O001O00001O00000001O01O00000000O10000O100O001O100O1O1O1O1O1O1O100O1O100000O01000000000000000O1000000000001O0O10001O000O1000001O0O100000010O03Ma0_Oe0[Om0SOd0[OT1mN`mQc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "Part 4 appears as a sturdy red compartment positioned at the base of the backpack\u2019s main structure, suggesting its function supports weight-bearing during transport rather than serving decorative or functional roles like storage access points above it"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_amplifier_region_1",
+      "area": 15672,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "WTb;o0Wb0XOPBU1n=POn_O1SN5Na1Qb0i3N101O0010O010O01O01O01O01O00001O00001O00001O010O00001O00001O001O001O00001O00001O0010O0001O0000000O2O00001O0O10001O000O2O0000001O0O101O00001O00000O2O001O0O101O0O2O001N4Mc0\\OT2lMW1\\NXdYc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "hold",
+          "justification": "Part 5 has a flat vertical surface positioned for gripping, unlike surrounding components which are curved or recessed, making its form ideal for manual holding during use"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_amplifier_region_11",
+      "area": 6645,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ek[>:ag0:H5H8I6L3L5L2M4MM3O1N2K5O2L5L300N3N100O1O2M3O1O1O1O2N1O1O2O001O001O0O2O1O010O10000000000001O001O001O1O1O1O1O2N2M2O2N2N2[ZOWOoc0l0f[O\\OYd0f0e[O\\OZd0f0c[O[O]d0f0a[OZO`d0g0][O[Ocd0g0X[O[Oid0h0Q[OZOPe0j11O1N2D^ZOXNde0f1aZOVN`e0k1^ZOVNbe0k1]ZOUNbe0l1]ZOUNce0U2O00000000000000O1000O0100O100O2O0O1000000000000O1000000000001O001N101O001O001O001O001O010O1N3N1O2N001O1O2N1O1O2N2N2N101N2N1O2N2N2N1N4M3N2M2N2N3N1M4MklR?"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "Part 6\u2019s curved top edge and placement at the backpack\u2019s apex suggest it functions as a handle for lifting or carrying \u2014 unlike any of its surrounding components which are flat surfaces designed for storage or structural support rather than grip-based interaction"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_amplifier_region_10",
+      "area": 3689,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "jRn:7ig03L4N1N2O2M3N1O1O1O1N2O1N1O2O0O2O0O1O3N4K4M0O2N2O0O1O10O0100O0010O010O01O010O01O0010O010O0010O010O000100O0010O01O00010O01O013L2N101N2N2N2O0O2O2M3M2O2M2N2N1O1O1O001O04M00O2O1N001O0O2O0O2N3N2N2N2M2Ofbgc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 7 has a curved opening at its top edge designed for holding and sipping liquid, distinguishing it as a drinking vessel among the other structural components of the backpack-like form"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_amplifier_region_6",
+      "area": 5577,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "W]i:g0Qg0<I4M2N3N101M3N1N3N1O2N2N1O2O0O2O001N10001O00aNXZOf0ie0TO]ZOl0be0mNfZOR1[e0kNgZOU1Sf0O01O000010O00010O01O0010O0010O0001O01O01O01O000000000000001O0001O0000000000000001O00000000000000000001O0O1000000000O100000000O100000000O01000000000O100000O10000000O100000O01000000O010O100001N101O2M<E<CoaVc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "Part 8 has a cylindrical form fitting snugly around another component in a way typical of straps designed for attachment to clothing during use"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_amplifier_region_15",
+      "area": 3811,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "dS^<5kg01N3N2M3N2M2N3N3L4L3N3L3M3M2N2M3N101N101N2O2M3N001O001N101O2N2N2N2O0O2N001O1O001O00010O0000001O01O01O0000001O01O0001O00000001N10<B^\\Pc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "drink with",
+          "justification": "Part 9 has a curved opening at its top edge designed for holding and sipping liquid, distinguishing it as a drinking vessel among the other structural components of the backpack-like form"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_amplifier_region_9",
+      "area": 3434,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "Sdb>4hg05J6G8L5I6K5N2L4M3N2M2N3L4N2N1O2N2N2N2N2O1O1O1O1O1N2O1O100O100000O100O101N1O2O0O2O1N2O1N2O2M3M2N3M3M3J7E9N3M2N2M4K6J^UQa0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "wear",
+          "justification": "Part 1\u2080 has a curved top surface designed for resting against the head when worn as a backpack strap attachment point"
+        }
+      }
+    },
+    {
+      "region_id": "backpack_amplifier_region_12",
+      "area": 2284,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "hdU97ig02M5L5L1N2O1N4L101N2N2O1N3M4M3L2N3N1N3M2N2N1O2O1N2O1O0010O1O1O1O1O1O2N4L2M3N3L3N3L5L2N1O2N2N2N1N2O001N2O2N0O2O0O100O1O100O2M5L\\XZf0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "carry",
+          "justification": "Part 10\u2019s strap-like structure extends upward for shoulder attachment while also looping around its base as a handle \u2014 unlike any of the flat panels\u2014making it uniquely suited for lifting or transporting the entire unit by hand or over the body"
+        }
+      }
+    }
+  ]
+}

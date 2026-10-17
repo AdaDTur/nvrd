@@ -1,0 +1,6 @@
+{
+  "A2b_diagnose_cache_vs_reference_gap": {
+    "pass": false,
+    "detail": "single-token option text: n=125, mean signed diff=+0.0036, mean |diff|=0.0050, max |diff|=0.250 | multi-token option text: n=65, mean signed diff=-0.0177, mean |diff|=0.0215, max |diff|=0.529 | options with logp>-6 (n=78): max |diff|=0.529, mean |diff|=0.0103; options with logp<=-6 (n=112): max |diff|=0.318 | corr(|diff|, |logp|)=0.04 | worst 5 (option, multi?, ref logp, diff): cut with, True, -3.6, -0.53; cut with, True, -8.2, -0.32; cut with, True, -7.9, -0.28; cut, False, -8.4, +0.25; cut, False, -3.6, +0.17"
+  }
+}

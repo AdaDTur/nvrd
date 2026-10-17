@@ -1,0 +1,1335 @@
+[
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "PS1;6g08SON2O1OJfR19VmNg08SON2O1OJeR1g300O1O1O10000O100O100O10000O10000O100O100O10000O100O1O100O10000O10000O100O100O100O100O100O100O100O10000O100O100O100O10000O10000O1O100O1O100O10000O100O10000O100O100O100O1O100O10000O100O100O100O10000O100O100O1O100O1000000000000001O000000001O0000001O001O1O0000001O001O001O001O00001O001O001O00001O00001O00001O00001O001O00001O001O1O001O0000001O00001O0000001O00001O001O001O001O001O001O001O001O00001O0000001O001O001O00001O001O00001O0000001O0000001O00001O0000001O001O001O001O0000001O001O001O1O00001O00001O001O00001O0000001O001O1O001O0000001O0000001O0000001O0000001O001O00001O00001O001O001O00001O0000001O1O001O00001O000000001O0000001O0000001O001O1O001O001O001O1O001O1O1O00000000001O1O1O1O00001O00001O001O1O000000001O00001O1O1O001O0000001O001O00001O00001O00001O001O001O00001O00001O001O001O000000001O001O001O001O00001O00001O00001O00001O1O00001O00001O0000001O00001O0000001O00001O001O1O001O00001O001O001O1O00000000001O001O001O00001O00001O00001O0000001O0000001O00001O001O001O001O001O0000001O00002N1O1O001O00001O0000001O00000000001O001O001O001O001O0000001O001O00001O00001O001O1O00001O00001O001O1O1O1O001O00jSd?"
+    },
+    "area": 54796,
+    "bbox": [
+      0,
+      1069,
+      547,
+      170
+    ],
+    "predicted_iou": 1.0177524089813232,
+    "point_coords": [
+      [
+        75.15625,
+        1104.375
+      ]
+    ],
+    "stability_score": 0.9825342297554016,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_0"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "fll8R2dT13O0O1000000O10O10O1000O0100000O010000O10O1000O10O10O1000000O0100000O0100000O10O1000O1000O10O10O10O1000000O010O100000O101N1NUhSi0"
+    },
+    "area": 4508,
+    "bbox": [
+      235,
+      316,
+      62,
+      84
+    ],
+    "predicted_iou": 1.015816569328308,
+    "point_coords": [
+      [
+        285.59375,
+        329.375
+      ]
+    ],
+    "stability_score": 0.9905161261558533,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_1"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "bil8R2eT11O2O0O100O01000O10O10O10O10O10O10O1000O0100O10O10O01000O10O10O100O0100O01000O01000O010000O010O1000O10O10O010000O01000001N2N[kSi0"
+    },
+    "area": 4484,
+    "bbox": [
+      235,
+      212,
+      62,
+      88
+    ],
+    "predicted_iou": 1.0154248476028442,
+    "point_coords": [
+      [
+        285.59375,
+        251.875
+      ]
+    ],
+    "stability_score": 0.9931080341339111,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_2"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "cf]`0]2ZT12N1O10000O10O10O10O10O1000O01000O01000O0100O10O10O1000O01000O01000O0100O01000O01000O10O10O10O10O1000O01000O10O1000O010O0100O10O10O10O10O1000O01000O10O100O010O100O02O002MW2dMaje`0"
+    },
+    "area": 7146,
+    "bbox": [
+      434,
+      132,
+      86,
+      108
+    ],
+    "predicted_iou": 1.0148637294769287,
+    "point_coords": [
+      [
+        435.90625,
+        213.125
+      ]
+    ],
+    "stability_score": 0.9880505800247192,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_3"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "]ZZi0m0?VOgT1m2bN1N100O100000000O0100000O1000O1000O0100000O1000O0100000O10O1000000O01000O1000O0100000O10O1000O10O10000O10O1000O10O10O10O10O100000O01000000O0100000O10O1000O1000O100000002Mg0YOY1fNUif7"
+    },
+    "area": 8782,
+    "bbox": [
+      669,
+      189,
+      88,
+      117
+    ],
+    "predicted_iou": 1.0117164850234985,
+    "point_coords": [
+      [
+        706.46875,
+        290.625
+      ]
+    ],
+    "stability_score": 0.985206127166748,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_4"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "[[SR1V3aS1e0[O2O000000000O100O10000000000O10O1000000O10O10000000000000O10000000000000O10O1000O1000000000O0100O1000000000O101O1N3Mg1eL`kN01<^i0"
+    },
+    "area": 7613,
+    "bbox": [
+      901,
+      297,
+      60,
+      132
+    ],
+    "predicted_iou": 1.0104199647903442,
+    "point_coords": [
+      [
+        916.90625,
+        406.875
+      ]
+    ],
+    "stability_score": 0.9710032343864441,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_5"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "lnZ<4h11kR1U2J100O1000O01000O10O0100000O01000O100O01000O01000O10O01000O010O10O10O10O10O0100000O0100000O010O10O10O10O100O01000O10O10O10O10O10O01000O01000O2O1NW2gMSSWe0"
+    },
+    "area": 5582,
+    "bbox": [
+      326,
+      176,
+      74,
+      97
+    ],
+    "predicted_iou": 1.0093262195587158,
+    "point_coords": [
+      [
+        375.78125,
+        251.875
+      ]
+    ],
+    "stability_score": 0.9840425252914429,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_6"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "agW4?=FNNH7hT1g1L0O1O10O0100O010O010O010O010O10O0100O010O01O010O010O010O0100O010O010O0010O010O010O010O01000O010O010O0100O0010O10O010O010O0100O101N7RNYkN\\1bPdm0"
+    },
+    "area": 4566,
+    "bbox": [
+      112,
+      81,
+      67,
+      95
+    ],
+    "predicted_iou": 1.0087445974349976,
+    "point_coords": [
+      [
+        165.34375,
+        135.625
+      ]
+    ],
+    "stability_score": 0.9815418124198914,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_7"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "^le7V15^O`T1a1M1O100O10O010O10O10O0100O0010O010O010O010O010O010O010O0100O010O010O010O10O010O010O010O010O010O01O10O010O0100O010O0001000O010O0010O01000O010O010O010O100O1O3M[Vfi0"
+    },
+    "area": 5856,
+    "bbox": [
+      203,
+      28,
+      79,
+      106
+    ],
+    "predicted_iou": 1.0082849264144897,
+    "point_coords": [
+      [
+        255.53125,
+        58.125
+      ]
+    ],
+    "stability_score": 0.9862362146377563,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_8"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "]fSR1h0lT1\\OZkN`1QT1`NmkNU2hR1c100O100000001O0O1000000000000000000O100000000000000000000000000000000O10000000000000000000000000000O10000001O00>A\\1aLfkN;M3M7Ya0"
+    },
+    "area": 7488,
+    "bbox": [
+      901,
+      558,
+      60,
+      129
+    ],
+    "predicted_iou": 1.0045158863067627,
+    "point_coords": [
+      [
+        916.90625,
+        678.125
+      ]
+    ],
+    "stability_score": 0.9602674841880798,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_9"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "kch;?[1ISS1S2N1O100O100O010O010O0100O0100O0100ON30O100O100O100O100O10000O100O100O100O100O100O10000O10000O100O100O10000O100O100O10000O100O1O10000O100O100O100O100O100O10000O100O100O10000O10000O100O100O1O6I]knd0"
+    },
+    "area": 6275,
+    "bbox": [
+      311,
+      0,
+      96,
+      85
+    ],
+    "predicted_iou": 1.0038038492202759,
+    "point_coords": [
+      [
+        375.78125,
+        58.125
+      ]
+    ],
+    "stability_score": 0.9810755252838135,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_10"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "VVY4l1kT13M100O10000O0100000O10000O0100000O0100000O0100000000O1O3LR]on0"
+    },
+    "area": 1951,
+    "bbox": [
+      113,
+      358,
+      29,
+      69
+    ],
+    "predicted_iou": 0.9913005828857422,
+    "point_coords": [
+      [
+        135.28125,
+        368.125
+      ]
+    ],
+    "stability_score": 0.9800918698310852,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_11"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "h[iQ1`1XU15K1O00000000000000O100000000O10000O100O100O10000O100000000O100000000O1000000O1000000O10000O100O100O1000000O10000O10000O10000O1000000O100"
+    },
+    "area": 3179,
+    "bbox": [
+      893,
+      0,
+      68,
+      53
+    ],
+    "predicted_iou": 0.9909292459487915,
+    "point_coords": [
+      [
+        916.90625,
+        19.375
+      ]
+    ],
+    "stability_score": 0.9874960780143738,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_12"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "elW4j1mT14L1O10O010000O10O10O10O01000O01000O01000O10O1000O10000O4KdfPo0"
+    },
+    "area": 1913,
+    "bbox": [
+      112,
+      267,
+      29,
+      70
+    ],
+    "predicted_iou": 0.990028977394104,
+    "point_coords": [
+      [
+        135.28125,
+        290.625
+      ]
+    ],
+    "stability_score": 0.9911366105079651,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_13"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "UjSR11=9[T1K^kNe1lR1^N\\mNj2aR1g000O100000001O000000000001O000000O2O0000000000000000000001O00000001O000000000000000000000000001O0000000O11O001N2Mf0ZLklN4G9Mc07ROV="
+    },
+    "area": 7280,
+    "bbox": [
+      901,
+      690,
+      60,
+      125
+    ],
+    "predicted_iou": 0.9876353740692139,
+    "point_coords": [
+      [
+        916.90625,
+        794.375
+      ]
+    ],
+    "stability_score": 0.9604040384292603,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_14"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "\\oXi0Z1]U1c1^N1O0O10000O1000O1000O10O10O100O01000O01000O10O1000O10O10000O010000O100O0100O010O10O1000O0100O010O1000O10O100O010O10O01000O01000O10O10O10O100O10O010000O0100O01001O0O6Km0ROe0UNgjNm0\\gk7"
+    },
+    "area": 8293,
+    "bbox": [
+      668,
+      48,
+      86,
+      120
+    ],
+    "predicted_iou": 0.9869469404220581,
+    "point_coords": [
+      [
+        736.53125,
+        58.125
+      ]
+    ],
+    "stability_score": 0.9805279970169067,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_15"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "Vj]`0_2XT12O0O10000O1000000000O010000O010O10000O0100000O10O1000O10000O0100000O10O1000O10O10O10O1000O100000O010000O0100000O10O1000O100000O0100000000O0100000O10O100000O0100000000O2O1O3LT1cMljN2Jf0\\_d`0"
+    },
+    "area": 7518,
+    "bbox": [
+      434,
+      256,
+      88,
+      101
+    ],
+    "predicted_iou": 0.9819400310516357,
+    "point_coords": [
+      [
+        435.90625,
+        290.625
+      ]
+    ],
+    "stability_score": 0.9823405146598816,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_16"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "0e1SU100O100O1O100O1O1O1O100O100O100O100O100O1O100O100O1O1O1O1O1O100O1O1O100O1O100O100O100O100O1O100O1O1O100O100O1O100O100O100O100O1O1O100O100O1O1O100O1O100O100O1OaQ\\Q1"
+    },
+    "area": 2214,
+    "bbox": [
+      0,
+      0,
+      79,
+      52
+    ],
+    "predicted_iou": 0.9812726974487305,
+    "point_coords": [
+      [
+        15.03125,
+        19.375
+      ]
+    ],
+    "stability_score": 0.98163902759552,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_17"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "lX\\<X2_T12N100O100000000O1000O010000O0100000O010000000O01000O1000O10O1000O01000000O10O10O10O1000O0100O1000O10O10O1000000O01000O100000O01000O10O11O0O101No1nMloVe0"
+    },
+    "area": 5653,
+    "bbox": [
+      327,
+      288,
+      73,
+      92
+    ],
+    "predicted_iou": 0.9810331463813782,
+    "point_coords": [
+      [
+        375.78125,
+        329.375
+      ]
+    ],
+    "stability_score": 0.9820055961608887,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_18"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "QP1k2mS10001N100000001N101N101N10001N100O2O001N101N101N101N10001N100O2O000O2O0O2O1N101N101N101N100O2O0O2O000O2O0O2O0O101N101N101N10001N100O2O0O101N100O2N101N10001N100O2O0O101N101N101N10000O101N100O101N101N100O2O001N2N10nYZP1"
+    },
+    "area": 5173,
+    "bbox": [
+      0,
+      1025,
+      106,
+      90
+    ],
+    "predicted_iou": 0.9769357442855835,
+    "point_coords": [
+      [
+        15.03125,
+        1065.625
+      ]
+    ],
+    "stability_score": 0.9787924885749817,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_19"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "hPf`0l0lU11O0000O1000000O100O100O100O100O10000O100O100O100O10000O100O100O100O100O100O100O10000O10000O100O10000O100O100O100O100O10000O100OQVXa0"
+    },
+    "area": 1057,
+    "bbox": [
+      441,
+      0,
+      64,
+      28
+    ],
+    "predicted_iou": 0.9756101369857788,
+    "point_coords": [
+      [
+        465.96875,
+        19.375
+      ]
+    ],
+    "stability_score": 0.9934086799621582,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_20"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "PUhQ1e1SU1k0njNfM6KhQ14UnN0X1T4gNUL9Ijn0d0TROo4iNZJXn0o0nROT6]h0hIiXO6iN\\7POeG1KRg0Y1Q[OMkN[8Zb0bFh\\Ok1g0A[1GlN[9g`0`Hm^O`N`1FkNc:TO\\D42Gf0n0SO[O5L5MOg3JA7kLOLIM30k4d0aLd1EkN[a0oNk]O0S3NoL1c7a0`Ig1DkN`n0]OlQOi1CjNbn0[OlQOk1BjNbn0[OlQOk1BjNbn0[OlQOk1BjNbn0[OlQOk1BjNbn0[OmQOj1AkNbn0[OmQOj1AkNbn0[OmQOk1_OkNdn0ZOnQOj1^OlNdn0ZORROg1XOPOfn0YOSROf1ROVOkn0POYPOFj1T2oNXOnn0mNZPOGj1T2mNXOon0TOSROd1mNYOQo0ROSROd1lNZOQo0SOTROa1kN\\OQo0SOXRO]1gN@So0hNVPOOR2f1fNC\\o0gNoQOd1fNE[o0gNPROb1fNGZo0gNSRO_1cNJ[o0fNTRO]1bNM[o0eNTRO]1aNN\\o0cNTRO_1`NN]o0aNUROa1]NNoQ11PnN0QR1OomN1QR1OomN1QR1OomN1QR1OomN1go0bNeQO]1cN2fo0cNgQOZ1dN3fo0bNeQO\\1eN2go0aNdQO]1eN2ho0_NdQO_1dN2PR1NQnN1nQ10RnN0nQ10SnNOmQ11TnNNlQ12VnNLjQ14XnNJhQ16XnNJhQ16WnNKiQ15WnNKiQ14WnNMiQ14UnNMkQ13TnNNlQ13SnNMlQ15RnNLnQ15QnNKoQ16PnNJPR17omNIPR17QnNIoQ17QnNIoQ17QnNIoQ18omNIPR1<lmNDRR1b2L4coNnM0QNYN11Lk1OTN9NK30a;2YD5KF557k20UMN8Ed04XOi0NUOa4"
+    },
+    "area": 71261,
+    "bbox": [
+      892,
+      0,
+      69,
+      1201
+    ],
+    "predicted_iou": 0.9739241003990173,
+    "point_coords": [
+      [
+        946.96875,
+        871.875
+      ]
+    ],
+    "stability_score": 0.9510452747344971,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_21"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "\\djQ1b0TV1c1_Ne0ZOa0@<D1O0O010O1000000O10000O01000O010000000O010O100O010000O0100000O10O10O1000O100000O010O10O0100000O100O100O10O01000000O1001O0O3M7iMolNlN8H45WQ1"
+    },
+    "area": 8084,
+    "bbox": [
+      894,
+      39,
+      67,
+      137
+    ],
+    "predicted_iou": 0.9735846519470215,
+    "point_coords": [
+      [
+        916.90625,
+        58.125
+      ]
+    ],
+    "stability_score": 0.9602721333503723,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_22"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "QaSR157j0cS1f2XO3N0000001O0O10O100000O10000000000000000O1000000000000O01000O11O00000000O1000000000000000000O1O1O1000O100000001O2N4Kg1hL^kNO37We0"
+    },
+    "area": 7336,
+    "bbox": [
+      901,
+      429,
+      60,
+      128
+    ],
+    "predicted_iou": 0.967673659324646,
+    "point_coords": [
+      [
+        916.90625,
+        523.125
+      ]
+    ],
+    "stability_score": 0.9608026742935181,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_23"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "V_k81gV1000iYh29o`VMKoR1V2N2N1O01000O100O000100O01000O0100O0O20O1O100O10000O100O100O100O10000O100O100O1O100O1000000O100O10000O100O100O100O100O10000O100O100O100O10000O100O100O100O100O100O10000O100O10000O100O100O100O1O1Nbknd0"
+    },
+    "area": 6389,
+    "bbox": [
+      234,
+      0,
+      173,
+      118
+    ],
+    "predicted_iou": 0.9670127630233765,
+    "point_coords": [
+      [
+        405.84375,
+        19.375
+      ]
+    ],
+    "stability_score": 0.9634925723075867,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_24"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "`a]<<jU1b0N2O2N1O100O1000O01N200O1O10O01O1O001N2O1O1N101O1O1O001O1O100O10O010000O1001N10000O2O2Mh0XOWfWf0"
+    },
+    "area": 2056,
+    "bbox": [
+      328,
+      319,
+      45,
+      61
+    ],
+    "predicted_iou": 0.9667636156082153,
+    "point_coords": [
+      [
+        345.71875,
+        368.125
+      ]
+    ],
+    "stability_score": 0.9571428298950195,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_25"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "l_\\`0b1>bNTT1[2F1O10000O1[oN_MSm0a2b30O010O10O10O10O10O1000O01000O0100O01000O1000O010O01000O010000O01000O01000O0100000O01000O010O10O10O1000O01000O01000O01000O0100O10O1000O100O010O10O01000O10002M=bMokNL13C`0gPg`0"
+    },
+    "area": 7295,
+    "bbox": [
+      433,
+      132,
+      87,
+      222
+    ],
+    "predicted_iou": 0.9585639238357544,
+    "point_coords": [
+      [
+        496.03125,
+        135.625
+      ]
+    ],
+    "stability_score": 0.9696806073188782,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_26"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "]`dd09XV1:I6M2N100O2O001O0000000000000000000000000001N100O2O1M4LfYe>"
+    },
+    "area": 818,
+    "bbox": [
+      545,
+      551,
+      28,
+      30
+    ],
+    "predicted_iou": 0.9557597637176514,
+    "point_coords": [
+      [
+        556.15625,
+        561.875
+      ]
+    ],
+    "stability_score": 0.974606990814209,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_27"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "Wo0g0QV100100O001O0010O0010O01O01O00010O0010O100O0010O01O010O100O100O0010O01O01O0010O01O00010O00001O010O0010O01O001O010O01O01O01O01O00010O0010O01O010O0000010O1O010O0001O01O0001O0010O0010O01O01O0010O010O01O01O01O01O010O0010O00010O0000001O010O0010O00010O00010O001O010O0010O0001O010O000010O000010O0010O01O010O000010O00100O010O00010O001O01O010O010O00010O010O0010O010O000010O0010O00010O0001O010O0010O0010O00010O01O01O010O010O00010O00010O01O00010O0001O01O010O010O01O01O0010O00100O1O01O0010O00010O0010O00010O00010O01O01O01O010O00010O0001O01O01O00010O0010O010O0010O0000010O0010O00010O00010O0000100O01O01O01O00010O0010O001O01O01O01O010O001O01O0010O00010O01O00100O010O0010O0100O0010O010O00010O0100O0010O0001O010O00010O00010O010O00010O001O010O0010O0010O010O0010O00010O01O01O010O01O01O01O01O010O0010O001O01O01O010O00010O00010O01O010O00010O00010O01O01O010O01O01O010O00010O010O00010O00010O0010O010O00010O0010O010O01O01O00010O00010O0010O00010O000010O00010O01O01O01O01O01O01O01O010O0010O010O1O010O01O01O00010O0100O010O00010O00010O00010O00010O01O01O01O01O00010O00010O010O10O01O0001O01O01O01O010O00010O010O0010O010O01O00010O0010O0010O0010O02N01O0000001O001O001O0000001O00000000001O00001O001O1O00001O0000001O00001O00001O00001O001O1O00001O001O001O00001O00001O00001O001O1O00001O00001O00001O00001O00001O00001O001O00001O00001O001O001O000000001O001Oj_\\;"
+    },
+    "area": 18842,
+    "bbox": [
+      0,
+      999,
+      659,
+      240
+    ],
+    "predicted_iou": 0.9541263580322266,
+    "point_coords": [
+      [
+        345.71875,
+        1143.125
+      ]
+    ],
+    "stability_score": 0.9532884359359741,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_28"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "`k`d04P1\\1YOiNWS1U3alNSMW10lNCbP1m6PO6K9F2O1O1O0O2O00000O2O00000000dMQQOlJ3L0c1ln0k2lROhLTm0T3RSOkLml0T3USOkLkl0T3VSOlLjl0T3VSOlLil0U3WSOkLil0U3XSOjLhl0V3XSOjLhl0V3XSOjLhl0V3XSOjLhl0V3XSOjLhl0V3XSOjLhl0V3XSOjLhl0V3YSOhLil0W3WSOiLil0W3WSOiLil0V3YSOhLhl0X3YSOgLhl0W3ZSOfLil0S3g3oKjg[>"
+    },
+    "area": 7872,
+    "bbox": [
+      542,
+      536,
+      39,
+      249
+    ],
+    "predicted_iou": 0.9500370025634766,
+    "point_coords": [
+      [
+        556.15625,
+        716.875
+      ]
+    ],
+    "stability_score": 0.9583904147148132,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_29"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "a\\cd0Z3[S1;G;E2O001O0000001O000000001O00^M`nNLaQ1\\O]oN=dP1_O`oN`0bP1]O`oNb0[S10000000001O0000001O00001N1O2NjQ_>"
+    },
+    "area": 2890,
+    "bbox": [
+      544,
+      652,
+      34,
+      132
+    ],
+    "predicted_iou": 0.9469246864318848,
+    "point_coords": [
+      [
+        556.15625,
+        716.875
+      ]
+    ],
+    "stability_score": 0.9626010656356812,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_30"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "ZfnP19\\V15K6H8I6M2O100O1O10O010000O3NO001O1O1O1O001O1O1O001O001OO100O1O1000000O10000001O000000O1F:O10000001O00001O0000O1000000O10000O11O001mNljN`0VU1[OnjNd0TU1WOPkNh0`U100000I7O1O100O100O1M3N2O1O1O100000000001O001O"
+    },
+    "area": 3529,
+    "bbox": [
+      870,
+      1192,
+      91,
+      47
+    ],
+    "predicted_iou": 0.9393572807312012,
+    "point_coords": [
+      [
+        916.90625,
+        1220.625
+      ]
+    ],
+    "stability_score": 0.9663046598434448,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_31"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "dad22dV14N1N100O2O0O2O001N100O2O000O2O000O101N10001N101O001O00010O001O01O01O010O01O00010O00010O00010O01O00010O00010O00010O00010O000010O001O01O01O00001N5KUhnn0"
+    },
+    "area": 1613,
+    "bbox": [
+      69,
+      1009,
+      73,
+      38
+    ],
+    "predicted_iou": 0.9360796213150024,
+    "point_coords": [
+      [
+        135.28125,
+        1026.875
+      ]
+    ],
+    "stability_score": 0.9700854420661926,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_32"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "\\Pof02dV13N2N101N101O001O00001O0O2N1O1O2M2N2L4M4N101O001N1010O01O00010O0010O01O00010O00010O01O010O01O0001O01O00010O00010O00101N0001O001O0000001O00001O001O00001O0000001O001O0000001O00001O00001O0000001O00001O001O00001O0000001O00001O00001O00001O00001O001O00001O00001O0000001O00001O00001O00001O00001O001O0000001O00001O00001O00001O00001O0000001O0000001O00001OjUk6"
+    },
+    "area": 4031,
+    "bbox": [
+      606,
+      1190,
+      173,
+      49
+    ],
+    "predicted_iou": 0.9347341060638428,
+    "point_coords": [
+      [
+        646.34375,
+        1220.625
+      ]
+    ],
+    "stability_score": 0.9693777561187744,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_33"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "[^X`03SP12ZPO3K34K2O\\27YM?Qf0ZOUZO3f00\\O1KW:OnE0X2me0Q>N1O101O000O101O00001N1000001O000000001O0O10001O000000001N1000001O0000001O0000000O101O00001N1000000000001O00000O101O0000000O2O000O2O0000001O00001O001O000000001O00000000000O1000O3M5kKnZOnB0022KY1Qi0cNSWOLS22gMO1Ng0T3Pib`0"
+    },
+    "area": 50916,
+    "bbox": [
+      429,
+      438,
+      94,
+      565
+    ],
+    "predicted_iou": 0.9290002584457397,
+    "point_coords": [
+      [
+        465.96875,
+        910.625
+      ]
+    ],
+    "stability_score": 0.958224356174469,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_34"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "`fci0;[V14M5K3N1M2O1O10O01000O100O0100O10000O11O00010O00100000001N1O001O001O0O2O0O2N2M4M4K[[V9"
+    },
+    "area": 1019,
+    "bbox": [
+      676,
+      1124,
+      41,
+      33
+    ],
+    "predicted_iou": 0.9276484251022339,
+    "point_coords": [
+      [
+        706.46875,
+        1143.125
+      ]
+    ],
+    "stability_score": 0.979651153087616,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_35"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "ni^<3`V1:H7J4L3M4M2M3N2NZOcjN3\\U1LkjN0SU1OQkN0mT1OWkNOiT10YkNOfT11\\kNObT11`kNN^T13dkNLXT18hkNIUT19kkNGTT1:mkNEST1;mkNFQT1<nkNEPT1<PlNEnS1=PlNEnS1<RlNEmS1<RlNDmS1=SlNDlS1<SlNEmS1;SlNEmS1;RlNFmS1;SlNEmS1:TlNEmS1;RlNFnS1:QlNFQT18okNHRT18nkNGST18mkNGUT18jkNHYT17fkNH\\T17dkNH_T17`kNJaT15]kNLeT14XkNMlT12ojN0TU1h03M3M2M3M4M3L3L6I]nme0"
+    },
+    "area": 1761,
+    "bbox": [
+      329,
+      383,
+      52,
+      68
+    ],
+    "predicted_iou": 0.9239909648895264,
+    "point_coords": [
+      [
+        375.78125,
+        406.875
+      ]
+    ],
+    "stability_score": 0.970391035079956,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_36"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "m:l1lT1001N10000000000O010O01000O10000O0100000O1000O01000OVmNRNnP1k1hgZS1"
+    },
+    "area": 1747,
+    "bbox": [
+      0,
+      342,
+      27,
+      125
+    ],
+    "predicted_iou": 0.9223443269729614,
+    "point_coords": [
+      [
+        15.03125,
+        368.125
+      ]
+    ],
+    "stability_score": 0.9734312891960144,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_37"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "Pi0T6dP100001N10001O00010O001O00001O00010O0010O01O001O000010O0O3LmiWS1"
+    },
+    "area": 6004,
+    "bbox": [
+      0,
+      799,
+      29,
+      206
+    ],
+    "predicted_iou": 0.9202543497085571,
+    "point_coords": [
+      [
+        15.03125,
+        833.125
+      ]
+    ],
+    "stability_score": 0.9883913993835449,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_38"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "YSbS18_V12N2N101O000O1001N1N3L\\Y<"
+    },
+    "area": 146,
+    "bbox": [
+      939,
+      1053,
+      11,
+      14
+    ],
+    "predicted_iou": 0.9101756811141968,
+    "point_coords": [
+      [
+        946.96875,
+        1065.625
+      ]
+    ],
+    "stability_score": 0.9863945841789246,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_39"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "ak`d01R1a1WOhNTS1V3I4N00O010O1O10O10O1000O1000001O00000O2O1ZmNaLQR1b3hmNcLWR1o3000000000000001O00000000001N2VLbmN22Q2im]>"
+    },
+    "area": 4830,
+    "bbox": [
+      542,
+      536,
+      38,
+      139
+    ],
+    "predicted_iou": 0.9050874710083008,
+    "point_coords": [
+      [
+        556.15625,
+        600.625
+      ]
+    ],
+    "stability_score": 0.9649443030357361,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_40"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "l8l1lT1000O101N1000O100O10O10O10O100O100O010O0100O10O100001N4LQaYS1"
+    },
+    "area": 1792,
+    "bbox": [
+      0,
+      276,
+      28,
+      68
+    ],
+    "predicted_iou": 0.8953527212142944,
+    "point_coords": [
+      [
+        15.03125,
+        329.375
+      ]
+    ],
+    "stability_score": 0.9713656306266785,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_41"
+  },
+  {
+    "segmentation": {
+      "size": [
+        1240,
+        962
+      ],
+      "counts": "RhRR17eS1NalNm0M\\Oi0LRR1]2TmNZNkR1j2O100000010O0000001O000000000001O00000000000001O0001O000000001O0000000001O0000001O000000010O00001O0000001O0000O2O2nNZmN[ML8SS1EUmN50O3Ld:"
+    },
+    "area": 7422,
+    "bbox": [
+      900,
+      814,
+      61,
+      131
+    ],
+    "predicted_iou": 0.8919835090637207,
+    "point_coords": [
+      [
+        916.90625,
+        833.125
+      ]
+    ],
+    "stability_score": 0.9539473652839661,
+    "crop_box": [
+      0,
+      0,
+      962,
+      1240
+    ],
+    "region_id": "door_crop.vitb_backup_region_42"
+  }
+]

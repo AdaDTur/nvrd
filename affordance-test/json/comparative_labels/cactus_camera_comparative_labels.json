@@ -1,0 +1,176 @@
+{
+  "object": "cactus_camera",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 28 parts marked and numbered (1 to 28), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 28 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>\nPart 16: <option>\nPart 17: <option>\nPart 18: <option>\nPart 19: <option>\nPart 20: <option>\nPart 21: <option>\nPart 22: <option>\nPart 23: <option>\nPart 24: <option>\nPart 25: <option>\nPart 26: <option>\nPart 27: <option>\nPart 28: <option>",
+  "raw_response": "Part 1: sip\nPart 2: hold\nPart 3: take photo\nPart 4: hold\nPart 5: take photo\nPart 6: take photo\nPart 7: take photo\nPart 8: take photo\nPart 9: take photo\nPart 10: take photo\nPart 11: take photo\nPart 12: take photo\nPart 13: take photo\nPart 14: take photo\nPart 15: take photo\nPart 16: take photo\nPart 17: take photo\nPart 18: take photo\nPart 19: take photo\nPart 20: take photo\nPart 21: take photo\nPart 22: take photo\nPart 23: take photo\nPart 24: take photo\nPart 25: take photo\nPart 26: take photo\nPart 27: take photo\nPart 28: take photo",
+  "regions": [
+    {
+      "region_id": "cactus_camera_region_3",
+      "area": 42719,
+      "isolated_label": "take photo",
+      "comparative_label": "sip"
+    },
+    {
+      "region_id": "cactus_camera_region_37",
+      "area": 36023,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "cactus_camera_region_38",
+      "area": 30326,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_46",
+      "area": 20836,
+      "isolated_label": "take photo",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "cactus_camera_region_50",
+      "area": 14952,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_45",
+      "area": 12964,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_40",
+      "area": 12456,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_31",
+      "area": 10149,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_44",
+      "area": 11050,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_48",
+      "area": 10456,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_54",
+      "area": 8181,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_49",
+      "area": 8896,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_36",
+      "area": 8779,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_39",
+      "area": 8837,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_51",
+      "area": 8704,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_1",
+      "area": 7676,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_43",
+      "area": 7325,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_11",
+      "area": 7229,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_5",
+      "area": 7054,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_34",
+      "area": 4166,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_53",
+      "area": 3298,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_13",
+      "area": 3778,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_29",
+      "area": 1449,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_42",
+      "area": 1699,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_6",
+      "area": 2969,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_7",
+      "area": 2751,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_4",
+      "area": 2656,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "cactus_camera_region_2",
+      "area": 2649,
+      "isolated_label": "take photo",
+      "comparative_label": "take photo"
+    }
+  ]
+}

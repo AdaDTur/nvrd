@@ -1,0 +1,50 @@
+{
+  "B1_occlusion_pixels": {
+    "pass": true,
+    "detail": "hidden pixels == (127, 127, 127), all other pixels byte-identical to the original; masks are disjoint (max overlap 1); 2110 px hidden for keep=[1, 1, 1, 0]"
+  },
+  "B2_estimator_recovers_planted_effects": {
+    "pass": true,
+    "detail": "un-normalised: max |mean estimate - planted| = 0.043 nats over 20 replications (sign and size recovered); with softmax coupling, per-part-centred error = 0.047 bits (softmax makes a part's effect on one verb bleed onto the others, which is a property of the target, not a bug)"
+  },
+  "B2b_null_t_calibration": {
+    "pass": true,
+    "detail": "with no true effect, fraction of cells with |t|>1.96 = 0.052 (nominal 0.05); 99th percentile |t| = 2.58"
+  },
+  "B3i_ladle_allkeep_equals_full": {
+    "pass": true,
+    "detail": "max |\u0394logp| between the untouched image and the all-parts-kept trial = 0.00e+00"
+  },
+  "B3ii_ladle_seed1_split_half": {
+    "pass": true,
+    "detail": "halves of 150 trials: correlation of part x verb bits = 0.922; per-part argmax verb agrees on 0.75 of parts (informational: this is the reliability of a single M=150 run)"
+  },
+  "B3iii_ladle_seed1_permutation_null": {
+    "pass": true,
+    "detail": "99th percentile |t| under shuffled keep patterns = 2.56; 87% of the 152 real part x verb cells exceed it; 4/4 parts have at least one significant verb"
+  },
+  "B3ii_ladle_seed2_split_half": {
+    "pass": true,
+    "detail": "halves of 150 trials: correlation of part x verb bits = 0.976; per-part argmax verb agrees on 0.50 of parts (informational: this is the reliability of a single M=150 run)"
+  },
+  "B3iii_ladle_seed2_permutation_null": {
+    "pass": true,
+    "detail": "99th percentile |t| under shuffled keep patterns = 2.46; 89% of the 152 real part x verb cells exceed it; 4/4 parts have at least one significant verb"
+  },
+  "B3iv_ladle_seed1_vs_seed2": {
+    "pass": true,
+    "detail": "full-run replicates (M=300, different random masks): corr=0.997, argmax verb agrees on 1.00 of parts, top-3 verb overlap=1.00"
+  },
+  "B3i_shape_16_allkeep_equals_full": {
+    "pass": true,
+    "detail": "max |\u0394logp| between the untouched image and the all-parts-kept trial = 0.00e+00"
+  },
+  "B3ii_shape_16_seed1_split_half": {
+    "pass": true,
+    "detail": "halves of 150 trials: correlation of part x verb bits = 0.802; per-part argmax verb agrees on 0.43 of parts (informational: this is the reliability of a single M=150 run)"
+  },
+  "B3iii_shape_16_seed1_permutation_null": {
+    "pass": true,
+    "detail": "99th percentile |t| under shuffled keep patterns = 2.59; 44% of the 266 real part x verb cells exceed it; 7/7 parts have at least one significant verb"
+  }
+}

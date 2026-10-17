@@ -1,0 +1,56 @@
+{
+  "object": "coffee-table",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 8 parts marked and numbered (1 to 8), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 8 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>",
+  "raw_response": "Part 1: sit on\nPart 2: cut with\nPart 3: sit on\nPart 4: cut with\nPart 5: sit on\nPart 6: cut with\nPart 7: sit on\nPart 8: cut with",
+  "regions": [
+    {
+      "region_id": "coffee-table_region_1",
+      "area": 347483,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "coffee-table_region_7",
+      "area": 98158,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "coffee-table_region_9",
+      "area": 83144,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "coffee-table_region_6",
+      "area": 11777,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "coffee-table_region_2",
+      "area": 9608,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "coffee-table_region_4",
+      "area": 7580,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "coffee-table_region_10",
+      "area": 3020,
+      "isolated_label": "none",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "coffee-table_region_3",
+      "area": 1366,
+      "isolated_label": "none",
+      "comparative_label": "cut with"
+    }
+  ]
+}

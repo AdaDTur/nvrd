@@ -1,0 +1,332 @@
+{
+  "object": "drone_dagger",
+  "model": "Qwen/Qwen3-VL-8B-Instruct",
+  "image_path": "/shared/nas/data/m1/adadt2/nvrd/regions_test/data/shape-shape/drone_dagger.png",
+  "region_source": "sam_slic",
+  "method": "per_part_with_comparative_context",
+  "regions": [
+    {
+      "region_id": "drone_dagger_region_42",
+      "area": 22870,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "kcf>5jg01O3L2O2N2N2N2M2O2N1N200M6L2N2N1O2N1O2N1O1GhNhYOZ10eNne06PZO]1oe0:O2N1O2O1N1O2O1N2O1N2\\[OeM`c0^2^\\ObMbc0a2S\\OhMkc0W301N1O2O0O2O0O2O0O2O000O2OEQ\\OeLoc0Y3V\\OeLhc0[3Z\\OdLfc0[3\\\\OeLcc0[3]\\OeLcc0Z3^\\OgLac0Y3`\\OfL_c0Z3b\\OgL]c0Y3c\\OgL]c0Y3c\\OgL]c0Y3c\\OhL\\c0X3c\\OiL]c0W3c\\OiL\\c0X3d\\OhL\\c0X3d\\OhL\\c0X3c\\OiL]c0X3b\\OhL^c0Y3a\\OgL^c0[3`\\OfL`c0[3]\\OgLcc0k30O100000OaNZ\\OfNfc0Z1Z\\OfNfc0Z1[\\OeNec0\\1Z\\OdNec0]1\\\\ObNdc0_1[\\OaNec0_1[\\OaNec0_1\\\\O`Ndc0a1[\\O`Ncc0a1^\\O]Ncc0d1\\\\O\\Ndc0d1]\\OZNdc0g1[\\OYNec0g1[\\OYNec0g1\\\\OXNdc0i1[\\OWNec0i1\\\\OVNdc0k1[\\OTNgc0k1Z\\OTNfc0l1Z\\OTNgc0l1X\\OTNic0k1X\\OTNic0l1V\\OTNkc0k1V\\OSNlc0FS\\O_O0f11UOUd0ZOm[OG2j1KUOYd0WOT\\Oc1DUO[d0SOS\\Oi1ATOPe0l0Q[OSOod0m0Q[OROPe0o0oZOQOQe0o0P[OPOPe0Q1oZOoNQe0Q1P[OnNPe0R1P[OnNPe0S1P[OkNQe0U1oZOkNQe0V1oZOiNQe0W1oZOiNQe0W1P[OhNPe0Y1oZOgNQe0Y1P[OfNod0\\1P[OdNPe0\\1Q[OcNod0]1Q[OcNod0^1Q[OaNod0_1Q[O`NPe0a1P[O^Nod0c1Q[O]Nod0c1R[O\\Nnd0e1Q[O[Nod0e1Q[O[Nod0f1Q[OYNnd0h1R[OXNnd0i1R[OWNmd0i1S[OWNmd0j1S[OUNmd0k1S[OUNld0m1T[OSNkd0m1V[ORNjd0n1Z[OnMfd0S2Z[OlMed0U2\\[OkMcd0T2`[OjM`d0V2a[OjM^d0T2d[OlM[d0T2f[OlMZd0R2i[OnMVd0P2l[OPNTd0Q2l[OoMSd0P2n[OPNRd0P2o[OoMQd0P2P\\OQNoc0P2Q\\OoMoc0Q2Q\\OPNnc0Q2R\\OnMoc0Q2Q\\OPNnc0Q2R\\OnMoc0Q2Q\\OPNnc0o1T\\OPNmc0P2R\\OQNmc0X1[[OWOf0Aoc0W1_[OUOc0Cnc0W1`[OWOa0Coc0T1a[OXOb0Cmc0T1b[OYOa0Dmc0R1c[OZO`0Cmc0R1d[O\\O>Cmc0P1g[O\\O<Dnc0o0f[O^O<Cmc0n0j[O]O9Enc0o0g[O\\O<Dmc0P1h[O[O;Fmc0o0g[O[O=Elc0P1h[O\\O:Emc0o0h[O]O<Cmc0o0h[O^O:Dmc0o0h[O\\O<Emc0n0h[O]O;Dmc0Q1f[O\\O<Dnc0o0g[O\\O<Dnc0P1e[O]O<DQd0l0e[O^O:FQd0l0e[O]O<FPd0l0d[O_O;FPd0l0d[O^O=Eoc0m0e[O]O<Goc0l0d[O^O=Eoc0m0e[O]O<Goc0k0e[O_O<Eoc0l0f[O^O;Foc0l0f[O_O:EQd0l0d[O^O=Eoc0m0d[O_O<DQd0m0c[O^O=DPd0m0d[O@;DPd0m0e[O^O<DPd0m0d[O@;CQd0m0f[O^O:EPd0m0e[O^O;EPd0m0f[O^O9FQd0m0h[OYO8HQd0o0l[OTO3MQd0P1l[OQO5MQd0Q1l[OPO3OQd0R1n1O01OO2O001N2O001O1O1O1O1O0010O01O00001O010O01O01O00010O010O01O01O0100O010O0010O010O00001N101O0O101O001HeXOH\\g07eXOI[g0780OH]XO3dg0L]XO3hg010N3NnUV30RjiL0O2O0N201N100O20O000010O000010O000010O0001O01O00010O0000010O0000010O0000010O0001O01O0001O01O0000010O000001O01O0001O01O0001O0001O0001O01O0001O01O0001O0001O0000010O000000010O000001O01O000001O01O000000010O000001O01O000001O0001O000001O01O00000QMIV^O6ja0JV^O6ia0LV^O5ja0KU^O5ka0LT^O4ma0KS^O5na0KR^O4na0MQ^O3Pb0LP^O5Pb0Ko]O5Rb0Km]O5Sb0Km]O5Tb0Kk]O5Vb0Kj]O4Vb0Lj]O5Vb0Ki]O5Xb0Kg]O5Yb0Kg]O5Zb0Kf]O4[b0Jf]O7Yb0Ld]O4_b0Ia]O7^b0Ka]O5`b0Ia]O7_b0L_]O3db0J\\]O7bb0K]]O5db0K[]O5eb0K[]O5fb0KY]O5hb0IZ]O6fb0MW]O3lb0JT]O7jb0KU]O5lb0KS]O5mb0LR]O4ob0LQ]O3Pc0Mo\\O3Qc0Mo\\O3Rc0Mm\\O4Sc0Ll\\O4Uc0Lj\\O4Vc0Lj\\O4Wc0Lh\\O4Yc0Lg\\O3Zc0Me\\O4Zc0Lf\\O4[c0Ld\\O4]c0Lb\\O4_c0Kb\\O4_c0L`\\O4`c0M_\\O3bc0M]\\O4cc0L\\\\O4ec0K[\\O5ec0LZ\\O4gc0LX\\O4hc0MX\\O2ic0NV\\O2kc0NT\\O3lc0LT\\O4mc0LR\\O4nc0MQ\\O3Qd0Ln[O4Sd0Ll[O4Td0Lm[O3Td0Mk[O4Ud0Lj[O4Wd0Lh[O4Yd0Lf[O4Zd0Me[O3\\d0Mc[O3^d0Ma[O3`d0M`[O2ad0N^[O3bd0L^[O4cd0L\\[O4dd0M[[O3fd0MY[O3hd0MW[O3jd0MU[O3ld0LU[O3ld0MS[O3md0OQ[O2od0MQ[O3Pe0MoZO3Re0MmZO3Te0MkZO3Ve0MiZO2Ye0NgZO1Ze0NfZO1\\e0OcZO1]e00bZO1^e0OaZO1`e0O_ZO1be0O]ZO1de0O[ZO2ee0N[ZO1fe0OYZO0ie00VZO0ke00TZO0me0Q100100O1O1O1O1O1O100O1O1O1O1O1O010O0O200O2N1O1O1O100O1O1O1O100O1O1O1O1O1O101M2Olkj2"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 1 appears as a small, recessed component within another structure without any visible protrusions, handles, edges for gripping, or functional surfaces typically associated with usable interactions"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_49",
+      "area": 18781,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "XiYf0d0\\g00N3J501N100O2O01OO2L301N101N10010O00010O000010O001O01O01O01O01O01O010O00010O0001O01O01O01SMBV^O>ja0BW^O=ha0EW^O<ha0DX^O<ia0DW^O;ia0EW^O<ha0EX^O:ia0EW^O;ia0FV^O;ja0DV^O<ja0EV^O:ka0EU^O<ja0EU^O;ka0EU^O;la0ET^O:la0FT^O;la0ES^O;ma0FS^O9na0FR^O;ma0FR^O:oa0ER^O:na0GQ^O:na0FS^O9na0FR^O:na0GQ^O9Pb0FQ^O:na0GQ^O9oa0HP^O8Qb0GP^O9oa0HP^O8Qb0Go]O9Qb0Hn]O8Sb0Gn]O9Qb0Hn]O8Rb0Hn]O8Sb0Hl]O8Tb0Hm]O8Sb0Hl]O8Tb0Ik]O7Vb0Hk]O8Tb0Ik]O7Vb0Hj]O8Vb0Ii]O7Xb0Hi]O8Vb0Ii]O7Xb0Hh]O8Xb0Ig]O8Xb0Hh]O8Yb0Hg]O7Yb0Jf]O7Zb0Hf]O8Zb0If]O6[b0Jd]O6\\b0Jd]O7\\b0Id]O6\\b0Jd]O6]b0Jb]O6^b0Jb]O7^b0Ib]O6^b0Jb]O6_b0J`]O6`b0J`]O7`b0I`]O6`b0J`]O6ab0J^]O6bb0J^]O7bb0I^]O6bb0J^]O6bb0K]]O6cb0J\\]O6db0J]]O5db0K[]O5eb0K[]O6eb0JZ]O6fb0KY]O5hb0JY]O5gb0LX]O4ib0KW]O6hb0KW]O5jb0JW]O5jb0KU]O5kb0LT]O5lb0JU]O5kb0LT]O4mb0KS]O5mb0LR]O5nb0KR]O4nb0MQ]O3Pc0LP]O4Pc0Mo\\O4Qc0Lo\\O3Rc0Ln\\O4Rc0Mm\\O3Tc0Mk\\O3Uc0Ml\\O3Tc0Mk\\O3Uc0Mk\\O3Vc0Mi\\O3Wc0Nh\\O3Xc0Li\\O3Xc0Mg\\O3Zc0Lf\\O4Zc0Me\\O4[c0Le\\O3[c0Me\\O3\\c0Mc\\O3^c0Ma\\O3_c0Mb\\O2_c0N`\\O3_c0N`\\O2ac0M_\\O3bc0M]\\O3cc0N]\\O1dc0N\\\\O3cc0N\\\\O2ec0NZ\\O2fc0OZ\\O0gc00X\\O1hc0NX\\O2hc0OW\\O1jc0OU\\O1kc0OU\\O1lc0OS\\O2mc0NR\\O2nc0NR\\O2oc0NQ\\O1oc00P\\O0Qd00n[O0Sd0Om[O2Rd0Om[O1Td0Ol[O0Ud00j[O0Vd01i[O0Wd0Oi[O1Xd0Og[O1Yd00g[OOZd00f[O0[d00d[O1[d00d[O0]d00c[OO]d01c[OO^d01a[OO`d01_[OOad01_[O0ad00^[O0cd00\\[O0dd00\\[O0ed00Z[O0gd00X[O1gd00X[O0id00W[OOjd01U[OOld00T[O0ld01S[OOnd02P[OOPe01oZOOQe02oZOMRe03mZOMTe03kZOMUe04jZOLWe04hZOLYe0^1O01O1O00100O1O001O1O10O01O1O001O100O001O1O1O100O001O1O1O001O100O001O1O010O1O1O1O001O1O100O1O001O1O1O1O010O1O1O1O1O1O1O100O001O1O1O1O1O010O2N001O1O1O1O10O01O1O1O1O1O1O100O1N2Ollh3"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "Part 2 has a wide, flat surface at its front end positioned for human occupancy, unlike any of the surrounding components which are narrow, angular, or designed for mechanical function rather than seating"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_35",
+      "area": 17900,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "_]Q54kg0103L101N100O10000001O003NO010O01OnXOKYf06cYOM]f06^YOMbf02\\YO0df01ZYO0ef01XYO2hf0NWYO4hf0LWYO5if0b0O001O001O0O110O100N1^OjNZZOW1ee0iN[ZOX1ce0jN\\ZOV1de0jN\\ZOW1ce0iN]ZOX1ae0hN_ZOY1ae0gN`ZOY1_e0gNaZO[1\\e0eNdZO^1Ze0bNfZO_1Ye0aNhZO_1We0aNiZO_1Ve0cNjZO]1Ue0cNjZO^1Ve0cNjZO\\1Ve0dNjZO\\1Ue0dNcZOKO`1_e0eNbZOKO`1_e0cNcZOOM_1_e0cNbZOON_1`e0cNaZONO_1_e0dNaZON0]1`e0hN]ZOL2\\1ae0QO`ZOn0`e0RO_ZOP1`e0QO`ZOn0ae0QO_ZOP1_e0QObZOn0^e0SOaZOn0^e0RObZOm0_e0SObZOl0^e0TOaZOl0`e0UO`ZOj0`e0UO`ZOm0_e0TOaZOl0_e0SOaZOn0^e0ROcZOo0[e0ROcZOo0]e0QOcZOP1]e0POcZOn0^e0RObZOn0_e0QObZOm0`e0SO_ZOm0`e0TO`ZOk0ae0UO_ZOl0ae0SO_ZOm0ae0SO_ZOm0ae0SO_ZOn0`e0SO_ZOm0\\e0^NeZO\\2Ze0dMgZO[2Xe0gMgZOY2Ye0gMgZOZ2Ye0eMgZO[2Ye0fMfZO[2Ye0eMhZOZ2Xe0gMgZOZ2Xe0fMhZO[2We0eMiZO]2Ve0bMjZO^2Ve07O000010O01O00010O0000003M10OO2O1O001O011M110OO11O1O001O0010O02N001O01O01O011N001O010O0010O001O0O1010N2O1O001N2O001O0O2OQNf[O7[d0Hh[O6Wd0Jj[O0\\d00f[OK\\d05e[OH^d07d[OG]d09d[OE3mNec0^1Z\\OC2oNdc0^1[\\OB0ROdc0[1^\\OAOTObc0\\1_\\O@NVObc0Z1a\\O_OLYOac0X1e\\O^OH\\Occ0V1f\\O^OE^Odc0T1h\\O]OBAec0S1j\\O]O\\ODic0o0l\\O4Tc0Kn\\O5Pc0LQ]O3ob0MR]O3mb0LU]O3jb0NW]O1ib0OX]OOhb02Y]OMgb04Y]OJhb06Y]OGhb0;X]OBib0?X]O^Ojb0b0W]O[Ojb0MU\\OER1;kb0OT\\OGQ17lb03T\\OEQ16lb05S\\OFR13kb07S\\OGR11jb08U\\OGR1Ojb0:T\\OHR1Mjb0;S\\OIT1Ijb0?R\\OIU1Dkb0b0Q\\OJU1Bkb0d0P\\OKV1]Okb0i0n[OLfe04ZZOLfe04ZZOMde04\\ZOLde04[ZONde05WZOMie0V1N2O001N2O1O0OD_ZO\\N_e0e1bZO[N]e0d1eZO[NZe0f1fZO\\NYe0b1iZO]NVe0d1kZO\\NTe0c1mZO^NRe0b1oZO^NPe0a1R[O^Nod0a1R[O_Nmd0`1T[O`NPe0\\1Q[OdNnd0\\1S[OdNld0[1V[OdNjd0\\1W[OdNhd0[1Z[OeNed0[1\\[OdNcd0]1][OdNbd0[1`[OeN_d0[1b[OdN^d0\\1c[OdN\\d0[1e[OeN[d0[1f[OeNZd0Y1h[OfNWd0[1j[OeNVd0Y1l[OfNTd0MP[OS1l0PO_d0n0c[OQO^d0m0d[ORO]d0f0k[OYOUd0f0l[OZOUd0d0m[OZOUd0e0l[OZOUd0d0d1O2BfXO1]g0OcXOKcg046N110O010O10O010O0010O0010O010O0010O01O010OO2O3ON0O20O00010O010N10`b\\e0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 3 appears as a small protrusion at the rear of the main body without any visible attachment points, functional surfaces, or structural features suggesting interaction or use beyond its fixed placement"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_16",
+      "area": 17286,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "\\YP97gg05L5L2M2O1O001O1O0O2N2O0O2O1N2O001N101N2O0O2M2N2N3M2N3M2N2O2N1M4M4M2M3N2N1O2N1O1O2O0O1O2N1O101N100O2O001N101O0O2O001N101O001O001O01O01O001O01O01O001O01O01O001O00010O010O0100O10O001O010O01O01O010O01O010O01O010O0010O01O010O010O010O00010O01O010O0010O0010O010O01O010O010O0010O0010O0010O010O00010O01O010O010O010O010O010O010O001O01O010O00001O0O101N1N3L3N3M2N3L3N3M2O2N1N2N3L3N3N1O1N3N1N3N1O100O2N1ZOfYOD]f0:dYOD^f0;dYOB_f0=aYOB`f0=bYOB^f0>cYO@_f0?bYO^O`f0c0?O01O01O0O2O0M4L3O2O0010O010OO3N0O2O0O100O2O0OV^eb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 4 appears as a rigid central fuselage section without any visible attachment points, handles, levers, buttons, hinges, slots, grooves, wheels, flaps, vents, seams, clips, latches, knobs, dials, ports, nozzles, grips, rails, tracks, pins,"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_37",
+      "area": 15246,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "jX`44lg00O:F101N10O010O100O2O0O2OJ51O01O010O010N110O01O010O010O00010O010OfXOCRg0>mXOCRg0>mXODQg0=oXOCQg0<oXOEPg0<PYOE0Jif0a0WYOF0Ihf0b0XYOKgf04YYOMff04ZYOKgf04YYOMff0f01O010OkNmN^[OT1bd0lN^[OS1bd0oN][OQ1cd0oN\\[OQ1ed0POZ[OP1fd0POZ[OS1dd0mNZ[OT1fd0lNY[OV1gd0jNV[OW1ld0iNS[OX1ld0hNS[OY1nd0gNQ[OZ1od0fNP[OZ1Pe0gNeZOMK]1ae0jN]ZOL1[1be0h0001O2N2N1O12M10O10N101N1010O0O10OM4O2M2O2M2O1O2OO100O11O001O1O2N005K1O00001O0010O0010O010O002OO00010O02OO0JeNhYO[1Wf0fNhYOZ1Wf0hNiYOX1Vf0hNjYOX1Vf0iNjYOV1Wf0iNiYOX1Vf0iNjYOV1Xf0hNiYOX1Uf0jNoYOQ1Rf0nNoYOR1Pf0oNoYOQ1Rf0mNoYOT1Pf0nNoYOQ1Uf0lNjYOU1Tf0oNiYOQ1Wf0POiYOo0Xf0QOgYOo0Yf0ROgYOn0Yf0QOgYOo0Zf0QOeYOP1Zf0;100O010O00010O010O0100O02OO01O1OO20O002OO01O010O10O0010O00O2O010O010O10O10O01O002OoMdN]]O[1bb0hN]]OW1bb0jN_]OU1ab0mN\\]OU1bb0lN_]OS1`b0oN_]OR1`b0oN`]OP1_b0ROa]Om0_b0TO`]Om0^b0UOb]Oj0^b0VOb]Oj0^b0WOb]Oi0\\b0YOc]Og0]b0ZOc]OJ_N4mc03d]OFdN4hc07c]ODjN2bc0;c]OBnN1^c0?d]O_OoN1]c0a0c]O^OQO0\\c0c0c]O\\OQO1[c0e0c]OZOSO0Zc0g0b]OYOUO0Xc0h0a]OXOXO0Xc0h0_]OXOZO0Vc0i0^]OWO^OOUc0j0Z]OYOANTc0j0X]OYOFLRc0l0U]OZOJJPc0m0S]OZOOHnb0o0P]O[O2Gnb0n0m\\O]O6Dmb0P1l\\O[O8Flb0P1i\\O[O<Dmb0P1g\\OZO>Fjb0Q1f\\OZO`0Ejb0R1d\\OYOd0Egb0S1b\\OXOi0Feb0S1^\\OWOo0Gbb0S1]\\OUOT1G`b0U1X\\OTOZ1H_b0i1d]OVN\\b0h1f]OXNZb0f1h]OZNXb0e1j]OZNWb0d1j]O\\NVb0a1n]O_NRb0^1R^O`Noa0^1S^ObNla0\\1W^OdNiMMnc0[1[^OkNea0T1]^OlNca0R1^^OnNba0Q1_^OoNba0o0_^OPOba0o0`^OPOaa0o0_^OPOca0n0^^OROba0m0`^OROaa0l0`^OTOaa0j0`^OVOaa0i0`^OUOaa0j0`^OVOaa0i0k2O2O1O0O2O1O0O2O1O0O2O001O1O000001O000000001O01O001O010O001O000010OO2O1N2N2N2MgTl10ZkSN1O2M2M3aXOHTg09kXOKQg07mXOKQg05oXONmf04RYONlf02UYO0hf00XYO2gf0MYYO6ef0H]YO9af0G^YO<`f0D`YO>]f0DaYO>^f0d0N2N1N4M1N3N1O2OO02N1ZORNX[OP2gd0QNW[OP2id0RNT[OP2ld0PNS[OP2md0RNR[Om1od0TNoZOl1Re0UNkZOl1We0=1O2N1N2O1mM_ZOe1be0[N_ZOe1^e0]NeZO`1Ye0bNhZO]1Ye0bNiZO\\1We0dNjZO[1We0dNmZOX1Ue0fNmZOb0DEae0HlZOb0EDae0HkZOb0GD^e0JmZO?GE^e0LkZO>HE]e0MmZO<GF]e0MU[O4_OO[e0NW[O1^O1\\e0Ml[O4Sd0Ln[O3Sd0Lm[O3Td0Nk[O2Ud0Ok[O0Td01l[OOUd01l[OLUd04l[OKUd04l10O01O010O0O2O010O011N10ZfXb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 5 appears as a flat, non-functional panel integrated into the fuselage without any visible attachment points, handles, seams for disassembly, or structural features suggesting interaction or manipulation by users \u2014 unlike surrounding components which show clear functional interfaces such as joints, grips, vents, or mounting surfaces designed for assembly, operation,"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_1",
+      "area": 14204,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ZoSd03mg01N101O001O1O001N101O001O001O00001N10001O001O001N101O0O101O001N10001N101O0O2O0O1iNUOY[Ol0fd0WOU[Ok0jd0WOT[Ok0ld0UOR[Ol0nd0UOoZOn0Pe0SOnZOn0Re0TOkZOn0Te0WOeZOk0[e0XO_ZOl0ae0i000010O0010O00010O0010O010O0010O01O010O01O01O01O01O010O010O010O00010O0010O01O010O01O01O010O010O00010O010O0010O00010O01O10O01O01O01O0010O00010O010O01O010O00010O00100O0010O01O0010O0010O0010O010O01O0010O01O0010O01O10O01O010O01O01O010O1O010O001O010O001O010O1O010O001O010O001O00100O00100O0010O01O0010O01O0010O01O0010O01O1O010O001O1O010O001O010O1O010O001O100O001O10O01O1O010O001O1O010O001O10O01O1O010O1O001O10O01O1O100O001O1O001O1O00100O1O001O1O100O001O10O01O1O10O01O1O001O1O001O1O1O1O1O001N3N1Nnen5"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "sit on",
+          "justification": "Part 6 has a wide, flat surface at its forward end positioned for human occupancy, unlike surrounding components which are narrow, angular, or designed for mechanical function rather than seating"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_48",
+      "area": 12094,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "[n^`0c0]g01N101O00001O010N101N101O00001O0O2O000000000O101O0000001N101O001O001N10001O001O001O001O000O100000003M001O01O0000001O02N0010O001O0002O0O010O0010O010O010O0O2O02O0O0010O010O010O0010O0010O010O0010O0010O010O00010O010O010O000001O001O010O0010O002OO02OO010O001O00010O02OO010O0010O0010O0010O010O010O01O001O001O01O01O010O010O010O02N10O010O01O01O010O010O00010O010O010O00010O010O0010O0010O0010O010O00010O010O00010O010O010O00010O01O01O010O01O01O010O01O01O010O01O01O01O010O01O01O010O01O01O01O010O01O01O01O01O01OlN\\ZOLee03\\ZOLde04\\ZOMde01]ZOOce01^ZONbe01_ZO0ae0O_ZO1ae0JeZO6bf000010O01O010O00010O00010O01O01O01O00010O00010O00010O01O01O01O01O0001O01O01O01O01O01O01O01O01O00010O0001O01N10001N100010O000001N11O01N10[Um8"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 7 appears as a flat, recessed panel integrated into the fuselage without any protrusions, handles, seams for attachment, or functional contours suggesting interaction or manipulation by human hands \u2014 unlike surrounding components which have distinct shapes implying use\u2014making its affordances effectively nonexistent in terms of direct physical engagement"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_38",
+      "area": 12028,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "j\\l=5f02Vf00_YO;Zd0B]]O5VN<[d0@^]O6TN<]d0A[]O5VN=]d0@[]OQ1db0PO[]OQ1db0SOW]Oo0hb0RO_\\OFFY1jc0SO]\\OFIW1ic0TO\\\\OHGW1mc0QO[\\OIGW1mc0SOY\\OGIW1mc0[OQ\\O^O1Y1nc0ZOo[O^O2Y1nc0\\Om[O[O5Z1mc0\\Ok[O]O7W1oc0NP\\O4oc0LQ\\O5oc0KP\\O6oc0JQ\\O7oc0GQ\\O;oc0DQ\\O<nc0ER\\O=mc0CQ\\O?nc0CP\\O?nc0BQ\\O>Pd0Bo[O?Pd0i1N2O010O10RNS\\OIlc07U\\OIkc05Y\\OIfc07[\\OIec06]\\OIcc05_\\OJbc05`\\OJ`c05b\\OI]c08e\\OG[c08g\\OFYc09i\\OGWc08l\\OGSc08P]OFPc08R]OGob09Q]OGob06U]OIkb06V]OIjb07X]OHhb07Z]OHfb07[]OHfb07[]OIeb06]]OHdb00S\\OnNZ1OgNl0lc02S\\OPO12a1l0[b01Q^ONPb01Q^OOoa01Q^ONPb01R^OMoa02R^ONna01T^OLna04S^OLla03U^OLla03V^OLja04W^OKha05Z^OJga05Z^OKea04]^OKba05a^OH`a08c^OE]a0:U300O1O100O100O10O010000O10000O100000000O10000000000O100000000O100000000000O00100O1O010O1O100O010O100O1O100O100O2N101N2O1M3O1N:G0O2O0O0010O00010O00001O01O01O010O001O00N210O02N100O1O00O2O0O1O100O1G:O00000010O001O01M3M4N100M7L1N1010OO2N1N2M300O11O0O2O1N2RNcZOW1_e0fNcZOX1be0cN`ZO\\1`e0cNbZOU1HfNie03`ZOV1ge0hN[ZOU1Yf0O2O1N1O2N101M3N2L3J7M3MfgQ>"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 8 appears as a small cylindrical component embedded within another structure without any visible protrusions, handles, slots, or surfaces designed for interaction \u2014 unlike most surrounding elements which have clear functional interfaces\u2014making its potential use unidentifiable through physical engagement alone"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_46",
+      "area": 6656,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "gmka03jg04N2O2M1N3N1N3O0O20OO2O001O010O010N110O01O10O0O20O010O1O10N1010O011N01O000010O010O00O20O01O010O02OO000O20O011N0001O0010O01O010O01O01kXOZOmf0n0O0010O011N1N20001N100O100O1N200O010O2N1O1O10O01N2O1O001O001O00001O0000001OO10000aNEX[O<hd0DW[O=hd0EV[O<id0FU[O:ld0GR[O:md0HP[O:Pe0HlZO:Te0GiZO;We0FfZO<Ye0EaZOa0_e0@\\ZOd0de0[O[ZOg0be0\\O]ZOe0ce0ZOVZOB0V1ie0XOXZOn0ie0QOVZOo0ke0POWZOo0ke0oNUZOQ1be0eN_ZO:OQ1ae0hN^ZO72o0ae0jN^ZO61P1`e0nN\\ZO34n0ae0nN\\ZO34m0ae0ROZZO15l0be0ROYZO26j0be0B^ZO>ce0B]ZO<de0D]ZO:de0G\\ZO8ee0G\\ZO7ee0J[ZO4ge0KZZO3ge0NZZOOge01ZZOMhe03XZOJje06XZOFke09XZOAke0`0ZZOZOfe0f0k00O0010O0010O010O00010O010O0010O010O01O01O010O0010O0010O010O01O01O010O01O010O010O00010O010O010O00010O010O0010O0010O010O1O010O00010O010O01O010O01O010O0010O0010O010O1O010O010OO2Ojic9"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 9 appears as a small, flat, recessed panel integrated into the fuselage without any visible protrusions, handles, seams, or functional features suggesting interaction or attachment points unlike surrounding components"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_44",
+      "area": 6416,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "nVd:3mg03H7]XOHPg0k0L:F3N2N2N2O2M101O2M101O1N1K6H7N3O0O110O5L0O1O100O02O5J1nM`ZOb1ae0ZNcZOe1]e0ZNeZOe1[e0ZNgZOe1Xe0[NkZOc1Te0]NoZO`1Qe0`NQ[O_1od0`NS[O_1ld0aNV[O^1jd0bNX[O\\1id0bNY[O\\1hd0dNZ[OZ1ge0I7N2N2N2N1OkNVOW[Oh0id0YOW[Og0hd0[OW[Oe0id0\\OW[Od0gd0]OY[Oc0fd0_OZ[Oa0dd0@][O?cd0A][O?bd0C^[O=`d0D`[O;ad0E`[O3mNDbe0:b[O0ed02[[OMdd04\\[OKed06[[OIdd08\\[OGdd0:][OEbd0=][OBdd0>][OAbd0`0^[O@ad0b0^[O^Obd0b0_[O]O`d0d0`[O\\O_d0f0a[OYO^d0h0b[OWO_d0i0a[OWO^d0k0a[OUO^d0l0c[OTO[d0m0e[OTOZd0l0f[OTOYd0n0g[OROWd0o0i[OQOWd0o0j[OoNVd0R1k[OmNTd0T1[12O0O2N1O2O0O2N1O2N101N001O000O2O10O011O0O3N0N3N2N110O1N010M3O101N1O200O2N0O011N1O2N2N01O001O00001O100O11O0O4M0I8D<M2NQcPc0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 18 appears as a small cylindrical component integrated into the main body without any visible attachment points for manipulation or interaction"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_36",
+      "area": 4901,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "[iW39eg07J9G2O1N2O100O010O10O010O01O1O3N3L1O001O0O2O001O0O1O100O10O0101OO10O01M2O20O1O002OO010N110O01OnN`YOe0af0[O_YOe0`f0XOfYOe0[f0[OeYOe0\\f0[OcYOd0^f0\\OaYOe0`f0YOaYOf0`f0ZO_YOg0oc0XOd^Og0Xa0E`^O<]a0K_^O4`a00]^O1`a03^^OMaa05_^OK`a07^^OIaa09_^OG`a0:_^OFaa0<^^ODaa0>]^OBca0a0[^O_Oda0b0[^O^Oea0d0Y^O]Oga0d0X^O[Oha0f0W^O[Oja0f0T^OYOma0h0Q^OYORb0e0m]OoN[NHic0Y1k]OoN]NHgc0[1k]OlN^NIhc0[1i]OaN^N51Ohc0Z1i]ObN`N3O1ic0Z1h]ObN`N3N2kc0W1g]OdNaN2N2kc0W1h]OcN`N3M3lc0V1h]OcN_N5M2lc0T1Q^OjNSN2mc0T1o]OhNWN4jc0S1o]OjNVN3lc0R1o]OjNVN4kc0m0S^OoNRN4lc0k0T^OQOPN4lc0h0W^OTOlM4oc0f0W^OTOkM6nc0e0X^OUOiM6Qd0d0^^O\\Oba0d0]^O\\Oea0;l[O@_25ea08o[OC[25ka02m[OGX28ka0Oo[OIV27la0Ob^O2^a0Kd^O5^a0Ic^O7]a0Hc^O8cd00O02O0O2O1N100O011O0O2OifRk0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 12 appears as a small cylindrical protrusion without any visible functional surface for gripping, attaching, or interacting in use"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_4",
+      "area": 4271,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "^^[;3jg04N2N2N3M3M2N2N2O2M2O2N1N2O1O1O1O0010O0010O010O1O010O001O100O010O0010O01O01O01O010O0001O01O00010O001O1O010O01O010O0010O010O0100O00100O1O010O010O0010O0100O010O1O10O010O0100O010O1O010O10O01O010O10O0100O010O00100O1O010O10O0100O100O010O010O1O010O1O001O1O0O2O1N2M4L3LQ`ab0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 13 appears as a small cylindrical component attached near the rear of the main body without any visible protrusions for gripping, mounting, or interaction\u2014making its functional use ambiguous compared to more clearly defined structural elements elsewhere in the design"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_3",
+      "area": 3561,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "YdZ83lg03M2O1N2N101N101O1N101O1O1O0O2O100O001O010O1O00100O1O010O1O010O100O00100O00100O1O0010O0100O10O0100O1O010O1O010O10O01O10O010O01O10O0100O00100O010O010O00010O010O00010O01O010O001O0010O01O001O1O0010O01O1O0010O01O1O001O1O1O002M101N2O1J7G8M_jle0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 14 appears as a small protrusion without any discernible functional surface for gripping, attaching, inserting, twisting, sliding, pressing, pulling, turning, pushing, lifting, carrying, opening, closing, holding, wearing, fitting, plugging in, screwing, unscrewing, clipping, latching"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_12",
+      "area": 3341,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "m`[38eg04N2N101N1O2O0O2N100O1O2N1O1O100O010O10O010O01O010O00100O1O0010O010O001O01O01O01O0010O010O01O01O01O010O00010O10O01O01O00010O01O010O01O010O0010O001O001O001N11O01O001O0001OO2O0001O010O100O100O100O101O0O2O0O2O0O2M3O0O2O1O1EhXOK^g0NeXO1SXQk0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 1 appears as a small protrusion without any discernible functional surface for gripping, attaching, or manipulating objects, unlike most surrounding components which have clear structural interfaces"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_5",
+      "area": 2695,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "W`d;6ig02N2N2N3M2O0O2O10O0100O00100O00100O10O0100O10O01O1O010O1O010O00100O010O1O010O10O010O0100O010O010O10O010O100O010O010O100O0100O0100O010O100O010O10O10O010O10O01O100O010O010O1000O010O01O100O010O10O0100O100O1O010O1O010O0O2O1L301N101M3L30Qfcb0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 16 appears as a small protrusion at the rear of the main body without any visible attachment points for functional interaction like gripping, pushing, pulling, rotating, inserting, removing, etc"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_17",
+      "area": 2634,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "j_ab06ig02N2N2N1N3O1N101O001O001O1O010O001O001O2N10O01O00001O01O0001O00010O0000010O000010O000010O01O00010O001O01O01O0010O01O000010O01O00010O001O00010O001O01O01O0010O01O00010O000010O01O010O001O0010O01O01O01O0010O0001O010O0010O01O010O001O001O1N101M5JUgc;"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 18 appears as a small protrusion at the rear of the main body without any visible attachment points for functional interaction like gripping, pushing, pulling, rotating, inserting, removing, etc"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_13",
+      "area": 2105,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "ZY\\64kg03L2O2M2O2O0O1000000000001O00000000001O000001O010O001O01O010O00010O010O010O01O01O010O010O010O010O010O001O010O01O010O010O00010O0010O0100O010O01O00010O00010O00010O01O0010O00010O01O010O1O010O00000010O0000010O01O01O01O00001O0010O01O01O00001O01O010O001O010O1O000010O01O001O1O1O0010O0000000001O0O2OZ]Ug0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 18 appears as a small protrusion without any visible functional surface for gripping, attaching, or interacting in use"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_20",
+      "area": 2041,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "]m[c04hg09J2N3M2N2O2M3N2N1N2O1O2N1O1O1O1O1O1O1O010O2N100O1O010O1O10O01O010O00010O0001O010N2O0O2O0O2N2N2N2M4L3M3M3I7K5M3N2MXbX<"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 17 appears as a flat panel without any protrusions, handles, seams for attachment, or functional contours typically associated with usable surfaces in mechanical objects \u2014 suggesting no intended interaction beyond structural support within its assembly context"
+        }
+      }
+    },
+    {
+      "region_id": "drone_dagger_region_6",
+      "area": 1834,
+      "segmentation": {
+        "size": [
+          768,
+          1408
+        ],
+        "counts": "m]d84ig05M2O1N2O0O2O1O1O010O100O10O010O10O10O01000O0100O010O10O010O0100O010O10O0100O0010O010O0100O010O010O010O10O010O010O010O010O010O010O0100O010O010O0100O010O010O10O01O010O101N3M9F4M`hXf0"
+      },
+      "vocabularies": {
+        "agd20k": {
+          "label": "none",
+          "justification": "Part 18 appears as a small protrusion without any discernible functional surface for grasping, attaching, or interacting in use"
+        }
+      }
+    }
+  ]
+}

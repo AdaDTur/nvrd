@@ -1,0 +1,122 @@
+{
+  "object": "drone_dagger",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 19 parts marked and numbered (1 to 19), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 19 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>\nPart 16: <option>\nPart 17: <option>\nPart 18: <option>\nPart 19: <option>",
+  "raw_response": "Part 1: hold\nPart 2: sit on\nPart 3: cut\nPart 4: cut with\nPart 5: take photo\nPart 6: sip\nPart 7: ride\nPart 8: hold\nPart 9: sit on\nPart 10: cut\nPart 11: cut with\nPart 12: take photo\nPart 13: sip\nPart 14: ride\nPart 15: hold\nPart 16: sit on\nPart 17: cut\nPart 18: cut with\nPart 19: take photo",
+  "regions": [
+    {
+      "region_id": "drone_dagger_region_42",
+      "area": 22870,
+      "isolated_label": "none",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "drone_dagger_region_49",
+      "area": 18781,
+      "isolated_label": "cut",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "drone_dagger_region_35",
+      "area": 17900,
+      "isolated_label": "take photo",
+      "comparative_label": "cut"
+    },
+    {
+      "region_id": "drone_dagger_region_16",
+      "area": 17286,
+      "isolated_label": "cut",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "drone_dagger_region_37",
+      "area": 15246,
+      "isolated_label": "cut",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "drone_dagger_region_1",
+      "area": 14204,
+      "isolated_label": "cut",
+      "comparative_label": "sip"
+    },
+    {
+      "region_id": "drone_dagger_region_48",
+      "area": 12094,
+      "isolated_label": "cut",
+      "comparative_label": "ride"
+    },
+    {
+      "region_id": "drone_dagger_region_38",
+      "area": 12028,
+      "isolated_label": "cut",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "drone_dagger_region_46",
+      "area": 6656,
+      "isolated_label": "cut",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "drone_dagger_region_44",
+      "area": 6416,
+      "isolated_label": "cut",
+      "comparative_label": "cut"
+    },
+    {
+      "region_id": "drone_dagger_region_36",
+      "area": 4901,
+      "isolated_label": "cut with",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "drone_dagger_region_4",
+      "area": 4271,
+      "isolated_label": "cut",
+      "comparative_label": "take photo"
+    },
+    {
+      "region_id": "drone_dagger_region_3",
+      "area": 3561,
+      "isolated_label": "cut",
+      "comparative_label": "sip"
+    },
+    {
+      "region_id": "drone_dagger_region_12",
+      "area": 3341,
+      "isolated_label": "cut with",
+      "comparative_label": "ride"
+    },
+    {
+      "region_id": "drone_dagger_region_5",
+      "area": 2695,
+      "isolated_label": "cut with",
+      "comparative_label": "hold"
+    },
+    {
+      "region_id": "drone_dagger_region_17",
+      "area": 2634,
+      "isolated_label": "cut with",
+      "comparative_label": "sit on"
+    },
+    {
+      "region_id": "drone_dagger_region_13",
+      "area": 2105,
+      "isolated_label": "cut",
+      "comparative_label": "cut"
+    },
+    {
+      "region_id": "drone_dagger_region_20",
+      "area": 2041,
+      "isolated_label": "cut",
+      "comparative_label": "cut with"
+    },
+    {
+      "region_id": "drone_dagger_region_6",
+      "area": 1834,
+      "isolated_label": "cut with",
+      "comparative_label": "take photo"
+    }
+  ]
+}

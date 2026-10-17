@@ -1,0 +1,158 @@
+{
+  "object": "bonsai_amplifier",
+  "model": "Qwen/Qwen2-VL-7B-Instruct",
+  "question": "The image shows an object with 25 parts marked and numbered (1 to 25), each outlined and tinted a different color. For EACH numbered part, choose the single affordance it offers from this list: beat, boxing, brush with, carry, catch, cut, cut with, drag, drink with, eat, hit, hold, jump, kick, lie on, lift, look out, open, pack, peel, pick up, pour, push, ride, sip, sit on, stick, stir, swing, take photo, talk on, text on, throw, type on, wash, write, wear, none. If a part offers none of these, answer \"none\" for it. Different parts of the same object often have different affordances -- do not just repeat the same answer for every part unless you have a specific reason each one shares it. Answer with exactly 25 lines, in the format:\nPart 1: <option>\nPart 2: <option>\nPart 3: <option>\nPart 4: <option>\nPart 5: <option>\nPart 6: <option>\nPart 7: <option>\nPart 8: <option>\nPart 9: <option>\nPart 10: <option>\nPart 11: <option>\nPart 12: <option>\nPart 13: <option>\nPart 14: <option>\nPart 15: <option>\nPart 16: <option>\nPart 17: <option>\nPart 18: <option>\nPart 19: <option>\nPart 20: <option>\nPart 21: <option>\nPart 22: <option>\nPart 23: <option>\nPart 24: <option>\nPart 25: <option>",
+  "raw_response": "Part 1: none\nPart 2: none\nPart 3: none\nPart 4: none\nPart 5: none\nPart 6: none\nPart 7: none\nPart 8: none\nPart 9: none\nPart 10: none\nPart 11: none\nPart 12: none\nPart 13: none\nPart 14: none\nPart 15: none\nPart 16: none\nPart 17: none\nPart 18: none\nPart 19: none\nPart 20: none\nPart 21: none\nPart 22: none\nPart 23: none\nPart 24: none\nPart 25: none",
+  "regions": [
+    {
+      "region_id": "bonsai_amplifier_region_15",
+      "area": 71050,
+      "isolated_label": "beat",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_12",
+      "area": 46706,
+      "isolated_label": "beat",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_2",
+      "area": 45822,
+      "isolated_label": "cut",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_9",
+      "area": 23540,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_51",
+      "area": 22060,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_40",
+      "area": 20231,
+      "isolated_label": "cut",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_10",
+      "area": 21947,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_41",
+      "area": 18988,
+      "isolated_label": "beat",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_4",
+      "area": 18605,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_55",
+      "area": 17537,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_8",
+      "area": 16004,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_49",
+      "area": 15427,
+      "isolated_label": "beat",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_1",
+      "area": 14521,
+      "isolated_label": "beat",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_39",
+      "area": 13507,
+      "isolated_label": "type on",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_33",
+      "area": 11071,
+      "isolated_label": "cut",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_34",
+      "area": 10537,
+      "isolated_label": "beat",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_54",
+      "area": 8628,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_35",
+      "area": 5535,
+      "isolated_label": "hit",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_42",
+      "area": 2833,
+      "isolated_label": "beat",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_14",
+      "area": 5441,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_11",
+      "area": 5159,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_13",
+      "area": 4656,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_5",
+      "area": 4283,
+      "isolated_label": "type on",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_21",
+      "area": 3982,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    },
+    {
+      "region_id": "bonsai_amplifier_region_37",
+      "area": 2859,
+      "isolated_label": "none",
+      "comparative_label": "none"
+    }
+  ]
+}

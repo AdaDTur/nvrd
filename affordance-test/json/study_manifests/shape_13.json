@@ -1,0 +1,94 @@
+{
+  "vocabulary": [
+    "beat",
+    "boxing",
+    "brush with",
+    "carry",
+    "catch",
+    "cut",
+    "cut with",
+    "drag",
+    "drink with",
+    "eat",
+    "hit",
+    "hold",
+    "jump",
+    "kick",
+    "lie on",
+    "lift",
+    "look out",
+    "open",
+    "pack",
+    "peel",
+    "pick up",
+    "pour",
+    "push",
+    "ride",
+    "sip",
+    "sit on",
+    "stick",
+    "stir",
+    "swing",
+    "take photo",
+    "talk on",
+    "text on",
+    "throw",
+    "type on",
+    "wash",
+    "write",
+    "wear",
+    "none"
+  ],
+  "models": [
+    "qwen3-vl-8b",
+    "internvl3-8b",
+    "molmo2-8b"
+  ],
+  "regions": [
+    {
+      "part": 1,
+      "region_id": "shape_13_region_8",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "eat",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 2,
+      "region_id": "shape_13_region_12",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "eat",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 3,
+      "region_id": "shape_13_region_13",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "cut",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 4,
+      "region_id": "shape_13_region_7",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "eat",
+        "molmo2-8b": "none"
+      }
+    },
+    {
+      "part": 5,
+      "region_id": "shape_13_region_4",
+      "labels": {
+        "qwen3-vl-8b": "none",
+        "internvl3-8b": "hit",
+        "molmo2-8b": "none"
+      }
+    }
+  ]
+}
